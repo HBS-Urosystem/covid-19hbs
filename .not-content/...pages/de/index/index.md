@@ -1,4 +1,0 @@
----
-slug: de
-title: Schnell
----

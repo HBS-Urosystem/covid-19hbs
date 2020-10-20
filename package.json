@@ -1,7 +1,7 @@
 {
-	"name": "TODO",
+	"name": "Covid-19.HBS",
 	"version": "0.0.1",
-	"description": "TODO",
+	"description": "Website for the Clungene® Rapid Tests",
 	"scripts": {
 		"build": "cross-env NODE_ENV=production sapper build --legacy",
 		"cy:open": "cypress open",

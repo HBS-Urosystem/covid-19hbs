@@ -1,4 +1,0 @@
----
-slug: hgf
-title: HGF
----
