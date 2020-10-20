@@ -1,0 +1,4 @@
+---
+slug: faq
+title: FAQ
+---

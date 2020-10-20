@@ -1,0 +1,18 @@
+---
+type: news
+menutitle: A helyzet fokozódik
+title: A hazai és nemzetközi helyzet egyre fokozódik
+subtitle: Október 17-én, 1791 újonnan regisztrált esettel, ismét megdőlt
+  Magyarországon a korábbi rekord. Az elmúlt héten mindegyik nap 900-nál több új
+  COVID-19 fertőzöttről számoltak be. A halálos áldozatok száma október 16-án és
+  18-án is 33–33 fő volt. (www.pandemia.hu)
+slug: A helyzet fokozódik
+date: 2020-10-17T17:26:32.806Z
+---
+A valóságos fertőzöttek száma viszont minden bizonnyal meghaladja a regisztráltakat, mivel az elvégzett tesztek száma nem növekedett az utóbbi 1 hónapban; heti mintegy 70000 tesztről van szó. Ezek azonban már sokkal nagyobb arányban adnak pozitív eredményt: szeptember közepén a teszteknek még csak 5–8%-a, most már viszont 9–14%-a mutatta ki a SARS-CoV-2 jelenlétét. Több szakember is úgy véli (például: *<https://www.portfolio.hu/gazdasag/20201012/koronavirus-ha-nem-vedekezunk-jobban-kezelhetetlenul-nagy-jarvanyhullam-var-magyarorszagra-452352>*), a magyar egészégügyi rendszer elérte a tesztelési kapacitásának a határait.
+
+A COVID-19 második hulláma azonban nem csak hazánkban okoz kritikus helyzetet. Szlovéniában és Romániában minden ötödik teszt pozitív eredményt mutatott. Az előbbi országban a járványügyi szakemberek már nem tudják elvégezni a fertőzöttek kontaktkutatását (*<https://telex.hu/kulfold/2020/10/19/megint-kihirdettek-a-jarvanyhelyzetet-szloveniaban-miutan-hetvegen-minden-otodik-teszt-pozitiv-eredmenyt-hozott>*), déli szomszédunknál pedig a kórházak telítettsége már 70% feletti (*<https://index.hu/kulfold/2020/10/17/koronavirus_romania_egeszsegugy_kulfold_jarvany/>*). A helyzet Olaszországban is súlyos, vasárnap 11000-nél is több új fertőzöttet igazoltak (*<https://index.hu/kulfold/2020/10/18/koronavirus_olaszorszag_milano_korhaz_szigoritas_jarvanyvedelem/>*). Bár a tavaszihoz hasonló leállást igyekeznek elkerülni, a legforgalmasabb utcákat és tereket lezárják, illetve a járványügyi kockázatot jelentő vendéglátóhelyek csak este 6-ig lehetnek nyitva (*<https://www.origo.hu/nagyvilag/20201018-nem-zarhatjuk-le-meg-egyszer-az-orszagot.html>*).
+
+Hollandiában egy hónapra bezártak minden vendéglátóhelyet, illetve este 8 után az üzleteket (*<https://www.alon.hu/aktualis/2020/10/nagyon-szigoru-korlatozasokat-vezettek-be-hollandiaban-megtizszerezodott-a-korhazban-apoltak-szama-hollandiaban>*), de a magánszemélyekkel való kapcsolattartást is korlátozzák, a tömegsport-rendezvényeket pedig leállítják. A sportrendezvények betiltása Csehországban már zavargásokhoz vezetett (*<https://telex.hu/kulfold/2020/10/18/zavargas-lett-a-cseh-szurkolok-tuntetesebol>*).
+
+Hogy tehermentesítsék az „arany standardként” ismert PCR tesztet végző intézményeket, egyre több ország figyelme fordul az azt kiváltó tesztelési módszerek felé. Bajorországban antigén gyorstesztekkel szándékoznak elvégezni a lakosság szűrését, és a hazai Nemzeti Népegészségügyi központ (NNK) is e tesztek használhatóságát vizsgálja. A Semmelweis Egyetemen úgy, az eddiginél gyorsabban elvégezhető PCR tesztet fejlesztettek ki (*<https://hu.euronews.com/2020/10/13/koronavirus-a-tesztelesi-kapacitas-elerte-a-maximumot-hazankban-magyar-gyorsteszt-segithet>*). Ugyanitt próbálták ki a hazai gyártású remdesivirt is (*<https://telex.hu/belfold/2020/10/19/het-covid-19-beteg-kapta-meg-eddig-a-magyar-gyartasu-remdesivirt>*). A WHO szerint ugyan e szer nem hatásos a koronavírus ellen, ám a vírus szaporodását gátló anyag súlyos állapotban lévő, oxigénterápiát igénylő betegek számára segítséget jelenthet.
