@@ -141,7 +141,7 @@
 	}
 
 	figure {
-		margin: var(--gutter2) var(--gutter-) 0;
+		margin: var(--spacer) var(--gutter-) 0;
 	}
 	figcaption {
 		margin-left: var(--gutter);

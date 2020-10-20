@@ -154,7 +154,8 @@
 	nav div {
 		max-width: 80ch;
     margin: 0 auto;
-		/* display: flex; */
+		display: flex;
+    flex-wrap: wrap;
 		justify-content: space-between;
 	}
 
