@@ -1,6 +1,6 @@
 <script context = "module">
- 	import Nav from "../components/Nav.svelte"
-	import Stylesheet from "../components/Stylesheet.svelte"
+ 	import Nav from "../../components/Nav.svelte"
+	import Stylesheet from "../../components/Stylesheet.svelte"
 </script>
 
 <script>

@@ -1,9 +1,9 @@
 <script context="module">
 	import { onMount } from 'svelte'
-	import List from "../components/List.svelte"
-	import Index from "../components/Index.svelte"
-	import { findPost } from '../content.js'
-	import { lang, type, hero, tagline } from '../stores.js'
+	import List from "../../components/List.svelte"
+	import Index from "../../components/Index.svelte"
+	import { findPost } from '../../content.js'
+	import { lang, type, hero, tagline } from '../../stores.js'
 	import showdown from 'showdown'
 	const converter = new showdown.Converter({
 		metadata: false,
@@ -45,11 +45,9 @@
 {/if}
 
 
-{#if post.intro.text}
+{#if post.intro}
 <aside>
 {@html _md(post.intro.text)}
-</aside>
-{/if}
 {#if post.intro.images}
 {#each post.intro.images as image}
 <figure>
@@ -60,9 +58,11 @@
 </figure>
 {/each}
 {/if}
+</aside>
+{/if}
 
 
-{#if post.type = 'index'}
+{#if post.type == 'index'}
 <Index {post}/>
 {/if}
 
@@ -100,6 +100,9 @@
     flex-direction: column;
     margin: 0 auto;
     width: fit-content;
+	}
+	figcaption {
+		text-shadow: 1px 1px 2px black;
 	}
 
 </style>
