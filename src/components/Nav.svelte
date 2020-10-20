@@ -6,6 +6,7 @@
 
 <script>
 	export let segment
+	$: console.log('_nav-segment',segment)
 	$: console.log('_nav-pages:', pages)
 </script>
 
@@ -50,14 +51,15 @@
 			</li> -->
 			{#if pages.faq[$lang]}
 			<li>
-				<a aria-current="{segment === pages.faq[$lang] ? 'page' : undefined}" href="{pages.faq[$lang]}">
+				<a sapper:noscroll aria-current="{segment === pages.faq[$lang] ? 'page' : undefined}" href="{pages.faq[$lang]}">
 					<span>{pages.faq[$lang]}</span>
 				</a>
 			</li>
 			{/if}
+
 			{#if pages.business[$lang]}
 			<li>
-				<a aria-current="{segment === pages.business[$lang] ? 'page' : undefined}" href="{pages.business[$lang]}">
+				<a sapper:noscroll aria-current="{segment === pages.business[$lang] ? 'page' : undefined}" href="{pages.business[$lang]}">
 					<span>{pages.business[$lang]}</span>
 				</a>
 			</li>
@@ -72,6 +74,7 @@
 			</li>
 			{/if} -->
 		</ul>
+		<!-- slide me <-|-> icon -->
 		<ul>
       
 			<li>{#if pages[$type].en}
@@ -151,7 +154,7 @@
 	nav div {
 		max-width: 80ch;
     margin: 0 auto;
-		display: flex;
+		/* display: flex; */
 		justify-content: space-between;
 	}
 
@@ -189,7 +192,7 @@
 		bottom: 0;
 	}
 	[aria-expanded='false'] {
-		color: var(--toolbg);
+		color: var(--txt75);
 	}
 
 	/* @keyframes pulse {

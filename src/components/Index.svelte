@@ -5,7 +5,7 @@
 	})
 </script>
 <script>
-	export let post
+	//export let post
 	function _md(it) {
 		return converter.makeHtml(it)
 	}
@@ -31,8 +31,8 @@
 {/if}
  -->
 <style>
-	figcaption {
+	/* figcaption {
 		text-align: center;
 
-	}
+	} */
 </style>

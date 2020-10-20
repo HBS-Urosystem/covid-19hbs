@@ -95,6 +95,7 @@
 	h1, h2, h3, h4, h5, h6 {
 		/* font-family: system-ui, sans-serif; */
 		/* font-family: "SilkSerif-Regular", serif; */
+		line-height: 1.4;
 	}
 	h1 {
 		font-size: 4rem;
@@ -140,7 +141,11 @@
 	}
 
 	figure {
-		margin: var(--gutter2) 0 0;
+		margin: var(--gutter2) var(--gutter-) 0;
+	}
+	figcaption {
+		margin-left: var(--gutter);
+		margin-right: var(--gutter);
 	}
 	img {
 		width: 100%;

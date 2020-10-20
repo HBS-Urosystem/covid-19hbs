@@ -14,7 +14,7 @@
 </script>
 
 {#each post.list as q }
-<details id="{q.object.anchor}">
+<details id="{q.object.anchor}" open>
 	<summary>
 		<a href="{post.slug}/#{q.object.anchor}">{@html Link}</a>{@html _md(q.object.question)}
 	</summary>

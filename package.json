@@ -2,6 +2,7 @@
 	"name": "Covid-19.HBS",
 	"version": "0.0.1",
 	"description": "Website for the Clungene® Rapid Tests",
+	"repository": "https://github.com/vhollo/covid-19hbs",
 	"scripts": {
 		"build": "cross-env NODE_ENV=production sapper build --legacy",
 		"cy:open": "cypress open",
