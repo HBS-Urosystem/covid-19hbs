@@ -160,23 +160,24 @@
 	/* aside figure {
 		background-color: var(--light50);
 	} */
-	figcaption :global(:first-child) {
+	figure :global(:first-child):not(img) {
 		margin-top: var(--gutter);
 	}
 	aside figcaption {
-		/* text-align: center; */
+		text-align: center;
 		padding-left: var(--gutter2);
 		padding-right: var(--gutter2);
 		/* margin-left: var(--gutter);
 		margin-right: var(--gutter); */
 		text-shadow: 1px 1px 2px rgb(94, 93, 93);
 	}
-	aside p {
-		padding-left: var(--gutter2);
-		padding-right: var(--gutter2);
-		/* margin-left: var(--gutter);
-		margin-right: var(--gutter); */
-		text-shadow: 1px 1px 2px rgb(94, 93, 93);
+	aside > figcaption {
+		text-align: left;
 	}
 
+	figcaption ~ figure img {
+		width: 50%;
+		margin-left: auto;
+		margin-right: auto;
+	}
 </style>
