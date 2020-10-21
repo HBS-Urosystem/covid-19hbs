@@ -148,7 +148,9 @@
 	article {
 		background-color: var(--light25);
 		background-image: linear-gradient(315deg, var(--txt25) 60%, var(--light25) 100%);
-		padding: 0 var(--gutter);
+		padding: var(--gutter);
+		margin-top: var(--gutter);
+		margin-bottom: var(--gutter);
 	}
 	aside {
 		/* padding: var(--gutterx); */
@@ -163,9 +165,10 @@
 	figcaption :global(:first-child) {
 		margin-top: var(--gutter);
 	}
-	figcaption {
-		padding-left: var(--gutter);
-		padding-right: var(--gutter);
+	aside figcaption {
+		text-align: center;
+		padding-left: var(--gutter2);
+		padding-right: var(--gutter2);
 		/* margin-left: var(--gutter);
 		margin-right: var(--gutter); */
 		text-shadow: 1px 1px 2px rgb(94, 93, 93);

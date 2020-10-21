@@ -70,18 +70,15 @@ references:
 
     **A [Phoneix Pharma](https://www.phoenix.hu/hu/) partnerünkön keresztül a teszt kapható az ország összes gyógyszertárában.**
 cards:
-  - text: "### COVID-19 – Tévhitek"
-    link: /tevhitek
-    src: /uploads/129.jpg
-  - text: "### Gyakori kérdések"
+  - text: "#### Gyakori kérdések"
     link: /gyik
-    src: /uploads/adobestock_332978374.jpg
+    src: /uploads/129.jpg
   - src: /uploads/pixabay-social-distancing-5044615_640.jpg
     link: /felelos-cegvezeto
     text: |-
-      ### Felelős cégvezetőknek…
+      #### Felelős cégvezetőknek…
 
-      #### Tesztelj, szűrj, cselekedj!
+      ##### Tesztelj, szűrj, cselekedj!
 documents:
   - text: OGYÉI hatósági bizonyítvány HU
     file: /uploads/ogyei_hatosagi_bizonyitvany_orvostech-17106-3-2020-szghbv_alairt-1.pdf
