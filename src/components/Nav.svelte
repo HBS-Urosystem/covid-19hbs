@@ -5,7 +5,7 @@
 </script>
 
 <script>
-	export let segment
+	export let segment = 'hu'
 	$: console.log('_nav-segment',segment)
 	$: console.log('_nav-pages:', pages)
 </script>

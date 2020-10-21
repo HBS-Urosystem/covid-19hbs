@@ -1,23 +1,24 @@
 <script context="module">
 	import { onMount } from 'svelte'
-	import List from "../../components/List.svelte"
-	import Index from "../../components/Index.svelte"
-	import { findPost } from '../../content.js'
-	import { lang, type, hero, tagline } from '../../stores.js'
+	import List from "../components/List.svelte"
+	import Index from "../components/Index.svelte"
+	import { findPost } from '../content.js'
+	import { lang, type, hero, tagline } from '../stores.js'
 	import showdown from 'showdown'
 	const converter = new showdown.Converter({
 		metadata: false,
 	})
 
 	export function preload(page) {
-		/* console.log('_slug1:', page.params.slug) */
+		//if (!page.params.slug.replace('/','')) this.redirect(302, 'hu')
+		console.log('_slug1:', page.params.slug)
 		return { post: findPost(page.params.slug) }
 	}
 </script>
 
 <script>
 	export let post
-	/* $: console.log('_slug2:',post) */
+	//$: console.log('_slug2:',post)
 	$: $lang = post.lang || 'hu'
 	$: $type = post.type || undefined
 	$: $tagline = post.title
