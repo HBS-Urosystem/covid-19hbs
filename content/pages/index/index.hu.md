@@ -33,8 +33,7 @@ info:
   images:
     - src: /uploads/bisnode.jpg
       alt: 'Bisnode "A" tanúsítvány: HBS Zrt.'
-      text: A Happy Business Services Zrt. ***[Bisnode
-        A](<https://www.bisnode.hu/cegkereses/0/Happy Business Services>)***
+      text: A Happy Business Services Zrt. ***[Bisnode&nbsp;A](<https://www.bisnode.hu/cegkereses/0/Happy Business Services>)***
         tanúsítvánnyal rendelkezik, amely azt jelzi, hogy a céggel való üzleti
         kapcsolat kialakításának pénzügyi kockázata alacsony. E tanúsítvánnyal
         (itt letölthető) a magyar cégeknek csak a 7,44%-a rendelkezik.
