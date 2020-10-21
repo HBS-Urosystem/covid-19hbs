@@ -66,12 +66,9 @@ references:
 
     **Our partner, [Phoneix Pharma](https://www.phoenix.hu/hu/) , distributes the rapid test in the Hungarian pharmacies.**
 cards:
-  - src: /uploads/129.jpg
-    link: /myths
-    text: "### COVID-19 – Often misunderstood things"
-  - text: "### Frequently Asked Questions (FAQ)"
+  - text: "#### Frequently Asked Questions (FAQ)"
     link: /faq
-    src: /uploads/adobestock_332978374.jpg
+    src: /uploads/129.jpg
 documents:
   - text: The official certificate of OGYÉI EN
     file: /uploads/en_ogyei.pdf

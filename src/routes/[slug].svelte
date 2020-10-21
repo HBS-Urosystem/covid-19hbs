@@ -149,7 +149,7 @@
 		background-color: var(--light25);
 		background-image: linear-gradient(315deg, var(--txt25) 60%, var(--light25) 100%);
 		padding: var(--gutter);
-		margin-top: var(--gutter);
+		margin-top: var(--spacer);
 		margin-bottom: var(--gutter);
 	}
 	aside {
