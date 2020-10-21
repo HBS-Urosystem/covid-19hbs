@@ -28,7 +28,7 @@
 </svelte:head>
 
 {#if $hero}
-<header id="home" style="background-image: url({$hero}); height: 100vh;">
+<header id="home" style="background-image: url({$hero})">
 	<img src="uploads/hbs-logo-medical.png" alt="hbs logo">
 	<h3>{@html $tagline}</h3>
 </header>

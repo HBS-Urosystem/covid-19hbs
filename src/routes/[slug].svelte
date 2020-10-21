@@ -14,6 +14,9 @@
 		console.log('_slug1:', page.params.slug)
 		return { post: findPost(page.params.slug) }
 	}
+	function _md(it) {
+		return converter.makeHtml(it)
+	}
 </script>
 
 <script>
@@ -30,9 +33,6 @@
 	});
 	$: if (mounted) {
 		document.querySelector('html').lang = $lang
-	}
-	function _md(it) {
-		return converter.makeHtml(it)
 	}
 
 </script>
@@ -69,11 +69,9 @@
 <article>
 {#if post.info.images}
 <aside>
-	<figure>
-		<figcaption>
-			{@html _md(post.info.text)}
-		</figcaption>
-	</figure>
+	<figcaption>
+	{@html _md(post.info.text)}
+	</figcaption>
 {#each post.info.images as image}
 <figure>
 	<img src="{image.src}" alt="{image.alt}"/>
@@ -88,7 +86,7 @@
 {/if}
 
 
-{#if post.references}
+{#if post.references}<!--  -->
 <article>
 {@html _md(post.references.text)}
 <ul>
@@ -166,7 +164,14 @@
 		margin-top: var(--gutter);
 	}
 	aside figcaption {
-		text-align: center;
+		/* text-align: center; */
+		padding-left: var(--gutter2);
+		padding-right: var(--gutter2);
+		/* margin-left: var(--gutter);
+		margin-right: var(--gutter); */
+		text-shadow: 1px 1px 2px rgb(94, 93, 93);
+	}
+	aside p {
 		padding-left: var(--gutter2);
 		padding-right: var(--gutter2);
 		/* margin-left: var(--gutter);
