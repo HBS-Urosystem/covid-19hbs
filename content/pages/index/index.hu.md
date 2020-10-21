@@ -6,6 +6,13 @@ menutitle: Gyorstesztek
 hero: /uploads/33838-web.jpg
 intro:
   images:
+    - src: /uploads/sam_0364_copy.jpg
+      alt: Clungene® COVID-19 antigén gyorsteszt kazetta
+      text: >-
+        ### Clungene® COVID-19 antigén gyorsteszt kazetta
+
+
+        A vírusnak az emberi immunrendszer által is felismert fehérjéjét mutatja ki. A COVID-19 korai szakaszában azonosítja a fertőzést.
     - src: /uploads/sam_0258_copy.jpg
       alt: Clungene® COVID-19 IgG/IgM gyorsteszt kazetta
       text: >-
@@ -13,13 +20,6 @@ intro:
 
 
         A vírus ellen, a szervezet által termelt ellenanyagokat mutatja ki. A COVID-19 közép-, és késői szakaszának, illetve a múltban lezajlott fertőzés azonosítására alkalmas.
-    - src: /uploads/sam_0364_copy.jpg
-      alt: Clungene® COVID-19 antigén gyorsteszt kazetta
-      text: >-
-        ### Clungene® COVID-19 antigén gyorsteszt kazetta
-
-
-        A vírus az emberi immunrendszer által is felismert fehérjéjét mutatja ki. A COVID-19 korai szakaszában azonosítja a fertőzést.
   text: >-
     ## Ahhoz, hogy a járvány terjedését lassítani lehessen, **elengedhetetlen a
     rendszeres és módszeres tesztelés**.
@@ -33,7 +33,8 @@ info:
   images:
     - src: /uploads/bisnode.jpg
       alt: 'Bisnode "A" tanúsítvány: HBS Zrt.'
-      text: A Happy Business Services Zrt. ***[Bisnode&nbsp;A](<https://www.bisnode.hu/cegkereses/0/Happy Business Services>)***
+      text: A Happy Business Services Zrt. ***[Bisnode
+        A](<https://www.bisnode.hu/cegkereses/0/Happy Business Services>)***
         tanúsítvánnyal rendelkezik, amely azt jelzi, hogy a céggel való üzleti
         kapcsolat kialakításának pénzügyi kockázata alacsony. E tanúsítvánnyal
         (itt letölthető) a magyar cégeknek csak a 7,44%-a rendelkezik.

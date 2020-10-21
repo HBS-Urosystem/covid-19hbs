@@ -6,9 +6,9 @@ menutitle: Rapid tests
 hero: /uploads/33838-web.jpg
 intro:
   images:
-    - src: /uploads/sam_0258_copy.jpg
-      alt: Clungene® COVID-19 IgG/IgM Rapid Test
     - src: /uploads/sam_0364_copy.jpg
+      alt: Clungene® COVID-19 Antigen Rapid Test
+    - src: /uploads/sam_0258_copy.jpg
       alt: Clungene® COVID-19 IgG/IgM Rapid Test
   text: >-
     ### COVID-19 disease, which is caused by the novel coronavirus (nCoV-2019)

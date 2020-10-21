@@ -133,7 +133,7 @@
   
   h3 {
 		margin: 0;
-		padding: var(--gutter2) var(--gutter);
+		padding: var(--spacer) var(--gutter);
 		text-align: center;
     font-weight: bold;
     letter-spacing: .25rem;
