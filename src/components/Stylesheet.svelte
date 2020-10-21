@@ -140,13 +140,6 @@
 		margin: 0 auto;
 	}
 
-	figure {
-		margin: var(--spacer) var(--gutter-) 0;
-	}
-	figcaption {
-		margin-left: var(--gutter);
-		margin-right: var(--gutter);
-	}
 	img {
 		width: 100%;
 	}

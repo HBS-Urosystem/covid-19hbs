@@ -47,19 +47,70 @@
 
 
 {#if post.intro}
-<aside>
+<article>
 {@html _md(post.intro.text)}
 {#if post.intro.images}
+<aside>
 {#each post.intro.images as image}
 <figure>
-	<img src="{image.src}" alt="{post.alt}"/>
+	<img src="{image.src}" alt="{image.alt}"/>
 	{#if image.text}
 	<figcaption>{@html _md(image.text)}</figcaption>
 	{/if}
 </figure>
 {/each}
-{/if}
 </aside>
+{/if}
+</article>
+{/if}
+
+
+{#if post.info}
+<article>
+{#if post.info.images}
+<aside>
+	<figure>
+		<figcaption>
+			{@html _md(post.info.text)}
+		</figcaption>
+	</figure>
+{#each post.info.images as image}
+<figure>
+	<img src="{image.src}" alt="{image.alt}"/>
+	{#if image.text}
+	<figcaption>{@html _md(image.text)}</figcaption>
+	{/if}
+</figure>
+{/each}
+</aside>
+{/if}
+</article>
+{/if}
+
+
+{#if post.references}
+<article>
+{@html _md(post.references.text)}
+<ul>
+{#each post.references.links as ref}
+<li><a href="{ref.url}" rel="noopener" target="_blank">{ref.text}</a></li>
+{/each}
+</ul>
+</article>
+{/if}
+
+
+{#if post.cards}
+<article>
+	<aside>
+		{#each post.cards as card}
+		<figure>
+			<img src="{card.src}" alt="{card.link}"/>
+			<figcaption>{@html _md(card.text)}</figcaption>
+		</figure>
+		{/each}
+	</aside>
+</article>
 {/if}
 
 
@@ -94,16 +145,30 @@
 		text-shadow: 1px 1px 2px black;
 		background-color: var(--light25);
 	}
+	article {
+		background-color: var(--light25);
+		background-image: linear-gradient(315deg, var(--txt25) 60%, var(--light25) 100%);
+		padding: 0 var(--gutter);
+	}
 	aside {
+		/* padding: var(--gutterx); */
+		margin: var(--spacer) var(--gutter2-) 0;
+		display: grid;
+		grid-gap: var(--gutter2);
+		grid-template-columns: repeat(auto-fit, minmax(24ch, 1fr));
+	}
+	/* aside figure {
 		background-color: var(--light50);
-		padding: var(--gutterx);
-		display: flex;
-    flex-direction: column;
-    margin: 0 auto;
-    width: fit-content;
+	} */
+	figcaption :global(:first-child) {
+		margin-top: var(--gutter);
 	}
 	figcaption {
-		text-shadow: 1px 1px 2px black;
+		padding-left: var(--gutter);
+		padding-right: var(--gutter);
+		/* margin-left: var(--gutter);
+		margin-right: var(--gutter); */
+		text-shadow: 1px 1px 2px rgb(94, 93, 93);
 	}
 
 </style>
