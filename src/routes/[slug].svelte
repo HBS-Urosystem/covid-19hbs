@@ -85,6 +85,7 @@
 </article>
 {/if}
 
+<!-- <Form id="quote"/> -->
 
 {#if post.references}<!--  -->
 <article>
