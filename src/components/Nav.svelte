@@ -34,7 +34,7 @@
 </header>
 {:else}
 <header>
-	<a sapper:noscroll aria-current="{segment === undefined ? 'page' : undefined}" href="{pages.index[$lang]}">
+	<a sapper-noscroll aria-current="{segment === undefined ? 'page' : undefined}" href="{pages.index[$lang]}">
 		<img src="uploads/hbs-logo-medical.png" alt="hbs logo">
 	</a>
 	<h3>{@html $tagline}</h3>
@@ -51,7 +51,7 @@
 			</li> -->
 			{#if pages.faq[$lang]}
 			<li>
-				<a sapper:noscroll aria-current="{segment === pages.faq[$lang] ? 'page' : undefined}" href="{pages.faq[$lang]}">
+				<a sapper-noscroll aria-current="{segment === pages.faq[$lang] ? 'page' : undefined}" href="{pages.faq[$lang]}">
 					<span>{pages.faq[$lang]}</span>
 				</a>
 			</li>
@@ -59,7 +59,7 @@
 
 			{#if pages.business[$lang]}
 			<li>
-				<a sapper:noscroll aria-current="{segment === pages.business[$lang] ? 'page' : undefined}" href="{pages.business[$lang]}">
+				<a sapper-noscroll aria-current="{segment === pages.business[$lang] ? 'page' : undefined}" href="{pages.business[$lang]}">
 					<span>{pages.business[$lang]}</span>
 				</a>
 			</li>
@@ -68,8 +68,8 @@
 			<!-- for the news link, we're using rel=prefetch so that Sapper prefetches the blog data when we hover over the link or tap it on a touchscreen -->
 			<!-- {#if pages['news'][$lang]}
 			<li>
-				<a rel="prefetch" aria-current="{segment === pages['news'][$lang]['slug'] ? 'page' : undefined}" href="{pages['news'][$lang]['slug']}">
-					<span>{pages['news'][$lang]['slug']}</span>
+				<a rel="prefetch" aria-current="{segment === pages.news[$lang] ? 'page' : undefined}" href="{pages.news[$lang]}">
+					<span>{pages['news'][$lang]}</span>
 				</a>
 			</li>
 			{/if} -->
@@ -78,19 +78,19 @@
 		<ul>
       
 			<li>{#if pages[$type].en}
-				<a sapper:noscroll aria-current="{'en' == [$lang] ? 'page' : undefined}" href="{pages[$type].en}">en</a>
+				<a sapper-noscroll aria-current="{'en' == [$lang] ? 'page' : undefined}" href="{pages[$type].en}">en</a>
 			{:else}
 				<a aria-expanded="false" href="{pages.index.en}">en</a>
 			{/if}</li>
       <li>/</li>
 			<li>{#if pages[$type].de}
-			<a sapper:noscroll aria-current="{'de' == [$lang] ? 'page' : undefined}" href="{pages[$type].de}">de</a>
+			<a sapper-noscroll aria-current="{'de' == [$lang] ? 'page' : undefined}" href="{pages[$type].de}">de</a>
 			{:else}
 			<a aria-expanded="false" href="{pages.index.de}">de</a>
 			{/if}</li>
 			<li>/</li>
 			<li>{#if pages[$type].hu}
-			<a sapper:noscroll aria-current="{'hu' == [$lang] ? 'page' : undefined}" href="{pages[$type].hu}">hu</a>
+			<a sapper-noscroll aria-current="{'hu' == [$lang] ? 'page' : undefined}" href="{pages[$type].hu}">hu</a>
 			{:else}
 			<a aria-expanded="false" href="{pages.index.hu}">hu</a>
       {/if}</li>
