@@ -104,8 +104,10 @@
 	<aside>
 		{#each post.cards as card}
 		<figure>
-			<img src="{card.src}" alt="{card.link}"/>
-			<figcaption>{@html _md(card.text)}</figcaption>
+			<a href="{card.link}">
+				<img src="{card.src}" alt="{card.link}"/>
+				<figcaption>{@html _md(card.text)}</figcaption>
+			</a>
 		</figure>
 		{/each}
 	</aside>
