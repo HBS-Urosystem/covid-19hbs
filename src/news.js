@@ -1,8 +1,7 @@
 //import { post } from './stores.js'
 import _ from 'lodash'
 //import index from '../content/pages/*/index.md'
-import all from '../content/pages/*/*.md'
-//import all from '../content/*/*/*.md'
+import all from '../content/news/*.md'
 export const posts = _.chain(all)
 	.map(transform)
 	//.orderBy('date', 'desc')
