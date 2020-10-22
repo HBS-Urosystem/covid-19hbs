@@ -157,7 +157,7 @@
 		/* padding: var(--gutterx); */
 		margin: var(--spacer) var(--gutter2-) 0;
 		display: grid;
-		grid-gap: var(--gutter2);
+		grid-gap: 0;/* var(--gutter2); */
 		grid-template-columns: repeat(auto-fit, minmax(24ch, 1fr));
 	}
 	/* aside figure {
