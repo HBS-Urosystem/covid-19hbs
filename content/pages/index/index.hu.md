@@ -6,7 +6,7 @@ menutitle: Gyorstesztek
 hero: /uploads/33838-web.jpg
 intro:
   images:
-    - src: /uploads/sam_0364_copy.jpg
+    - src: /uploads/clungene-antigen-test.jpeg
       alt: Clungene® COVID-19 antigén gyorsteszt kazetta
       text: >-
         ### Clungene® COVID-19 antigén gyorsteszt kazetta
@@ -71,15 +71,15 @@ references:
 
     **A [Phoneix Pharma](https://www.phoenix.hu/hu/) partnerünkön keresztül a teszt kapható az ország összes gyógyszertárában.**
 cards:
-  - text: "#### Gyakori kérdések"
-    link: /gyik
-    src: /uploads/129.jpg
   - src: /uploads/pixabay-social-distancing-5044615_640.jpg
     link: /felelos-cegvezeto
     text: |-
       #### Felelős cégvezetőknek…
 
       ##### Tesztelj, szűrj, cselekedj!
+  - text: "#### Gyakori kérdések"
+    link: /gyik
+    src: /uploads/129.jpg
 documents:
   - text: OGYÉI hatósági bizonyítvány HU
     file: /uploads/ogyei_hatosagi_bizonyitvany_orvostech-17106-3-2020-szghbv_alairt-1.pdf

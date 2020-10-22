@@ -1,11 +1,16 @@
 ---
 type: business
 slug: felelos-vezeto
-title: Felelős cégvezetőknek…
-subtitle: Tesztelj, szűrj, cselekedj!
+title: Tesztelj, szűrj, cselekedj!
+subtitle: Felelős cégvezetőknek…
+intro:
+  text: Célunk, hogy az olvasókat mindig naprakész információkkal lássuk el. Az
+    utóbbi időben számos, a COVID-19-cel, illetve annak kimutatásával
+    kapcsolatos új tudományos információ látott napvilágot. Hogy ezeket is
+    elérhetővé tegyük, ezt az oldalt hamarosan átalakítjuk.
 list:
   - object:
-      question: COVID-19 második hullám? *Cunami!*
+      question: COVID-19 második *hullám? Cunami!*
       answer: >-
         Tavasszal csak néhány olyan nap volt, amikor az új esetek meghaladták a
         100 főt, a csúcs is alig emelkedett 200 ember fölé. Amint elkezdődött az

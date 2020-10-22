@@ -27,14 +27,14 @@
 	<link rel="alternate" hreflang="hu" href="http://localhost:3000/{pages[type].hu}" /> -->
 </svelte:head>
 
-{#if $hero}
+{#if $type == 'index'}
 <header id="home" style="background-image: url({$hero})">
 	<img src="uploads/hbs-logo-medical.png" alt="hbs logo">
 	<h1>{@html $tagline}</h1>
 </header>
 {:else}
-<header>
-	<a sapper-noscroll aria-current="{segment === undefined ? 'page' : undefined}" href="{pages.index[$lang]}">
+<header style="background-image: url({$hero})">
+	<a name="logo" sapper-noscroll aria-current="{segment === undefined ? 'page' : undefined}" href="{pages.index[$lang]}">
 		<img src="uploads/hbs-logo-medical.png" alt="hbs logo">
 	</a>
 	<h1>{@html $tagline}</h1>
@@ -129,6 +129,9 @@
 		background-size: cover;
     background-position: 50% 70%;
 		height: 100vh;
+  }
+	header#home h1 {
+		text-transform: uppercase;
 	}
   
   h1 {

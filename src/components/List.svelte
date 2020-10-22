@@ -16,7 +16,7 @@
 {#each post.list as q }
 <details id="{q.object.anchor}" open>
 	<summary>
-		<a href="{post.slug}/#{q.object.anchor}">{@html Link}</a>{@html _md(q.object.question)}
+		<a href="{post.slug}/#{q.object.anchor}" sapper-noscroll>{@html Link}</a>{@html _md(q.object.question)}
 	</summary>
 		{@html _md(q.object.answer)}
 </details>
@@ -24,7 +24,7 @@
 
 <style>
 	details {
-		background-color: var(--light25);
+		background-color: var(--light50);
 		background-image: linear-gradient(315deg, var(--txt25) 60%, var(--light25) 100%);
 		padding: 0 var(--gutterx);
 	}
