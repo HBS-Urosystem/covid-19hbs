@@ -169,6 +169,8 @@
 		max-width: 80ch;
 		font-weight: bolder;
 		text-transform: uppercase;
+		padding: 0;
+    margin: 0 auto;
 	}
 	li {
 		display: inline-block;
@@ -187,13 +189,16 @@
 		color: var(--txtcolor)
 	}
 
-	[aria-current]::after {
+	ul [aria-current]::after {
 		position: absolute;
 		content: "";
 		width: calc(100% - var(--gutter2));
 		height: var(--guttery);
 		background-color: var(--txtcolor);
 		display: block;
+		bottom: 0;
+	}
+	ul:nth-child(odd) [aria-current]::after {
 		top: 0;
 	}
 	[aria-expanded='false'] {
