@@ -36,7 +36,8 @@
 </aside>
 <style>
 	aside {
-		background-color: var(--txt50);
+		background-color: var(--light50);
+    background-image: linear-gradient(315deg, var(--txt50) 0%, var(--light50));
 		padding-bottom: var(--gutter);
 		display: flex;
     flex-direction: column;

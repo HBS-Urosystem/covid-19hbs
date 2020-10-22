@@ -145,8 +145,10 @@
 		background-color: var(--light25);
 	}
 	article {
-		background-color: var(--light25);
-		background-image: linear-gradient(315deg, var(--txt25) 60%, var(--light25) 100%);
+		/* background-color: var(--light25);
+		background-image: linear-gradient(315deg, var(--txt25) 60%, var(--light25) 100%); */
+		background-color: var(--light50);
+    background-image: linear-gradient(315deg, var(--txt50) 0%, var(--light50));
 		padding: var(--gutter);
 		margin-top: var(--spacer);
 		margin-bottom: var(--gutter);
