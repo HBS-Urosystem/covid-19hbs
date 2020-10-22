@@ -135,7 +135,7 @@
 		margin: 0;
 		padding: var(--spacer) var(--gutter);
 		text-align: center;
-    font-weight: bold;
+    font-weight: bolder;
     letter-spacing: .25rem;
     text-shadow: 1px 1px 2px var(--dark);
     color: white;

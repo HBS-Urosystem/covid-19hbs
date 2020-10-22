@@ -141,7 +141,7 @@
 		padding: var(--gutter);
 		border: solid var(--light);
 		color: var(--light);
-		text-shadow: 1px 1px 2px black;
+		text-shadow: 1px 1px 2px var(--dark);
 		background-color: var(--light25);
 	}
 	article {
@@ -155,9 +155,9 @@
 	}
 	aside {
 		/* padding: var(--gutterx); */
-		margin: var(--spacer) var(--gutter2-) 0;
+		margin: var(--spacer) var(--gutter2-) var(--gutter2);
 		display: grid;
-		grid-gap: 0;/* var(--gutter2); */
+		grid-gap: var(--gutter2);
 		grid-template-columns: repeat(auto-fit, minmax(24ch, 1fr));
 	}
 	/* aside figure {

@@ -29,8 +29,13 @@
 		<!-- The application will be rendered inside this element,
 	     because `src/client.js` references it -->
 		<div id="sapper">%sapper.html%</div>
-
-		<!-- Sapper creates a <script> tag containing `src/client.js`
+		<!-- <form name="quote" method="POST" hidden aria-hidden="true" netlify -netlify-honeypot="profile[family]">
+			<input name="name" type="text" />
+			<input name="company" type="text" />
+			<input name="ag-qty" type="number" />
+			<input name="ig-qty" type="number" />
+		</form>
+ -->		<!-- Sapper creates a <script> tag containing `src/client.js`
 	     and anything else it needs to hydrate the app and
 	     initialise the router -->
 		%sapper.scripts%

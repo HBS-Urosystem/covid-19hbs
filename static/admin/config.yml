@@ -51,6 +51,17 @@ collections:
         i18n: true
         required: false
         widget: boolean
+      - label: Fallback language
+        name: fallback
+        i18n: true
+        required: false
+        widget: select
+        options:
+          - { label: "Magyar", value: "hu" }
+          - { label: "English", value: "en" }
+          - { label: "Deutsch", value: "de" }
+          - { label: "Fraçais", value: "fr" }
+          - { label: "Español", value: "es" }
       - label: Title
         name: title
         widget: string

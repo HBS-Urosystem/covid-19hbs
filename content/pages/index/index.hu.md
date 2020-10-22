@@ -19,7 +19,7 @@ intro:
         ### Clungene® COVID-19 IgG/IgM gyorsteszt kazetta
 
 
-        A vírus ellen, a szervezet által termelt ellenanyagokat mutatja ki. A COVID-19 közép-, és késői szakaszának, illetve a múltban lezajlott fertőzés azonosítására alkalmas.
+        A vírus ellen, a szervezet által termelt ellenanyagokat mutatja ki. A COVID-19 közép- és késői szakaszának, illetve a múltban lezajlott fertőzés azonosítására alkalmas.
   text: >-
     ## Ahhoz, hogy a járvány terjedését lassítani lehessen, **elengedhetetlen a
     rendszeres és módszeres tesztelés**.
@@ -33,10 +33,12 @@ info:
   images:
     - src: /uploads/bisnode.jpg
       alt: 'Bisnode "A" tanúsítvány: HBS Zrt.'
-      text: A Happy Business Services Zrt. ***[Bisnode&nbsp;A](<https://www.bisnode.hu/cegkereses/0/Happy Business Services>)***
-        tanúsítvánnyal rendelkezik, amely azt jelzi, hogy a céggel való üzleti
-        kapcsolat kialakításának pénzügyi kockázata alacsony. E tanúsítvánnyal
-        (itt letölthető) a magyar cégeknek csak a 7,44%-a rendelkezik.
+      text: A Happy Business Services Zrt.
+        ***[Bisnode&nbsp;A](<https://www.bisnode.hu/cegkereses/0/Happy Business
+        Services>)*** tanúsítvánnyal rendelkezik, amely azt jelzi, hogy a céggel
+        való üzleti kapcsolat kialakításának pénzügyi kockázata alacsony. E
+        tanúsítvánnyal (itt letölthető) a magyar cégeknek csak a 7,44%-a
+        rendelkezik.
   text: Cégünk, a **Happy Business Services Zrt.** orvostechnikai divíziója az
     egyik jelentős importőre a **COVID-19 szerológiai gyorsteszteknek**.
     Szállítónk, a Clungene Co., több mint 1000 féle mikrobiológiai teszt anyagot
