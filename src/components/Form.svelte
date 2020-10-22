@@ -19,11 +19,20 @@
 	<label>Company
 	<input name="company" type="text" />
 	</label>
+	<label>Email
+	<input name="email" type="email" required placeholder="Required" />
+	</label>
+	<label>Phone number
+	<input name="phone" type="tel" required placeholder="Required" />
+	</label>
 	<label>Ag quantity
 	<input name="ag-qty" type="number" />
 	</label>
 	<label>IgG/IgM quantity
 	<input name="ig-qty" type="number" />
+	</label>
+	<label class="full">Question/Remarks
+		<textarea name="description"></textarea>
 	</label>
 	<input type="submit" value="Commit" />
 </form>
@@ -45,7 +54,11 @@ label {
 	align-items: center;
 	white-space: nowrap;
 	margin: 0 auto;
-	width: 18rem;
+	width: 20rem;
+}
+label.full {
+	grid-column: span 2;
+	width: 40rem;
 }
 input {
 	color: initial;
@@ -56,5 +69,10 @@ input {
 input[type=submit] {
 	width: fit-content;
 	margin: 0 auto;
+}
+
+textarea {
+	width: inherit;
+	margin-left: var(--gutterx);
 }
 </style>

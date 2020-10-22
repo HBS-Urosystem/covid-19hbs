@@ -30,14 +30,14 @@
 {#if $hero}
 <header id="home" style="background-image: url({$hero})">
 	<img src="uploads/hbs-logo-medical.png" alt="hbs logo">
-	<h3>{@html $tagline}</h3>
+	<h1>{@html $tagline}</h1>
 </header>
 {:else}
 <header>
 	<a sapper-noscroll aria-current="{segment === undefined ? 'page' : undefined}" href="{pages.index[$lang]}">
 		<img src="uploads/hbs-logo-medical.png" alt="hbs logo">
 	</a>
-	<h3>{@html $tagline}</h3>
+	<h1>{@html $tagline}</h1>
 </header>
 {/if}
 
@@ -131,7 +131,7 @@
 		height: 100vh;
 	}
   
-  h3 {
+  h1 {
 		margin: 0;
 		padding: var(--spacer) var(--gutter);
 		text-align: center;
@@ -139,7 +139,8 @@
     letter-spacing: .25rem;
     text-shadow: 1px 1px 2px var(--dark);
     color: white;
-    border-bottom: solid 4px var(--light);
+		border-bottom: solid 4px var(--light);
+		font-size: 1.75rem;
   }
 	nav {
 		background-color: var(--light50);
@@ -190,7 +191,7 @@
 		height: var(--guttery);
 		background-color: var(--txtcolor);
 		display: block;
-		bottom: 0;
+		top: 0;
 	}
 	[aria-expanded='false'] {
 		color: var(--txt75);

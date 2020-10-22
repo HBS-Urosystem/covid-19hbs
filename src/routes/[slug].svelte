@@ -165,6 +165,7 @@
 	} */
 	figure :global(:first-child):not(img) {
 		margin-top: var(--gutter);
+		font-weight: bolder;
 	}
 	aside figcaption {
 		text-align: center;

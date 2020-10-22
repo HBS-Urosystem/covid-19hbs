@@ -41,7 +41,7 @@
 		display: inline;
 	}
 	:global(details[open]) summary {
-		border-bottom: 2px solid white;
+		border-bottom: 2px solid var(--light);
 		margin-bottom: var(--gutter);
 	}
 	summary:focus {
