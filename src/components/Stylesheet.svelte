@@ -152,4 +152,24 @@
 		border-left: 4px solid var(--maincolor);
 	}
 
+	table {
+		width: 100%;
+	}
+	tr {
+    vertical-align: top;
+	}
+	th:first-of-type, td:first-of-type {
+		text-align: start;
+	}
+	th {
+		font-weight: bolder;
+	}
+	td:first-of-type {
+		font-weight: bolder;
+	}
+	th, td {
+		border-width: 4px 2px;
+		padding: 0 4px;
+	}
+
 </style>

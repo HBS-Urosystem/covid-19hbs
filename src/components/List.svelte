@@ -34,13 +34,18 @@
 	summary {
 		padding: var(--gutterx) 0;
 		/* background-color: var(--light25); */
-		margin-top: var(--gutter);
+		margin-top: var(--gutter2);
 		cursor: default;
+		font-weight: bolder;
 	}
 	summary :global(p) {
 		display: inline;
 	}
-	:global(details[open]) summary {
+	/* :global(details[open]) summary {
+		border-bottom: 2px solid var(--light);
+		margin-bottom: var(--gutter);
+	} */
+	details[open] :global(summary) {
 		border-bottom: 2px solid var(--light);
 		margin-bottom: var(--gutter);
 	}
