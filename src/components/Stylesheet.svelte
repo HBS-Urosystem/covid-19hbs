@@ -152,7 +152,7 @@
 		border-left: 4px solid var(--maincolor);
 	}
 
-	div {
+	article div {
 		width: 100%;
 		overflow-x: auto;
 	}
