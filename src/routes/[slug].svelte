@@ -11,7 +11,6 @@
 
 	export function preload(page) {
 		//if (!page.params.slug.replace('/','')) this.redirect(302, 'hu')
-		console.log('_slug1:', page.params.slug)
 		return { post: findPost(page.params.slug) }
 	}
 	function _md(it) {
@@ -21,9 +20,9 @@
 
 <script>
 	export let post
-	//$: console.log('_slug2:',post)
+	//$: console.log('_slug:',post)
 	$: $lang = post.lang || 'hu'
-	$: $type = post.type || undefined
+	$: $type = post.type || 'index'
 	$: $tagline = post.title
 	$: $hero = post.hero || undefined
 
@@ -49,7 +48,9 @@
 {#if post.intro}
 <article>
 {@html _md(post.intro.text)}
+</article>
 {#if post.intro.images}
+<article>
 <aside>
 {#each post.intro.images as image}
 <figure>
@@ -60,8 +61,8 @@
 </figure>
 {/each}
 </aside>
-{/if}
 </article>
+{/if}
 {/if}
 
 
@@ -76,7 +77,7 @@
 <figure>
 	<img src="{image.src}" alt="{image.alt}"/>
 	{#if image.text}
-	<figcaption>{@html _md(image.text)}</figcaption>
+	<figcaption style="hyphens: none">{@html _md(image.text)}</figcaption>
 	{/if}
 </figure>
 {/each}
@@ -87,14 +88,9 @@
 
 <!-- <Form id="quote"/> -->
 
-{#if post.references}<!--  -->
+{#if post.html}
 <article>
-{@html _md(post.references.text)}
-<ul>
-{#each post.references.links as ref}
-<li><a href="{ref.url}" rel="noopener" target="_blank">{ref.text}</a></li>
-{/each}
-</ul>
+	{@html post.html}
 </article>
 {/if}
 
@@ -115,16 +111,21 @@
 {/if}
 
 
-{#if post.type == 'index'}
-<Index {post}/>
-{/if}
-
-
-{#if post.html}
+{#if post.references}<!--  -->
 <article>
-	@html {post.html}
+{@html _md(post.references.text)}
+<ul>
+{#each post.references.links as ref}
+<li><a href="{ref.url}" rel="noopener" target="_blank">{ref.text}</a></li>
+{/each}
+</ul>
 </article>
 {/if}
+
+
+<!-- {#if post.type == 'index'}
+<Index {post}/>
+{/if} -->
 
 
 {#if post.list}
@@ -186,4 +187,6 @@
 		margin-left: auto;
 		margin-right: auto;
 	}
+
+
 </style>

@@ -177,6 +177,7 @@ collections:
             name: src
             widget: image
             i18n: true
+      - {label: "HTML", name: "body", widget: "markdown", i18n: true, required: false}
 
   - name: qa
     label: Q&As
@@ -186,7 +187,7 @@ collections:
     create: true
     #identifier_field: slug
     folder: "content/pages/qa"
-    slug: "faq"
+    slug: "{{type}}"
     fields:
       - label: Type
         name: type
@@ -213,6 +214,11 @@ collections:
         widget: string
       - label: Subtitle
         name: subtitle
+        required: false
+        i18n: true
+        widget: string
+      - label: Menutitle (short)
+        name: menutitle
         required: false
         i18n: true
         widget: string
