@@ -152,8 +152,19 @@
 		border-left: 4px solid var(--maincolor);
 	}
 
-	table {
+	div {
 		width: 100%;
+		overflow-x: auto;
+	}
+	/* div > :global(table) {
+		width: 512px;
+		min-width: 100%;
+	} */
+
+	table {
+		width: min-content;
+    min-width: 100%;
+    max-width: 100%;
 	}
 	tr {
     vertical-align: top;

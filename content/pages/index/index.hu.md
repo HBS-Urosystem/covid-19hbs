@@ -105,6 +105,7 @@ A következő ábra szemlélteti, miként viszonyul egymáshoz a vírus egy adot
 
 Az alábbi táblázatban összehasonlítjuk a leggyakrabban használt teszttípusokat:
 
+<div>
 <table>
 <thead>
 <tr>
@@ -189,5 +190,6 @@ Az alábbi táblázatban összehasonlítjuk a leggyakrabban használt teszttípu
 
 </tbody>
 </table>
+</div>
 
 **A COVID-19 gyorstesztek tájékoztató jellegű információval szolgálnak az esetleges fertőzöttségről. A teszt elvégzését szakorvos, üzemorvos, vagy ilyen szolgáltatást nyújtó szolgáltató (üzemegészségügyi szolgálat) szakemberei végezhetik. Időtartama kb. 15 perc.**
