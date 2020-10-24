@@ -3,6 +3,7 @@ type: faq
 slug: hgf
 title: Häufig gestellte Fragen
 subtitle: Alles, was Sie über SARS-CoV-2-Schnelltests wissen sollten
+menutitle: HgF
 list:
   - object:
       question: Kann festgestellt werden, ob jemand mit dem neuartigen Coronavirus

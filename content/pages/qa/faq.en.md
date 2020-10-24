@@ -3,6 +3,7 @@ type: faq
 slug: faq
 title: Frequently Asked Questions (FAQ)
 subtitle: Everything that you should know about SARS-CoV-2 rapid tests
+menutitle: FAQ
 intro:
   text: We are to provide up-to-date information for our visitors. Recently, there
     has been plenty of developments, regarding COVID-19 and its testing. For

@@ -64,10 +64,10 @@ references:
     Moreover, hundreds of medical institutions, doctors, health centres, nursing homes, private clinics, companies and other institutions have been using the rapid tests distributed by us.
 
 
-    **Our partner, [Phoneix Pharma](https://www.phoenix.hu/hu/) , distributes the rapid test in the Hungarian pharmacies.**
+    **Our partners, Phoenix Pharma and Hungaropharma, distribute the rapid tests in the Hungarian pharmacies.**
 cards:
-  - text: "### Frequently Asked Questions (FAQ)"
-    link: /faq
+  - text: "### Häufig gestellte Fragen (FAQ)"
+    link: /hgf
     src: /uploads/129.jpg
 documents:
   - text: The official certificate of OGYÉI EN

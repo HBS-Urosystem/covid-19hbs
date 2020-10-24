@@ -69,7 +69,7 @@ references:
     Emellett, a már tőbb száz egészségügyi intézmény, szakorvos, rendelőintézet, idősek otthona, magán kórház, vállatok és intézmények is az általunk forgalmazott gyorstesztekkel dolgoznak.
 
 
-    **A [Phoneix Pharma](https://www.phoenix.hu/hu/) partnerünkön keresztül a teszt kapható az ország összes gyógyszertárában.**
+    **A Phoenix Pharma és a Hungaropharma partnereinken keresztül a tesztek elérhetőek az ország összes gyógyszertárában.**
 cards:
   - src: /uploads/pixabay-social-distancing-5044615_640.jpg
     link: /felelos-cegvezeto
@@ -97,3 +97,97 @@ documents:
     file: /uploads/sars-cov-2-covid-19-szűrés-_-kimutatás.pdf
     src: /uploads/bxs-file-pdf.svg
 ---
+A következő ábra szemlélteti, miként viszonyul egymáshoz a vírus egy adott fehérjéjét kimutató antigén teszt és a SARS-CoV-2 ellen termelt antitesteket kimutató szerológiai teszt.
+
+![Antigén teszt és szerológiai tesztek viszonya](/uploads/mainpage-pic1.jpg "Az ábra tájékoztató jellegű. Az Ag az antigén (a vírus egyik fehérjéje), az IgM az immunglobulin M, az IgG az immunglobulin G (két, a szervezet által termelt ellenanyag) mennyiségét jelzi az eltelt napok függvényében. 0. napnak az az időpont tekintendő, amikor a COVID-19 tünetei megjelennek (onset nap).")
+
+**COVID-19 gyorsteszteket használva rövid idő alatt, költséghatékonyan lehet szűrést végezni egy cég, üzem, hivatal vagy más intézmény dolgozói között. Az érintettek azonosításával és elkülönítésével lassítható a vírus terjedése, valamint megakadályozható a járvány miatt bekövetkező kényszerű leállás, és az azzal járó anyagi veszteségek.**
+
+Az alábbi táblázatban összehasonlítjuk a leggyakrabban használt teszttípusokat:
+
+<table>
+<thead>
+<tr>
+<th></th>
+<th>RT-PCR</th>
+<th>Antigén gyorsteszt<br>(Ag teszt)</th>
+<th>Ellenanyag (antitest) gyorsteszt<br>(IgG/IgM teszt)</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>Mit mutat ki?</td>
+<td>A SARS-CoV-2 (az új koronavírus) örökítőanyagát</td>
+<td>A SARS-CoV-2 valamely fehérjéjét (amelyet az immunrendszer felismer)
+</td>
+<td>A szervezet a SARS-CoV-2 ellen termelt antitestjeit
+</td>
+</tr>
+
+<tr>
+<td>Honnan vesznek mintát?
+</td>
+<td>Orrgarat-, illetve szájgarat-nyálkahártyából
+</td>
+<td>Orrgarat-, illetve szájgarat-nyálkahártyából
+</td>
+<td>Vérből (ujjbegyből vagy vénából)
+</td>
+</tr>
+
+<tr>
+<td>Mennyi ideig tart?
+</td>
+<td>Több mint 2 óra
+</td>
+<td>15–30 perc
+</td>
+<td>15 perc
+</td>
+</tr>
+
+<tr>
+<td>Szükség van-e további eszközökre, anyagokra?
+</td>
+<td>Igen</td>
+<td>Nem</td>
+<td>Nem</td>
+</tr>
+
+<tr>
+<td colspan="4">Ki tudja-e mutatni a fertőzést a tünetek megjelenését követő…</td>
+</tr>
+
+<tr>
+<td>…első héten?</td>
+<td>Igen</td>
+<td>Igen</td>
+<td>Általában nem</td>
+</tr>
+
+<tr>
+<td>…második héten?</td>
+<td>Igen</td>
+<td>Általában nem</td>
+<td>Többnyire igen</td>
+</tr>
+
+<tr>
+<td>…harmadik és negyedik héten?</td>
+<td>Esetenként igen</td>
+<td>Nem</td>
+<td>Igen</td>
+</tr>
+
+<tr>
+<td>Kimutatja-e a múltban lezajlott fertőzést?</td>
+<td>Nem</td>
+<td>Nem</td>
+<td>Igen (ha az ellenanyag még jelen van)</td>
+</tr>
+
+</tbody>
+</table>
+
+**A COVID-19 gyorstesztek tájékoztató jellegű információval szolgálnak az esetleges fertőzöttségről. A teszt elvégzését szakorvos, üzemorvos, vagy ilyen szolgáltatást nyújtó szolgáltató (üzemegészségügyi szolgálat) szakemberei végezhetik. Időtartama kb. 15 perc.**

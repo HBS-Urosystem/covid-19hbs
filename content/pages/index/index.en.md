@@ -6,7 +6,7 @@ menutitle: Rapid tests
 hero: /uploads/33838-web.jpg
 intro:
   images:
-    - src: /uploads/sam_0364_copy.jpg
+    - src: /uploads/Clungene antigen test.jpeg
       alt: Clungene® COVID-19 Antigen Rapid Test
     - src: /uploads/sam_0258_copy.jpg
       alt: Clungene® COVID-19 IgG/IgM Rapid Test
@@ -64,7 +64,7 @@ references:
     Moreover, hundreds of medical institutions, doctors, health centres, nursing homes, private clinics, companies and other institutions have been using the rapid tests distributed by us.
 
 
-    **Our partner, [Phoneix Pharma](https://www.phoenix.hu/hu/) , distributes the rapid test in the Hungarian pharmacies.**
+    **Our partners, Phoenix Pharma and Hungaropharma, distribute the rapid tests in the Hungarian pharmacies.**
 cards:
   - text: "#### Frequently Asked Questions (FAQ)"
     link: /faq
