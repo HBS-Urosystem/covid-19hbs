@@ -1,12 +1,12 @@
 <script>
-	export let status;
+	//export let status;
 	export let error;
 
 	const dev = process.env.NODE_ENV === "development";
 </script>
 
 <svelte:head>
-	<title>{status} - {error.message}</title>
+	<title>Page not found (404) - {error.message}</title>
 </svelte:head>
 <!-- 
 <h1>{status}</h1>
