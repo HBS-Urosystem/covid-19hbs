@@ -41,5 +41,5 @@ function bylang({ filename, metadata }) {
 	//temp = path.split("/")
 	const type = metadata.type//temp[temp.length - 2]
 	//console.log('_pages:', {[type]: { [lang]: { ...metadata } }})
-	return { [type]: {[lang]: metadata.slug } }
+	return { [type]: {[lang]: {slug: metadata.slug, menutitle: metadata.menutitle} } }
 }

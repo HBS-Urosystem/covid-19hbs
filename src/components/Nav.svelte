@@ -5,9 +5,11 @@
 </script>
 
 <script>
-	export let segment = 'hu'
-	$: console.log('_nav-segment',segment)
-	$: console.log('_nav-pages:', pages)
+	export let segment
+	$: if (segment && segment !== 'undefined') {
+		console.log('_nav-segment',segment,typeof(segment))
+		console.log('_nav-type:', $type)
+	}
 </script>
 
 <svelte:head>
@@ -27,14 +29,14 @@
 	<link rel="alternate" hreflang="hu" href="http://localhost:3000/{pages[type].hu}" /> -->
 </svelte:head>
 
-{#if $type == 'index'}
+{#if $type == 'index' && $hero}
 <header id="home" style="background-image: url({$hero})">
 	<img src="uploads/hbs-logo-medical.png" alt="hbs logo">
 	<h1>{@html $tagline}</h1>
 </header>
 {:else}
-<header style="background-image: url({$hero})">
-	<a name="logo" sapper-noscroll aria-current="{segment === undefined ? 'page' : undefined}" href="{pages.index[$lang]}">
+<header>
+	<a name="logo" sapper-noscroll href="{pages.index[$lang].slug}">
 		<img src="uploads/hbs-logo-medical.png" alt="hbs logo">
 	</a>
 	<h1>{@html $tagline}</h1>
@@ -49,18 +51,21 @@
 					<span>{pages['index'][$lang]}</span>
 				</a>
 			</li> -->
+
+			<!-- segment === pages.faq[$lang].slug -->
 			{#if pages.faq[$lang]}
 			<li>
-				<a sapper-noscroll aria-current="{segment === pages.faq[$lang] ? 'page' : undefined}" href="{pages.faq[$lang]}">
-					<span>{pages.faq[$lang]}</span>
+				<a sapper-noscroll aria-current="{$type == 'faq' ? 'page' : undefined}" href="{pages.faq[$lang].slug}">
+					<span>{pages.faq[$lang].menutitle}</span>
 				</a>
 			</li>
 			{/if}
 
+			<!-- segment === pages.business[$lang].slug -->
 			{#if pages.business[$lang]}
 			<li>
-				<a sapper-noscroll aria-current="{segment === pages.business[$lang] ? 'page' : undefined}" href="{pages.business[$lang]}">
-					<span>{pages.business[$lang]}</span>
+				<a sapper-noscroll aria-current="{$type == 'business' ? 'page' : undefined}" href="{pages.business[$lang].slug}">
+					<span>{pages.business[$lang].menutitle}</span>
 				</a>
 			</li>
 			{/if}
@@ -78,21 +83,21 @@
 		<ul>
       
 			<li>{#if pages[$type].en}
-				<a sapper-noscroll aria-current="{'en' == [$lang] ? 'page' : undefined}" href="{pages[$type].en}">en</a>
+				<a sapper-noscroll aria-current="{'en' == [$lang] ? 'page' : undefined}" href="{pages[$type].en.slug}">en</a>
 			{:else}
-				<a aria-expanded="false" href="{pages.index.en}">en</a>
+				<a aria-expanded="false" href="{pages.index.en.slug}">en</a>
 			{/if}</li>
       <li>/</li>
 			<li>{#if pages[$type].de}
-			<a sapper-noscroll aria-current="{'de' == [$lang] ? 'page' : undefined}" href="{pages[$type].de}">de</a>
+			<a sapper-noscroll aria-current="{'de' == [$lang] ? 'page' : undefined}" href="{pages[$type].de.slug}">de</a>
 			{:else}
-			<a aria-expanded="false" href="{pages.index.de}">de</a>
+			<a aria-expanded="false" href="{pages.index.de.slug}">de</a>
 			{/if}</li>
 			<li>/</li>
 			<li>{#if pages[$type].hu}
-			<a sapper-noscroll aria-current="{'hu' == [$lang] ? 'page' : undefined}" href="{pages[$type].hu}">hu</a>
+			<a sapper-noscroll aria-current="{'hu' == [$lang] ? 'page' : undefined}" href="{pages[$type].hu.slug}">hu</a>
 			{:else}
-			<a aria-expanded="false" href="{pages.index.hu}">hu</a>
+			<a aria-expanded="false" href="{pages.index.hu.slug}">hu</a>
       {/if}</li>
 
 		</ul>
