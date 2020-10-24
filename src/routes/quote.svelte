@@ -1,8 +1,8 @@
 <script context="module">
 	/* import { lang } from '../stores.js' */
-	import Form from '../components/Form.svelte'
+	import QuoteForm from '../components/QuoteForm.svelte'
 </script>
 <script>
 </script>
 
-<Form/>
+<QuoteForm/>
