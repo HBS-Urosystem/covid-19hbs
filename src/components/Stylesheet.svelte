@@ -183,4 +183,11 @@
 		padding: 0 4px;
 	}
 
+	button {
+		border-width: 2px;
+		padding: 0 var(--gutter);
+		background-color: var(--dark25);
+
+	}
+
 </style>

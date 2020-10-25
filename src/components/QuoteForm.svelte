@@ -46,14 +46,13 @@
 </form>
 </article>
 
-<aside>
+<article>
 	<div>
 		<h3>Kiszerelés</h3>
 		<p>
 			<b>1 doboz tartalma: </b>
 		</p>
 	</div>
-</aside>
 <aside>
 	<div>
 		<h3>IgG/IgM gyorsteszt</h3>
@@ -102,7 +101,7 @@
 		</ul>
 	</div>
 </aside>
-
+</article>
 <style>
 	form {
 		padding: var(--gutter);
@@ -160,18 +159,22 @@
 		margin-bottom: var(--gutter);
 	}
 
+	article > div, aside h3 {
+		text-align: center;
+	}
+
 	aside {
 		/* padding: var(--gutterx); */
-		margin: var(--gutter) var(--gutter2-) var(--gutter2);
+		/* margin: var(--gutter) var(--gutter2-) var(--gutter2); */
 		display: grid;
 		grid-gap: var(--gutter2);
 		grid-template-columns: repeat(auto-fit, minmax(24ch, 1fr));
 		text-shadow: 1px 1px 2px #000;
-		background-color: var(--light25);
+		/* background-color: var(--light25); */
 	}
 	aside div {
-		padding-left: var(--gutter2);
-		padding-right: var(--gutter2);
+		/* padding-left: var(--gutter2);
+		padding-right: var(--gutter2); */
 		text-shadow: 1px 1px 2px rgb(94, 93, 93);
 	}
 

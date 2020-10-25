@@ -1,6 +1,6 @@
 ---
 title: quotation
 button: Ajánlatkérés
-link: /#ajanlatkeres
+link: /quote
 ---
-### Kérjen árajánlatot vagy tegye föl kérdését!
+### Kérjen árajánlatot vagy tegye fel kérdését!

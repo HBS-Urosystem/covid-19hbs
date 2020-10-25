@@ -1,4 +1,5 @@
 <script context="module">
+	import CTA from "../components/CTA.svelte"
 	import showdown from 'showdown'
 	const converter = new showdown.Converter({
 		metadata: false,
@@ -13,7 +14,11 @@
 	}
 </script>
 
-{#each post.list as q }
+{#each post.list as q, i}
+{#if (i+1) / 4 == Math.floor((i+1) / 4)}
+<CTA/>
+{/if}
+
 <details id="{q.object.anchor}" open>
 	<summary>
 		<a href="{post.slug}/#{q.object.anchor}" sapper-noscroll>{@html Link}</a>{@html _md(q.object.question)}

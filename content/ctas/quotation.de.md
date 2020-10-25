@@ -1,4 +1,5 @@
 ---
+title: quotation
 button: Angebot
 link: /#angebot
 ---

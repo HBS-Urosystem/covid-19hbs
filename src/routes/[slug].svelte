@@ -1,6 +1,7 @@
 <script context="module">
 	import { onMount } from 'svelte'
 	import List from "../components/List.svelte"
+	import CTA from "../components/CTA.svelte"
 	import Index from "../components/Index.svelte"
 	import { findPost } from '../content.js'
 	import { lang, type, hero, tagline } from '../stores.js'
@@ -47,6 +48,9 @@
 
 {#if post.intro}
 <article>
+{#if post.intro.highlight}
+<h3>{post.intro.highlight}</h3>
+{/if}
 {@html _md(post.intro.text)}
 </article>
 {#if post.intro.images}
@@ -65,73 +69,16 @@
 {/if}
 {/if}
 
-
-{#if post.info}
-<article>
-{#if post.info.images}
-<aside>
-	<figcaption>
-	{@html _md(post.info.text)}
-	</figcaption>
-{#each post.info.images as image}
-<figure>
-	<img src="{image.src}" alt="{image.alt}"/>
-	{#if image.text}
-	<figcaption style="hyphens: none">{@html _md(image.text)}</figcaption>
-	{/if}
-</figure>
-{/each}
-</aside>
-{/if}
-</article>
-{/if}
-
-<!-- <Form id="quote"/> -->
-
-{#if post.html}
-<article>
-	{@html post.html}
-</article>
-{/if}
-
-
-{#if post.cards}
-<article>
-	<aside>
-		{#each post.cards as card}
-		<figure>
-			<a href="{card.link}">
-				<img src="{card.src}" alt="{card.link}"/>
-				<figcaption>{@html _md(card.text)}</figcaption>
-			</a>
-		</figure>
-		{/each}
-	</aside>
-</article>
-{/if}
-
-
-{#if post.references}<!--  -->
-<article>
-{@html _md(post.references.text)}
-<ul>
-{#each post.references.links as ref}
-<li><a href="{ref.url}" rel="noopener" target="_blank">{ref.text}</a></li>
-{/each}
-</ul>
-</article>
-{/if}
-
-
-<!-- {#if post.type == 'index'}
+{#if post.type == 'index'}
 <Index {post}/>
-{/if} -->
+{/if}
 
 
 {#if post.list}
 <List {post}/>
 {/if}
 
+<CTA/>
 
 <!-- <figure>
 	<img src="{post.image.src}" alt="{post.title}"/>
@@ -156,9 +103,9 @@
 		margin-top: var(--spacer);
 		margin-bottom: var(--gutter);
 	}
-	aside {
+	:global(article) aside {
 		/* padding: var(--gutterx); */
-		margin: var(--spacer) var(--gutter2-) var(--gutter2);
+		margin: var(--gutter) var(--gutter2-) var(--gutter2);
 		display: grid;
 		grid-gap: var(--gutter2);
 		grid-template-columns: repeat(auto-fit, minmax(24ch, 1fr));
@@ -169,6 +116,11 @@
 	figure :global(:first-child):not(img) {
 		margin-top: var(--gutter);
 		font-weight: bolder;
+	}
+	aside figure {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
 	}
 	aside figcaption {
 		text-align: center;

@@ -1,11 +1,12 @@
 <script context="module">
+	import CTA from "../components/CTA.svelte"
 	import showdown from 'showdown'
 	const converter = new showdown.Converter({
 		metadata: false,
 	})
 </script>
 <script>
-	//export let post
+	export let post
 	function _md(it) {
 		return converter.makeHtml(it)
 	}
@@ -14,25 +15,117 @@
 <svelte:head>
 </svelte:head>
 
-<!--div lang="{$lang}">{@html post.content[$lang]}</$div-->
-<!-- 
-{#if post.intro.text}
-{@html _md(post.intro.text)}
-{/if}
-{#if post.intro.images}
-{#each post.intro.images as image}
+<CTA />
+
+{#if post.info}
+<article>
+{#if post.info.images}
+<aside>
+	<figcaption>
+	{@html _md(post.info.text)}
+	</figcaption>
+{#each post.info.images as image}
 <figure>
-	<img src="{image.src}" alt="{post.alt}"/>
+	<img src="{image.src}" alt="{image.alt}"/>
 	{#if image.text}
-	<figcaption>{@html _md(image.text)}</figcaption>
+	<figcaption style="hyphens: none">{@html _md(image.text)}</figcaption>
 	{/if}
 </figure>
 {/each}
+</aside>
 {/if}
- -->
-<style>
-	/* figcaption {
-		text-align: center;
+</article>
+{/if}
 
+<!-- <Form id="quote"/> -->
+
+{#if post.html}
+<article>
+	{@html post.html}
+</article>
+{/if}
+
+
+{#if post.cards}
+<article>
+	<aside>
+		{#each post.cards as card}
+		<figure>
+			<a href="{card.link}">
+				<img src="{card.src}" alt="{card.link}"/>
+				<figcaption>{@html _md(card.text)}</figcaption>
+			</a>
+		</figure>
+		{/each}
+	</aside>
+</article>
+{/if}
+
+<CTA />
+
+{#if post.references}<!--  -->
+<article>
+{@html _md(post.references.text)}
+<ul>
+{#each post.references.links as ref}
+<li><a href="{ref.url}" rel="noopener" target="_blank">{ref.text}</a></li>
+{/each}
+</ul>
+</article>
+{/if}
+
+<style>
+	:global(article) h2 {
+		padding: var(--gutter);
+		border: solid var(--light);
+		color: var(--light);
+		text-shadow: 1px 1px 2px var(--dark);
+		background-color: var(--light25);
+	}
+	article {
+		/* background-color: var(--light25);
+		background-image: linear-gradient(315deg, var(--txt25) 60%, var(--light25) 100%); */
+		background-color: var(--light50);
+    background-image: linear-gradient(315deg, var(--txt50) 0%, var(--light50));
+		padding: var(--gutter);
+		margin-top: var(--spacer);
+		margin-bottom: var(--gutter);
+	}
+	:global(article) aside {
+		/* padding: var(--gutterx); */
+		margin: var(--gutter) var(--gutter2-) var(--gutter2);
+		display: grid;
+		grid-gap: var(--gutter2);
+		grid-template-columns: repeat(auto-fit, minmax(24ch, 1fr));
+	}
+	/* aside figure {
+		background-color: var(--light50);
 	} */
+	figure :global(:first-child):not(img) {
+		margin-top: var(--gutter);
+		font-weight: bolder;
+	}
+	aside figure {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+	}
+	aside figcaption {
+		text-align: center;
+		padding-left: var(--gutter2);
+		padding-right: var(--gutter2);
+		/* margin-left: var(--gutter);
+		margin-right: var(--gutter); */
+		text-shadow: 1px 1px 2px rgb(94, 93, 93);
+	}
+	aside > figcaption {
+		text-align: left;
+	}
+
+	figcaption ~ figure img {
+		width: 50%;
+		margin-left: auto;
+		margin-right: auto;
+	}
+
 </style>
