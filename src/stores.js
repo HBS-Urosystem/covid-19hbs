@@ -2,7 +2,7 @@
 import { writable, readable, derived } from 'svelte/store'
 //export const lang = writable('hu')
 export const lang = writable('hu')
-export const type = writable('index')
+export const type = writable('')
 export const hero = writable()
 export const tagline = writable('Happy Business Services Zrt.')
 export const post = writable({})

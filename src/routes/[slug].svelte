@@ -23,7 +23,7 @@
 	export let post
 	//$: console.log('_slug:',post)
 	$: $lang = post.lang || 'hu'
-	$: $type = post.type || 'index'
+	$: $type = post.type || ''
 	$: $tagline = post.title
 	$: $hero = post.hero || undefined
 
@@ -48,25 +48,25 @@
 
 {#if post.intro}
 <article>
-{#if post.intro.highlight}
-<h3>{post.intro.highlight}</h3>
-{/if}
+	{#if post.intro.highlight}
+	<h3>{post.intro.highlight}</h3>
+	{/if}
 {@html _md(post.intro.text)}
 </article>
-{#if post.intro.images}
-<article>
-<aside>
-{#each post.intro.images as image}
-<figure>
-	<img src="{image.src}" alt="{image.alt}"/>
-	{#if image.text}
-	<figcaption>{@html _md(image.text)}</figcaption>
+	{#if post.intro.images}
+	<article>
+		<aside>
+			{#each post.intro.images as image}
+			<figure>
+				<img src="{image.src}" alt="{image.alt}"/>
+				{#if image.text}
+				<figcaption>{@html _md(image.text)}</figcaption>
+				{/if}
+			</figure>
+			{/each}
+		</aside>
+	</article>
 	{/if}
-</figure>
-{/each}
-</aside>
-</article>
-{/if}
 {/if}
 
 {#if post.type == 'index'}
@@ -87,7 +87,7 @@
 	{/if}
 </figure> -->
 <style>
-	h2 {
+	:global(article) h2 {
 		padding: var(--gutter);
 		border: solid var(--light);
 		color: var(--light);

@@ -82,19 +82,19 @@
 		<!-- slide me <-|-> icon -->
 		<ul>
       
-			<li>{#if pages[$type].en}
+			<li>{#if $type && pages[$type].en}
 				<a sapper-noscroll aria-current="{'en' == [$lang] ? 'page' : undefined}" href="{pages[$type].en.slug}">en</a>
 			{:else}
 				<a aria-expanded="false" href="{pages.index.en.slug}">en</a>
 			{/if}</li>
       <li>/</li>
-			<li>{#if pages[$type].de}
+			<li>{#if $type && pages[$type].de}
 			<a sapper-noscroll aria-current="{'de' == [$lang] ? 'page' : undefined}" href="{pages[$type].de.slug}">de</a>
 			{:else}
 			<a aria-expanded="false" href="{pages.index.de.slug}">de</a>
 			{/if}</li>
 			<li>/</li>
-			<li>{#if pages[$type].hu}
+			<li>{#if $type && pages[$type].hu}
 			<a sapper-noscroll aria-current="{'hu' == [$lang] ? 'page' : undefined}" href="{pages[$type].hu.slug}">hu</a>
 			{:else}
 			<a aria-expanded="false" href="{pages.index.hu.slug}">hu</a>
