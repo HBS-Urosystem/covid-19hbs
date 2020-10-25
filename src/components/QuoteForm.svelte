@@ -15,9 +15,9 @@
 
 <h2>Segítse Ön is a COVID-19 elleni védekezést!</h2>
 
-<form name="quote" method="POST">
+<form name="quoteform" method="POST">
 	<!-- <fieldset> -->
-	<input type='hidden' name='form-name' value='quote' />
+	<input type='hidden' name='form-name' value='quoteform' />
 	<label>Name
 	<input name="name" type="text" required placeholder="Required" />
 	</label>
@@ -40,10 +40,10 @@
 	<input name="profile" type="text" />
 	</label>
 	<!-- </fieldset> -->
-	<!-- <fieldset>
+	<fieldset>
 	Question or remarks
 		<textarea name="description"></textarea>
-	</fieldset> -->
+	</fieldset>
 	<fieldset>
 	<input type="submit" value="Submit" />
 	</fieldset>

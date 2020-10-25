@@ -29,7 +29,7 @@
 		<!-- The application will be rendered inside this element,
 	     because `src/client.js` references it -->
 		<div id="sapper">%sapper.html%</div>
-		<form name="quote" method="POST" hidden aria-hidden="true" netlify netlify-honeypot="profile">
+		<form name="quoteform" method="POST" hidden aria-hidden="true" netlify netlify-honeypot="profile">
 			<input name="name" type="text" />
 			<input name="company" type="text" />
 			<input name="email" type="email" />
@@ -37,7 +37,7 @@
 			<input name="ag-qty" type="number" />
 			<input name="ig-qty" type="number" />
 			<input name="profile" type="text" />
-			<input name="description" type="text" />
+			<textarea name="description"></textarea>
 		</form>
 		<!-- Sapper creates a <script> tag containing `src/client.js`
 	     and anything else it needs to hydrate the app and
