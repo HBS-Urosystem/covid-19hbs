@@ -103,6 +103,14 @@
     justify-content: space-between;
     flex-direction: column;
 	}
+	aside figure > img {
+		height: 48%;
+		object-fit: cover;
+	}
+	/* aside figure a img {
+		height: 68%;
+		object-fit: cover;
+	} */
 	aside figcaption {
 		text-align: center;
 		padding-left: var(--gutter2);
