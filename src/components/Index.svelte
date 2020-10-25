@@ -19,21 +19,21 @@
 
 {#if post.info}
 <article>
-{#if post.info.images}
-<aside>
-	<figcaption>
-	{@html _md(post.info.text)}
-	</figcaption>
-{#each post.info.images as image}
-<figure>
-	<img src="{image.src}" alt="{image.alt}"/>
-	{#if image.text}
-	<figcaption style="hyphens: none">{@html _md(image.text)}</figcaption>
+	{#if post.info.images}
+	<aside>
+		<figcaption>
+		{@html _md(post.info.text)}
+		</figcaption>
+		{#each post.info.images as image}
+		<figure>
+			<img src="{image.src}" alt="{image.alt}"/>
+			{#if image.text}
+			<figcaption style="hyphens: none">{@html _md(image.text)}</figcaption>
+			{/if}
+		</figure>
+		{/each}
+	</aside>
 	{/if}
-</figure>
-{/each}
-</aside>
-{/if}
 </article>
 {/if}
 
@@ -65,23 +65,16 @@
 
 {#if post.references}<!--  -->
 <article>
-{@html _md(post.references.text)}
-<ul>
-{#each post.references.links as ref}
-<li><a href="{ref.url}" rel="noopener" target="_blank">{ref.text}</a></li>
-{/each}
-</ul>
+	{@html _md(post.references.text)}
+	<ul>
+		{#each post.references.links as ref}
+		<li><a href="{ref.url}" rel="noopener" target="_blank">{ref.text}</a></li>
+		{/each}
+	</ul>
 </article>
 {/if}
 
 <style>
-	:global(article) h2 {
-		padding: var(--gutter);
-		border: solid var(--light);
-		color: var(--light);
-		text-shadow: 1px 1px 2px var(--dark);
-		background-color: var(--light25);
-	}
 	article {
 		/* background-color: var(--light25);
 		background-image: linear-gradient(315deg, var(--txt25) 60%, var(--light25) 100%); */
