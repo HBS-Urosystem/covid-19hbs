@@ -1,9 +1,10 @@
 <script context="module">
-	import { lang, tagline } from '../stores.js'
+	import { lang, tagline, type } from '../stores.js'
 </script>
 <script>
 	/* export let post */
 	$tagline = 'Kérjen ajánlatot!'
+	$type = ''
 </script>
 
 <svelte:head>
