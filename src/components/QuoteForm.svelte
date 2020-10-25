@@ -34,6 +34,9 @@
 	<label>IgG/IgM test quantity
 	<input name="ig-qty" type="number" />
 	</label>
+	<label>Profile
+	<input name="profile" type="text" />
+	</label>
 	<!-- </fieldset> -->
 	<fieldset>
 	Question or remarks
@@ -178,5 +181,8 @@
 		text-shadow: 1px 1px 2px rgb(94, 93, 93);
 	}
 
-
+	label:last-of-type {
+		display: none;
+		visibility: hidden;
+	}
 </style>
