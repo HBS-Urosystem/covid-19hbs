@@ -19,7 +19,8 @@
 <CTA/>
 {/if}
 
-<details id="{q.object.anchor}" open>
+<div id="{q.object.anchor}"></div>
+<details open>
 	<summary>
 		<a href="{post.slug}/#{q.object.anchor}" sapper-noscroll>{@html Link}</a>{@html _md(q.object.question)}
 	</summary>
@@ -33,7 +34,10 @@
 		background-image: linear-gradient(315deg, var(--txt25) 60%, var(--light25) 100%);
 		padding: 0 var(--gutterx);
 	}
-	details:target, details:focus, details:focus-within {
+	div:target {
+		padding-top: var(--spacer);
+	}
+	div:target+details, details:focus, details:focus-within {
     background-color: var(--toolbg);
 	}
 	summary {
