@@ -103,37 +103,7 @@
 		margin-top: var(--spacer);
 		margin-bottom: var(--gutter);
 	}
-	:global(article) aside {
-		/* padding: var(--gutterx); */
-		margin: var(--gutter) var(--gutter2-) var(--gutter2);
-		display: grid;
-		grid-gap: var(--gutter2);
-		grid-template-columns: repeat(auto-fit, minmax(24ch, 1fr));
-	}
-	/* aside figure {
-		background-color: var(--light50);
-	} */
-	:global(figure) :first-child:not(img) {
-		margin-top: var(--gutter);
-		font-weight: bolder;
-	}
-	:global(aside) figure {
-    display: flex;
-    justify-content: space-between;
-    flex-direction: column;
-	}
-	:global(aside) figcaption {
-		text-align: center;
-		padding-left: var(--gutter2);
-		padding-right: var(--gutter2);
-		/* margin-left: var(--gutter);
-		margin-right: var(--gutter); */
-		text-shadow: 1px 1px 2px rgb(94, 93, 93);
-	}
-	:global(aside) > figcaption {
-		text-align: left;
-	}
-
+	
 	figcaption ~ figure img {
 		width: 50%;
 		margin-left: auto;
