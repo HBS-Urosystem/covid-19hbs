@@ -26,7 +26,7 @@
 		</figcaption>
 		{#each post.info.images as image}
 		<figure>
-			<img src="{image.src}" alt="{image.alt}"/>
+			<img loading="lazy" src="{image.src}" alt="{image.alt}"/>
 			{#if image.text}
 			<figcaption style="hyphens: none">{@html _md(image.text)}</figcaption>
 			{/if}
@@ -52,7 +52,7 @@
 		{#each post.cards as card}
 		<figure>
 			<a href="{card.link}">
-				<img src="{card.src}" alt="{card.link}"/>
+				<img loading="lazy" src="{card.src}" alt="{card.link}"/>
 				<figcaption>{@html _md(card.text)}</figcaption>
 			</a>
 		</figure>

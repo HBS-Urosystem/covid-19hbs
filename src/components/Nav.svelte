@@ -31,13 +31,13 @@
 
 {#if $type == 'index' && $hero}
 <header id="home" style="background-image: url({$hero})">
-	<img src="uploads/hbs-logo-medical.png" alt="hbs logo">
+	<img loading="lazy" src="uploads/hbs-logo-medical.png" alt="hbs logo">
 	<h1>{@html $tagline}</h1>
 </header>
 {:else}
 <header>
 	<a name="logo" sapper-noscroll href="{pages.index[$lang].slug}">
-		<img src="uploads/hbs-logo-medical.png" alt="hbs logo">
+		<img loading="lazy" src="uploads/hbs-logo-medical.png" alt="hbs logo">
 	</a>
 	<h1>{@html $tagline}</h1>
 </header>

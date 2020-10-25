@@ -58,7 +58,7 @@
 		<aside>
 			{#each post.intro.images as image}
 			<figure>
-				<img src="{image.src}" alt="{image.alt}"/>
+				<img loading="lazy" src="{image.src}" alt="{image.alt}"/>
 				{#if image.text}
 				<figcaption>{@html _md(image.text)}</figcaption>
 				{/if}
@@ -81,7 +81,7 @@
 <CTA/>
 
 <!-- <figure>
-	<img src="{post.image.src}" alt="{post.title}"/>
+	<img loading="lazy" src="{post.image.src}" alt="{post.title}"/>
 	{#if post.image.caption}
 	<figcaption><em><span lang="{$lang}">{post.image.caption[$lang]}</span></em></figcaption>
 	{/if}
