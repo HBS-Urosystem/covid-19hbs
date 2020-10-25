@@ -23,10 +23,10 @@ list:
         súlyosabb, mint az első volt**.
 
 
-        **A helyzet Európában, sőt, a világ más részein is hasonlóan lesújtó.** A fertőzöttek száma október derekán már a 40 millió főt közelítette, a halálos áldozatok száma pedig átlépte az egymilliót. *[Ezen az oldalon](https://covid19.healthdata.org/global?view=total-deaths&tab=trend)* nyomon lehet követni, hogy különböző forgatókönyvek mellett hogyan fognak alakulni 2020 végéig a COVID-19 okozta halálozási arányok. Az előrejelzések alapján még ismételt korlátozások mellett is 2 millió főre kell számítani, ám ha az alapvető szociális érintkezési szabályok sem teljesülnek, ez a 3 millió főt is elérheti.
+        **A helyzet Európában, sőt, a világ más részein is hasonlóan lesújtó.** A fertőzöttek száma október derekán már a 40 millió főt közelítette, a halálos áldozatok száma pedig átlépte az egymilliót. [Ezen az oldalon](https://covid19.healthdata.org/global?view=total-deaths&tab=trend) nyomon lehet követni, hogy különböző forgatókönyvek mellett hogyan fognak alakulni 2020 végéig a COVID-19 okozta halálozási arányok. Az előrejelzések alapján még ismételt korlátozások mellett is 2 millió főre kell számítani, ám ha az alapvető szociális érintkezési szabályok sem teljesülnek, ez a 3 millió főt is elérheti.
 
 
-        A COVID-19 világjárvánnyal kapcsolatos naprakész nemzetközi adatokat többek között a https://ourworldindata.org/coronavirus/ oldalon lehet megtalálni. Bármelyik ország statisztikái megtekinthetőek, a magyar adatok ide kattintva nézhetőek meg: *[link](https://ourworldindata.org/coronavirus/country/hungary?country=~HUN)*.
+        A COVID-19 világjárvánnyal kapcsolatos naprakész nemzetközi adatokat többek között a <https://ourworldindata.org/coronavirus/> oldalon lehet megtalálni. Bármelyik ország statisztikái megtekinthetőek, a magyar adatok ide kattintva nézhetőek meg: [link](https://ourworldindata.org/coronavirus/country/hungary?country=~HUN).
       anchor: cunami
   - object:
       question: Nagyobb veszélyben vagyunk
@@ -81,7 +81,7 @@ list:
         Amellett, hogy **nagyon fontos a higiéniai előírásokat és a szociális érintkezés szabályait betartani**, a vírus terjedését **hatékonyan lassítja a rendszeres és módszeres tesztelés is**, hiszen e módszerrel **azonosítani lehet a fertőzötteket**, akiket elkülönítve meggátolható, hogy terjesszék a megbetegedést.
 
 
-        A lakosság tesztelése sok országban **már tavasszal is a vírus elleni védekezés gyakorlatának része volt**. Magyarország e téren elmaradt más államoktól – sok szakember rá is mutatott e tényre. Mostanra azonban már megváltozott a helyzet: **aki csak tud, tesztel**. Pontosabban, tesztelne, ám sok szakember úgy véli, *[elértük a rendelkezésre álló kapacitások felső határát](https://infostart.hu/belfold/2020/10/09/szakertok-a-sulyos-lefolyasu-esetek-novekedese-varhato-rovidesen?fbclid=IwAR1yy42nit9MY3ulpLdwXv2AQQguODXdHty3rLCeqA4qCvJ97FODnm2KQGUG)*. Ezért **egyre több fertőzött marad felfedezetlenül**, aki pedig, ha nem észleli a tüneteket, **maga is megfertőz másokat**.
+        A lakosság tesztelése sok országban **már tavasszal is a vírus elleni védekezés gyakorlatának része volt**. Magyarország e téren elmaradt más államoktól – sok szakember rá is mutatott e tényre. Mostanra azonban már megváltozott a helyzet: **aki csak tud, tesztel**. Pontosabban, tesztelne, ám sok szakember úgy véli, [elértük a rendelkezésre álló kapacitások felső határát](https://infostart.hu/belfold/2020/10/09/szakertok-a-sulyos-lefolyasu-esetek-novekedese-varhato-rovidesen?fbclid=IwAR1yy42nit9MY3ulpLdwXv2AQQguODXdHty3rLCeqA4qCvJ97FODnm2KQGUG). Ezért **egyre több fertőzött marad felfedezetlenül**, aki pedig, ha nem észleli a tüneteket, **maga is megfertőz másokat**.
 
 
         Ha az események így haladnak tovább, semmi esély nem marad az új koronavírus kordában tartására.
@@ -103,7 +103,7 @@ list:
         (1) A közfelfogással ellentétben még **a helyesen alkalmazott PCR tesztek megbízhatósága is elmarad a 100%-tól**.
 
 
-        A *[John Hopkins Egyetem átfogó kutatásának](https://www.acpjournals.org/doi/10.7326/M20-1495)* eredményei a következőképpen foglalhatóak össze. A tünetek megjelenését megelőzően a PCR tesztek 0–33% eséllyel mutatták ki a vírust. A tünetek jelentkezésének első napján a PCR teszt 62% eséllyel jelez, majd az arány emelkedik, pár nap múlva eléri a 80%-ot. Ezt követően a PCR teszt megbízhatóság csökken, 2 héttel a tünetek megjelenését követően már ismét csak 33%.
+        A [John Hopkins Egyetem átfogó kutatásának](https://www.acpjournals.org/doi/10.7326/M20-1495) eredményei a következőképpen foglalhatóak össze. A tünetek megjelenését megelőzően a PCR tesztek 0–33% eséllyel mutatták ki a vírust. A tünetek jelentkezésének első napján a PCR teszt 62% eséllyel jelez, majd az arány emelkedik, pár nap múlva eléri a 80%-ot. Ezt követően a PCR teszt megbízhatóság csökken, 2 héttel a tünetek megjelenését követően már ismét csak 33%.
 
 
         (2) A PCR tesztek **aránytalan terheket rónak az egészségügyi rendszerre**
@@ -135,7 +135,7 @@ list:
         * az eredmény **már 15 perc után** leolvasható.
 
 
-        Továbbiakat a gyorstesztek előnyeiről, működéséről, használatáról **a terméket bemutató oldalon lehet olvasni**. \[\*LINK\*]
+        Továbbiakat a gyorstesztek előnyeiről, működéséről, használatáról **a terméket bemutató oldalon lehet olvasni**. \[\*HAMAROSAN\*]
       anchor: tomeges-teszteles
   - object:
       question: Az antigén gyorstesztek kiegészítik a szerológiai gyorsteszteket
