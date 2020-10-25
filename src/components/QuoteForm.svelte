@@ -17,6 +17,7 @@
 
 <form name="quote" method="POST">
 	<!-- <fieldset> -->
+	<input type='hidden' name='form-name' value='quote' />
 	<label>Name
 	<input name="name" type="text" required placeholder="Required" />
 	</label>
