@@ -91,7 +91,7 @@
 		margin-top: var(--spacer);
 		margin-bottom: var(--gutter);
 	}
-	:global(article) aside {
+	article aside {
 		/* padding: var(--gutterx); */
 		margin: var(--gutter) var(--gutter2-) var(--gutter2);
 		display: grid;
@@ -101,7 +101,7 @@
 	/* aside figure {
 		background-color: var(--light50);
 	} */
-	figure :global(:first-child):not(img) {
+	figure :first-child:not(img) {
 		margin-top: var(--gutter);
 		font-weight: bolder;
 	}
