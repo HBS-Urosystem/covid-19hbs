@@ -40,10 +40,10 @@
 	<input name="profile" type="text" />
 	</label>
 	<!-- </fieldset> -->
-	<fieldset>
+	<!-- <fieldset>
 	Question or remarks
 		<textarea name="description"></textarea>
-	</fieldset>
+	</fieldset> -->
 	<fieldset>
 	<input type="submit" value="Submit" />
 	</fieldset>
