@@ -1,12 +1,13 @@
 ---
 type: business
 slug: felelos-vezeto
-title: Tesztelj, szűrj, cselekedj!
-subtitle: Légy észnél! A 2020. őszi–téli COVID-19 helyzet veszélyeiről
+title: Légy észnél!
+subtitle: A 2020. őszi–téli COVID-19 helyzet veszélyeiről
 menutitle: Felelős vezető
 intro:
   text: Tegyünk együtt a COVID-19 járvány második hullámának megfékezéséért
     rendszeres és módszeres teszteléssel!
+  highlight: ""
 list:
   - object:
       question: COVID-19 második hullám? *Cunami!*
@@ -87,9 +88,6 @@ list:
 
 
         **Hogyan lehetne ezen változtatni?**
-
-
-        **\[[\*CTA\*]]**
       anchor: gazdasag
   - object:
       question: A PCR teszt szükséges – de nem elégséges

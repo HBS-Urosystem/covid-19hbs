@@ -55,7 +55,7 @@
 			<!-- segment === pages.faq[$lang].slug -->
 			{#if pages.faq[$lang]}
 			<li>
-				<a sapper-noscroll aria-current="{$type == 'faq' ? 'page' : undefined}" href="{pages.faq[$lang].slug}">
+				<a aria-current="{$type == 'faq' ? 'page' : undefined}" href="{pages.faq[$lang].slug}">
 					<span>{pages.faq[$lang].menutitle}</span>
 				</a>
 			</li>
@@ -64,7 +64,7 @@
 			<!-- segment === pages.business[$lang].slug -->
 			{#if pages.business[$lang]}
 			<li>
-				<a sapper-noscroll aria-current="{$type == 'business' ? 'page' : undefined}" href="{pages.business[$lang].slug}">
+				<a aria-current="{$type == 'business' ? 'page' : undefined}" href="{pages.business[$lang].slug}">
 					<span>{pages.business[$lang].menutitle}</span>
 				</a>
 			</li>

@@ -72,7 +72,7 @@ references:
     **A Phoenix Pharma és a Hungaropharma partnereinken keresztül a tesztek elérhetőek az ország összes gyógyszertárában.**
 cards:
   - src: /uploads/pixabay-social-distancing-5044615_640.jpg
-    link: /felelos-cegvezeto
+    link: /felelos-vezeto
     text: |-
       #### Felelős cégvezetőknek…
 
