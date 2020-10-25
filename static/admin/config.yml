@@ -253,7 +253,7 @@ collections:
         i18n: true
         create: true
         #sortable_fields: ['question']
-        summary: "{{object.question}}"
+        summary: "#{{object.anchor}} – {{object.question}}"
         widget: list
         fields:
           - label: Topic

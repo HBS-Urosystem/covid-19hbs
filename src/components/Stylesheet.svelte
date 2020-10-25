@@ -91,6 +91,9 @@
 		margin: 0 auto;
 		padding: var(--spacer) var(--gutter);
 	}
+	main a {
+		text-decoration: underline;
+	}
 
 	h1, h2, h3, h4, h5, h6 {
 		/* font-family: system-ui, sans-serif; */
@@ -187,7 +190,9 @@
 		border-width: 2px;
 		padding: 0 var(--gutter);
 		background-color: var(--dark25);
-
 	}
 
+	strong > em, strong > i, b > em, b > i {
+		font-size: inherit;
+	}
 </style>
