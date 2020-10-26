@@ -31,6 +31,10 @@
 		margin-top: var(--spacer);
 		border: solid var(--light);
 	}
+	aside :global(h3) {
+    font-weight: bolder;
+	}
+
 	a {
 		text-decoration: none;
 	}
