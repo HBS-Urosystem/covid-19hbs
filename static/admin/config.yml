@@ -28,6 +28,7 @@ collections:
 
   - name: index
     label: Pages
+    label_singular: Page
     folder: content/pages/index
     delete: false
     create: true
@@ -161,22 +162,33 @@ collections:
       - label: Documents
         label_singular: Document
         name: documents
-        widget: list
+        widget: object
         required: false
         i18n: true
         fields:
-          - label: Document text
+          - label: References text
             name: text
-            widget: string
+            widget: markdown
+            required: false
             i18n: true
-          - label: Document link
-            name: file
-            widget: file
+          - label: Reference links
+            label_singular: Reference link
+            name: links
+            widget: list
             i18n: true
-          - label: Document image
-            name: src
-            widget: image
-            i18n: true
+            fields: 
+              - label: Document text
+                name: text
+                widget: string
+                i18n: true
+              - label: Document link
+                name: file
+                widget: file
+                i18n: true
+              - label: Document image
+                name: src
+                widget: image
+                i18n: true
       - {label: "HTML", name: "body", widget: "markdown", i18n: true, required: false}
 
   - name: qa

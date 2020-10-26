@@ -26,7 +26,7 @@
 		justify-content: space-around;
     align-items: center;
 		text-shadow: 1px 1px 2px var(--dark);
-		background-color: var(--light25);
+		background-color: var(--light50);
 		padding: var(--gutter);
 		margin-top: var(--spacer);
 		border: solid var(--light);

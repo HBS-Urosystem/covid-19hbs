@@ -9,14 +9,14 @@ intro:
     - src: /uploads/clungene-antigen-test.jpeg
       alt: Clungene® COVID-19 antigén gyorsteszt kazetta
       text: >-
-        ### Clungene® COVID-19 antigén gyorsteszt kazetta
+        ### [Clungene® COVID-19 antigén gyorsteszt kazetta](/antigenteszt)
 
 
         A vírusnak az emberi immunrendszer által is felismert fehérjéjét mutatja ki. A COVID-19 korai szakaszában azonosítja a fertőzést.
-    - src: /uploads/sam_0258_copy.jpg
+    - src: /uploads/sam_0089_copy.jpg
       alt: Clungene® COVID-19 IgG/IgM gyorsteszt kazetta
       text: >-
-        ### Clungene® COVID-19 IgG/IgM gyorsteszt kazetta
+        ### [Clungene® COVID-19 IgG/IgM gyorsteszt kazetta](/szerologiaiteszt)
 
 
         A vírus ellen, a szervezet által termelt ellenanyagokat mutatja ki. A COVID-19 közép- és késői szakaszának, illetve a múltban lezajlott fertőzés azonosítására alkalmas.
@@ -82,21 +82,23 @@ cards:
     link: /gyik
     src: /uploads/129.jpg
 documents:
-  - text: OGYÉI hatósági bizonyítvány HU
-    file: /uploads/ogyei_hatosagi_bizonyitvany_orvostech-17106-3-2020-szghbv_alairt-1.pdf
-    src: /uploads/bxs-file-pdf.svg
-  - text: EU megfelelőségi nyilatkozat
-    file: /uploads/ek_megfelelosegi_nyilatkozat.pdf
-    src: /uploads/bxs-file-pdf.svg
-  - text: Használati útmutató HU
-    file: /uploads/hasznalati_utasitas_clungene_covid-19_igg-igm-4212-hu-v4.pdf
-    src: /uploads/bxs-file-pdf.svg
-  - text: A termék bizonyítványai
-    file: /uploads/certificates-clongene-covid-2019-igm.igg_1-7.pdf
-    src: /uploads/bxs-file-pdf.svg
-  - text: A SmartBioma diagnosztikai protokollja HU
-    file: /uploads/sars-cov-2-covid-19-szűrés-_-kimutatás.pdf
-    src: /uploads/bxs-file-pdf.svg
+  text: "## Dokumentumok"
+  links:
+    - text: OGYÉI hatósági bizonyítvány HU
+      file: /uploads/ogyei_hatosagi_bizonyitvany_orvostech-17106-3-2020-szghbv_alairt-1.pdf
+      src: /uploads/bxs-file-pdf.svg
+    - text: EU megfelelőségi nyilatkozat
+      file: /uploads/ek_megfelelosegi_nyilatkozat.pdf
+      src: /uploads/bxs-file-pdf.svg
+    - text: Használati útmutató HU
+      file: /uploads/hasznalati_utasitas_clungene_covid-19_igg-igm-4212-hu-v4.pdf
+      src: /uploads/bxs-file-pdf.svg
+    - text: A termék bizonyítványai
+      file: /uploads/certificates-clongene-covid-2019-igm.igg_1-7.pdf
+      src: /uploads/bxs-file-pdf.svg
+    - text: A SmartBioma diagnosztikai protokollja HU
+      file: /uploads/sars-cov-2-covid-19-szűrés-_-kimutatás.pdf
+      src: /uploads/bxs-file-pdf.svg
 ---
 A következő ábra szemlélteti, miként viszonyul egymáshoz a vírus egy adott fehérjéjét kimutató antigén teszt és a SARS-CoV-2 ellen termelt antitesteket kimutató szerológiai teszt.
 

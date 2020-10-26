@@ -61,13 +61,24 @@
 </article>
 {/if}
 
-<CTA />
+<!-- <CTA /> -->
 
 {#if post.references}<!--  -->
 <article>
 	{@html _md(post.references.text)}
 	<ul>
 		{#each post.references.links as ref}
+		<li><a href="{ref.url}" rel="noopener" target="_blank">{ref.text}</a></li>
+		{/each}
+	</ul>
+</article>
+{/if}
+
+{#if post.documents}<!--  -->
+<article>
+	{@html _md(post.documents.text)}
+	<ul>
+		{#each post.documents.links as ref}
 		<li><a href="{ref.url}" rel="noopener" target="_blank">{ref.text}</a></li>
 		{/each}
 	</ul>

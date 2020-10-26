@@ -75,9 +75,12 @@
 		color: var(--txtcolor);
 	}
 
-	blockquote, em, i {
+	blockquote, em {
 		/* font-family: "SilkSerif-Regular", serif; */
 		font-size: 130%;
+	}
+	em {
+    font-style: initial;
 	}
 /* 
 	body > input { display: none; }
@@ -107,6 +110,7 @@
 	h2 {
 		font-size: 2.0rem;
 		margin: 1.75rem 0;
+		font-weight: bolder;
 	}
 	h3 {
 		font-size: 1.75rem;
@@ -155,15 +159,6 @@
 		border-left: 4px solid var(--maincolor);
 	}
 
-	article div {
-		width: 100%;
-		overflow-x: auto;
-	}
-	/* div > :global(table) {
-		width: 512px;
-		min-width: 100%;
-	} */
-
 	table {
 		width: min-content;
     min-width: 100%;
@@ -171,6 +166,9 @@
 	}
 	tr {
     vertical-align: top;
+	}
+	th {
+		text-align: center;
 	}
 	th:first-of-type, td:first-of-type {
 		text-align: start;
@@ -196,6 +194,18 @@
 		font-size: inherit;
 	}
 
+
+	article div {
+		width: 100%;
+		overflow-x: auto;
+	}
+	/* div > :global(table) {
+		width: 512px;
+		min-width: 100%;
+	} */
+	article img {
+		margin: 0 auto;
+	}
 
 :global(article) aside {
 		/* padding: var(--gutterx); */

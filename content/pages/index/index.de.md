@@ -70,19 +70,21 @@ cards:
     link: /hgf
     src: /uploads/129.jpg
 documents:
-  - text: The official certificate of OGYÉI EN
-    file: /uploads/en_ogyei.pdf
-    src: /uploads/bxs-file-pdf.svg
-  - text: EU Declaration of Conformity
-    file: /uploads/ek_megfelelosegi_nyilatkozat.pdf
-    src: /uploads/bxs-file-pdf.svg
-  - text: User's Manual EN
-    file: /uploads/covid-19_igg_igm_4212-en-ce-20200416-109150801.pdf
-    src: /uploads/bxs-file-pdf.svg
-  - text: Certificates of the product
-    file: /uploads/certificates-clongene-covid-2019-igm.igg_1-7.pdf
-    src: /uploads/bxs-file-pdf.svg
-  - text: The diagnostic protocol of SmartBioma EN
-    file: /uploads/smartbioma_protocol_en.pdf
-    src: /uploads/bxs-file-pdf.svg
+  text: "## Documents"
+  links:
+    - text: The official certificate of OGYÉI EN
+      file: /uploads/en_ogyei.pdf
+      src: /uploads/bxs-file-pdf.svg
+    - text: EU Declaration of Conformity
+      file: /uploads/ek_megfelelosegi_nyilatkozat.pdf
+      src: /uploads/bxs-file-pdf.svg
+    - text: User's Manual EN
+      file: /uploads/covid-19_igg_igm_4212-en-ce-20200416-109150801.pdf
+      src: /uploads/bxs-file-pdf.svg
+    - text: Certificates of the product
+      file: /uploads/certificates-clongene-covid-2019-igm.igg_1-7.pdf
+      src: /uploads/bxs-file-pdf.svg
+    - text: The diagnostic protocol of SmartBioma EN
+      file: /uploads/smartbioma_protocol_en.pdf
+      src: /uploads/bxs-file-pdf.svg
 ---
