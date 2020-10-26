@@ -54,10 +54,10 @@
 		border-bottom: 2px solid var(--light);
 		margin-bottom: var(--gutter);
 	}
-	/* details[open] :global(summary) {
+	details[open] :global(summary) {
 		border-bottom: 2px solid var(--light);
 		margin-bottom: var(--gutter);
-	} */
+	}
 	summary:focus {
 		outline: none;
 		/* background: var(--text25); */
