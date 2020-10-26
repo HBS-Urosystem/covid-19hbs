@@ -24,9 +24,9 @@
 		<meta property="og:locale" content="hu_HU" />
 	{/if}
 	<!-- Alternate URLs must be fully-qualified, including the transport method (http/https), so: https://example.com/foo, not //example.com/foo or /foo -->
-	<!-- <link rel="alternate" hreflang="en" href="http://localhost:3000/{pages[type].en}" />
-	<link rel="alternate" hreflang="de" href="http://localhost:3000/{pages[type].de}" />
-	<link rel="alternate" hreflang="hu" href="http://localhost:3000/{pages[type].hu}" /> -->
+	<!-- <link rel="alternate" hreflang="en" href="https://covid-19.hbs.hu/{pages[type].en.slug}" />
+	<link rel="alternate" hreflang="de" href="https://covid-19.hbs.hu/{pages[type].de.slug}" />
+	<link rel="alternate" hreflang="hu" href="https://covid-19.hbs.hu/{pages[type].hu.slug}" /> -->
 </svelte:head>
 
 {#if $type == 'index' && $hero}
@@ -51,8 +51,13 @@
 					<span>{pages['index'][$lang]}</span>
 				</a>
 			</li> -->
-
 			<!-- segment === pages.faq[$lang].slug -->
+			<li>
+				<a name="logo" sapper-noscroll href="{pages.index[$lang].slug}">
+					<img loading="lazy" src="uploads/hbs-logo-medical.png" alt="hbs logo">
+				</a>
+			</li>
+
 			{#if pages.faq[$lang]}
 			<li>
 				<a aria-current="{$type == 'faq' ? 'page' : undefined}" href="{pages.faq[$lang].slug}">
@@ -182,9 +187,6 @@
 		vertical-align: middle;
 	}
 
-	li:last-child a {
-		padding-right: var(--gutter);
-	}
 	li a {
 		position: relative;
 		display: inline-block;
@@ -192,6 +194,19 @@
 		text-decoration: none;
 		font-weight: bolder;
 		color: var(--txtcolor)
+	}
+
+	li:first-child a {
+		max-height: 2rem;
+		width: auto;
+		padding: var(--guttery);
+	}
+	li:first-child a img {
+    max-height: 3rem;
+		width: auto;
+	}
+	li:last-child a {
+		padding-right: var(--gutter);
 	}
 
 	ul [aria-current]::after {
