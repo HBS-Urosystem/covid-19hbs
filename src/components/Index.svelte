@@ -104,7 +104,7 @@
     flex-direction: column;
 	}
 	aside figure > img {
-		height: 48%;
+		/* height: 48%; */
 		object-fit: cover;
 	}
 	/* aside figure a img {

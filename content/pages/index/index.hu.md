@@ -31,7 +31,7 @@ intro:
     mutatja: a vírus továbbra is súlyos fenyegetést jelent. "
 info:
   images:
-    - src: /uploads/bisnode.jpg
+    - src: /uploads/bisnode-hbs-hu.jpeg
       alt: 'Bisnode "A" tanúsítvány: HBS Zrt.'
       text: A Happy Business Services Zrt.
         ***[Bisnode&nbsp;A](<https://www.bisnode.hu/cegkereses/0/Happy Business
