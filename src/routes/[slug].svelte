@@ -41,18 +41,16 @@
 	<title>{post.title}</title>
 </svelte:head>
 
+<article>
 {#if post.subtitle}
 <h2>{post.subtitle}</h2>
 {/if}
-
-
-{#if post.intro}
-<article>
-	{#if post.intro.highlight}
-	<h3>{post.intro.highlight}</h3>
-	{/if}
+{#if post.intro.highlight}
+<h3>{post.intro.highlight}</h3>
+{/if}
 {@html _md(post.intro.text)}
 </article>
+
 	{#if post.intro.images}
 	<article>
 		<aside>
@@ -67,7 +65,6 @@
 		</aside>
 	</article>
 	{/if}
-{/if}
 
 {#if post.type == 'index'}
 <Index {post}/>
