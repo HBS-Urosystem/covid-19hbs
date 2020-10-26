@@ -130,7 +130,8 @@
 
   header img {
     width: 200px;
-    margin: var(--spacer) auto 0;
+		margin: var(--spacer) auto 0;
+		filter: drop-shadow(4px 4px 0 white);
   }
 	header#home {
 		fill: var(--bgcolor);
@@ -204,6 +205,7 @@
 	li:first-child a img {
     max-height: 3rem;
 		width: auto;
+		filter: drop-shadow(4px 4px 0 white);
 	}
 	li:last-child a {
 		padding-right: var(--gutter);

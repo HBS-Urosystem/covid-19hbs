@@ -20,7 +20,7 @@
 {/if}
 
 <div id="{q.object.anchor}"></div>
-<details open>
+<details>
 	<summary>
 		<a href="{post.slug}/#{q.object.anchor}" sapper-noscroll>{@html Link}</a>{@html _md(q.object.question)}
 	</summary>

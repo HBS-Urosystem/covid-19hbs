@@ -74,9 +74,9 @@
 {#if post.list}
 <List {post}/>
 {/if}
-
+<!-- 
 <CTA/>
-
+ -->
 <!-- <figure>
 	<img loading="lazy" src="{post.image.src}" alt="{post.title}"/>
 	{#if post.image.caption}

@@ -31,5 +31,7 @@
 		margin-top: var(--spacer);
 		border: solid var(--light);
 	}
-
+	a {
+		text-decoration: none;
+	}
 </style>
