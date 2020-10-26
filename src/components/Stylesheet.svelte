@@ -238,5 +238,13 @@
 		text-align: left;
 	}
 
+	:global(details[open]) summary {
+		border-bottom: 2px solid var(--light);
+		margin-bottom: var(--gutter);
+	}
+	details[open] :global(summary) {
+		border-bottom: 2px solid var(--light);
+		margin-bottom: var(--gutter);
+	}
 
 </style>
