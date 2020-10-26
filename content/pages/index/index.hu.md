@@ -40,13 +40,14 @@ info:
         tanúsítvánnyal (itt letölthető) a magyar cégeknek csak a 7,44%-a
         rendelkezik.
   text: Cégünk, a **Happy Business Services Zrt.** orvostechnikai divíziója az
-    egyik jelentős importőre a **COVID-19 szerológiai gyorsteszteknek**.
-    Szállítónk, a Clungene Co., több mint 1000 féle mikrobiológiai teszt anyagot
-    és készterméket gyárt. Cégünk a Clungene Co. exkluzív disztribútora
-    Magyarország területén. Már több szállítmányunk beérkezett az országba,
-    melyek egy részét az Állami Egészségügyi Ellátó Központon (AEEK) keresztül a
-    magyar államnak szállítottuk le. Jelentős mennyiségben vásároltak már
-    egészségügyi intézmények, nagyvállalatok és egyes városok vezetőségei is.
+    egyik jelentős importőre a **COVID-19 szerológiai és
+    antigén-gyorsteszteknek**. Szállítónk, a Clungene Co., több mint 1000 féle
+    mikrobiológiai teszt anyagot és készterméket gyárt. Cégünk a Clungene Co.
+    exkluzív disztribútora Magyarország területén. Már több szállítmányunk
+    beérkezett az országba, melyek egy részét az Állami Egészségügyi Ellátó
+    Központon (AEEK) keresztül a magyar államnak szállítottuk le. Jelentős
+    mennyiségben vásároltak már egészségügyi intézmények, nagyvállalatok és
+    egyes városok vezetőségei is.
 references:
   links:
     - url: https://www.affidea.hu/covid-19-szures
