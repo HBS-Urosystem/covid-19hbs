@@ -205,7 +205,7 @@
 	li:first-child a img {
     max-height: 3rem;
 		width: auto;
-		filter: drop-shadow(4px 4px 0 white);
+		filter: drop-shadow(2px 2px 0 white);
 	}
 	li:last-child a {
 		padding-right: var(--gutter);
