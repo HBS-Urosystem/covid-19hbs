@@ -3,7 +3,7 @@ type: product
 slug: szerologiaiteszt
 title: Szerológiai gyorstesztek
 menutitle: Szerológiai gyorstesztek
-hero: /uploads/sam_0258_copy.jpg
+hero: /uploads/sam_0364_copy.jpg
 intro:
   highlight: A COVID-19 gyorsteszt szerológiai vizsgálatnak minősül, és
     tájékoztató információval szolgál az esetleges fertőzöttségről.
