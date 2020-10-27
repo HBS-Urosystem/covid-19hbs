@@ -415,19 +415,22 @@ list:
         A gyakorlati használat szempontjából további lényeges fogalom az *átfertőzöttség*, amely megadja, egy adott közösség (város, ország) hány százaléka fertőződött már meg a kórokozóval. 
 
 
-        #### Példa
+        #### Egy példa
 
 
-        Legyen a mostani példában a szenzitivitás és a specificitás értéke is 90%, az átfertőzöttség pedig 2%.
+        Legyen a szenzitivitás és a specificitás értéke is 90%, az átfertőzöttség pedig 2%.
 
 
-        Ezekből az adatokból kiindulva, egy 1000 fős véletlenszerű mintában 20 fertőzött személynek kell lennie. Ezek közül 18-at kimutat a gyorsteszt (2 esetet nem, hiszen 90% a szenzitivitás – ezeket az eredményeket hívjuk hamis negatívnak). A nem fertőzöttek száma 980, akik közül 882-ről a teszt igazolja, hogy nem fertőzöttek – viszont, 98 egészséges személyt is fertőzöttnek jelez (mert a specificitás is 90% - a tévesen fertőzést jelző eredmény a hamis pozitív). Annak az esélye tehát, hogy egy a teszt által kapott pozitív eredmény ténylegesen fertőzött emberhez tartozik, mindössze 18/(18+98)×100%, azaz alig 15,52%. **Ezt az adatot**, vagyis, a valódi pozitív eredmények és az összes (valódi és hamis) pozitív eredmény hányadosát (szorozva 100%-kal) **hívják pozitív prediktív értéknek**.
+        Ezekből az adatokból kiindulva egy 1000 fős véletlenszerű mintában 20 fertőzött személynek kell lennie. Ezek közül 18-at kimutat a gyorsteszt (2 esetet nem, hiszen 90% a szenzitivitás – ezeket az eredményeket hívjuk hamis negatívnak). A nem fertőzöttek száma 980, akik közül 882-ről a teszt igazolja, hogy nem fertőzöttek – viszont, 98 egészséges személyt is fertőzöttnek jelez (mert a specificitás is 90% - a tévesen fertőzést jelző eredmény a hamis pozitív). 
 
 
-        A teszt negatívnak jelzi a nem fertőzöttek 90%-át, 882 embert, valamint két fertőzöttet is. Hogy mennyi eséllyel lesz valóban fertőzésmentes valaki, ha a teszt negatív eredményt mutat, **hívják negatív prediktív értéknek** – ebben a példában ez 884/(884+2)×100%, vagyis 99,77% (a valódi negatív értékek osztva az összes negatív eredménnyel, szorozva 100%-kal).
+        Annak az esélye tehát, hogy egy a teszt által adott pozitív eredmény ténylegesen fertőzött emberhez tartozik, mindössze 18/(18+98)×100%, azaz alig 15,52%. **Ezt az adatot**, vagyis a valódi pozitív eredmények és az összes (valódi és hamis) pozitív eredmény hányadosát (szorozva 100%-kal) hívják **pozitív prediktív értéknek**.
 
 
-        Első ránézésre lesújtónak tűnik, hogy ebben az esetben 84,48% annak az esélye, hogy a teszt tévesen jelzett fertőzöttséget. **A jelenség hátterében azonban nem a tesztek használhatatlansága, hanem a statisztika áll. Alacsony átfertőzöttség esetén kevéssé érvényesül a teszt *szenzitivitása* és *specificitása***, mivel a mindössze 10%-nyi „specificitás hibához” hatalmas mennyiségű adat tartozik (a rengeteg nem fertőzött ember), míg a 90%-nyi szenzitivitáshoz nagyon kevés (a néhány fertőzött).
+        A teszt negatívnak jelzi a nem fertőzöttek 90%-át, 882 embert, valamint két fertőzöttet is. Hogy mennyi eséllyel lesz valóban fertőzésmentes valaki, ha a teszt negatív eredményt mutat, azt hívják **negatív prediktív értéknek** – ebben a példában ez 884/(884+2)×100%, vagyis 99,77% (a valódi negatív értékek osztva az összes negatív eredménnyel, szorozva 100%-kal).
+
+
+        Első ránézésre lesújtónak tűnik, hogy ebben az esetben 84,48% annak az esélye, hogy a teszt tévesen jelzett fertőzöttséget. **A jelenség hátterében azonban nem a tesztek használhatatlansága, hanem a statisztika áll. Alacsony átfertőzöttség esetén kevéssé érvényesül a teszt *szenzitivitása* és *specificitása***, mivel a mindössze 10%-nyi „specificitási hibához” hatalmas mennyiségű adat tartozik (a rengeteg nem fertőzött ember), míg a 90%-nyi szenzitivitáshoz nagyon kevés (a néhány fertőzött).
 
 
         A részletes levezetés ismertetése nélkül érdemes megemlíteni a következőket is:
