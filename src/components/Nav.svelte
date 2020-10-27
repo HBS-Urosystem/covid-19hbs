@@ -54,7 +54,7 @@
 			</li> -->
 			<!-- segment === pages.faq[$lang].slug -->
 			<li>
-				<a name="logo" sapper-noscroll href="{pages.index[$lang].slug}">
+				<a name="logo" sapper-noscroll aria-current="{$type == 'index' ? 'page' : undefined}" href="{pages.index[$lang].slug}">
 					<span>{pages.index[$lang].menutitle}</span><!-- <img loading="lazy" src="uploads/hbs-logo-medical.png" alt="hbs logo"> -->
 				</a>
 			</li>
@@ -198,7 +198,7 @@
 		color: var(--txtcolor)
 	}
 
-	li:first-child a {
+	/* li:first-child a {
 		max-height: 2rem;
 		width: auto;
 		padding: var(--guttery);
@@ -210,7 +210,7 @@
 	}
 	li:last-child a {
 		padding-right: var(--gutter);
-	}
+	} */
 
 	ul [aria-current]::after {
 		position: absolute;

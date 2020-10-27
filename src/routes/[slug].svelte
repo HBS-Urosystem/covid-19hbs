@@ -79,7 +79,7 @@
 {/if}
 {#if post.type == 'gdpr'}
 <article>
-<h2>{post.title}</h2>
+<h1>{post.title}</h1>
 {@html post.html}
 </article>
 {/if}
