@@ -148,7 +148,6 @@
 		height: 100vh;
   }
 	header#home h1 {
-		text-transform: uppercase;
 		filter: drop-shadow(2px 2px 0 var(--dark50))
 	}
   
@@ -162,6 +161,7 @@
     /* color: white; */
 		border-bottom: solid 4px var(--light);
 		font-size: 1.75rem;
+		text-transform: uppercase;
   }
 	nav {
 		background-color: var(--dark);
