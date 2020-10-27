@@ -35,8 +35,7 @@
 <header id="home" style="background-image: url({$hero})">
 	<img loading="lazy" src="uploads/hbs-logo-medical.png" alt="hbs logo">
 	<h1>{@html $tagline}</h1>
-		<h5><a href="https://www.facebook.com/tesztelj" target="_blank" rel="noopener">{@html FBicon}&nbsp;/tesztelj&nbsp;</a></h5>
-
+		<!-- <h5><a href="https://www.facebook.com/tesztelj" target="_blank" rel="noopener">{@html FBicon}&nbsp;/tesztelj&nbsp;</a></h5> -->
 </header>
 {:else}
 <header>
@@ -111,6 +110,7 @@
 
 		</ul>
 	</div>
+	<h5><a href="https://www.facebook.com/tesztelj" target="_blank" rel="noopener">{@html FBicon}&nbsp;/&thinsp;tesztelj&nbsp;</a></h5>
 </nav>
 
 <style>
@@ -156,7 +156,7 @@
     font-weight: bolder;
     letter-spacing: .25rem;
     text-shadow: 1px 1px 2px var(--dark);
-    color: white;
+    /* color: white; */
 		border-bottom: solid 4px var(--light);
 		font-size: 1.75rem;
   }
@@ -170,20 +170,21 @@
 		top: 0;
 		z-index: 1;
 	}
-	header h5 {
+	h5 {
 		position: absolute;
-		bottom: .5rem;
+		/* bottom: .5rem; */
 		margin-left: 50%;
+		color: var(--light);
 	}
-	header h5 a {
+	h5 a {
 		margin-left: -50%;
 		border-width: 3px;
     border-radius: 8px;
     padding: .25rem .5rem;
 		font-weight: bolder;
-		background-color: var(--light50);
+		background-color: var(--dark);
 	}
-	header h5 :global(svg) {
+	h5 :global(svg) {
 		display: inline;
 		fill: var(--light);
     vertical-align: text-bottom;
