@@ -44,8 +44,11 @@
 
 {#if post.intro}
 <article>
+{#if post.subtitle}
+<h2>{post.subtitle}</h2>
+{/if}
 {#if post.intro.highlight}
-<h3>{post.intro.highlight}</h3>
+<h4>{post.intro.highlight}</h4>
 {/if}
 {@html _md(post.intro.text)}
 </article>
@@ -104,6 +107,7 @@
 		color: var(--light);
 		text-shadow: 1px 1px 2px var(--dark);
 		background-color: var(--light25);
+		text-align: center;
 	}
 	article {
 		/* background-color: var(--light25);

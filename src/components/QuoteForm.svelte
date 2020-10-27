@@ -153,6 +153,7 @@
 		color: var(--light);
 		text-shadow: 1px 1px 2px var(--dark);
 		background-color: var(--light25);
+		text-align: center;
 	}
 	article {
 		/* background-color: var(--light25);

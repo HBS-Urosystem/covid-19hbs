@@ -25,7 +25,7 @@ intro:
     rendszeres és módszeres tesztelés**.
 
 
-    2020 őszén, amikor már nyilvánvalóvá vált, hogy a COVID-19 második hulláma sokkal több megbetegedést fog okozni, mint az első, a cégünk **új terméket** importált, hogy még hatékonyabban lehessen felvenni a harcot a járvánnyal. A **COVID-19 antigén gyorsteszt** **kiegészíti a szerológiai gyorsteszteket**: míg az utóbbiakat használva a **fertőzés késői szakaszát, illetve a korábban lezajlott fertőzést lehet azonosítani**, az előbbiekkel a **fertőzés kezdeti szakaszában lehet a vírust kimutatni**.
+    2020 őszén, amikor már nyilvánvalóvá vált, hogy a COVID-19 második hulláma sokkal több megbetegedést fog okozni, mint az első, cégünk **új terméket** importált, hogy még hatékonyabban lehessen felvenni a harcot a járvánnyal. A **COVID-19 antigén gyorsteszt** **kiegészíti a szerológiai gyorsteszteket**: míg az utóbbiakat használva a **fertőzés késői szakaszát, illetve a korábban lezajlott fertőzést lehet azonosítani**, az előbbiekkel a **fertőzés kezdeti szakaszában lehet a vírust kimutatni**.
   highlight: "Az új koronavírus okozta megbetegedés (COVID-19) nagyon rövid idő
     alatt világjárványhoz vezetett. Az ősszel kirobbant második hullám pedig jól
     mutatja: a vírus továbbra is súlyos fenyegetést jelent. "
