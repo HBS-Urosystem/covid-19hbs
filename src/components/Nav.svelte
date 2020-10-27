@@ -7,8 +7,8 @@
 <script>
 	export let segment
 	$: if (segment && segment !== 'undefined') {
-		console.log('_nav-segment',segment,typeof(segment))
-		console.log('_nav-type:', $type)
+		//console.log('_nav-segment',segment,typeof(segment))
+		//console.log('_nav-type:', $type)
 	}
 </script>
 

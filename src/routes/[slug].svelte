@@ -116,7 +116,11 @@
 	} */
 	figure :first-child:not(img) {
 		margin-top: var(--gutter);
+		/* font-weight: bolder; */
+	}
+	figure :global(h3) {
 		font-weight: bolder;
+		hyphens: none;
 	}
 	aside figure {
     display: flex;

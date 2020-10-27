@@ -219,7 +219,7 @@
 	} */
 	:global(figure) :first-child:not(img) {
 		margin-top: var(--gutter);
-		font-weight: bolder;
+		/* font-weight: bolder; */
 	}
 	:global(aside) figure {
     display: flex;

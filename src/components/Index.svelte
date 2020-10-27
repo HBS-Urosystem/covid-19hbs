@@ -107,7 +107,7 @@
 	} */
 	figure :first-child:not(img) {
 		margin-top: var(--gutter);
-		font-weight: bolder;
+		/* font-weight: bolder; */
 	}
 	aside figure {
     display: flex;

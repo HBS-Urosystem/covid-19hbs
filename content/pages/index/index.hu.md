@@ -9,14 +9,14 @@ intro:
     - src: /uploads/clungene-antigen-test.jpeg
       alt: Clungene® COVID-19 antigén gyorsteszt kazetta
       text: >-
-        ### [Clungene® COVID-19 antigén gyorsteszt kazetta](/antigenteszt)
+        ### [Clungene® COVID-19 antigén gyorsteszt](/antigenteszt)
 
 
         A vírusnak az emberi immunrendszer által is felismert fehérjéjét mutatja ki. A COVID-19 korai szakaszában azonosítja a fertőzést.
     - src: /uploads/sam_0089_copy.jpg
       alt: Clungene® COVID-19 IgG/IgM gyorsteszt kazetta
       text: >-
-        ### [Clungene® COVID-19 IgG/IgM gyorsteszt kazetta](/szerologiaiteszt)
+        ### [Clungene® COVID-19 IgG/IgM gyorsteszt](/szerologiaiteszt)
 
 
         A vírus ellen, a szervezet által termelt ellenanyagokat mutatja ki. A COVID-19 közép- és késői szakaszának, illetve a múltban lezajlott fertőzés azonosítására alkalmas.
