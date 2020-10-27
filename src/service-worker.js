@@ -11,7 +11,7 @@ self.addEventListener("install", (event) => {
 	event.waitUntil(
 		caches
 			.open(ASSETS)
-			//.then((cache) => cache.addAll(to_cache)) /// precaching logic /// vhollo
+			.then((cache) => cache.addAll(to_cache)) /// precaching logic /// vhollo
 			.then(() => {
 				self.skipWaiting();
 			})
