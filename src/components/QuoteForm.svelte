@@ -18,34 +18,36 @@
 <form name="quoteform" method="POST">
 	<!-- <fieldset> -->
 	<input type='hidden' name='form-name' value='quoteform' />
-	<label>Name
+	<label>Kapcsolattartó neve
 	<input name="name" type="text" required placeholder="Required" />
 	</label>
-	<label>Company
+	<label>Cég neve
 	<input name="company" type="text" />
 	</label>
-	<label>Email
+	<label>Email cím
 	<input name="email" type="email" required placeholder="Required" />
 	</label>
-	<label>Phone number
+	<label>Telefonszám
 	<input name="phone" type="tel" required placeholder="Required" />
 	</label>
-	<label>Ag test quantity
+	<label>Antigén gyorsteszt mennyisége (doboz)
 	<input name="ag-qty" type="number" />
+	<small>Megrendelési egység: 1 doboz = 25 db</small>
 	</label>
-	<label>IgG/IgM test quantity
+	<label>Szerológiai gyorsteszt mennyisége (doboz)
 	<input name="ig-qty" type="number" />
+	<small>Min. megrendelési egység: 8 doboz (1 doboz = 25 db)</small>
 	</label>
 	<label>Profile
 	<input name="profile" type="text" />
 	</label>
 	<!-- </fieldset> -->
 	<fieldset>
-	Question or remarks
+	Megjegyzések
 		<textarea name="description"></textarea>
 	</fieldset>
 	<fieldset>
-	<input type="submit" value="Submit" />
+	<input type="submit" value="Küldés" />
 	</fieldset>
 	
 </form>
