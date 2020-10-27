@@ -2,6 +2,7 @@
 	import { type, lang, hero, tagline } from '../stores.js'
 	import { mergePages } from '../content.js'
 	export const pages = mergePages()
+	import { FBicon } from "./SVGs.svelte"
 </script>
 
 <script>
@@ -34,6 +35,8 @@
 <header id="home" style="background-image: url({$hero})">
 	<img loading="lazy" src="uploads/hbs-logo-medical.png" alt="hbs logo">
 	<h1>{@html $tagline}</h1>
+		<h5><a href="https://www.facebook.com/tesztelj" target="_blank" rel="noopener">{@html FBicon}&nbsp;/tesztelj&nbsp;</a></h5>
+
 </header>
 {:else}
 <header>
@@ -166,6 +169,24 @@
 		position: sticky;
 		top: 0;
 		z-index: 1;
+	}
+	header h5 {
+		position: absolute;
+		bottom: 0;
+		margin-left: 50%;
+	}
+	header h5 a {
+		margin-left: -50%;
+		border-width: 3px;
+    border-radius: 8px;
+    padding: .25rem .5rem;
+		font-weight: bolder;
+		background-color: var(--bgcolor);
+	}
+	header h5 :global(svg) {
+		display: inline;
+		fill: var(--light);
+    vertical-align: text-bottom;
 	}
 	nav div {
 		max-width: 80ch;
