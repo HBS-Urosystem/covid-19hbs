@@ -55,7 +55,7 @@
 			<!-- segment === pages.faq[$lang].slug -->
 			<li>
 				<a name="logo" sapper-noscroll href="{pages.index[$lang].slug}">
-					<img loading="lazy" src="uploads/hbs-logo-medical.png" alt="hbs logo">
+					<span>{pages.index[$lang].menutitle}</span><!-- <img loading="lazy" src="uploads/hbs-logo-medical.png" alt="hbs logo"> -->
 				</a>
 			</li>
 
