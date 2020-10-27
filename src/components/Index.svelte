@@ -61,8 +61,6 @@
 </article>
 {/if}
 
-<!-- <CTA /> -->
-
 {#if post.references}<!--  -->
 <article>
 	{@html _md(post.references.text)}
@@ -92,6 +90,8 @@
 	</ul>
 </article>
 {/if}
+
+<CTA />
 
 <style>
 	article {

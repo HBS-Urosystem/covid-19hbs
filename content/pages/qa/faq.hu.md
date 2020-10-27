@@ -2,7 +2,7 @@
 type: faq
 slug: gyik
 title: Gyakori kérdések
-subtitle: Avagy amit a SARS-CoV-2 (új koronavírus) rapid tesztről tudni érdemes
+subtitle: Avagy amit a SARS-CoV-2 (új koronavírus) rapid tesztekről tudni érdemes
 menutitle: Gyakori kérdések
 intro:
   text: ""
