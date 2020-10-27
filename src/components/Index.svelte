@@ -79,7 +79,15 @@
 	{@html _md(post.documents.text)}
 	<ul>
 		{#each post.documents.links as ref}
-		<li><a href="{ref.file}" rel="noopener" target="_blank">{ref.text}</a></li>
+		{#if ref.src}
+		<li style="list-style-image: url('{ref.src}')">
+			<a href="{ref.file}" rel="noopener" target="_blank">{ref.text}</a>
+		</li>
+		{:else}
+		<li>
+			<a href="{ref.file}" rel="noopener" target="_blank">{ref.text}</a>
+		</li>
+		{/if}
 		{/each}
 	</ul>
 </article>
