@@ -148,16 +148,17 @@
 		height: 100vh;
   }
 	header#home h1 {
-		filter: drop-shadow(2px 2px 0 var(--dark50))
+		
 	}
   
   h1 {
+		filter: drop-shadow(2px 2px 0 var(--dark50));
 		margin: 0;
 		padding: var(--spacer) var(--gutter);
 		text-align: center;
     font-weight: bolder;
     letter-spacing: .25rem;
-		text-shadow: 2px 2px 4px var(--dark);
+		/* text-shadow: 2px 2px 4px var(--dark); */
     /* color: white; */
 		border-bottom: solid 4px var(--light);
 		font-size: 1.75rem;
