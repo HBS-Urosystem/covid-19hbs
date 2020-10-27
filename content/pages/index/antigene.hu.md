@@ -26,7 +26,7 @@ documents:
     OGYÉI nyilvántartási száma: HU/CA01/55505/20
   links:
     - text: A termék használatát ismertető brosúra
-      file: /uploads/clongene-antigen-test-new.pdf
+      file: /uploads/antigen_gyorsteszt_brosura.jpg
       src: /uploads/bxs-file-pdf.svg
     - text: Magyar nyelvű használati útmutató
       file: /uploads/hasznalati_utmutato_covid-19_antigen-5002-en-ce-2_0-109148202-1-1-.pdf
