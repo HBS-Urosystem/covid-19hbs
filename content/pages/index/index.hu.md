@@ -81,24 +81,6 @@ cards:
   - text: "#### Gyakori kérdések"
     link: /gyik
     src: /uploads/129.jpg
-documents:
-  text: "## Dokumentumok"
-  links:
-    - text: OGYÉI hatósági bizonyítvány HU
-      file: /uploads/ogyei_hatosagi_bizonyitvany_orvostech-17106-3-2020-szghbv_alairt-1.pdf
-      src: /uploads/bxs-file-pdf.svg
-    - text: EU megfelelőségi nyilatkozat
-      file: /uploads/ek_megfelelosegi_nyilatkozat.pdf
-      src: /uploads/bxs-file-pdf.svg
-    - text: Használati útmutató HU
-      file: /uploads/hasznalati_utasitas_clungene_covid-19_igg-igm-4212-hu-v4.pdf
-      src: /uploads/bxs-file-pdf.svg
-    - text: A termék bizonyítványai
-      file: /uploads/certificates-clongene-covid-2019-igm.igg_1-7.pdf
-      src: /uploads/bxs-file-pdf.svg
-    - text: A SmartBioma diagnosztikai protokollja HU
-      file: /uploads/sars-cov-2-covid-19-szűrés-_-kimutatás.pdf
-      src: /uploads/bxs-file-pdf.svg
 ---
 A következő ábra szemlélteti, miként viszonyul egymáshoz a vírus egy adott fehérjéjét kimutató antigén teszt és a SARS-CoV-2 ellen termelt antitesteket kimutató szerológiai teszt.
 

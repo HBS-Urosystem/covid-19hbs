@@ -12,7 +12,7 @@
 
 	export function preload(page) {
 		//if (!page.params.slug.replace('/','')) this.redirect(302, 'hu')
-		console.log('_slug-post',findPost(page.params.slug))
+		//console.log('_slug-post',findPost(page.params.slug))
 		return { post: findPost(page.params.slug) }
 	}
 	function _md(it) {
