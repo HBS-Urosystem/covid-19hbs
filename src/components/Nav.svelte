@@ -10,6 +10,7 @@
 		//console.log('_nav-segment',segment,typeof(segment))
 		//console.log('_nav-type:', $type)
 	}
+	//console.log(pages)
 </script>
 
 <svelte:head>
@@ -29,7 +30,7 @@
 	<link rel="alternate" hreflang="hu" href="https://covid-19.hbs.hu/{pages[type].hu.slug}" /> -->
 </svelte:head>
 
-{#if $type == 'index' && $hero}
+{#if $hero}
 <header id="home" style="background-image: url({$hero})">
 	<img loading="lazy" src="uploads/hbs-logo-medical.png" alt="hbs logo">
 	<h1>{@html $tagline}</h1>

@@ -3,7 +3,7 @@ type: product
 slug: szerologiaiteszt
 title: Szerológiai gyorstesztek
 menutitle: Szerológiai gyorstesztek
-hero: /uploads/sam_0089_copy.jpg
+hero: /uploads/sam_0258_copy.jpg
 intro:
   highlight: A COVID-19 gyorsteszt szerológiai vizsgálatnak minősül, és
     tájékoztató információval szolgál az esetleges fertőzöttségről.
@@ -22,6 +22,9 @@ intro:
 
 
     A mi szállítónk, a Clungene Co., több mint 1000 féle mikrobiológiai teszt anyagot és készterméket gyárt, óriási cég, az egyik legnagyobb Kínában.  Cégünk exkluzív disztribútora Magyarország területén.  Európában Belgium, Németország, Hollandia, Olaszország, Litvánia, Egyesült Királyság, Svájc, Spanyolország, Románia, Dánia, Franciaország, Lengyelország, Svédország, Portugália, Írország, Észtország, Bulgária és Törökország vásárolt már a gyár tesztjeiből.
+  images:
+    - src: /uploads/sam_0089_copy.jpg
+      alt: Clungene® COVID-19 IgG/IgM gyorsteszt
 documents:
   text: "## Dokumentumok"
   links:

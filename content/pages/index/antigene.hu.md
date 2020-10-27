@@ -3,12 +3,15 @@ type: product
 slug: antigenteszt
 title: Antigén gyorstesztek
 menutitle: Antigén gyorstesztek
-hero: /uploads/clungene-antigen-test.jpeg
+hero: ""
 intro:
   highlight: "Az antigén (röviden: Ag) gyorsteszt kazetta tökéletes kiegészítője a
     szerológiai tesztnek. Ezen az oldalon ismertetjük az antigén teszttel
     kapcsolatos legfontosabb információkat. "
   text: ""
+  images:
+    - src: /uploads/clungene-antigen-test.jpeg
+      alt: Clungene® COVID-19 antigén gyorsteszt
 documents:
   text: >-
     ## További információk, dokumentumok
