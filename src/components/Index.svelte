@@ -79,7 +79,7 @@
 	{@html _md(post.documents.text)}
 	<ul>
 		{#each post.documents.links as ref}
-		<li><a href="{ref.url}" rel="noopener" target="_blank">{ref.text}</a></li>
+		<li><a href="{ref.file}" rel="noopener" target="_blank">{ref.text}</a></li>
 		{/each}
 	</ul>
 </article>
