@@ -35,7 +35,7 @@
 	<small>Megrendelési egység: 1 doboz = 25 db</small>
 	</label>
 	<label>Szerológiai gyorsteszt mennyisége (doboz)
-	<input name="ig-qty" type="number" />
+	<input name="ig-qty" type="number" min="8" />
 	<small>Min. megrendelési egység: 8 doboz (1 doboz = 25 db)</small>
 	</label>
 	<label>Profile
