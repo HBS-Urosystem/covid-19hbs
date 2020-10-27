@@ -5,8 +5,8 @@ title: Antigén-gyorstesztek
 menutitle: Antigén-gyorstesztek
 hero: ""
 intro:
-  highlight: "Az antigén (röviden: Ag) -gyorsteszt kazetta tökéletes kiegészítője a
-    szerológiai tesztnek. Ezen az oldalon ismertetjük az antigén-teszttel
+  highlight: "Az antigén (röviden: Ag)-gyorsteszt tökéletes kiegészítője a
+    szerológiai teszteknek. Ezen az oldalon ismertetjük az antigén-teszttel
     kapcsolatos legfontosabb információkat. "
   text: ""
   images:

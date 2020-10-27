@@ -2,14 +2,14 @@
 type: faq
 slug: gyik
 title: Gyakori kérdések
-subtitle: Avagy amit a SARS-CoV-2 (új koronavírus) rapid tesztekről tudni érdemes
+subtitle: Amit a SARS-CoV-2 (új koronavírus) rapid tesztekről tudni érdemes
 menutitle: Gyakori kérdések
 intro:
   text: ""
   highlight: Célunk, hogy az olvasókat mindig naprakész információkkal lássuk el.
     Az utóbbi időben számos, a COVID-19-cel, illetve annak kimutatásával
     kapcsolatos új tudományos információ látott napvilágot. Hogy ezeket is
-    elérhetővé tegyük, ezt az oldalt hamarosan átalakítjuk.
+    elérhetővé tegyük, ezt az oldalt folyamatosan frissítjük.
 list:
   - object:
       question: Ki lehet mutatni, ha valakit megfertőzött az új koronavírus?
@@ -20,9 +20,9 @@ list:
 
         * Ki lehet mutatni magának a vírusnak az örökítőanyagát számos féle emberi sejtből, ez az úgynevezett PCR teszt. A rövidítés a Polymerase Chain Reaction, vagyis polimeráz láncreakció kifejezést takarja. Az örökítőanyag egyetlen, vagy néhány példányát ugyanis nem lehet kimutatni, ám nagy mennyiségét már igen – a láncreakció célja pedig éppen e nagy mennyiség előállítása.
 
-        * Ki lehet mutatni a vírust úgy is, hogy annak valamely olyan, rá jellemző fehérjéjét azonosítják, amelyet az emberi immunrendszer is felismer. Ezt hívják antigén tesztnek (Ag tesztnek) – ugyanis antigénnek hívják az immunválaszt kiváltó „idegen” anyagokat.
+        * Ki lehet mutatni a vírust úgy is, hogy annak valamely olyan, rá jellemző fehérjéjét azonosítják, amelyet az emberi immunrendszer is felismer. Ezt hívják antigén-tesztnek (Ag-tesztnek) – ugyanis antigénnek hívják az immunválaszt kiváltó „idegen” anyagokat.
 
-        * Ki lehet mutatni az emberi szervezet a vírus ellen termelt ellenanyagait, az úgynevezett antitesteket. Ezt nevezik szerológiai, immunkromatográfiás vagy immunoglobulin tesztnek
+        * Ki lehet mutatni az emberi szervezet a vírus ellen termelt ellenanyagait, az úgynevezett antitesteket. Ezt nevezik szerológiai, immunkromatográfiás vagy immunoglobulin-tesztnek
 
 
         Gyorsteszt vagy rapid teszt alatt általában az utóbbi kettő valamelyikét értik; az elnevezés arra utal, hogy ezeket nagyon rövid idő (akár 15 perc) alatt is el lehet végezni. (A régebbi források a gyorsteszt kifejezést a szerológiai teszt szinonimájaként használták – az új koronavírust kimutató antigén tesztek ugyanis csak a legutóbbi időkben terjedtek el.)
