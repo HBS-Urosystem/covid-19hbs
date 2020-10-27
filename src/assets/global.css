@@ -573,8 +573,7 @@ iframe,
 embed,
 object {
   display: block;
-	vertical-align: middle;
-	margin: 0 auto;
+  vertical-align: middle;
 }
 
 /**
