@@ -42,36 +42,46 @@
 	<title>{post.title}</title>
 </svelte:head>
 
+{#if post.intro}
 <article>
-{#if post.subtitle}
-<h2>{post.subtitle}</h2>
-{/if}
 {#if post.intro.highlight}
 <h3>{post.intro.highlight}</h3>
 {/if}
 {@html _md(post.intro.text)}
 </article>
 
-	{#if post.intro.images}
-	<article>
-		<aside>
-			{#each post.intro.images as image}
-			<figure>
-				<img loading="lazy" src="{image.src}" alt="{image.alt}"/>
-				{#if image.text}
-				<figcaption>{@html _md(image.text)}</figcaption>
-				{/if}
-			</figure>
-			{/each}
-		</aside>
-	</article>
-	{/if}
+{#if post.intro.images}
+<article>
+	<aside>
+		{#each post.intro.images as image}
+		<figure>
+			<img loading="lazy" src="{image.src}" alt="{image.alt}"/>
+			{#if image.text}
+			<figcaption>{@html _md(image.text)}</figcaption>
+			{/if}
+		</figure>
+		{/each}
+	</aside>
+</article>
+{/if}
+
+{:else}
+{#if post.subtitle}
+<h2>{post.subtitle}</h2>
+{/if}
+{/if}
 
 {#if post.type == 'index'}
 <Index {post}/>
 {/if}
 {#if post.type == 'product'}
 <Index {post}/>
+{/if}
+{#if post.type == 'gdpr'}
+<article>
+<h2>{post.title}</h2>
+{@html post.html}
+</article>
 {/if}
 
 
