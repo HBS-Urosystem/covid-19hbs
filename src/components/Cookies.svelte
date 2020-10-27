@@ -29,6 +29,14 @@
 		padding: 0 .5rem;
 		z-index: 1;
 	}
+	button {
+		flex-shrink: 0;
+    width: min-content;
+	}
+	p {
+		max-height: var(--spacer);
+		overflow-y: auto;
+	}
 	p, button {
 		color: var(--dark);
 	}
