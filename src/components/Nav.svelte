@@ -149,7 +149,7 @@
   }
 	header#home h1 {
 		text-transform: uppercase;
-		filter: drop-shadow(2px 2px 0 var(--dark));
+		filter: drop-shadow(2px 2px 0 var(--dark50))
 	}
   
   h1 {

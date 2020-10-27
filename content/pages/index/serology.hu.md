@@ -1,6 +1,6 @@
 ---
 type: product
-slug: szerologiaiteszt
+slug: szerologiai-teszt
 title: Szerológiai gyorstesztek
 menutitle: Szerológiai gyorstesztek
 hero: /uploads/sam_0364_copy.jpg

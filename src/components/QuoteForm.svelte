@@ -8,7 +8,7 @@
 </script>
 
 <svelte:head>
-	<title>Kérjen ajánlatot!</title>
+	<title>{$tagline}</title>
 </svelte:head>
 
 <article>
@@ -19,16 +19,16 @@
 	<!-- <fieldset> -->
 	<input type='hidden' name='form-name' value='quoteform' />
 	<label>Kapcsolattartó neve
-	<input name="name" type="text" required placeholder="Required" />
+	<input name="name" type="text" required placeholder="*" />
 	</label>
 	<label>Cég neve
 	<input name="company" type="text" />
 	</label>
 	<label>Email cím
-	<input name="email" type="email" required placeholder="Required" />
+	<input name="email" type="email" required placeholder="*" />
 	</label>
 	<label>Telefonszám
-	<input name="phone" type="tel" required placeholder="Required" />
+	<input name="phone" type="tel" required placeholder="*" />
 	</label>
 	<label>Antigén gyorsteszt mennyisége (doboz)
 	<input name="ag-qty" type="number" />
