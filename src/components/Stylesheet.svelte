@@ -186,7 +186,7 @@
 
 	button {
 		border-width: 2px;
-		padding: 0 var(--gutter);
+		padding: var(--guttery) var(--gutter);
 		background-color: var(--dark25);
 		hyphens: none;
 	}
