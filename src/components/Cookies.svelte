@@ -25,6 +25,7 @@
 		background: var(--light);
 		font-size: smaller;
 		display: flex;
+		align-items: center;
 		padding: 0 .5rem;
 		z-index: 1;
 	}

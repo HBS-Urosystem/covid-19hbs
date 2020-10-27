@@ -31,7 +31,7 @@
 <style>
 	details {
 		background-color: var(--light50);
-		background-image: linear-gradient(315deg, var(--txt25) 60%, var(--light25) 100%);
+		background-image: linear-gradient(315deg, var(--light25) 60%, var(--txt25) 100%);
 		padding: 0 var(--gutterx);
 	}
 	div:target {

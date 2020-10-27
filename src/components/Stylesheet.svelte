@@ -70,7 +70,7 @@
 		/* background-color: #0093E9; */
 		background-image: url('/uploads/tesztelj.png');
 		background-attachment: fixed;
-    background-size: 110;
+    background-size: 110ch;
     background-position: center;
 		color: var(--txtcolor);
 	}

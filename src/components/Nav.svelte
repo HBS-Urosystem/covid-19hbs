@@ -162,7 +162,7 @@
   }
 	nav {
 		background-color: var(--light50);
-		background-image: linear-gradient(315deg, var(--txt50) 0%, var(--light50));
+		background-image: linear-gradient(315deg, var(--light50) 0%, var(--txt50));
 		border-bottom: solid 4px white;
 		font-weight: 300;
 		color: var(--toolbg);
@@ -172,7 +172,7 @@
 	}
 	header h5 {
 		position: absolute;
-		bottom: 0;
+		bottom: .5rem;
 		margin-left: 50%;
 	}
 	header h5 a {
