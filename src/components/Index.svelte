@@ -106,8 +106,9 @@
 
 	article :global(iframe) {
 		margin: 0 auto;
+		max-width: 100%;
 	}
-	
+
 	article aside {
 		/* padding: var(--gutterx); */
 		margin: var(--gutter) var(--gutter2-) var(--gutter2);
