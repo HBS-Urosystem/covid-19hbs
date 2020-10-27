@@ -1,5 +1,5 @@
 <script context="module">
 	export function preload(page) {
-		this.redirect(200, 'hu')
+		this.redirect(301, '/hu')
 	}
 </script>
