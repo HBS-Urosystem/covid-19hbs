@@ -118,7 +118,9 @@
 		position: relative;
 		display: flex;
 		flex-direction: column;
-    justify-content: flex-end;
+		justify-content: flex-end;
+		color: var(--light75);
+		filter: drop-shadow(4px 4px 0 var(--dark));
 	}
 	/* header::before, nav::before {
     content: "";
@@ -135,7 +137,7 @@
   header img {
     width: 200px;
 		margin: var(--spacer) auto 0;
-		filter: drop-shadow(4px 4px 0 white);
+		filter: drop-shadow(2px 2px 0 white);
   }
 	header#home {
 		fill: var(--bgcolor);
@@ -147,6 +149,7 @@
   }
 	header#home h1 {
 		text-transform: uppercase;
+		filter: drop-shadow(2px 2px 0 var(--dark));
 	}
   
   h1 {
@@ -155,7 +158,7 @@
 		text-align: center;
     font-weight: bolder;
     letter-spacing: .25rem;
-    text-shadow: 1px 1px 2px var(--dark);
+		text-shadow: 2px 2px 4px var(--dark);
     /* color: white; */
 		border-bottom: solid 4px var(--light);
 		font-size: 1.75rem;
