@@ -181,7 +181,7 @@
     border-radius: 8px;
     padding: .25rem .5rem;
 		font-weight: bolder;
-		background-color: var(--bgcolor);
+		background-color: var(--dark75);
 	}
 	header h5 :global(svg) {
 		display: inline;
