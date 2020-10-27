@@ -113,6 +113,7 @@
 	form {
 		padding: var(--gutter);
 		border: solid var(--light);
+		border-width: 4px 2px;
 		color: var(--light);
 	/* }
 	fieldset { */
@@ -152,6 +153,7 @@
 	h2 {
 		padding: var(--gutter);
 		border: solid var(--light);
+		border-width: 4px 2px;
 		color: var(--light);
 		text-shadow: 1px 1px 2px var(--dark);
 		background-color: var(--light25);

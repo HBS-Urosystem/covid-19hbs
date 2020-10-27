@@ -101,14 +101,6 @@
 	{/if}
 </figure> -->
 <style>
-	:global(article) h2 {
-		padding: var(--gutter);
-		border: solid var(--light);
-		color: var(--light);
-		text-shadow: 1px 1px 2px var(--dark);
-		background-color: var(--light25);
-		text-align: center;
-	}
 	article {
 		/* background-color: var(--light25);
 		background-image: linear-gradient(315deg, var(--txt25) 60%, var(--light25) 100%); */
@@ -117,6 +109,15 @@
 		padding: var(--gutter);
 		margin-top: var(--spacer);
 		margin-bottom: var(--gutter);
+	}
+	h2 {
+		padding: var(--gutter);
+		border: solid var(--light);
+		border-width: 2px 4px;
+		color: var(--light);
+		text-shadow: 1px 1px 2px var(--dark);
+		background-color: var(--light25);
+		text-align: center;
 	}
 	article aside {
 		/* padding: var(--gutterx); */

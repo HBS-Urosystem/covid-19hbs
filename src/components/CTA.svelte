@@ -30,6 +30,7 @@
 		padding: var(--gutter);
 		margin-top: var(--spacer);
 		border: solid var(--light);
+		border-width: 2px 4px;
 	}
 	aside :global(h3) {
     font-weight: bolder;

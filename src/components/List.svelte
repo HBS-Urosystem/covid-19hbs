@@ -51,7 +51,7 @@
 		display: inline;
 	}
 	:global(details[open]) summary {
-		border-bottom: 2px solid var(--light);
+		border-bottom: 4px solid var(--light);
 		margin-bottom: var(--gutter);
 	}
 	details[open] :global(summary) {
@@ -68,6 +68,18 @@
 	}
 	summary :global(svg) {
 		display: inline-block;
+	}
+/* 	:global(details[open]) summary {
+		border-bottom: 4px solid var(--light);
+		margin-bottom: var(--gutter);
+	}
+	details[open] :global(summary) {
+		border-bottom: 4px solid var(--light);
+		margin-bottom: var(--gutter);
+	} */
+	details[open] summary {
+		border-bottom: 2px solid var(--light);
+		margin-bottom: var(--gutter);
 	}
 
 </style>

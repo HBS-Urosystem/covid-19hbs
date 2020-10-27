@@ -185,7 +185,7 @@
 	}
 
 	button {
-		border-width: 2px;
+		border-width: 4px 2px;
 		padding: var(--guttery) var(--gutter);
 		background-color: var(--dark25);
 		hyphens: none;
@@ -238,14 +238,14 @@
 	:global(aside) > figcaption {
 		text-align: left;
 	}
-
+/* 
 	:global(details[open]) summary {
-		border-bottom: 2px solid var(--light);
+		border-bottom: 4px solid var(--light);
 		margin-bottom: var(--gutter);
 	}
 	details[open] :global(summary) {
-		border-bottom: 2px solid var(--light);
+		border-bottom: 4px solid var(--light);
 		margin-bottom: var(--gutter);
 	}
-
+ */
 </style>
