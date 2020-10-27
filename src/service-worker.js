@@ -31,7 +31,7 @@ self.addEventListener("activate", (event) => {
 	);
 });
 
-self.addEventListener("fetch", (event) => { return;
+self.addEventListener("fetch", (event) => {
 	if (event.request.method !== "GET" || event.request.headers.has("range"))
 		return;
 
