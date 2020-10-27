@@ -161,7 +161,7 @@
 		font-size: 1.75rem;
   }
 	nav {
-		background-color: var(--light50);
+		background-color: var(--dark);
 		background-image: linear-gradient(315deg, var(--light50) 0%, var(--txt50));
 		border-bottom: solid 4px white;
 		font-weight: 300;
