@@ -120,7 +120,7 @@
 		flex-direction: column;
 		justify-content: flex-end;
 		color: var(--light75);
-		filter: drop-shadow(4px 4px 0 var(--dark));
+		/* filter: drop-shadow(4px 4px 0 var(--dark)); */
 	}
 	/* header::before, nav::before {
     content: "";
@@ -158,7 +158,7 @@
 		text-align: center;
     font-weight: bolder;
     letter-spacing: .25rem;
-		/* text-shadow: 2px 2px 4px var(--dark); */
+		text-shadow: 2px 2px 4px var(--dark);
     /* color: white; */
 		border-bottom: solid 4px var(--light);
 		font-size: 1.75rem;
