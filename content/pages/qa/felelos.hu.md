@@ -17,41 +17,31 @@ list:
         beszéltek arról, hogy elérkezett a második hullám. Szeptemberben már
         **sorra dőltek meg a fertőzöttségi rekordok**, október első felében
         pedig **minden nap legalább 800 új esetet jelentettek**. Tavasszal még
-        csak néhány nap volt, amikor az új érintettek száma 100 fő fölött volt,
-        és a csúcs is alig emelkedett 200 ember fölé. Most már **nem az a
-        kérdés, eljött-e a COVID-19 második hulláma, hanem az, hányszor lesz az
+        csak néhány olyan nap volt, amikor az új érintettek száma 100 fő fölött
+        volt, és a csúcs is alig emelkedett 200 ember fölé. Most már **nem az a
+        kérdés, eljött-e a COVID-19 második hulláma, hanem az, mennyivel lesz az
         súlyosabb, mint az első volt**.
 
 
-        **A helyzet Európában, sőt, a világ más részein is hasonlóan lesújtó.** A fertőzöttek száma október derekán már a 40 millió főt közelítette, a halálos áldozatok száma pedig átlépte az egymilliót. [Ezen az oldalon](https://covid19.healthdata.org/global?view=total-deaths&tab=trend) nyomon lehet követni, hogy különböző forgatókönyvek mellett hogyan fognak alakulni 2020 végéig a COVID-19 okozta halálozási arányok. Az előrejelzések alapján még ismételt korlátozások mellett is 2 millió főre kell számítani, ám ha az alapvető szociális érintkezési szabályok sem teljesülnek, ez a 3 millió főt is elérheti.
+        **A helyzet Európában, sőt, a világ más részein is hasonlóan lesújtó.** A fertőzöttek száma október derekán már a 40 millió főt közelítette, a halálos áldozatok száma pedig átlépte az egymilliót. [Ezen az oldalon](https://covid19.healthdata.org/global?view=total-deaths&tab=trend) nyomon lehet követni, hogy különböző forgatókönyvek mellett hogyan fognak alakulni 2020. végéig a COVID-19 okozta halálozási arányok. Az előrejelzések alapján még ismételt korlátozások mellett is 2 millió főre kell számítani, ám ha az alapvető szociális érintkezési szabályok sem teljesülnek, a 3 millió főt is elérheti.
 
 
         A COVID-19 világjárvánnyal kapcsolatos naprakész nemzetközi adatokat többek között a <https://ourworldindata.org/coronavirus/> oldalon lehet megtalálni. Bármelyik ország statisztikái megtekinthetőek, a magyar adatok ide kattintva nézhetőek meg: [link](https://ourworldindata.org/coronavirus/country/hungary?country=~HUN).
       anchor: cunami
   - object:
       question: Nagyobb veszélyben vagyunk
-      answer: "2020 elején az új koronavírus úgy került be a köztudatba, hogy az
-        főként csak az idősebb korosztályra, illetve az egyébként is krónikus
+      answer: >-
+        2020 elején az új koronavírus úgy került be a köztudatba, hogy az főként
+        csak az idősebb korosztályra, illetve az egyébként is krónikus
         betegségekben szenvedőkre nézve jelent komoly egészségügyi kockázatot.
         Tudni kell azonban, hogy sok 40–50 év alatti áldozatot is követelt már a
-        COVID-19, köztük olyanokat is, akik egyébként egészségesek voltak. Attól
-        még, hogy az idősebbek vannak nagyobb veszélyben, a fiatalok sincsenek
-        biztonságban!\r
+        COVID-19, köztük olyanokat is, akik egyébként egészségesek voltak. Igaz,
+        hogy az idősebbek vannak nagyobb veszélyben, ám a fiatalok sincsenek
+        biztonságban!
 
-        A fiatalok többsége valóban akár tünetmentesen is átvészelheti a
-        fertőzést – sajnálatos módon azonban éppen ők lesznek azok, akik a
-        nélkül, hogy tudatában lennének annak, hogy hordozzák a vírust,
-        terjesztik azt – és továbbadják a COVID-19-et ismerőseiknek,
-        családtagjaiknak. Azoknak is, akikre nézve az már sokkal nagyobb
-        veszélyt jelent!\r
+        A fiatalok többsége valóban akár tünetmentesen is átvészelheti a fertőzést – sajnálatos módon azonban éppen ők lesznek azok, akik anélkül, hogy tudatában lennének annak, hogy hordozzák a vírust, terjesztik azt – és továbbadják a COVID-19-et ismerőseiknek, családtagjaiknak. Azoknak is, akikre nézve az már sokkal nagyobb veszélyt jelent!
 
-        Az sem segíti a vírus elleni védekezést, hogy megnövekedett azok
-        száma is, akik megkérdőjelezik a védekezés fontosságát,
-        elbagatellizálják a COVID-19 okozta veszélyt, vagy akár a vírus
-        létezését is tagadják. Akik még a legalapvetőbb szabályokat – a maszk
-        viselését, a rendelkezésre bocsátott fertőtlenítő használatát, vagy a
-        szociális érintkezés ajánlásait – is megszegik, felelőtlen
-        magatartásukkal gyorsítják a vírus terjedését."
+        Az sem segíti a vírus elleni védekezést, hogy megnövekedett azok száma is, akik megkérdőjelezik a védekezés fontosságát, bagatellizálják a COVID-19 okozta veszélyt, vagy akár a vírus létezését is tagadják. Akik még a legalapvetőbb szabályokat – a maszk viselését, a rendelkezésre bocsátott fertőtlenítő használatát, vagy a szociális érintkezés ajánlásait – is megszegik, felelőtlen magatartásukkal gyorsítják a vírus terjedését.
       anchor: nagyobb-veszely
   - object:
       question: Kerülendő korlátozások
