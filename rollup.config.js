@@ -120,7 +120,7 @@ export default {
 		onwarn,
 	},
 
-	serviceworker: {
+	/* serviceworker: {
 		input: config.serviceworker.input(),
 		output: config.serviceworker.output(),
 		plugins: [
@@ -135,5 +135,5 @@ export default {
 
 		preserveEntrySignatures: false,
 		onwarn,
-	},
+	}, */
 };
