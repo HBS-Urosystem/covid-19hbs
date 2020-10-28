@@ -88,7 +88,7 @@
 		</ul>
 	</div>
 	<div>
-		<h3>IgG/IgM gyorsteszt</h3>
+		<h3>Szerológiai (IgG/IgM) gyorsteszt</h3>
 		<ul>
 			<li>
 				25 db egyedileg csomagolt tesztkazetta (1-1 db pipetta mellékelve),
