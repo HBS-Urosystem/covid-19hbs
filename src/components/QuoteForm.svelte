@@ -62,26 +62,6 @@
 	</div>
 <aside>
 	<div>
-		<h3>IgG/IgM gyorsteszt</h3>
-		<ul>
-			<li>
-				25 db egyedileg csomagolt tesztkazetta (1-1 db pipetta mellékelve),
-			</li>
-			<li>
-				25 db ujjbegyszúró,
-			</li>
-			<li>
-				25 db egyedileg csomagolt fertőtlenítő lapocska,
-			</li>
-			<li>
-				1 db puffer (a 25 db teszthez),
-			</li>
-			<li>
-				használati útmutató.
-			</li>
-		</ul>
-	</div>
-	<div>
 		<h3>Antigén gyorsteszt</h3>
 		<ul>
 			<li>
@@ -101,6 +81,26 @@
 			</li>
 			<li>
 				extrakciós reagens,
+			</li>
+			<li>
+				használati útmutató.
+			</li>
+		</ul>
+	</div>
+	<div>
+		<h3>IgG/IgM gyorsteszt</h3>
+		<ul>
+			<li>
+				25 db egyedileg csomagolt tesztkazetta (1-1 db pipetta mellékelve),
+			</li>
+			<li>
+				25 db ujjbegyszúró,
+			</li>
+			<li>
+				25 db egyedileg csomagolt fertőtlenítő lapocska,
+			</li>
+			<li>
+				1 db puffer (a 25 db teszthez),
 			</li>
 			<li>
 				használati útmutató.
