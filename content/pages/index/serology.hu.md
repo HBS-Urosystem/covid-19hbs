@@ -1,8 +1,8 @@
 ---
 type: product
 slug: szerologiai-teszt
-title: Szerológiai gyorstesztek
-menutitle: Szerológiai gyorstesztek
+title: Szerológiai gyorsteszt
+menutitle: Szerológiai gyorsteszt
 hero: /uploads/sam_0364_copy.jpg
 intro:
   highlight: A COVID-19 gyorsteszt szerológiai vizsgálatnak minősül, és

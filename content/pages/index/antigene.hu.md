@@ -1,8 +1,8 @@
 ---
 type: product
 slug: antigen-teszt
-title: Antigén-gyorstesztek
-menutitle: Antigén-gyorstesztek
+title: Antigén-gyorsteszt
+menutitle: Antigén-gyorsteszt
 hero: ""
 intro:
   highlight: "Az antigén (röviden: Ag)-gyorsteszt tökéletes kiegészítője a
