@@ -26,7 +26,7 @@
 		</figcaption>
 		{#each post.info.images as image}
 		<figure>
-			<img loading="lazy" src="{image.src}" alt="{image.alt}"/>
+			<img loading="lazy" src="{image.src}" style="height:auto;padding:0;" alt="{image.alt}"/>
 			{#if image.text}
 			<figcaption style="hyphens: none">{@html _md(image.text)}</figcaption>
 			{/if}
@@ -52,7 +52,7 @@
 		{#each post.cards as card}
 		<figure>
 			<a href="{card.link}">
-				<img loading="lazy" src="{card.src}" alt="{card.link}"/>
+				<img loading="lazy" src="{card.src}" style="background-image: url('{card.src}');" alt="{card.link}"/>
 				<figcaption>{@html _md(card.text)}</figcaption>
 			</a>
 		</figure>
@@ -94,60 +94,6 @@
 <CTA />
 
 <style>
-	article {
-		/* background-color: var(--light25);
-		background-image: linear-gradient(315deg, var(--txt25) 60%, var(--light25) 100%); */
-		background-color: var(--light50);
-    background-image: linear-gradient(315deg, var(--light50) 0%, var(--txt50));
-		padding: var(--gutter);
-		margin-top: var(--spacer);
-		margin-bottom: var(--gutter);
-	}
-
-	article :global(iframe) {
-		margin: 0 auto;
-		max-width: 100%;
-	}
-
-	article aside {
-		/* padding: var(--gutterx); */
-		margin: var(--gutter) var(--gutter2-) var(--gutter2);
-		display: grid;
-		grid-gap: var(--gutter2);
-		grid-template-columns: repeat(auto-fit, minmax(24ch, 1fr));
-	}
-	/* aside figure {
-		background-color: var(--light50);
-	} */
-	figure :first-child:not(img) {
-		margin-top: var(--gutter);
-		/* font-weight: bolder; */
-	}
-	aside figure {
-    display: flex;
-    justify-content: space-between;
-    flex-direction: column;
-	}
-	aside figure > img {
-		/* height: 48%; */
-		object-fit: cover;
-	}
-	/* aside figure a img {
-		height: 68%;
-		object-fit: cover;
-	} */
-	aside figcaption {
-		text-align: center;
-		padding-left: var(--gutter2);
-		padding-right: var(--gutter2);
-		/* margin-left: var(--gutter);
-		margin-right: var(--gutter); */
-		text-shadow: 1px 1px 2px rgb(94, 93, 93);
-	}
-	aside > figcaption {
-		text-align: left;
-	}
-
 	figcaption ~ figure img {
 		width: 50%;
 		margin-left: auto;

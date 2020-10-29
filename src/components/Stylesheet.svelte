@@ -196,49 +196,73 @@
 		font-size: inherit;
 	}
 
-
+	article {
+		background-color: var(--light50);
+    background-image: linear-gradient(315deg, var(--light50) 0%, var(--txt50));
+		padding: var(--gutter);
+		margin-top: var(--spacer);
+		margin-bottom: var(--gutter);
+	}
+	article iframe {
+		margin: 0 auto;
+		max-width: 100%;
+	}
 	article div {
 		width: 100%;
 		overflow-x: auto;
 	}
-	/* div > :global(table) {
-		width: 512px;
-		min-width: 100%;
-	} */
 	article img {
 		margin: 0 auto;
 	}
 
-:global(article) aside {
-		/* padding: var(--gutterx); */
+	article aside {
 		margin: var(--gutter) var(--gutter2-) var(--gutter2);
 		display: grid;
 		grid-gap: var(--gutter2);
 		grid-template-columns: repeat(auto-fit, minmax(24ch, 1fr));
 	}
-	/* aside figure {
-		background-color: var(--light50);
-	} */
-	:global(figure) :first-child:not(img) {
+	figure :first-child:not(img) {
 		margin-top: var(--gutter);
-		/* font-weight: bolder; */
 	}
-	:global(aside) figure {
+	article h2 {
+		color: var(--light);
+		text-shadow: 1px 1px 2px var(--dark);
+		text-align: center;
+		/* padding: var(--gutter);
+		border: solid var(--light);
+		border-width: 2px 4px; */
+		/* background-color: var(--light25); */
+	}
+	figure h3 {
+		font-weight: bolder;
+		hyphens: none;
+	}
+	aside figure {
     display: flex;
     justify-content: space-between;
     flex-direction: column;
 	}
-	:global(aside) figcaption {
+	aside img {
+		height: 0;
+    padding-bottom: 56.25%;
+    background-position: center;
+    background-size: cover;
+	}
+	aside figcaption {
 		text-align: center;
 		padding-left: var(--gutter2);
 		padding-right: var(--gutter2);
-		/* margin-left: var(--gutter);
-		margin-right: var(--gutter); */
 		text-shadow: 1px 1px 2px rgb(94, 93, 93);
 	}
-	:global(aside) > figcaption {
+	/* :global(aside) figcaption {
+		text-align: center;
+		padding-left: var(--gutter2);
+		padding-right: var(--gutter2);
+		text-shadow: 1px 1px 2px rgb(94, 93, 93);
+	} */
+	/* :global(aside) > figcaption {
 		text-align: left;
-	}
+	} */
 /* 
 	:global(details[open]) summary {
 		border-bottom: 4px solid var(--light);

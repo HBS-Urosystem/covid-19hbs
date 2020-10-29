@@ -58,7 +58,7 @@
 	<aside>
 		{#each post.intro.images as image}
 		<figure>
-			<img loading="lazy" src="{image.src}" alt="{image.alt}"/>
+			<img loading="lazy" src="{image.src}" style="background-image: url('{image.src}');" alt="{image.alt}"/>
 			{#if image.text}
 			<figcaption>{@html _md(image.text)}</figcaption>
 			{/if}
@@ -101,72 +101,8 @@
 	{/if}
 </figure> -->
 <style>
-	article {
-		/* background-color: var(--light25);
-		background-image: linear-gradient(315deg, var(--txt25) 60%, var(--light25) 100%); */
-		background-color: var(--light50);
-    background-image: linear-gradient(315deg, var(--light50) 0%, var(--txt50));
-		padding: var(--gutter);
-		margin-top: var(--spacer);
-		margin-bottom: var(--gutter);
-	}
-	h2 {
-		padding: var(--gutter);
-		border: solid var(--light);
-		border-width: 2px 4px;
-		color: var(--light);
-		text-shadow: 1px 1px 2px var(--dark);
-		background-color: var(--light25);
-		text-align: center;
-	}
-	article aside {
-		/* padding: var(--gutterx); */
-		margin: var(--gutter) var(--gutter2-) var(--gutter2);
-		display: grid;
-		grid-gap: var(--gutter2);
-		grid-template-columns: repeat(auto-fit, minmax(24ch, 1fr));
-	}
-	/* aside figure {
-		background-color: var(--light50);
-	} */
-	figure :first-child:not(img) {
-		margin-top: var(--gutter);
-		/* font-weight: bolder; */
-	}
-	figure :global(h3) {
-		font-weight: bolder;
-		hyphens: none;
-	}
-	aside figure {
-    display: flex;
-    justify-content: space-between;
-    flex-direction: column;
-	}
-	aside figure > img {
-		height: 48%;
-		object-fit: cover;
-	}
-	aside figure a img {
-		height: 68%;
-		object-fit: cover;
-	}
-	aside figcaption {
-		text-align: center;
-		padding-left: var(--gutter2);
-		padding-right: var(--gutter2);
-		/* margin-left: var(--gutter);
-		margin-right: var(--gutter); */
-		text-shadow: 1px 1px 2px rgb(94, 93, 93);
-	}
 	aside > figcaption {
 		text-align: left;
 	}
-	
-	figcaption ~ figure img {
-		width: 50%;
-		margin-left: auto;
-		margin-right: auto;
-	}
-
 
 </style>
