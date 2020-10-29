@@ -29,7 +29,7 @@ documents:
       file: /uploads/antigen_gyorsteszt_brosura.jpg
       src: /uploads/bxs-file-pdf.svg
     - text: Magyar nyelvű használati útmutató
-      file: /uploads/hasznalati_utmutato_covid-19_antigen-5002-en-ce-2_0-109148202-1-1-.pdf
+      file: /uploads/hasznalati_utmutato_covid-19_antigen-5002-hun-ce-3_0-109155103.pdf
       src: /uploads/bxs-file-pdf.svg
 ---
 ## Mit mutat ki az antigén-gyorsteszt?
