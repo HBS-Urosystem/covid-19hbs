@@ -47,6 +47,7 @@ A különféle szabványos technikai és tranzakciós adatok gyűjtésére tová
 * a böngészővel és az eszközzel kapcsolatos adatok,
 * statisztikai információk a Honlap használatáról.
 
+<div>
 <table>
                 <tbody>
                   <tr>
@@ -163,6 +164,7 @@ A különféle szabványos technikai és tranzakciós adatok gyűjtésére tová
                   </tr>
                 </tbody>
               </table>
+</div>
 
 ### Hogyan módosíthatóak a cookie beállítások?
 
