@@ -39,15 +39,15 @@ info:
         való üzleti kapcsolat kialakításának pénzügyi kockázata alacsony. E
         tanúsítvánnyal (itt letölthető) a magyar cégeknek csak a 7,44%-a
         rendelkezik.
-  text: Cégünk, a **Happy Business Services Zrt.** orvostechnikai divíziója az
-    egyik jelentős importőre a **COVID-19 szerológiai és
-    antigén-gyorsteszteknek**. Szállítónk, a Clungene Co., több mint 1000 féle
-    mikrobiológiai teszt anyagot és készterméket gyárt. Cégünk a Clungene Co.
-    exkluzív disztribútora Magyarország területén. Már több szállítmányunk
-    beérkezett az országba, melyek egy részét az Állami Egészségügyi Ellátó
-    Központon (AEEK) keresztül a magyar államnak szállítottuk le. Jelentős
-    mennyiségben vásároltak már egészségügyi intézmények, nagyvállalatok és
-    egyes városok vezetőségei is.
+  text: >-
+    Cégünk, a [Happy Business Services Zrt.](https://hbs.hu) orvostechnikai
+    divíziója az egyik jelentős importőre a **COVID-19 szerológiai és
+    antigén-gyorsteszteknek**. Szállítónk, a [Clungene
+    Co.](http://en.clongene.com/), több mint 1000 féle mikrobiológiai teszt
+    anyagot és készterméket gyárt.
+
+
+    Cégünk a Clungene Co. exkluzív disztribútora Magyarország területén. Már több szállítmányunk érkezett az országba, melyek egy részét az Állami Egészségügyi Ellátó Központon (AEEK) keresztül a magyar államnak szállítottuk le. Jelentős mennyiségben vásároltak már egészségügyi intézmények, nagyvállalatok és egyes városok vezetőségei is.
 references:
   links:
     - url: https://www.affidea.hu/covid-19-szures
@@ -67,10 +67,10 @@ references:
     Már számos intézmény és vállalat használja az általunk forgalmazott **Clungene® COVID-19 IgG/IgM Gyorsteszt** Kazettát. Ezek közül közöljük – a teljesség igénye nélkül – néhány internetes elérhetőségét.
 
 
-    Emellett, a már tőbb száz egészségügyi intézmény, szakorvos, rendelőintézet, idősek otthona, magán kórház, vállatok és intézmények is az általunk forgalmazott gyorstesztekkel dolgoznak.
+    Emellett többszáz egészségügyi intézmény, szakorvosi- és rendelőintézet, idősek otthona, magánkórház, vállalkozás és más intézmény az általunk forgalmazott gyorstesztekkel dolgozik.
 
 
-    **A Phoenix Pharma és a Hungaropharma partnereinken keresztül a tesztek elérhetőek az ország összes gyógyszertárában.**
+    **Phoenix Pharma és Hungaropharma partnereinken keresztül a tesztek elérhetőek az ország összes gyógyszertárában.**
 cards:
   - src: /uploads/pixabay-social-distancing-5044615_640.jpg
     link: /felelos-vezetoknek
