@@ -12,14 +12,14 @@ intro:
         ### [Clungene® COVID-19 antigén gyorsteszt](antigen-teszt)
 
 
-        A vírusnak az emberi immunrendszer által is felismert fehérjéjét mutatja ki. A COVID-19 korai szakaszában azonosítja a fertőzést.
+        A vírusnak azt a fehérjéjét mutatja ki, amit az immunrendszerünk is felismer. A COVID-19 korai szakaszában jól azonosítja a fertőzést.
     - src: /uploads/sam_0089_copy.jpg
       alt: Clungene® COVID-19 IgG/IgM gyorsteszt kazetta
       text: >-
         ### [Clungene® COVID-19 IgG/IgM gyorsteszt](szerologiai-teszt)
 
 
-        A vírus ellen, a szervezet által termelt ellenanyagokat mutatja ki. A COVID-19 közép- és késői szakaszának, illetve a múltban lezajlott fertőzés azonosítására alkalmas.
+        A szervezetünk által termelt ellenanyagokat mutatja ki. A COVID-19 közép- és késői szakaszának, illetve a múltban lezajlott fertőzés azonosítására alkalmas.
   text: >-
     ## Ahhoz, hogy a járvány terjedését lassítani lehessen, **elengedhetetlen a
     rendszeres és módszeres tesztelés**.
@@ -73,7 +73,7 @@ references:
     **A Phoenix Pharma és a Hungaropharma partnereinken keresztül a tesztek elérhetőek az ország összes gyógyszertárában.**
 cards:
   - src: /uploads/pixabay-social-distancing-5044615_640.jpg
-    link: /felelos-vezeto
+    link: /felelos-vezetoknek
     text: |-
       #### Felelős cégvezetőknek…
 
