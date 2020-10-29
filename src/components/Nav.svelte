@@ -119,7 +119,7 @@
 		display: flex;
 		flex-direction: column;
 		justify-content: flex-end;
-		color: var(--light75);
+		color: var(--light);
 		/* filter: drop-shadow(4px 4px 0 var(--dark)); */
 	}
 	/* header::before, nav::before {
@@ -179,10 +179,11 @@
 		/* bottom: .5rem; */
 		margin-left: 50%;
 		color: var(--light);
+		font-size: larger;
 	}
 	h5 a {
 		margin-left: -50%;
-		border-width: 3px;
+		border-width: 2px 4px;
     border-radius: 8px;
     padding: .25rem .5rem;
 		font-weight: bolder;

@@ -16,11 +16,12 @@
 		--light: #e9f6f8;
 		--light25: #1f46673f;
 		--light50: #1f46677f;
-		--dark: var(--toolbg);
-		--dark25: #1111113f;
-		--dark50: #1111117f;
-		--dark75: #111111bf;
-		--darkgray: #0f2537;
+		--light75: #1f4667bf;
+		--dark: #0f2537;
+		--dark25: #0f25373f;
+		--dark50: #0f25377f;
+		--dark75: #0f2537bf;
+		/* --darkgray: #0f2537; */
 		--midtone: #1f4667;
 
 		--toolsize: 5rem;
@@ -186,10 +187,12 @@
 	}
 
 	button {
-		border-width: 4px 2px;
-		padding: var(--guttery) var(--gutter);
+		border-width: 2px 4px;
+		border-radius: 8px;
+		padding: 0 var(--gutter);
 		background-color: var(--dark25);
 		hyphens: none;
+		font-size: larger;
 	}
 
 	strong > em, strong > i, b > em, b > i {
@@ -197,7 +200,7 @@
 	}
 
 	article {
-		background-color: var(--light50);
+		background-color: var(--dark75);
     background-image: linear-gradient(315deg, var(--light50) 0%, var(--txt50));
 		padding: var(--gutter);
 		margin-top: var(--spacer);

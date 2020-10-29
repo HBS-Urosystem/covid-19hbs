@@ -30,7 +30,7 @@
 
 <style>
 	details {
-		background-color: var(--light50);
+		background-color: var(--dark75);
 		background-image: linear-gradient(315deg, var(--light25) 60%, var(--txt25) 100%);
 		padding: 0 var(--gutterx);
 	}
