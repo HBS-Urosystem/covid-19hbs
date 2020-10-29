@@ -242,7 +242,8 @@
 	}
 	aside figure {
     display: flex;
-    justify-content: space-between;
+		/* justify-content: space-between; */
+		justify-content: start;
     flex-direction: column;
 	}
 	aside img {
