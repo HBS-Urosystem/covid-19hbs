@@ -110,7 +110,7 @@
 
 		</ul>
 	</div>
-	<button><a href="https://www.facebook.com/tesztelj" target="_blank" rel="noopener">{@html FBicon}&nbsp;/&thinsp;tesztelj&nbsp;</a></button>
+	<h5><a href="https://www.facebook.com/tesztelj" target="_blank" rel="noopener">{@html FBicon}&nbsp;/&thinsp;tesztelj&nbsp;</a></h5>
 </nav>
 
 <style>
@@ -174,15 +174,13 @@
 		top: 0;
 		z-index: 1;
 	}
-	button {
+	h5 {
 		position: absolute;
 		/* bottom: .5rem; */
 		margin-left: 50%;
 		color: var(--light);
-		border: none;
-		background: none;
 	}
-	button a {
+	h5 a {
 		margin-left: -50%;
 		border-width: 3px;
     border-radius: 8px;
@@ -191,7 +189,7 @@
 		background-color: var(--dark);
 		white-space: nowrap;
 	}
-	button :global(svg) {
+	h5 :global(svg) {
 		display: inline;
 		fill: var(--light);
     vertical-align: text-bottom;
