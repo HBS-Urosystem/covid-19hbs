@@ -6,7 +6,7 @@ menutitle: Rapid tests
 hero: /uploads/33838-web.jpg
 intro:
   images:
-    - src: /uploads/Clungene antigen test.jpeg
+    - src: /uploads/clungene-antigen-test.jpeg
       alt: Clungene® COVID-19 Antigen Rapid Test
     - src: /uploads/sam_0258_copy.jpg
       alt: Clungene® COVID-19 IgG/IgM Rapid Test
