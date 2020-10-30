@@ -6,5 +6,6 @@ export const type = writable('')
 export const hero = writable()
 export const tagline = writable('Happy Business Services Zrt.')
 export const post = writable({})
+//export const cookies = writable(false)
 export const cookies = persistent('cookieconsent_status', false)
 /* export const post = writable('subsegment', '') */
