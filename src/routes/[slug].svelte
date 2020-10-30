@@ -23,17 +23,28 @@
 <script>
 	export let post
 	//$: console.log('_slug:',post)
-	$: $lang = post.lang || 'hu'
-	$: $type = post.type || ''
-	$: $tagline = post.title
-	$: $hero = post.hero || undefined
-
+	$: if (post) {
+		$lang = post.lang || 'hu'
+		$type = post.type || ''
+		$tagline = post.title
+		$hero = post.hero || undefined
+}
 	export let mounted = false
 	onMount(() => {
 		mounted = true
 	});
 	$: if (mounted) {
 		document.querySelector('html').lang = $lang
+		/* document.addEventListener('visibilitychange', () => {
+			if ((document.hidden || document.msHidden || document.webkitHidden)) {
+				// the page has been hidden
+			} else {
+				// the page has become visible
+				console.log(`Másik tabon gugliztál?`)
+				//window.location.reload(true)
+			}
+		}); */
+		window.onfocus = () => window.location.reload(true)
 	}
 
 </script>
