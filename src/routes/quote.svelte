@@ -1,9 +1,10 @@
 <script context="module">
-	import { type } from '../stores.js'
+	import { type, hero } from '../stores.js'
 	import QuoteForm from '../components/QuoteForm.svelte'
 </script>
 <script>
 	$type = ''
+	$hero = ''
 </script>
 
 <QuoteForm/>
