@@ -88,7 +88,7 @@
 			{/if} -->
 		</ul>
 		<!-- slide me <-|-> icon -->
-		<ul>
+		<!-- <ul>
       
 			<li>{#if $type && pages[$type].en}
 				<a sapper-noscroll aria-current="{'en' == [$lang] ? 'page' : undefined}" href="{pages[$type].en.slug}">en</a>
@@ -108,7 +108,7 @@
 			<a aria-expanded="false" href="{pages.index.hu.slug}">hu</a>
       {/if}</li>
 
-		</ul>
+		</ul> -->
 	</div>
 	<h5><a href="https://www.facebook.com/tesztelj" target="_blank" rel="noopener">{@html FBicon}&nbsp;/&thinsp;tesztelj&nbsp;</a></h5>
 </nav>
@@ -253,7 +253,8 @@
 		top: 0;
 	}
 	[aria-expanded='false'] {
-		color: var(--txt75);
+		/* color: var(--txt75); */
+		color: inherit;
 	}
 
 	/* @keyframes pulse {
