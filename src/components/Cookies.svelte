@@ -1,15 +1,15 @@
 <script context="module">
-	import { lang } from '../stores.js'
+	import { lang, cookies } from '../stores.js'
 </script>
 
 <script>
-	export let checked = false
-	function consent(c) {
-		checked = true
+	//export let cookies = false
+	function consent() {
+		$cookies = true
 	}
 </script>
 
-{#if !checked}
+{#if !$cookies}
 <footer>
 	<p>Az HBS weboldala sütiket használ a weboldal működtetése, használatának megkönnyítése, a weboldalon végzett tevékenység
 	nyomon követése és releváns ajánlatok megjelenítése érdekében. / The webpage of HBS uses cookies in order to operate the
