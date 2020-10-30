@@ -1,9 +1,8 @@
 <script context="module">
-	import { lang, cookies } from '../stores.js'
+	import { cookies } from '../stores.js'
 </script>
 
 <script>
-	//export let cookies = false
 	function consent() {
 		$cookies = true
 	}
