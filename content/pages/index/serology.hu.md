@@ -44,4 +44,4 @@ documents:
       file: /uploads/sars-cov-2-covid-19-szűrés-_-kimutatás.pdf
       src: /uploads/bxs-file-pdf.svg
 ---
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/hiTiazKOPw4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/hiTiazKOPw4" frameborder="0" allow="encrypted-media; picture-in-picture" allowfullscreen></iframe>
