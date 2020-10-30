@@ -62,7 +62,7 @@
 	</div>
 <aside>
 	<div>
-		<h3>Antigén gyorsteszt</h3>
+		<h4>Antigén gyorsteszt</h4>
 		<ul>
 			<li>
 				25 db egyedileg csomagolt tesztkazetta,<!--  (1-1 db pipetta mellékelve) -->
@@ -88,7 +88,7 @@
 		</ul>
 	</div>
 	<div>
-		<h3>Szerológiai (IgG/IgM) gyorsteszt</h3>
+		<h4>Szerológiai (IgG/IgM) gyorsteszt</h4>
 		<ul>
 			<li>
 				25 db egyedileg csomagolt tesztkazetta (1-1 db pipetta mellékelve),
@@ -150,7 +150,7 @@
 		margin: 0 auto;
 	}
 
-	h2 {
+	/* h2 {
 		padding: var(--gutter);
 		border: solid var(--light);
 		border-width: 4px 2px;
@@ -158,24 +158,15 @@
 		text-shadow: 1px 1px 2px var(--dark);
 		background-color: var(--light25);
 		text-align: center;
-	}
-	article > div, aside h3 {
+	} */
+	article > div, aside h3, aside h4 {
 		text-align: center;
 	}
 
-	aside {
-		/* padding: var(--gutterx); */
-		/* margin: var(--gutter) var(--gutter2-) var(--gutter2); */
-		display: grid;
-		grid-gap: var(--gutter2);
-		grid-template-columns: repeat(auto-fit, minmax(24ch, 1fr));
-		text-shadow: 1px 1px 2px #000;
-		/* background-color: var(--light25); */
-	}
 	aside div {
 		padding-left: var(--gutter2);
 		padding-right: var(--gutter2);
-		text-shadow: 1px 1px 2px rgb(94, 93, 93);
+		/* text-shadow: 1px 1px 2px rgb(94, 93, 93); */
 	}
 
 	label:last-of-type {
