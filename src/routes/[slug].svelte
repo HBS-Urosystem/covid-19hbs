@@ -35,16 +35,16 @@
 	});
 	$: if (mounted) {
 		document.querySelector('html').lang = $lang
-		/* document.addEventListener('visibilitychange', () => {
+		document.addEventListener('visibilitychange', () => {
 			if ((document.hidden || document.msHidden || document.webkitHidden)) {
 				// the page has been hidden
 			} else {
 				// the page has become visible
-				console.log(`Másik tabon gugliztál?`)
-				//window.location.reload(true)
+				//console.log(`Másik tabon gugliztál?`)
+				window.location.reload(true)
 			}
-		}); */
-		window.onfocus = () => window.location.reload(true)
+		});
+		//window.onfocus = () => window.location.reload(true)
 	}
 
 </script>
