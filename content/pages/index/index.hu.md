@@ -21,8 +21,8 @@ intro:
 
         A szervezetünk által termelt ellenanyagokat mutatja ki. A COVID-19 közép- és késői szakaszának, illetve a múltban lezajlott fertőzés azonosítására alkalmas.
   text: >-
-    ## Ahhoz, hogy a járvány terjedését lassítani lehessen, **elengedhetetlen a
-    rendszeres és módszeres tesztelés**.
+    ## Ahhoz, hogy a járvány terjedését lassítani lehessen, elengedhetetlen a
+    rendszeres és módszeres tesztelés.
 
 
     2020 őszén, amikor már nyilvánvalóvá vált, hogy a COVID-19 második hulláma sokkal több megbetegedést fog okozni, mint az első, cégünk **új terméket** importált, hogy még hatékonyabban lehessen felvenni a harcot a járvánnyal. **A COVID-19 antigén gyorsteszt kiegészíti a szerológiai gyorsteszteket.** Míg az utóbbiakat használva a **fertőzés késői szakaszát, illetve a korábban lezajlott fertőzést lehet azonosítani**, az előbbiekkel a **fertőzés kezdeti szakaszában lehet a vírust kimutatni**.
@@ -40,11 +40,11 @@ info:
         tanúsítvánnyal (itt letölthető) a magyar cégeknek csak a 7,44%-a
         rendelkezik.
   text: >-
-    Cégünk, a [Happy Business Services Zrt.](https://hbs.hu) orvostechnikai
-    divíziója az egyik jelentős importőre a **COVID-19 szerológiai és
+    Cégünk, a **[Happy Business Services Zrt.](https://hbs.hu)** orvostechnikai
+    divíziója, az egyik jelentős importőre a **COVID-19 szerológiai és
     antigén-gyorsteszteknek**. Szállítónk, a [Clungene
-    Co.](http://en.clongene.com/), több mint 1000 féle mikrobiológiai teszt
-    anyagot és készterméket gyárt.
+    Co.](http://en.clongene.com/), több mint 1000 féle mikrobiológiai
+    tesztanyagot és készterméket gyárt.
 
 
     Cégünk a Clungene Co. exkluzív disztribútora Magyarország területén. Már több szállítmányunk érkezett az országba, melyek egy részét az Állami Egészségügyi Ellátó Központon (AEEK) keresztül a magyar államnak szállítottuk le. Jelentős mennyiségben vásároltak már egészségügyi intézmények, nagyvállalatok és egyes városok vezetőségei is.
