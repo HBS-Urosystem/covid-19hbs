@@ -43,7 +43,7 @@ info:
     Cégünk, a **[Happy Business Services Zrt.](https://hbs.hu)** orvostechnikai
     divíziója, az egyik jelentős importőre a **COVID-19 szerológiai és
     antigén-gyorsteszteknek**. Szállítónk, a [Clungene
-    Co.](http://en.clongene.com/), több mint 1000 féle mikrobiológiai
+    Co.](http://en.clongene.com/), több mint 1000-féle mikrobiológiai
     tesztanyagot és készterméket gyárt.
 
 
