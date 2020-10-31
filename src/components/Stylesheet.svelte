@@ -252,8 +252,10 @@
     background-position: center;
     background-size: cover;
 	}
-	aside figcaption {
+	figure > figcaption {
 		text-align: center;
+	}
+	aside figcaption {
 		padding-left: var(--gutter2);
 		padding-right: var(--gutter2);
 		text-shadow: 1px 1px 2px rgb(94, 93, 93);
