@@ -1,9 +1,9 @@
 ---
 type: business
-slug: felelos-vezetoknek
+slug: felelos-cegvezeto
 title: Légy észnél!
 subtitle: A 2020. őszi–téli COVID-19 helyzet veszélyeiről
-menutitle: Felelős vezetőknek
+menutitle: Felelős vezetők
 intro:
   text: ""
   highlight: Tegyünk együtt a COVID-19 járvány második hullámának megfékezéséért
