@@ -64,7 +64,7 @@ Végezetül, az aktuálisan fennálló fertőzöttség kimutatására **az antig
 
 **Nem ajánlott az antigén-gyorsteszt használata**, ha a tünetek már régóta (8 vagy több napja) fennállnak – ilyenkor a teszt már kevésbé megbízható –, és régebben lezajlott COVID-19 fertőzést sem lehet igazolni vele. Ilyen esetekben a szerológiai gyorsteszt alkalmazása javasolt.
 
-## Hogyan zajlik le maga a vizsgálat?
+## Hogyan zajlik a vizsgálat?
 
 A teszt elvégzéséhez – a PCR módszerhez hasonlóan – a vizsgált személy **orrgarat-**, illetve **szájgarat-nyálkahártyájából kell mintát venni**. E mintát, néhány egyszerű, a tesztet elvégző egészségügyi dolgozó által elvégzett előkészítő lépést követően a teszt kazettára felvíve az eredmény 15 perc múlva megkapható.
 
@@ -148,9 +148,9 @@ Magyarázat: C = kontroll; Ag = antigén (a kazetta egyes változatainál T-vel 
 <!--
 ## A COVID-19 antigén-gyorsteszt használatát bemutató videó
 
-\[Videó helye]
+\\[Videó helye]
 
-\[Aztán tennék ide egy call-to-action gombot, ismét]
+\\[Aztán tennék ide egy call-to-action gombot, ismét]
 -->
 
 FIGYELMEZTETÉS: az antigén-gyorsteszt tájékoztató jellegű információval szolgál az esetleges fertőzöttségről. Alkalmazása nem képezheti a COVID-19 diagnózisának vagy kizárásának egyedüli alapját. Amennyiben a kontaktkutatás eredményeiből következően, vagy a meglévő tünetek alapján fennáll a fertőzöttség gyanúja, a gyorsteszt eredményét más diagnosztikai módszerrel, például molekuláris teszt elvégzésével meg kell erősíteni.
