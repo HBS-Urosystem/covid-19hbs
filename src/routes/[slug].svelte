@@ -47,7 +47,7 @@
 	});
 	$: if (mounted) {
 		document.querySelector('html').lang = $lang
-		document.addEventListener('visibilitychange', () => {
+		/* document.addEventListener('visibilitychange', () => {
 			if ((document.hidden || document.msHidden || document.webkitHidden)) {
 				window.onfocus = () => window.location.reload(true)
 			} else {
@@ -59,7 +59,7 @@
 
 		window.addEventListener('onblur', () => {
 			window.onfocus = () => window.location.reload(true)
-		});
+		}); */
 	}
 
 </script>
