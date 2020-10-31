@@ -28,7 +28,19 @@
 		$type = post.type || ''
 		$tagline = post.title
 		$hero = post.hero || undefined
-}
+	}
+	/* function vchange() {
+		console.log('visibilitychange')
+		if ((document.hidden || document.msHidden || document.webkitHidden)) {
+			// the page has been hidden
+			console.log('hidden')
+			return false
+			//document.addEventListener('visibilitychange', vchange, { once: true });
+		} else {
+			console.log('shown')
+			window.location.reload(true)
+		}
+	} */
 	export let mounted = false
 	onMount(() => {
 		mounted = true
@@ -37,14 +49,17 @@
 		document.querySelector('html').lang = $lang
 		document.addEventListener('visibilitychange', () => {
 			if ((document.hidden || document.msHidden || document.webkitHidden)) {
-				// the page has been hidden
+				window.onfocus = () => window.location.reload(true)
 			} else {
-				// the page has become visible
-				//console.log(`Másik tabon gugliztál?`)
-				window.location.reload(true)
+				window.focus()
 			}
+		}, {
+			once: true
 		});
-		//window.onfocus = () => window.location.reload(true)
+
+		window.addEventListener('onblur', () => {
+			window.onfocus = () => window.location.reload(true)
+		});
 	}
 
 </script>

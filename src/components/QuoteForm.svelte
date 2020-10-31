@@ -47,7 +47,7 @@
 		<textarea name="description"></textarea>
 	</fieldset>
 	<fieldset>
-	<input type="submit" value="Küldés" />
+	<button type="submit" role="button">Küldés</button>
 	</fieldset>
 	
 </form>
@@ -145,7 +145,7 @@
 		width: 100%;
 	}
 
-	input[type=submit] {
+	button[type=submit] {
 		width: fit-content;
 		margin: 0 auto;
 	}
