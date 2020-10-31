@@ -37,8 +37,9 @@ info:
         ***[Bisnode&nbsp;A](<https://www.bisnode.hu/cegkereses/0/Happy Business
         Services>)*** tanúsítvánnyal rendelkezik, amely azt jelzi, hogy a céggel
         való üzleti kapcsolat kialakításának pénzügyi kockázata alacsony. E
-        tanúsítvánnyal (itt letölthető) a magyar cégeknek csak a 7,44%-a
-        rendelkezik.
+        tanúsítvánnyal ([itt
+        letölthető](/uploads/20201015-happy-business-services-zrt.m.pdf)) a
+        magyar cégeknek csak a 7,44%-a rendelkezik.
   text: >-
     Cégünk, a **[Happy Business Services Zrt.](https://hbs.hu)** orvostechnikai
     divíziója, az egyik jelentős importőre a **COVID-19 szerológiai és
