@@ -182,7 +182,7 @@
 		border-width: 2px 4px;
 		border-radius: 8px;
 		padding: 0 var(--gutter);
-		background-color: var(--dark25);
+		background-color: var(--dark75);
 		hyphens: none;
 		font-size: larger;
 	}
