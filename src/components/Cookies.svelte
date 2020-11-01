@@ -36,7 +36,7 @@
 		max-height: var(--spacer);
 		overflow-y: auto;
 	}
-	p, button {
+	p {
 		color: var(--dark);
 	}
 	a {
