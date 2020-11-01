@@ -75,11 +75,8 @@ references:
 cards:
   - src: /uploads/pixabay-social-distancing-5044615_640.jpg
     link: /felelos-cegvezeto
-    text: |-
-      #### Felelős cégvezetőknek…
-
-      ##### Tesztelj, szűrj, cselekedj!
-  - text: "#### Gyakori kérdések"
+    text: "### Felelős cégvezetőknek…"
+  - text: "### Gyakori kérdések"
     link: /gyik
     src: /uploads/129.jpg
 ---
