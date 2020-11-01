@@ -56,14 +56,14 @@
 			</li> -->
 			<!-- segment === pages.faq[$lang].slug -->
 			<li>
-				<a name="logo" sapper-noscroll aria-current="{$type == 'index' ? 'page' : undefined}" href="{pages.index[$lang].slug}#nav">
+				<a name="logo" sapper-noscroll aria-current="{$type == 'index' ? 'page' : undefined}" href="{pages.index[$lang].slug}#content">
 					<span>{pages.index[$lang].menutitle}</span><!-- <img loading="lazy" src="uploads/hbs-logo-medical.png" alt="hbs logo"> -->
 				</a>
 			</li>
 
 			{#if pages.faq[$lang]}
 			<li>
-				<a aria-current="{$type == 'faq' ? 'page' : undefined}" href="{pages.faq[$lang].slug}#nav">
+				<a aria-current="{$type == 'faq' ? 'page' : undefined}" href="{pages.faq[$lang].slug}#content">
 					<span>{pages.faq[$lang].menutitle}</span>
 				</a>
 			</li>
@@ -72,7 +72,7 @@
 			<!-- segment === pages.business[$lang].slug -->
 			{#if pages.business[$lang]}
 			<li>
-				<a aria-current="{$type == 'business' ? 'page' : undefined}" href="{pages.business[$lang].slug}#nav">
+				<a aria-current="{$type == 'business' ? 'page' : undefined}" href="{pages.business[$lang].slug}#content">
 					<span>{pages.business[$lang].menutitle}</span>
 				</a>
 			</li>
