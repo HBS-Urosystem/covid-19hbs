@@ -50,7 +50,6 @@
 	}
 	button {
 		margin: var(--gutter2) auto 0;
-		outline: 2px solid;
 		padding: 0 .5rem;
 		display: block;
 	}
