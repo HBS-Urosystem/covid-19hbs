@@ -1,15 +1,7 @@
 <style global>
 	@import "../assets/global.css";
-	/* @font-face {
-				font-family: "SilkSerif-Regular";
-				src: url("/SilkSerif-Regular.ttf") format("truetype");
-				font-weight: 400;
-	} */
 
 	:root {
-		/* font-size: clamp(75%, 78% + .5vw, 115%); */
-		/* font-size: clamp(75%, 75% + 0.8vw, 102%); */
-		/* font-size: calc(80% + 1.5vw); */
 		line-height: 1.75;
 		--orange: tomato;
 		--green: #c0ff55;
@@ -206,9 +198,8 @@
 		margin-top: var(--spacer);
 		margin-bottom: var(--gutter);
 	}
-	article iframe {
+	article video {
 		margin: 0 auto;
-		max-width: 100%;
 	}
 	article div {
 		width: 100%;
