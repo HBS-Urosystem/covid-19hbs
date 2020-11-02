@@ -156,7 +156,8 @@
 	table {
 		width: min-content;
     min-width: 100%;
-    max-width: 100%;
+		max-width: 100%;
+		line-height: normal;
 	}
 	tr {
     vertical-align: top;
@@ -175,7 +176,7 @@
 	}
 	th, td {
 		border-width: 4px 2px;
-		padding: 0 4px;
+		padding: var(--guttery);
 	}
 
 	button {
