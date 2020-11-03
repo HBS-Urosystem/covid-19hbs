@@ -203,8 +203,10 @@
 		margin: 0 auto;
 	}
 	article div {
-		width: 100%;
+		min-width: 100%;
 		overflow-x: auto;
+		margin-left: var(--gutterx-);
+		margin-right: var(--gutterx-);
 	}
 	article img {
 		margin: 0 auto;
