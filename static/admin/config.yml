@@ -67,6 +67,16 @@ collections:
         name: title
         widget: string
         i18n: true
+      - label: Meta keywords
+        name: keywords
+        widget: string
+        required: false
+        i18n: true
+      - label: Meta description
+        name: description
+        widget: string
+        required: false
+        i18n: true
       - label: Menutitle (short)
         name: menutitle
         widget: string
@@ -224,6 +234,16 @@ collections:
         name: title
         i18n: true
         widget: string
+      - label: Meta keywords
+        name: keywords
+        widget: string
+        required: false
+        i18n: true
+      - label: Meta description
+        name: description
+        widget: string
+        required: false
+        i18n: true
       - label: Subtitle
         name: subtitle
         required: false
@@ -301,12 +321,22 @@ collections:
       widget: hidden
       i18n: duplicate
       default: "news"
-    - label: Menutitle (short)
-      name: menutitle
-      widget: string
-      i18n: true
     - label: Title
       name: title
+      widget: string
+      i18n: true
+    - label: Meta keywords
+      name: keywords
+      widget: string
+      required: false
+      i18n: true
+    - label: Meta description
+      name: description
+      widget: string
+      required: false
+      i18n: true
+    - label: Menutitle (short)
+      name: menutitle
       widget: string
       i18n: true
     - label: Subtitle
