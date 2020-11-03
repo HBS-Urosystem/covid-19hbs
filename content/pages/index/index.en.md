@@ -3,6 +3,10 @@ type: index
 slug: en
 title: Clungene® COVID-19 Rapid tests
 menutitle: Rapid tests
+keywords: COVID-19 serological and antigene rapid test, covid-19, clungene,
+  rapid test, sars-cov-2, ag test, igg/igm test, antigene, serological
+description: Clungene® COVID-19 Rapid Test Cassette – at a competitive price,
+  delivered from Europe within 72 hours
 hero: /uploads/33838-web.jpg
 intro:
   images:

@@ -1,7 +1,7 @@
 ---
 type: product
 slug: szerologiai-teszt
-title: Szerológiai gyorsteszt
+title: COVID-19 Szerológiai gyorsteszt
 menutitle: Szerológiai gyorsteszt
 hero: /uploads/sam_0364_copy.jpg
 intro:

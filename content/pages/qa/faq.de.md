@@ -1,7 +1,7 @@
 ---
 type: faq
 slug: hgf
-title: Häufig gestellte Fragen
+title: SARS-CoV-2-Schnelltests – Häufig gestellte Fragen
 subtitle: Alles, was Sie über SARS-CoV-2-Schnelltests wissen sollten
 menutitle: HgF
 list:

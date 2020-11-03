@@ -1,7 +1,7 @@
 ---
 type: product
 slug: antigen-teszt
-title: Antigén-gyorsteszt
+title: COVID-19 Antigén-gyorsteszt
 menutitle: Antigén-gyorsteszt
 hero: ""
 intro:
@@ -38,7 +38,7 @@ A szerológiai gyorsteszttel ellentétben az antigén-teszt **közvetlenül a v�
 
 Antigénnek hívják azokat az anyagokat, amelyeket az immunrendszer felismer, és amelyek kiváltják annak reakcióját, az immunválaszt (esetünkben az antitesttermelést). Innen kapta a teszt a nevét is, mivel a vírus egy részét (egy fehérjéjét), mint antigént mutatja ki.
 
-Fontos kiemelni, hogy az antigén a legtöbb esetben **a tünetek megjelenését követő 7 napban** van jelen kimutatható mértékben a fertőzött személyben, ezért **az antigén-gyorsteszt ebben az időintervallumban megbízható**.
+Fontos kiemelni, hogy az antigén a legtöbb esetben **a tünetek megjelenését követő 7 napban** van jelen kimutatható mértékben a fertőzött személyben, ezért **az antigén-gyorsteszt ebben az időintervallumban legmegbízhatóbb**.
 
 ## Mik az antigén-gyorsteszt legfontosabb előnyei?
 
@@ -62,7 +62,7 @@ Emellett, azon személyeknél is érdemes az antigén-tesztet elvégezni, **akik
 
 Végezetül, az aktuálisan fennálló fertőzöttség kimutatására **az antigén-teszt elvégzése a legjobb módszer**, ha **kiemelt fontosságú, hogy az eredmény a lehető leghamarabb ismert legyen**. Ilyen eset, ha egy munkatárs üzleti út előtt áll, illetve, egészségügyi intézményekben, ha **a páciensen végrehajtandó beavatkozás nem halasztható**, viszont a PCR teszt elvégzésére és kiértékelésére **már nincs elég idő**.
 
-**Nem ajánlott az antigén-gyorsteszt használata**, ha a tünetek már régóta (8 vagy több napja) fennállnak – ilyenkor a teszt már kevésbé megbízható –, és régebben lezajlott COVID-19 fertőzést sem lehet igazolni vele. Ilyen esetekben a szerológiai gyorsteszt alkalmazása javasolt.
+**Nem ajánlott az antigén-gyorsteszt használata**, ha a tünetek már régóta fennállnak – ilyenkor a teszt már kevésbé megbízható –, és régebben lezajlott COVID-19 fertőzést sem lehet igazolni vele. Ilyen esetekben a szerológiai gyorsteszt alkalmazása javasolt.
 
 ## Hogyan zajlik a vizsgálat?
 

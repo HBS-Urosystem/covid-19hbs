@@ -1,15 +1,15 @@
 ---
 type: faq
 slug: gyik
-title: Gyakori kérdések
+title: COVID-19 gyorstesztek – Gyakori kérdések
 subtitle: Amit a SARS-CoV-2 (új koronavírus) rapid tesztekről tudni érdemes
 menutitle: Gyakori kérdések
 intro:
   text: ""
   highlight: Célunk, hogy az olvasókat mindig naprakész információkkal lássuk el.
-    Az utóbbi időben számos, a COVID-19-cel, illetve annak kimutatásával
-    kapcsolatos új tudományos információ látott napvilágot. Hogy ezeket is
-    elérhetővé tegyük, ezt az oldalt folyamatosan frissítjük.
+    Időről időre egyre újabb, a COVID-19-cel, illetve annak kimutatásával
+    kapcsolatos tudományos információk jelennek meg. Hogy ezeket is elérhetővé
+    tegyük, ezt az oldalt rendszeresen frissítjük.
 list:
   - object:
       question: Ki lehet mutatni, ha valakit megfertőzött az új koronavírus?
@@ -163,25 +163,25 @@ list:
         A tünetek megjelenésének a napján a PCR tesztek már lényegesen jobban teljesítettek; ekkor **62% eséllyel azonosították a vírust**. Az arány az ezt követő 3 nap során tovább javult, ám **még ekkor is csak 80%-ig emelkedett**. Ezt követően – a megfertőződést követő 9., azaz a tünetek megjelenési utáni 4. naptól kezdve – a **hamis negatívok száma ismét növekedésnek indult**, 12 nappal később pedig **a PCR tesztek érzékenysége már alig 34%-osnak bizonyult**.
 
 
-        Egy 2020 júniusi, 11 szakértő véleményét összegző jelentés, amely a világjárvány során szerzett tapasztalatokat foglalja össze, szintén rámutat a PCR tesztek magas hibaszázalékára: „a fertőzöttek mintegy 30%-át nem mutatják ki, az arány pedig azoknál, akik tünetmentes fertőzöttek, még magasabb is lehet.”
+        Egy 2020. júniusi, 11 szakértő véleményét összegző jelentés, amely a világjárvány során szerzett tapasztalatokat foglalja össze, szintén rámutat a PCR tesztek magas hibaszázalékára: „a fertőzöttek mintegy 30%-át nem mutatják ki, az arány pedig azoknál, akik tünetmentes fertőzöttek, még magasabb is lehet.”
 
 
         Mindezekből pedig több következtetést is le lehet vonni.
 
 
-        \* A tünetek megjelenése előtt **sajnos PCR teszttel sem lehet kimutatni, hogy valaki, aki igazoltan fertőzött emberrel találkozott, elkapta-e az új koronavírust**. 
+        * A tünetek megjelenése előtt **sajnos PCR teszttel sem lehet kimutatni, hogy valaki, aki igazoltan fertőzött emberrel találkozott, elkapta-e az új koronavírust**. 
 
 
-        \* Úgy tűnik, létezik egy **„ideális időintervallum”, amikor a PCR tesztek a leghatékonyabbak** – ez pedig a tünetek megjelenését követő 1–7. nap. Ebben a PCR tesztek az antigén tesztekhez hasonlítanak.
+        * Úgy tűnik, létezik egy **„ideális időintervallum”, amikor a PCR tesztek a leghatékonyabbak** – ez pedig a tünetek megjelenését követő 1–7. nap. Ebben a PCR tesztek az antigén tesztekhez hasonlítanak.
 
 
-        \* Ahogy a negatív szerológiai gyorsteszt, a **negatív PCR teszt sem bizonyítja önmagában a fertőzés hiányát**. [Volt már rá példa](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30322-4/fulltext), hogy egy olyan vírushordozó miatt jelent meg két új fertőzési góc, akin két PCR tesztet is elvégeztek – ám mindkettő eredménye negatív lett!
+        * Ahogy a negatív szerológiai gyorsteszt, a **negatív PCR teszt sem bizonyítja önmagában a fertőzés hiányát**. [Volt már rá példa](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30322-4/fulltext), hogy egy olyan vírushordozó miatt jelent meg két új fertőzési góc, akin két PCR tesztet is elvégeztek – ám mindkettő eredménye negatív lett!
 
 
-        \* **Mennél több idő telt el a tünetek megjelenése óta, annál alacsonyabb a PCR tesztek megbízhatósága.** 
+        * **Minél több idő telt el a tünetek megjelenése óta, annál alacsonyabb a PCR tesztek megbízhatósága.** 
 
 
-        \* Bár a szerológiai és antigén tesztek megbízhatóságát általában PCR tesztekkel ellenőrzik, mindezek alapján **kétséges, hogy azok valóban megfelelő referenciaként szolgálnak**.
+        * Bár a szerológiai és antigén tesztek megbízhatóságát általában PCR tesztekkel ellenőrzik, mindezek alapján **kétséges, hogy azok valóban megfelelő referenciaként szolgálnak**.
 
 
         A John Hopkins Egyetem kutatói úgy vélik, „mivel az antitestek a betegség lefolyása során később jelennek meg, ha már sok idő telt el a megfertőződés óta, a páciensek számára a leghasznosabb eljárás az ellenanyag- és az RT-PCR teszt együttes elvégzése lehet.”
@@ -314,7 +314,8 @@ list:
       anchor: tablazat-1
   - object:
       question: Hogyan lehet összevetni az antigéntesztek és a PCR-tesztek eredményeit?
-      answer: "Mivel mindkét teszt a magát vírust mutatja ki – az egyik annak
+      answer: >
+        Mivel mindkét teszt a magát vírust mutatja ki – az egyik annak
         örökítőanyagát, a másik annak egy fehérjéjét –, ebben az esetben a két
         teszt eredményeinek egymáshoz képesti értelmezése lényegesen egyszerűbb.
 
@@ -325,7 +326,7 @@ list:
 
         <tr>
 
-        <th colspan=\"2\">Teszt eredménye<\be/th>
+        <th colspan="2">Teszt eredménye</th>
 
         <th>Magyarázata</th>
 
@@ -352,9 +353,7 @@ list:
 
         <td>–</td>
 
-        <td>A páciens fertőzött, az antigén teszt eredménye valószínűleg
-        hamis negatív. Elképzelhető, hogy a PCR teszt még kimutatja a vírus
-        jelenlétét, az antigén teszt viszont már nem.</td>
+        <td>A páciens fertőzött, az antigén teszt eredménye valószínűleg hamis negatív. Elképzelhető, hogy a PCR teszt még kimutatja a vírus jelenlétét, az antigén teszt viszont már nem.</td>
 
         </tr>
 
@@ -365,8 +364,7 @@ list:
 
         <td>+</td>
 
-        <td>A páciens fertőzött (a két teszteredmény megerősíti
-        egymást).</td>
+        <td>A páciens fertőzött (a két teszteredmény megerősíti egymást).</td>
 
         </tr>
 
@@ -377,8 +375,7 @@ list:
 
         <td>+</td>
 
-        <td>A páciens fertőzött, a PCR teszt eredménye valószínűleg
-        hamis negatív.</td>
+        <td>A páciens fertőzött, a PCR teszt eredménye valószínűleg hamis negatív.</td>
 
         </tr>
 
@@ -389,15 +386,13 @@ list:
 
         <td>–</td>
 
-        <td>A páciens valószínűleg még vagy már nem fertőzött. Ám
-        elképzelhető, hogy a fertőzés olyan – késői – szakaszában tart már,
-        amikor a vírus már nem mutatható ki a szervezetből.</td>
+        <td>A páciens valószínűleg még vagy már nem fertőzött. Ám elképzelhető, hogy a fertőzés olyan – késői – szakaszában tart már, amikor a vírus már nem mutatható ki a szervezetből.</td>
 
         </tr>
 
         </tbody>
 
-        </table>\n"
+        </table>
       anchor: tablazat-2
   - object:
       question: Olyat is írnak az interneten, hogy ha a szerológiai gyorsteszt pozitív
