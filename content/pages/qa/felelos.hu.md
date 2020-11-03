@@ -1,9 +1,9 @@
 ---
 type: business
 slug: felelos-cegvezeto
-title: COVID-19 módszeres tesztelés – Felelős cégvezetőknek
+title: COVID-19 módszeres tesztelés
 subtitle: A 2020. őszi–téli COVID-19 helyzet veszélyeiről
-menutitle: Felelős vezetőknek
+menutitle: Felelős cégvezetőknek
 intro:
   text: ""
   highlight: Tegyünk együtt a COVID-19 járvány második hullámának megfékezéséért
