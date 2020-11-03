@@ -2,11 +2,11 @@
 type: index
 slug: hu
 title: Clungene® COVID-19 Gyorstesztek
-menutitle: Gyorstesztek
 keywords: COVID-19 szerológiai és antigén-gyorsteszt, covid-19, clungene,
   sars-cov-2, ag teszt, igg/igm teszt, antigén, szerológiai, gyorsteszt
 description: Clungene COVID-19 szerológiai (immunológiai) és antigén gyorsteszt
   kazetta – olcsón, azonnali szállítással
+menutitle: Gyorstesztek
 hero: /uploads/33838-web.jpg
 intro:
   images:
@@ -85,8 +85,15 @@ cards:
     src: /uploads/129.jpg
 ---
 A következő ábra szemlélteti, miként viszonyul egymáshoz a vírus egy adott fehérjéjét kimutató antigén teszt és a SARS-CoV-2 ellen termelt antitesteket kimutató szerológiai teszt.
+ 
+<figure>
+<img src="/uploads/mainpage-pic1.jpg" title="Az ábra tájékoztató jellegű. Az Ag az antigén (a vírus egyik fehérjéje), az IgM az immunglobulin M, az IgG az immunglobulin G (két, a szervezet által termelt ellenanyag) mennyiségét jelzi az eltelt napok függvényében. 0. napnak az az időpont tekintendő, amikor a COVID-19 tünetei megjelennek (onset nap)." alt="Antigén teszt és szerológiai tesztek viszonya" />
+<figcaption>Antigén teszt és szerológiai tesztek viszonya</figcaption>
+</figure>
 
+<!--
 ![Antigén teszt és szerológiai tesztek viszonya](/uploads/mainpage-pic1.jpg "Az ábra tájékoztató jellegű. Az Ag az antigén (a vírus egyik fehérjéje), az IgM az immunglobulin M, az IgG az immunglobulin G (két, a szervezet által termelt ellenanyag) mennyiségét jelzi az eltelt napok függvényében. 0. napnak az az időpont tekintendő, amikor a COVID-19 tünetei megjelennek (onset nap).")
+-->
 
 **COVID-19 gyorsteszteket használva rövid idő alatt, költséghatékonyan lehet szűrést végezni egy cég, üzem, hivatal vagy más intézmény dolgozói között. Az érintettek azonosításával és elkülönítésével lassítható a vírus terjedése, valamint megakadályozható a járvány miatt bekövetkező kényszerű leállás, és az azzal járó anyagi veszteségek.**
 
