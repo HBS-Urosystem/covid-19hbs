@@ -27,7 +27,7 @@
 </header>
 {:else}
 <header>
-	<a name="logo" sapper-noscroll href="{pages.index[$lang].slug}">
+	<a name="logo" href="{pages.index[$lang].slug}">
 		<img loading="lazy" src="uploads/hbs-logo-medical.png" alt="hbs logo">
 	</a>
 	<h1>{@html $tagline}</h1>
