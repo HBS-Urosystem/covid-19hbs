@@ -145,13 +145,18 @@ Akár megfigyelhetőek a COVID-19 jellegzetes tünetei, akár nem, **ebben az es
 </tfoot>
 </table>
 
-<!--
-## A COVID-19 antigén-gyorsteszt használatát bemutató videó
+### A COVID-19 antigén-gyorsteszt használatát bemutató videó
 
-\\\\\[Videó helye]
+<!-- <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/hiTiazKOPw4" frameborder="0" allow="encrypted-media; picture-in-picture" allowfullscreen></iframe> -->
 
-\\\\\[Aztán tennék ide egy call-to-action gombot, ismét]
--->
+<video controls>
+  <source src="uploads/antigen_video.mp4" type="video/mp4">
+  <source src="uploads/antigen_video.webm" type="video/webm">
+  <track kind="captions" src="uploads/antigen_video_captions_hu.vtt" srclang="hu" label="Magyar" default>
+</video>
+<center><small>A termék megjelenése eltérhet a filmben bemutatottól.</small></center>
+
+<CTA/>
 
 #### <center>Figyelmeztetés</center>
 
