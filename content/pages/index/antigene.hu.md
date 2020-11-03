@@ -162,4 +162,4 @@ Akár megfigyelhetőek a COVID-19 jellegzetes tünetei, akár nem, **ebben az es
 
 Az antigén-gyorsteszt tájékoztató jellegű információval szolgál az esetleges fertőzöttségről. Alkalmazása nem képezheti a COVID-19 diagnózisának vagy kizárásának egyedüli alapját. Amennyiben a kontaktkutatás eredményeiből következően, vagy a meglévő tünetek alapján fennáll a fertőzöttség gyanúja, a gyorsteszt eredményét más diagnosztikai módszerrel, például molekuláris teszt elvégzésével meg kell erősíteni.
 
-A tesztet kizárólag orvosi szakdolgozók használhatják! Annak otthoni használatra, illetve önellenőrzési célra történő értékesítése tilos! [A vonatkozó jogi háttérről itt tájékozódhat.](/miert-nincsenek-a-piacon-otthoni-hasznalatra-is-alkalmas-covid-19-tesztek)
+A tesztet kizárólag orvosi szakdolgozók használhatják! Annak otthoni használatra, illetve önellenőrzési célra történő értékesítése tilos! <a href="/miert-nincsenek-a-piacon-otthoni-hasznalatra-is-alkalmas-covid-19-tesztek" rel="prefetch">A vonatkozó jogi háttérről itt tájékozódhat.</a>

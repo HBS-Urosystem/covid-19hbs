@@ -18,7 +18,7 @@ intro:
     **A teszt elvégzését szakorvos, üzemorvos, vagy ilyen szolgáltatást nyújtó szolgáltató (üzemegészségügyi szolgálat) szakemberei végezhetik. Időtartama kb. 15 perc.**
 
 
-    FIGYELMEZTETÉS: a tesztet kizárólag orvosi szakdolgozók használhatják! Annak otthoni használatra, illetve önellenőrzési célra történő értékesítése tilos! [A vonatkozó jogi háttérről itt tájékozódhat.](https://covid-19.hbs.hu/miert-nincsenek-a-piacon-otthoni-hasznalatra-is-alkalmas-covid-19-tesztek) 
+    FIGYELMEZTETÉS: a tesztet kizárólag orvosi szakdolgozók használhatják! Annak otthoni használatra, illetve önellenőrzési célra történő értékesítése tilos! <a href="/miert-nincsenek-a-piacon-otthoni-hasznalatra-is-alkalmas-covid-19-tesztek" rel="prefetch">A vonatkozó jogi háttérről itt tájékozódhat.</a> 
 
 
     A mi szállítónk, a Clungene Co., több mint 1000 féle mikrobiológiai teszt anyagot és készterméket gyárt, óriási cég, az egyik legnagyobb Kínában.  Cégünk exkluzív disztribútora Magyarország területén.  Európában Belgium, Németország, Hollandia, Olaszország, Litvánia, Egyesült Királyság, Svájc, Spanyolország, Románia, Dánia, Franciaország, Lengyelország, Svédország, Portugália, Írország, Észtország, Bulgária és Törökország vásárolt már a gyár tesztjeiből.
