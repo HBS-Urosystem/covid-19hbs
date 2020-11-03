@@ -214,7 +214,7 @@
 		margin: var(--gutter) var(--gutter2-) var(--gutter2);
 		display: grid;
 		grid-gap: var(--gutter2);
-		grid-template-columns: repeat(auto-fit, minmax(24ch, 1fr));
+		grid-template-columns: repeat(auto-fit, minmax(33ch, 1fr));
 	}
 	figure :first-child:not(img) {
 		margin-top: var(--gutter);
