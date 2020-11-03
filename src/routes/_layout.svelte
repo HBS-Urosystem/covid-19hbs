@@ -20,7 +20,7 @@
 </svelte:head>
 
 {#if $hero}
-<header id="home" style="background-image: url({$hero})">
+<header id="home" style="background-image: url({$hero})" transition:fade="{{ duration: 750 }}">
 	<img loading="lazy" src="uploads/hbs-logo-medical.png" alt="hbs logo">
 	<h1>{@html $tagline}</h1>
 		<!-- <h5><a href="https://www.facebook.com/tesztelj" target="_blank" rel="noopener">{@html FBicon}&nbsp;/tesztelj&nbsp;</a></h5> -->
