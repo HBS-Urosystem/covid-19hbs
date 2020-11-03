@@ -50,7 +50,7 @@
 <article>
 	<aside>
 		{#each post.cards as card}
-		<a href="{card.link}">
+		<a rel="prefetch" href="{card.link}">
 			<figure>
 				<img loading="lazy" src="{card.src}" style="background-image: url('{card.src}');" alt="{card.link}"/>
 				<figcaption>{@html _md(card.text)}</figcaption>
