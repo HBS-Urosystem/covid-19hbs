@@ -12,7 +12,7 @@ export const pages = _.chain(all)
 	.value()
 
 export function findPost(slug = 'hu') {
-	//console.log('_find:',slug)
+	console.log('_find:',slug)
 	slug = slug.replace('/', '')
 	let p = _.find(posts, slug)
 	//$post[slug] = p[slug]

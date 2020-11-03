@@ -139,7 +139,7 @@ Akár megfigyelhetőek a COVID-19 jellegzetes tünetei, akár nem, **ebben az es
 </tr><tfoot>
 <tr>
 <td colspan="4">
-Magyarázat: C = kontroll; Ag = antigén (a kazetta egyes változatainál T-vel jelölve). Az Ag (T) csík megjelenése annak intenzitásától függetlenül a vírus jelenlétére utal és pozitív eredményként értelmezendő. A csík intenzitásából nem lehet sem a betegség stádiumára, sem annak súlyosságára következtetni. A táblázat nem helyettesíti a termék használati útmutatóját és nem tekinthető orvosi diagnosztikai irányelvnek.
+<small>Magyarázat: C = kontroll; Ag = antigén (a kazetta egyes változatainál T-vel jelölve). Az Ag (T) csík megjelenése annak intenzitásától függetlenül a vírus jelenlétére utal és pozitív eredményként értelmezendő. A csík intenzitásából nem lehet sem a betegség stádiumára, sem annak súlyosságára következtetni. A táblázat nem helyettesíti a termék használati útmutatóját és nem tekinthető orvosi diagnosztikai irányelvnek.</small>
 </td>
 </tr>
 </tfoot>
@@ -148,11 +148,13 @@ Magyarázat: C = kontroll; Ag = antigén (a kazetta egyes változatainál T-vel 
 <!--
 ## A COVID-19 antigén-gyorsteszt használatát bemutató videó
 
-\\\[Videó helye]
+\\\\\[Videó helye]
 
-\\\[Aztán tennék ide egy call-to-action gombot, ismét]
+\\\\\[Aztán tennék ide egy call-to-action gombot, ismét]
 -->
 
-FIGYELMEZTETÉS: az antigén-gyorsteszt tájékoztató jellegű információval szolgál az esetleges fertőzöttségről. Alkalmazása nem képezheti a COVID-19 diagnózisának vagy kizárásának egyedüli alapját. Amennyiben a kontaktkutatás eredményeiből következően, vagy a meglévő tünetek alapján fennáll a fertőzöttség gyanúja, a gyorsteszt eredményét más diagnosztikai módszerrel, például molekuláris teszt elvégzésével meg kell erősíteni.
+#### <center>Figyelmeztetés</center>
 
-FIGYELMEZTETÉS: a tesztet kizárólag orvosi szakdolgozók használhatják! Annak otthoni használatra, illetve önellenőrzési célra történő értékesítése tilos! [A vonatkozó jogi háttérről itt tájékozódhat.](https://covid-19.hbs.hu/miert-nincsenek-a-piacon-otthoni-hasznalatra-is-alkalmas-covid-19-tesztek)
+Az antigén-gyorsteszt tájékoztató jellegű információval szolgál az esetleges fertőzöttségről. Alkalmazása nem képezheti a COVID-19 diagnózisának vagy kizárásának egyedüli alapját. Amennyiben a kontaktkutatás eredményeiből következően, vagy a meglévő tünetek alapján fennáll a fertőzöttség gyanúja, a gyorsteszt eredményét más diagnosztikai módszerrel, például molekuláris teszt elvégzésével meg kell erősíteni.
+
+A tesztet kizárólag orvosi szakdolgozók használhatják! Annak otthoni használatra, illetve önellenőrzési célra történő értékesítése tilos! [A vonatkozó jogi háttérről itt tájékozódhat.](/miert-nincsenek-a-piacon-otthoni-hasznalatra-is-alkalmas-covid-19-tesztek)

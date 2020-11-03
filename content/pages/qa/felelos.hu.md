@@ -16,7 +16,9 @@ list:
         újonnan igazolt SARS-CoV-2 fertőzöttek száma, még csak néhányan
         beszéltek arról, hogy elérkezett a második hullám. Szeptemberben már
         **sorra dőltek meg a fertőzöttségi rekordok**, október első felében
-        pedig **minden nap legalább 800 új esetet jelentettek**. Tavasszal még
+        pedig **minden nap legalább 800 új esetet jelentettek**. E hónap végén
+        már a 2000 feletti esetszámok voltak a jellemzőek, sőt, volt nap, amikor
+        3&thinsp;000-nél is több új fertőzöttet regisztráltak. Tavasszal még
         csak néhány olyan nap volt, amikor az új érintettek száma 100 fő fölött
         volt, és a csúcs is alig emelkedett 200 ember fölé. Most már **nem az a
         kérdés, eljött-e a COVID-19 második hulláma, hanem az, mennyivel lesz az
@@ -210,16 +212,15 @@ list:
 
         * Az idő- és költségigényes **PCR teszteket csak a legszükségesebb helyzetekben** és esetekben **kell elvégeztetni**.
 
-
         * Ha sürget az idő, vagy szűkösek az anyagi lehetőségek, a PCR tesztek jelentős része **kiváltható olcsóbban és gyorsabban elvégezhető antigén tesztekkel**.
-
 
         * **Nyomon lehet követni**, vannak-e fertőzöttek az adott intézményben.
 
-
         * **Rövid idő alatt reagálni lehet**, ha megjelenik a vírus, még akkor is, ha az érintettek tünetmentesek, vagy csak enyhe tüneteket mutatnak. Azok elkülönítésével a többiek biztonságosan folytathatják a munkát.
 
-
         * **Azonosítani lehet** azokat a személyeket is, **akik korábban már megfertőződtek** a vírussal.
+
+
+        Ez az összefoglaló csupán tájékoztató jellegű; nem minősül sem orvosi, sem járványügyi tanácsadásnak. Amennyiben Önnél, vagy alkalmazottainál fennáll a COVID-19 fertőzés gyanúja vagy igazolódik, a további teendők tekintetében kérje ki üzemorvosa vagy más egészségügyi szakember véleményét, illetve forduljon az illetékes járványügyi hatósághoz.
       anchor: hatekony-modszer
 ---
