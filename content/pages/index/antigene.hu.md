@@ -70,7 +70,7 @@ A teszt elvégzéséhez – a PCR módszerhez hasonlóan – a vizsgált személ
 
 A teszt bárhol elvégezhető, ahhoz további anyagokra és berendezésekre nincs szükség.
 
-A vizsgálat elvégzése a tesztalany részéről semmilyen különleges előkészületet nem igényel. [**EZ TISZTÁZANDÓ!!!**] 
+A vizsgálat elvégzése a tesztalany részéről semmilyen különleges előkészületet nem igényel.
 
 ## Hogyan kell a kapott eredményt értelmezni?
 
@@ -148,9 +148,9 @@ Magyarázat: C = kontroll; Ag = antigén (a kazetta egyes változatainál T-vel 
 <!--
 ## A COVID-19 antigén-gyorsteszt használatát bemutató videó
 
-\\[Videó helye]
+\\\[Videó helye]
 
-\\[Aztán tennék ide egy call-to-action gombot, ismét]
+\\\[Aztán tennék ide egy call-to-action gombot, ismét]
 -->
 
 FIGYELMEZTETÉS: az antigén-gyorsteszt tájékoztató jellegű információval szolgál az esetleges fertőzöttségről. Alkalmazása nem képezheti a COVID-19 diagnózisának vagy kizárásának egyedüli alapját. Amennyiben a kontaktkutatás eredményeiből következően, vagy a meglévő tünetek alapján fennáll a fertőzöttség gyanúja, a gyorsteszt eredményét más diagnosztikai módszerrel, például molekuláris teszt elvégzésével meg kell erősíteni.

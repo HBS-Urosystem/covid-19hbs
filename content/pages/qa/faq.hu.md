@@ -58,7 +58,7 @@ list:
 
         * Engedélyhez kötött, hogy milyen intézmények végezhetnek ilyen teszteket Magyarországon, mivel azok hatékony és biztonságos alkalmazásához megfelelő képesített orvosi hátteret és mintavételi körülményeket kell biztosítani. (Ez még akkor is igaz, ha az a vizsgálat nem az intézményben történik.) A szakszerűtlen mintavétel például helytelen teszteredményhez vezethet.
 
-        * A tesztet használó személyek járványegészségügyi védelmére vonatkozó szabályokat maximálisan be kell tartani. \[Egy listaelem kihúzva!]
+        * A tesztet használó személyek járványegészségügyi védelmére vonatkozó szabályokat maximálisan be kell tartani.
 
         * A teszt során használt eszközök, illetve maga a vérminta biológiai szempontból véve veszélyes hulladéknak minősül.
       anchor: kik-vegezhetik
@@ -128,7 +128,7 @@ list:
         Azonban mindenképpen tudni kell, hogy hivatalosan forgalomba csakis olyan termékek kerülhetnek, amelyek megfelelő tanúsítványokkal rendelkeznek, és amelyek hatásosságát klinikai adatok is alátámasztják – gyártási helytől függetlenül.
 
 
-        A cégünk által importált szerológiai és antigén gyorsteszt is rendelkezik EU megfelelőségi nyilatkozattal, regisztrált az Európai Unió-ban \[húzás] (regisztrációs száma: DE/CA05/IvD-238321-1330-00, illetve DE/CA05/IvD-238321-1547-00), valamint azt az OGYÉI is nyilvántartásba vette (Nyilvántartási szám: HU/CA01/17106/20, illetve HU/CA01/55505/20).
+        A cégünk által importált szerológiai és antigén gyorsteszt is rendelkezik EU megfelelőségi nyilatkozattal, regisztrált az Európai Unió-ban (regisztrációs száma: DE/CA05/IvD-238321-1330-00, illetve DE/CA05/IvD-238321-1547-00), valamint azt az OGYÉI is nyilvántartásba vette (Nyilvántartási szám: HU/CA01/17106/20, illetve HU/CA01/55505/20).
       anchor: tevhitek
   - object:
       question: A PCR tesztek tényleg jobbak, mint a gyorstesztek?

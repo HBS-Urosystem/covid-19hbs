@@ -125,7 +125,7 @@ list:
         * az eredmény **már 15 perc után** leolvasható.
 
 
-        Továbbiakat a gyorstesztek előnyeiről, működéséről, használatáról **a terméket bemutató oldalon lehet olvasni**. \[\*HAMAROSAN\*]
+        Továbbiakat a gyorstesztek előnyeiről, működéséről, használatáról [a termékeinket bemutató oldalon](/) lehet olvasni.
       anchor: tomeges-teszteles
   - object:
       question: Az antigén gyorstesztek kiegészítik a szerológiai gyorsteszteket
