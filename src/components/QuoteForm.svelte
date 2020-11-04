@@ -43,8 +43,8 @@
 	</label>
 	<!-- </fieldset> -->
 	<fieldset>
-	Megjegyzések
-		<textarea name="description"></textarea>
+		<label for="description">Megjegyzések</label>
+		<textarea id="description" name="description"></textarea>
 	</fieldset>
 	<fieldset>
 	<button type="submit" role="button">Küldés</button>
