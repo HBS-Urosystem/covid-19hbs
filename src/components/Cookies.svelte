@@ -8,18 +8,18 @@
 	}
 </script>
 
-{#if !$cookies}
-<footer>
+<footer sticky={!$cookies}>
 	<p>Az HBS weboldala sütiket használ a weboldal működtetése, használatának megkönnyítése, a weboldalon végzett tevékenység
 	nyomon követése és releváns ajánlatok megjelenítése érdekében. / The webpage of HBS uses cookies in order to operate the
 	page, make its use more convenient and track the actions of the users to display relevant offers for them. – <a href="/cookie">Cookie-tájékoztató / Cookie Policy</a> – <a href="/adatkezeles">Adatkezelési tájékoztató / Privacy Policy</a></p>
-	<button on:click={consent}>Megértettem / Accept</button>
+	{#if !$cookies}<button on:click={consent}>Megértettem / Accept</button>{/if}
 </footer>
-{/if}
 
 <style>
-	footer {
+	footer[sticky=true] {
 		position: sticky;
+	}
+	footer {
 		bottom: 0;
 		background: var(--light);
 		font-size: smaller;

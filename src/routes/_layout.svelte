@@ -38,13 +38,12 @@
 
 <main id="content">
 	<slot />
+	<footer>
+		<a name="logo" sapper-noscroll href="https://hbs.hu" rel="noopener" target="_blank">
+			<img loading="lazy" src="uploads/hbs-logo-medical.png" alt="hbs logo">
+		</a>
+	</footer>
 </main>
-
-<footer>
-	<a name="logo" sapper-noscroll href="https://hbs.hu" rel="noopener" target="_blank">
-		<img loading="lazy" src="uploads/hbs-logo-medical.png" alt="hbs logo">
-	</a>
-</footer>
 
 <Cookies/>
 
@@ -84,10 +83,6 @@
 		background-size: cover;
     background-position: 50% 70%;
   }
-	header#home h1 {
-		
-	}
-  
   h1 {
 		filter: drop-shadow(2px 2px 0 var(--dark50));
 		margin: 0;
@@ -101,7 +96,9 @@
 		font-size: 1.75rem;
 		text-transform: uppercase;
 	}
-	
+	footer {
+		padding-top: var(--spacer);
+	}
 	footer img {
 		max-height: 3rem;
 		width: auto;
