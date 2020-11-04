@@ -31,8 +31,8 @@
 	<input name="phone" type="tel" required placeholder="*" />
 	</label>
 	<label>Antigén gyorsteszt mennyisége (doboz)
-	<input name="ag-qty" type="number" />
-	<small>Megrendelési egység: 1 doboz = 25 db</small>
+	<input name="ag-qty" type="number" min="2" />
+	<small>Min. megrendelési egység: 2 doboz (1 doboz = 25 db)</small>
 	</label>
 	<label>Szerológiai gyorsteszt mennyisége (doboz)
 	<input name="ig-qty" type="number" min="8" />
