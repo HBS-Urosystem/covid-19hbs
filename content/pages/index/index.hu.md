@@ -90,8 +90,8 @@ cards:
 articles:
   - subtitle: ""
     text: >-
-      <h5>Az ábra azt szemlélteti, miként viszonyul egymáshoz a vírus egy adott
-      fehérjéjét kimutató antigén teszt és a SARS-CoV-2 ellen termelt
+      <h5>Az alábbi grafikon azt szemlélteti, miként viszonyul egymáshoz a vírus
+      egy adott fehérjéjét kimutató antigén teszt és a SARS-CoV-2 ellen termelt
       antitesteket kimutató szerológiai teszt</h5>
 
 
@@ -101,7 +101,7 @@ articles:
 
       <figcaption>
 
-      <details><summary><b>Magyarázat</b></summary>
+      <details><summary><b>Ábramagyarázat</b></summary>
 
       <p>Ez az ábra mutatja, melyik gyorsteszt milyen időintervallumban mutatja ki a fertőzést. Az ábrán a 0 azt a napot jelöli, amikor a COVID-19 tünetei jelentkeznek. (Ezt hívják onset napnak.)</p>
 
