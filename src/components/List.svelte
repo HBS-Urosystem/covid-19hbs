@@ -20,7 +20,7 @@
 	})
 	$: if (mounted) {
 		hash = window.location.hash || ''
-		console.log('hash',hash)
+		//console.log(hash)
 	}
 </script>
 
