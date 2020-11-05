@@ -20,6 +20,8 @@
 	<link rel="preload" href="{$hero}" as="image">
 </svelte:head>
 
+<Nav {segment} />
+
 {#if $hero}
 <header id="home" style="background-image: url({$hero})" transition:fade="{{ duration: 750 }}">
 	<img loading="lazy" src="uploads/hbs-logo-medical.png" alt="hbs logo">
@@ -34,8 +36,6 @@
 	<h1>{@html $tagline}</h1>
 </header>
 {/if}
-
-<Nav {segment} />
 
 <main id="content">
 	<slot />
@@ -78,8 +78,6 @@
 		filter: drop-shadow(2px 2px 0 white);
   }
 	header#home {
-		fill: var(--bgcolor);
-		
 		background-repeat: no-repeat;
 		background-size: cover;
     background-position: 50% 70%;

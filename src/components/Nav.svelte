@@ -31,21 +31,7 @@
 	<link rel="alternate" hreflang="hu" href="https://covid-19.hbs.hu/{pages[type].hu.slug}" /> -->
 </svelte:head>
 
-<!-- {#if $hero}
-<header id="home" style="background-image: url({$hero})" transition:fade="{{ duration: 2000 }}">
-	<img loading="lazy" src="uploads/hbs-logo-medical.png" alt="hbs logo">
-	<h1>{@html $tagline}</h1>
-</header>
-{:else}
-<header>
-	<a name="logo" sapper-noscroll href="{pages.index[$lang].slug}">
-		<img loading="lazy" src="uploads/hbs-logo-medical.png" alt="hbs logo">
-	</a>
-	<h1>{@html $tagline}</h1>
-</header>
-{/if}
-
- --><nav id="nav">
+<nav id="nav">
 	<div>
 		<ul>
 			<!-- <li>
@@ -86,9 +72,10 @@
 			</li>
 			{/if} -->
 		</ul>
+		
 		<!-- slide me <-|-> icon -->
+
 		<!-- <ul>
-      
 			<li>{#if $type && pages[$type].en}
 				<a rel="prefetch" sapper-noscroll aria-current="{'en' == [$lang] ? 'page' : undefined}" href="{pages[$type].en.slug}">en</a>
 			{:else}
@@ -106,7 +93,6 @@
 			{:else}
 			<a rel="prefetch" aria-expanded="false" href="{pages.index.hu.slug}">hu</a>
       {/if}</li>
-
 		</ul> -->
 	</div>
 	<h5><a href="https://www.facebook.com/tesztelj" target="_blank" rel="noopener">{@html FBicon}&nbsp;/&thinsp;tesztelj&nbsp;</a></h5>
@@ -119,8 +105,9 @@
 		border-bottom: solid 4px white;
 		font-weight: 300;
 		color: var(--toolbg);
-		position: sticky;
+		position: fixed;
 		top: 0;
+		width: 100%;
 		z-index: 1;
 	}
 	h5 {
