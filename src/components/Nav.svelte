@@ -44,6 +44,7 @@
 				<a rel="prefetch" name="logo" sapper-noscroll aria-current="{$type == 'index' ? 'page' : undefined}" href="{pages.index[$lang].slug}#content">
 					<span>{pages.index[$lang].menutitle}</span><!-- <img loading="lazy" src="uploads/hbs-logo-medical.png" alt="hbs logo"> -->
 				</a>
+				<small><a href="/antigen-teszt">Antigén</a><a href="/szerologiai-teszt">Szerológiai</a></small>
 			</li>
 
 			{#if pages.faq[$lang]}
@@ -146,11 +147,16 @@
 		font-weight: bolder;
 		text-transform: uppercase;
 		padding: 0;
-    margin: 0 auto;
+		margin: 0 auto;
+		
+		display: flex;
+    flex-wrap: nowrap;
 	}
 	li {
-		display: inline-block;
+		/* display: inline-block; */
 		vertical-align: middle;
+		display: flex;
+    flex-direction: column;
 	}
 
 	li a {
@@ -159,22 +165,20 @@
 		padding: var(--gutter);
 		text-decoration: none;
 		font-weight: bolder;
-		color: var(--txtcolor)
+		color: var(--txtcolor);
+		text-align: center;
 	}
 
-	/* li:first-child a {
-		max-height: 2rem;
-		width: auto;
-		padding: var(--guttery);
+	div ul:first-child li:first-child {
+		line-height: .5;
 	}
-	li:first-child a img {
-    max-height: 3rem;
-		width: auto;
-		filter: drop-shadow(2px 2px 0 white);
+	div ul:first-child li:first-child a {
+		padding-bottom: .5rem;
 	}
-	li:last-child a {
-		padding-right: var(--gutter);
-	} */
+	div ul:first-child li:first-child small a {
+		padding-top: .5rem;
+		padding-bottom: .5rem;
+	}
 
 	ul [aria-current]::after {
 		position: absolute;

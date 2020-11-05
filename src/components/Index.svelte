@@ -21,9 +21,9 @@
 <article>
 	{#if post.info.images}
 	<aside>
-		<figcaption>
+		<section>
 		{@html _md(post.info.text)}
-		</figcaption>
+		</section>
 		{#each post.info.images as image}
 		<figure>
 			<img loading="lazy" src="{image.src}" style="height:auto;padding:0;" alt="{image.alt}"/>
@@ -39,10 +39,25 @@
 
 <!-- <Form id="quote"/> -->
 
-{#if post.html}
+{#if post.articles}
+{#each post.articles as article, i}
+{#if (i+1) / 4 == Math.floor((i+1) / 4)}
+<CTA/>
+{/if}
 <article>
-	{@html post.html}
+{#if article.title}
+<h2>{article.title}</h2>
+{/if}
+{#if article.subtitle}
+<h3>{article.subtitle}</h3>
+{/if}
+{@html _md(article.text)}
 </article>
+{/each}
+{/if}
+
+{#if post.html}
+	{@html post.html}
 {/if}
 
 
@@ -61,7 +76,7 @@
 </article>
 {/if}
 
-{#if post.references}<!--  -->
+{#if post.references}
 <article>
 	{@html _md(post.references.text)}
 	<ul>
@@ -94,10 +109,9 @@
 <CTA />
 
 <style>
-	figcaption ~ figure img {
+	section ~ figure img {
 		width: 50%;
 		margin-left: auto;
 		margin-right: auto;
 	}
-
 </style>

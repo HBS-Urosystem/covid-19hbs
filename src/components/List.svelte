@@ -32,8 +32,10 @@
 	details {
 		background-color: var(--dark75);
 		background-image: linear-gradient(315deg, var(--light25) 60%, var(--txt25) 100%);
-		padding: 0 var(--gutterx);
+		padding-left: var(--gutterx);
+		padding-right: var(--gutterx);
 	}
+
 	div:target {
 		padding-top: var(--spacer);
 	}

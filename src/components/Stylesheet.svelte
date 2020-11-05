@@ -249,13 +249,20 @@
 		background-size: cover;
 		margin-bottom: 1.5rem;
 	}
-	figure > figcaption {
+	figure figcaption {
 		text-align: center;
 	}
+	figcaption > details {
+		text-align: left;
+	}
+	figcaption summary {
+		text-align: center;
+	}
+
 	figure > button {
 		margin-top: auto;
 	}
-	aside figcaption {
+	aside figcaption, aside > section {
 		padding-left: var(--gutter2);
 		padding-right: var(--gutter2);
 		text-shadow: 1px 1px 2px rgb(94, 93, 93);
@@ -263,6 +270,11 @@
 	figcaption > :first-child {
     margin-top: 0;
 	}
+
+	details[open] {
+		padding-bottom: var(--gutterx);
+	}
+
 	/* :global(aside) figcaption {
 		text-align: center;
 		padding-left: var(--gutter2);

@@ -15,14 +15,14 @@ list:
         Amikor Magyarországon augusztus második felében átlépte a 100 főt az
         újonnan igazolt SARS-CoV-2 fertőzöttek száma, még csak néhányan
         beszéltek arról, hogy elérkezett a második hullám. Szeptemberben már
-        **sorra dőltek meg a fertőzöttségi rekordok**, október első felében
-        pedig **minden nap legalább 800 új esetet jelentettek**. E hónap végén
-        már a 2000 feletti esetszámok voltak a jellemzőek, sőt, volt nap, amikor
-        3&thinsp;000-nél is több új fertőzöttet regisztráltak. Tavasszal még
-        csak néhány olyan nap volt, amikor az új érintettek száma 100 fő fölött
-        volt, és a csúcs is alig emelkedett 200 ember fölé. Most már **nem az a
-        kérdés, eljött-e a COVID-19 második hulláma, hanem az, mennyivel lesz az
-        súlyosabb, mint az első volt**.
+        sorra dőltek meg a fertőzöttségi rekordok, október második felében az új
+        esetek száma nem egyszer meghaladta a 3000 főt, novemberben pedig
+        átlépte a 4000-t is. Tavasszal még csak néhány olyan nap volt, amikor az
+        új érintettek száma 100 fő fölött volt, és a csúcs is alig emelkedett
+        200 ember fölé. A járvány tavasszal naponta 10–15 életet követelt –
+        november elején az áldozatok száma már a napi 100-at közelíti.
+        **Látható, a COVID-19 második hulláma sokkal súlyosabb, mint az első
+        volt.**
 
 
         **A helyzet Európában, sőt, a világ más részein is hasonlóan lesújtó.** A fertőzöttek száma október derekán már a 40 millió főt közelítette, a halálos áldozatok száma pedig átlépte az egymilliót. [Ezen az oldalon](https://covid19.healthdata.org/global?view=total-deaths&tab=trend) nyomon lehet követni, hogy különböző forgatókönyvek mellett hogyan fognak alakulni 2020. végéig a COVID-19 okozta halálozási arányok. Az előrejelzések alapján még ismételt korlátozások mellett is 2 millió főre kell számítani, ám ha az alapvető szociális érintkezési szabályok sem teljesülnek, a 3 millió főt is elérheti.
@@ -48,45 +48,42 @@ list:
   - object:
       question: Kerülendő korlátozások
       answer: >-
-        Vannak, akik úgy vélik, ha ismét szigorú korlátozásokat vezetnek be,
-        azzal hatékonyan meg lehet fékezni a COVID-19 második hullámát.
+        Vannak, akik szerint egyedül akkor lehet megfékezni a COVID-19 járványt,
+        ha ismét szigorú korlátozásokat vezetnek be.
 
 
-        Ez önmagában igaz.
+        Erre már számos európai országban – többek között Franciaországban, Olaszországban, Nagy-Britanniában – sor is került.
 
 
-        **De milyen áron?**
+        Sajnos azonban az első hullám alatt meghozott intézkedések – amelyek közül néhány nyáron is életben volt, **egész szektorokat bénítottak meg**. a vendéglátás, a turizmus, a rendezvényszervezés bevétele töredékére esett vissza. Rengeteg intézmény, vállalat, üzlet kénytelen volt időlegesen bezárni.
 
 
-        A tavasszal a legtöbb országban meghozott intézkedések – melyek közül néhány nyáron is életben volt – **egész szektorokat bénítottak meg**: a vendéglátás, a turizmus, a rendezvényszervezés bevétele töredékére esett vissza. Rengeteg intézmény, vállalat, üzlet kénytelen volt időlegesen bezárni.
+        Mindezekből következően **Magyarországon több százezer ember veszítette el átmenetileg vagy véglegesen a munkáját**; rengeteg embernél a kijárási korlátozások fogyasztási korlátozásokkal is együtt kellett, hogy járjanak. Mindez természetesen a többi gazdasági szereplőre is hatást gyakorolt – aminek következményeként **a COVID-19 elleni védekezés a gazdasági világválságokhoz mérhető visszaesést okozott**.
 
 
-        Mindezekből következően Magyarországon **több százezer ember veszítette el átmenetileg vagy véglegesen a munkáját;** rengeteg embernél a kijárási korlátozások fogyasztási korlátozásokkal is együtt kellett, hogy járjanak. Mindez természetesen a többi gazdasági szereplőre is hatást gyakorolt – aminek következményeként a COVID-19 elleni védekezés **a gazdasági világválságokhoz mérhető visszaesést okozott**.
+        Magyarországon egyelőre nincs szó arról, hogy a tavaszihoz hasonló szigorú korlátozásokat vezetnének be – ám, ha arra sor kerül, **a gazdasági károk mértéke felbecsülhetetlen lesz**.
 
 
-        Sajnos fennáll az esélye, hogy ismét korlátozásokat kell bevezetni. Ám, éppen a tavaszi tapasztalatok miatt **a legtöbb ország, így Magyarország is igyekszik elkerülni, hogy meg kelljen ismételni a szigorú intézkedéseket**. Nem volna optimális megoldás, ha a COVID-19 okozta tragédiát csak egy pusztító gazdasági tragédia árán lehetne elkerülni!
+        A korlátozások az emberekre gyakorolt pszichés hatása sem elhanyagolható. A munkahely elvesztése, a bezártság, az elmaradt programok, nyaralások miatti frusztráció érezhetően megváltoztatta a társadalom alaphangulatát – a bizonytalanság és feszültség pedig sok embert a felelőtlen magatartásminták felé terelhet.
 
 
-        Az anyagi károk mellett a korlátozások az emberekre gyakorolt pszichés hatása sem elhanyagolható. A munkahely elvesztése, a bezártság, az elmaradt programok, nyaralások miatti frusztráció érezhetően megváltoztatta a társadalom alaphangulatát – a bizonytalanság és feszültség pedig sok embert a felelőtlen magatartásminták felé terelhet.
+        Amellett, hogy nagyon fontos a higiéniai előírásokat és a szociális érintkezés szabályait betartani, **a vírus terjedését hatékonyan lassítja a rendszeres és módszeres tesztelés is**, hiszen e módszerrel azonosítani lehet a fertőzötteket, akiket elkülönítve meggátolható, hogy terjesszék a megbetegedést.
 
 
-        Amellett, hogy **nagyon fontos a higiéniai előírásokat és a szociális érintkezés szabályait betartani**, a vírus terjedését **hatékonyan lassítja a rendszeres és módszeres tesztelés is**, hiszen e módszerrel **azonosítani lehet a fertőzötteket**, akiket elkülönítve meggátolható, hogy terjesszék a megbetegedést.
+        A lakosság tesztelése sok országban már tavasszal is a vírus elleni védekezés gyakorlatának része volt. Magyarország e téren elmaradt más államoktól – sok szakember rá is mutatott e tényre. Mostanra azonban már megváltozott a helyzet. Sokkal többet tesztelünk, naponta már 15&thinsp;000-nél is többet. A pozitív eredmények aránya viszont azt mutatja, **mindez még mindig nagyon kevés**. Az Egészségügyi Világszervezet (WHO) ajánlásai alapján a járvány akkor van ellenőrzés alatt, ha a pozitív tesztek aránya 5% alatt van – hazánkban e mutató november elején már 20% fölött volt! A gyakorlatban ez azt jelenti, **nagyon sok fertőzött marad felfedezetlenül – ők pedig, ha nem észlelnek tüneteket, maguk is terjesztik a fertőzést**.
 
 
-        A lakosság tesztelése sok országban **már tavasszal is a vírus elleni védekezés gyakorlatának része volt**. Magyarország e téren elmaradt más államoktól – sok szakember rá is mutatott e tényre. Mostanra azonban már megváltozott a helyzet: **aki csak tud, tesztel**. Pontosabban, tesztelne, ám sok szakember úgy véli, [elértük a rendelkezésre álló kapacitások felső határát](https://infostart.hu/belfold/2020/10/09/szakertok-a-sulyos-lefolyasu-esetek-novekedese-varhato-rovidesen?fbclid=IwAR1yy42nit9MY3ulpLdwXv2AQQguODXdHty3rLCeqA4qCvJ97FODnm2KQGUG). Ezért **egyre több fertőzött marad felfedezetlenül**, aki pedig, ha nem észleli a tüneteket, **maga is megfertőz másokat**.
+        Ha az események így haladnak tovább, semmi esély nem marad az új koronavírus kordában tartására, ami az egészségügy és a gazdaság összeomlásához vezethet.
 
 
-        Ha az események így haladnak tovább, semmi esély nem marad az új koronavírus kordában tartására.
-
-
-        **Hogyan lehetne ezen változtatni?**
+        Hogyan lehetne ezen változtatni?
       anchor: gazdasag
   - object:
       question: A PCR teszt szükséges – de nem elégséges
       answer: >-
         Sok helyen, így Magyarországon is, a jelenlegi gyakorlat a vírus
-        örökítőanyagát kimutató PCR tesztet fogadja el hitelesnek, mivel azok
-        tekinthetőek a legmegbízhatóbbnak.
+        örökítőanyagát kimutató PCR tesztet tekinti „arany standardnak”, mivel e
+        teszteket tartják a legmegbízhatóbbaknak.
 
 
         Ugyanakkor, **csak PCR tesztekre építve nem lehet megvalósítani a COVID-19 elleni védekezés e szintjét**. Félreértés ne essék, **hatalmas szükség van a PCR tesztekre**, ám **kizárólag azokat használva nem valósítható meg az emberek széles körű vizsgálata**. Érdemes röviden összefoglalni, miért nem.

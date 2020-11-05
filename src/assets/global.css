@@ -589,11 +589,4 @@ video {
   height: auto;
 }
 
-/* vhollo */
-
-details[open] {
-	/* margin-bottom: 1rem; */
-	padding-bottom: .5rem;
-}
-
 /*# sourceMappingURL=base.css.map */

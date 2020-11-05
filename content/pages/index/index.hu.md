@@ -88,20 +88,31 @@ cards:
     link: /gyik
     src: /uploads/129.jpg
 ---
-A következő ábra szemlélteti, miként viszonyul egymáshoz a vírus egy adott fehérjéjét kimutató antigén teszt és a SARS-CoV-2 ellen termelt antitesteket kimutató szerológiai teszt.
+<article>
+
+<p><b>A következő ábra szemlélteti, miként viszonyul egymáshoz a vírus egy adott fehérjéjét kimutató antigén teszt és a SARS-CoV-2 ellen termelt antitesteket kimutató szerológiai teszt:</b></p>
  
 <figure>
 <img src="/uploads/mainpage-pic1.jpg" title="Az ábra tájékoztató jellegű. Az Ag az antigén (a vírus egyik fehérjéje), az IgM az immunglobulin M, az IgG az immunglobulin G (két, a szervezet által termelt ellenanyag) mennyiségét jelzi az eltelt napok függvényében. 0. napnak az az időpont tekintendő, amikor a COVID-19 tünetei megjelennek (onset nap)." alt="Antigén teszt és szerológiai tesztek viszonya" />
-<figcaption>Antigén teszt és szerológiai tesztek viszonya</figcaption>
+<figcaption>
+<details><summary><b>Antigén teszt és szerológiai tesztek viszonya</b></summary>
+Ez az ábra mutatja, melyik gyorsteszt milyen időintervallumban mutatja ki a fertőzést. Az ábrán a 0 azt a napot jelöli, amikor a COVID-19 tünetei jelentkeznek. (Ezt hívják onset napnak.)
+
+Leghamarabb, a fertőzés korai szakaszában, az antigén teszt által észlelt vírusfehérje jelenik meg (Ag). Ezt követi a két, a szerológiai teszt által kimutatható ellenanyag. Az immunglobulin M (IgM) jellemzően a fertőzés korai-közép szakaszában van jelen észlelhető mennyiégben. Az immunglobulin G (IgG) rendszerint később jelenik meg, ám az a fertőzés lezajlása után akár hónapokig is megtalálható a szervezetben.
+
+A tünetek a megfertőződést követően 2–14 nap múlva, rendszerint 5–6 nap elteltével jelentkeznek. Az ezt megelőző, úgynevezett lappangási időszakot jelöli az időskála 0-t megelőző (negatív számokkal jelzett) része. Ekkor még teszt nem mutatja ki kellő biztonsággal a vírust, igaz, a lappangási időszak nagyobb hányadában a megfertőződött személy valószínűleg még nem terjeszti a COVID-19-et, mert még csak kevés vírus van a szervezetőben.
+</details>
+</figcaption>
 </figure>
+</article>
 
-<!--
-![Antigén teszt és szerológiai tesztek viszonya](/uploads/mainpage-pic1.jpg "Az ábra tájékoztató jellegű. Az Ag az antigén (a vírus egyik fehérjéje), az IgM az immunglobulin M, az IgG az immunglobulin G (két, a szervezet által termelt ellenanyag) mennyiségét jelzi az eltelt napok függvényében. 0. napnak az az időpont tekintendő, amikor a COVID-19 tünetei megjelennek (onset nap).")
--->
+<article>
+<h4>COVID-19 gyorsteszteket használva rövid idő alatt, költséghatékonyan lehet szűrést végezni egy cég, üzem, hivatal vagy más intézmény dolgozói között. Az érintettek azonosításával és elkülönítésével lassítható a vírus terjedése, valamint megakadályozható a járvány miatt bekövetkező kényszerű leállás, és az azzal járó anyagi veszteségek.</h4>
+</article>
 
-**COVID-19 gyorsteszteket használva rövid idő alatt, költséghatékonyan lehet szűrést végezni egy cég, üzem, hivatal vagy más intézmény dolgozói között. Az érintettek azonosításával és elkülönítésével lassítható a vírus terjedése, valamint megakadályozható a járvány miatt bekövetkező kényszerű leállás, és az azzal járó anyagi veszteségek.**
+<article>
 
-Az alábbi táblázatban összehasonlítjuk a leggyakrabban használt teszttípusokat:
+<p><b>Az alábbi táblázatban összehasonlítjuk a leggyakrabban használt teszttípusokat:</b></p>
 
 <div>
 <table>
@@ -189,5 +200,8 @@ Az alábbi táblázatban összehasonlítjuk a leggyakrabban használt teszttípu
 </tbody>
 </table>
 </div>
+</article>
 
-**A COVID-19 gyorstesztek tájékoztató jellegű információval szolgálnak az esetleges fertőzöttségről. A teszt elvégzését szakorvos, üzemorvos, vagy ilyen szolgáltatást nyújtó szolgáltató (üzemegészségügyi szolgálat) szakemberei végezhetik. Időtartama kb. 15 perc.**
+<article>
+<h4>A COVID-19 gyorstesztek tájékoztató jellegű információval szolgálnak az esetleges fertőzöttségről. A teszt elvégzését szakorvos, üzemorvos, vagy ilyen szolgáltatást nyújtó szolgáltató (üzemegészségügyi szolgálat) szakemberei végezhetik. Időtartama kb. 15 perc.</h4>
+</article>
