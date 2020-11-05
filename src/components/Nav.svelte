@@ -105,7 +105,7 @@
 		border-bottom: solid 4px white;
 		font-weight: 300;
 		color: var(--toolbg);
-		position: fixed;
+		position: sticky;
 		top: 0;
 		width: 100%;
 		z-index: 1;
