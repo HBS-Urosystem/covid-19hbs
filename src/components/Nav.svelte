@@ -44,7 +44,7 @@
 				<a rel="prefetch" name="logo" sapper-noscroll aria-current="{$type == 'index' ? 'page' : undefined}" href="{pages.index[$lang].slug}#content">
 					<span>{pages.index[$lang].menutitle}</span><!-- <img loading="lazy" src="uploads/hbs-logo-medical.png" alt="hbs logo"> -->
 				</a>
-				<small><a href="/antigen-teszt">Antigén</a><a href="/szerologiai-teszt">Szerológiai</a></small>
+				<small><a aria-current="{segment == 'antigen-teszt' ? 'page' : undefined}" href="/antigen-teszt#content">Antigén</a><a aria-current="{segment == 'szerologiai-teszt' ? 'page' : undefined}" href="/szerologiai-teszt#content">Szerológiai</a></small>
 			</li>
 
 			{#if pages.faq[$lang]}

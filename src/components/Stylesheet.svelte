@@ -215,7 +215,7 @@
 	}
 
 	article aside {
-		margin: var(--gutter) var(--gutter2-) var(--gutter2);
+		margin: var(--gutter) var(--gutter2-) 0;
 		display: grid;
 		grid-gap: var(--gutter2);
 		grid-template-columns: repeat(auto-fit, minmax(33ch, 1fr));
@@ -261,6 +261,7 @@
 
 	figure > button {
 		margin-top: auto;
+		margin-bottom: var(--gutter);
 	}
 	aside figcaption, aside > section {
 		padding-left: var(--gutter2);

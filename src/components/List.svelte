@@ -1,4 +1,5 @@
 <script context="module">
+	import { onMount } from 'svelte'
 	import CTA from "../components/CTA.svelte"
 	import showdown from 'showdown'
 	const converter = new showdown.Converter({
@@ -9,8 +10,17 @@
 
 <script>
 	export let post
+	export let hash
 	function _md(it) {
 		return converter.makeHtml(it)
+	}
+	export let mounted = false
+	onMount(() => {
+		mounted = true
+	})
+	$: if (mounted) {
+		hash = window.location.hash || ''
+		console.log('hash',hash)
 	}
 </script>
 
@@ -20,7 +30,7 @@
 {/if}
 
 <div id="{q.object.anchor}"></div>
-<details>
+<details open="{hash == '#' + q.object.anchor ? 'open' : ''}">
 	<summary>
 		<a href="{post.slug}/#{q.object.anchor}" sapper-noscroll>{@html Link}</a>{@html _md(q.object.question)}
 	</summary>
