@@ -36,14 +36,14 @@ articles:
   - text: >-
       A szerológiai gyorsteszttel ellentétben az antigén-teszt **közvetlenül a
       vírus jelenlétét mutatja ki** – ebben tehát a PCR tesztre hasonlít.
-      Azonban, nem a SARS-CoV-2 örökítőanyagát, hanem annak egy, **kifejezetten
-      rá jellemző fehérjéjét észleli**.
+      Azonban nem a SARS-CoV-2 örökítőanyagát, hanem annak egy **kifejezetten rá
+      jellemző fehérjéjét észleli**.
 
 
-      Antigénnek hívják azokat az anyagokat, amelyeket az immunrendszer felismer, és amelyek kiváltják annak reakcióját, az immunválaszt (esetünkben az antitesttermelést). Innen kapta a teszt a nevét is, mivel a vírus egy részét (egy fehérjéjét), mint antigént mutatja ki.
+      Antigénnek hívják azokat az anyagokat, amelyeket az immunrendszer felismer, és amelyek kiváltják annak reakcióját, az immunválaszt (antitesttermelést). Innen kapta a teszt a nevét is, mivel a vírus egy részét (egy fehérjéjét), mint antigént mutatja ki.
 
 
-      Fontos kiemelni, hogy az antigén a legtöbb esetben **a tünetek megjelenését követő 7 napban** van jelen kimutatható mértékben a fertőzött személyben, ezért **az antigén-gyorsteszt ebben az időintervallumban legmegbízhatóbb**.
+      Fontos kiemelni, hogy az antigén a legtöbb esetben **a tünetek megjelenését követő 7 napban** van jelen kimutatható mértékben a fertőzött személyben, ezért **az antigén-gyorsteszt ebben az időintervallumban a legmegbízhatóbb**.
     title: Mit mutat ki az antigén-gyorsteszt?
   - text: >-
       * Lényegesen olcsóbb, mint a PCR teszt
@@ -57,22 +57,22 @@ articles:
       * Az eredmény már 15–30 perc után leolvasható
 
 
-      Bár némiképp kevésbé érzékenyek, mint a PCR tesztek (azok a tünetek megjelenését követően hosszabb ideig mutatják ki a vírust), különösen alkalmasak arra, hogy **a szerológiai gyorstesztekkel kombinálva** használják őket. Ugyanis pontosan **abban az időintervallumban jelzik a fertőzöttséget, amikor még az ellenanyag tesztek még nem mutatják azt ki**.
+      Bár némiképp kevésbé érzékenyek, mint a PCR tesztek (azok a tünetek megjelenését követően hosszabb ideig mutatják ki a vírust), különösen alkalmasak arra, hogy **a szerológiai gyorstesztekkel kombinálva** használják őket. Ugyanis pontosan **abban az időintervallumban jelzik a fertőzöttséget, amikor az ellenanyag tesztek még nem mutatják azt ki**.
     title: Mik az antigén-gyorsteszt legfontosabb előnyei?
   - text: >-
       Amennyiben egy intézményben rendszeresen szűrik a dolgozókat ellenanyag
-      teszttel, az antigén-teszt jelentheti a szűrés következő szintjét olyan
-      esetekben, amikor a PCR teszt – idő, lehetőség, vagy anyagi forrás
-      hiányában – nem megvalósítható.
+      teszttel, az antigén-teszt jelentheti a szűrés következő szintjét<!--
+      olyan esetekben, amikor a PCR teszt – idő, lehetőség, vagy anyagi forrás
+      hiányában – nem elérhető-->.
 
 
       Ha valamely dolgozó ellenanyag tesztje pozitív, **antigén-tesztel meg lehet erősíteni, aktív fertőzésről van-e szó**. Ez a teszt arra is alkalmas, hogy azon munkatársakat megvizsgálják vele, akik **közvetlen kapcsolatban álltak a fertőzöttel**, és fennáll a veszélye, hogy már elkapták a vírust, ám a fertőzés annyira korai szakaszában járnak, hogy azt az ellenanyag teszt még nem mutatja ki.
 
 
-      Emellett, azon személyeknél is érdemes az antigén-tesztet elvégezni, **akik ellenanyag tesztje ugyan negatív lett, ám a COVID-19 fertőzés** (enyhe) **tüneteit mutatják**, vagy akikről **tudni, hogy a közelmúltban igazolt COVID-19 fertőzöttel érintkeztek**.
+      Emellett, azon személyeknél is érdemes az antigén-tesztet elvégezni, **akik ellenanyag tesztje ugyan negatív lett, ám a COVID-19 fertőzés** (enyhe) **tüneteit mutatják**, vagy akikről tudni, hogy a közelmúltban **igazolt COVID-19 fertőzöttel érintkeztek**.
 
 
-      Végezetül, az aktuálisan fennálló fertőzöttség kimutatására **az antigén-teszt elvégzése a legjobb módszer**, ha **kiemelt fontosságú, hogy az eredmény a lehető leghamarabb ismert legyen**. Ilyen eset, ha egy munkatárs üzleti út előtt áll, illetve, egészségügyi intézményekben, ha **a páciensen végrehajtandó beavatkozás nem halasztható**, viszont a PCR teszt elvégzésére és kiértékelésére **már nincs elég idő**.
+      Végezetül, az aktuálisan fennálló fertőzöttség kimutatására **az antigén-teszt elvégzése a legjobb módszer**, hiszen **kiemelt fontosságú, hogy az eredmény a lehető leghamarabb ismert legyen**. Ilyen eset, ha egy munkatárs üzleti út előtt áll, illetve, egészségügyi intézményekben, ha **a páciensen végrehajtandó beavatkozás nem halasztható**, viszont a PCR teszt elvégzésére és kiértékelésére **nincs elég idő**.
 
 
       **Nem ajánlott az antigén-gyorsteszt használata**, ha a tünetek már régóta fennállnak – ilyenkor a teszt már kevésbé megbízható –, és régebben lezajlott COVID-19 fertőzést sem lehet igazolni vele. Ilyen esetekben a szerológiai gyorsteszt alkalmazása javasolt.
@@ -80,18 +80,18 @@ articles:
   - text: >-
       A teszt elvégzéséhez – a PCR módszerhez hasonlóan – a vizsgált személy
       **orrgarat-**, illetve **szájgarat-nyálkahártyájából kell mintát venni**.
-      E mintát, néhány egyszerű, a tesztet elvégző egészségügyi dolgozó által
-      elvégzett előkészítő lépést követően a teszt kazettára felvíve az eredmény
-      15 perc múlva megkapható.
+      A mintát néhány egyszerű, <!--a tesztet elvégző egészségügyi dolgozó által
+      elvégzett, -->előkészítő lépést követően a tesztkazettára helyezve az
+      eredmény 15 perc múlva látható.
 
 
-      A teszt bárhol elvégezhető, ahhoz további anyagokra és berendezésekre nincs szükség.
+      A tesztelést bárhol el lehet végezni, ahhoz további anyagokra és berendezésekre nincs szükség.
 
 
       A vizsgálat elvégzése a tesztalany részéről semmilyen különleges előkészületet nem igényel.
     title: Hogyan zajlik a vizsgálat?
   - text: >-
-      #### 1) A kazettán egy csík (a kontrollcsík) látható – negatív.
+      #### 1. A kazettán egy csík (a kontrollcsík) látható – negatív.
 
 
       Ez esetben a vizsgált személy valószínűleg „negatív”, szervezetében nincsen jelen az új koronavírus.
@@ -105,7 +105,7 @@ articles:
       * Amennyiben a mintavételt nem kellő gondossággal kivitelezik, megtörténhet, hogy abban nem lesz kimutatható mennyiségű vírus, és a teszt eredménye ezért lesz negatív.
 
 
-      #### 2) A kazettán két csík látható – pozitív.
+      #### 2. A kazettán két csík látható – pozitív.
 
 
       Ebben az esetben a vizsgált személy szinte biztosan COVID-19 fertőzött. Mivel a teszt által kimutatott antigén (a vírus egy ún. nukleokapszid fehérjéje) kifejezetten a SARS-CoV-2 vírusra jellemző, annak az esélye, hogy a pozitív teszteredmény nem COVID-19 fertőzésre utal, igen kicsiny.
@@ -113,7 +113,7 @@ articles:
 
       Akár megfigyelhetőek a COVID-19 jellegzetes tünetei, akár nem, **ebben az esetben a vizsgált személy maga is fertőzőképes**, ezért az elkülönítése okvetlenül szükséges.
     title: Hogyan kell a kapott eredményt értelmezni?
-    subtitle: Az antigén-gyorstesztnek két lehetséges eredménye lehet.
+    subtitle: Az antigén-gyorstesztnek két érvényes eredménye lehet.
   - text: >-
       <table>
 
@@ -235,12 +235,12 @@ articles:
       Az antigén-gyorsteszt tájékoztató jellegű információval szolgál az
       esetleges fertőzöttségről. Alkalmazása nem képezheti a COVID-19
       diagnózisának vagy kizárásának egyedüli alapját. Amennyiben a
-      kontaktkutatás eredményeiből következően, vagy a meglévő tünetek alapján
+      kontaktkutatás eredményeiből következően vagy a meglévő tünetek alapján
       fennáll a fertőzöttség gyanúja, a gyorsteszt eredményét más diagnosztikai
       módszerrel, például molekuláris teszt elvégzésével meg kell erősíteni.
 
 
-      A tesztet kizárólag orvosi szakdolgozók használhatják! Annak otthoni használatra, illetve önellenőrzési célra történő értékesítése tilos! <a href="/miert-nincsenek-a-piacon-otthoni-hasznalatra-is-alkalmas-covid-19-tesztek" rel="prefetch">A vonatkozó jogi háttérről itt tájékozódhat.</a>
+      A tesztet kizárólag orvosi szakdolgozók használhatják! Otthoni használatra, valamint önellenőrzési célra történő értékesítése tilos! <a href="/miert-nincsenek-a-piacon-otthoni-hasznalatra-is-alkalmas-covid-19-tesztek" rel="prefetch">A vonatkozó jogi háttérről itt tájékozódhat.</a>
     title: Figyelmeztetés
 ---
 <!--
