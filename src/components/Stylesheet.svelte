@@ -186,6 +186,10 @@
 		background-color: var(--dark75);
 		hyphens: none;
 		font-size: larger;
+    align-self: center;
+	}
+	button a {
+		text-decoration: none;
 	}
 
 	strong > em, strong > i, b > em, b > i {
@@ -216,9 +220,9 @@
 		grid-gap: var(--gutter2);
 		grid-template-columns: repeat(auto-fit, minmax(33ch, 1fr));
 	}
-	figure :first-child:not(img) {
+	/* figure > :first-child:not(img) {
 		margin-top: var(--gutter);
-	}
+	} */
 	article h2 {
 		color: var(--light);
 		text-shadow: 1px 1px 2px var(--dark);
@@ -242,15 +246,22 @@
 		height: 0;
     padding-bottom: 56.25%;
     background-position: center;
-    background-size: cover;
+		background-size: cover;
+		margin-bottom: 1.5rem;
 	}
 	figure > figcaption {
 		text-align: center;
+	}
+	figure > button {
+		margin-top: auto;
 	}
 	aside figcaption {
 		padding-left: var(--gutter2);
 		padding-right: var(--gutter2);
 		text-shadow: 1px 1px 2px rgb(94, 93, 93);
+	}
+	figcaption > :first-child {
+    margin-top: 0;
 	}
 	/* :global(aside) figcaption {
 		text-align: center;

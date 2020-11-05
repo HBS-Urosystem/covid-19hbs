@@ -106,6 +106,8 @@ collections:
               - { label: 'Image', name: 'src', widget: 'image', i18n: true }
               - { label: 'Alt text', name: 'alt', widget: 'string', i18n: true }
               - { label: 'Caption', name: 'text', widget: 'markdown', required: false, i18n: true }
+              - { label: 'Link', name: 'link', widget: 'string', required: false, i18n: true }
+              - { label: 'CTA', name: 'cta', widget: 'string', required: false, i18n: true }
           - label: Intro text
             name: text
             widget: markdown
