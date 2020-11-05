@@ -189,6 +189,9 @@
 		display: block;
 		bottom: 0;
 	}
+	small [aria-current]::after {
+		height: var(--gutterz);
+	}
 	ul:nth-child(odd) [aria-current]::after {
 		top: 0;
 	}
