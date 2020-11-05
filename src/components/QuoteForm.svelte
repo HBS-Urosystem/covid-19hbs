@@ -80,7 +80,7 @@
 				munkaalátét,
 			</li>
 			<li>
-				extrakciós reagens,
+				25 db egyedileg csomagolt extrakciós reagens,
 			</li>
 			<li>
 				használati útmutató.
