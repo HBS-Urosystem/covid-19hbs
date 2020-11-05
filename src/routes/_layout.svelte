@@ -57,14 +57,14 @@
 		flex-direction: column;
 		justify-content: flex-end;
 		color: var(--light);
-		min-height: 75vh;
+		min-height: 100vh;
+		margin: var(--spacer-) 0;
 		/* filter: drop-shadow(4px 4px 0 var(--dark)); */
 	}
 	header#home {
 		background-repeat: no-repeat;
 		background-size: cover;
     background-position: 50% 70%;
-		min-height: 100vh;
   }
   header#home h1 {
 		border-bottom: solid 4px var(--light);
