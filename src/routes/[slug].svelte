@@ -45,8 +45,9 @@
 		mounted = true
 	});
 	$: if (mounted && post) {
-		history.pushState("", document.title, window.location.hash !== '#content' ? window.location.pathname + window.location.hash : window.location.pathname)
-console.log(window.location.pathname , window.location.hash)
+		//history.pushState("", document.title, window.location.hash !== '#content' ? window.location.pathname + window.location.hash : window.location.pathname)
+		history.replaceState("", document.title, /* window.location.hash !== '#content' ? window.location.pathname + window.location.hash : */ window.location.pathname)
+//console.log(window.location.pathname , window.location.hash)
 		document.querySelector('html').lang = $lang
 		/* document.addEventListener('visibilitychange', () => {
 			if ((document.hidden || document.msHidden || document.webkitHidden)) {
