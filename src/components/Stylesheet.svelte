@@ -30,6 +30,8 @@
 		--guttery: calc(var(--gutter) / 4);
 		--gutterz: calc(var(--gutter) / 8);
 		--spacer: calc(4 * var(--gutter));
+		--spacer2: calc(8 * var(--gutter));
+		--spacer-: calc(-4 * var(--gutter));
 
 		--base-font-size: 16px;
 		--fluid-typography-ratio: 0.25;
@@ -85,7 +87,8 @@
 		/* max-width: 64em; */
 		max-width: 80ch;
 		margin: 0 auto;
-		padding: var(--spacer) var(--gutter);
+		/* padding: var(--spacer) var(--gutter); */
+		padding: var(--spacer2) var(--gutter);
 	}
 	main a {
 		text-decoration: underline;
