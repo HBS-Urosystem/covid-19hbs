@@ -9,10 +9,10 @@ intro:
     tájékoztató információval szolgál az esetleges fertőzöttségről.
   text: >-
     A teszt további fontos előnye az, hogy az enyhe tünetekkel vagy akár
-    tünetmentesen lezajlott fertőzés után igazolja a vírus korábbi jelenlétét.
-    (Erre legkorábban a fertőződést követő 3. héttől lehet számítani.) Ilyen
-    esetben a fertőzésből már kigyógyult személy – a szükséges óvintézkedések
-    szigorú betartása mellett – már visszatérhet a munkához. 
+    tünetmentesen lezajlott fertőzés után is igazolja a vírus korábbi
+    jelenlétét. (Erre legkorábban a fertőződést követő 3. héttől lehet
+    számítani.) Ilyen esetben a fertőzésből már kigyógyult személy – a szükséges
+    óvintézkedések szigorú betartása mellett – már visszatérhet a munkához. 
 
 
     **A teszt elvégzését szakorvos, üzemorvos, vagy ilyen szolgáltatást nyújtó szolgáltató (üzemegészségügyi szolgálat) szakemberei végezhetik. Időtartama kb. 15 perc.**
