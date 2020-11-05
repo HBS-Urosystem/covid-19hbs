@@ -12,6 +12,7 @@ intro:
   images:
     - src: /uploads/clungene-antigen-test.jpeg
       alt: Clungene® COVID-19 antigén-gyorsteszt
+      text: Clungene® COVID-19 antigén-gyorsteszt
 documents:
   text: >-
     ## További információk, dokumentumok
@@ -35,8 +36,8 @@ articles:
   - text: >-
       A szerológiai gyorsteszttel ellentétben az antigén-teszt **közvetlenül a
       vírus jelenlétét mutatja ki** – ebben tehát a PCR tesztre hasonlít.
-      Azonban, nem a SARS-CoV-2 örökítőanyagát, hanem annak egy,
-      **kifejezetten rá jellemző fehérjéjét észleli**.
+      Azonban, nem a SARS-CoV-2 örökítőanyagát, hanem annak egy, **kifejezetten
+      rá jellemző fehérjéjét észleli**.
 
 
       Antigénnek hívják azokat az anyagokat, amelyeket az immunrendszer felismer, és amelyek kiváltják annak reakcióját, az immunválaszt (esetünkben az antitesttermelést). Innen kapta a teszt a nevét is, mivel a vírus egy részét (egy fehérjéjét), mint antigént mutatja ki.
@@ -78,10 +79,10 @@ articles:
     title: Kik számára ajánlott az antigén-gyorsteszt elvégzése?
   - text: >-
       A teszt elvégzéséhez – a PCR módszerhez hasonlóan – a vizsgált személy
-      **orrgarat-**, illetve **szájgarat-nyálkahártyájából kell mintát
-      venni**. E mintát, néhány egyszerű, a tesztet elvégző egészségügyi
-      dolgozó által elvégzett előkészítő lépést követően a teszt kazettára
-      felvíve az eredmény 15 perc múlva megkapható.
+      **orrgarat-**, illetve **szájgarat-nyálkahártyájából kell mintát venni**.
+      E mintát, néhány egyszerű, a tesztet elvégző egészségügyi dolgozó által
+      elvégzett előkészítő lépést követően a teszt kazettára felvíve az eredmény
+      15 perc múlva megkapható.
 
 
       A teszt bárhol elvégezhető, ahhoz további anyagokra és berendezésekre nincs szükség.
@@ -219,8 +220,7 @@ articles:
   - text: >-
       <!-- <iframe width="560" height="315"
       src="https://www.youtube-nocookie.com/embed/hiTiazKOPw4" frameborder="0"
-      allow="encrypted-media; picture-in-picture" allowfullscreen></iframe>
-      -->
+      allow="encrypted-media; picture-in-picture" allowfullscreen></iframe> -->
 
 
       <video controls>
@@ -236,9 +236,8 @@ articles:
       esetleges fertőzöttségről. Alkalmazása nem képezheti a COVID-19
       diagnózisának vagy kizárásának egyedüli alapját. Amennyiben a
       kontaktkutatás eredményeiből következően, vagy a meglévő tünetek alapján
-      fennáll a fertőzöttség gyanúja, a gyorsteszt eredményét más
-      diagnosztikai módszerrel, például molekuláris teszt elvégzésével meg
-      kell erősíteni.
+      fennáll a fertőzöttség gyanúja, a gyorsteszt eredményét más diagnosztikai
+      módszerrel, például molekuláris teszt elvégzésével meg kell erősíteni.
 
 
       A tesztet kizárólag orvosi szakdolgozók használhatják! Annak otthoni használatra, illetve önellenőrzési célra történő értékesítése tilos! <a href="/miert-nincsenek-a-piacon-otthoni-hasznalatra-is-alkalmas-covid-19-tesztek" rel="prefetch">A vonatkozó jogi háttérről itt tájékozódhat.</a>

@@ -25,6 +25,7 @@ intro:
   images:
     - src: /uploads/sam_0089_copy.jpg
       alt: Clungene® COVID-19 IgG/IgM gyorsteszt
+      text: Clungene® COVID-19 IgG/IgM gyorsteszt
 documents:
   text: "## Dokumentumok"
   links:
@@ -43,11 +44,15 @@ documents:
     - text: A SmartBioma diagnosztikai protokollja HU
       file: /uploads/sars-cov-2-covid-19-szűrés-_-kimutatás.pdf
       src: /uploads/bxs-file-pdf.svg
+articles:
+  - text: >-
+      <video controls>
+         <source src="uploads/iggigm_video.mp4" type="video/mp4">
+         <source src="uploads/iggigm_video.webm" type="video/webm">
+      	 <track kind="captions" src="uploads/iggigm_video_captions_hu.vtt" srclang="hu" label="Magyar" default>
+      </video>
+
+      <center><small>A termék megjelenése eltérhet a filmben bemutatottól.</small></center>
+    title: A COVID-19 szerológiai gyorsteszt használatát bemutató videó
 ---
 <!-- <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/hiTiazKOPw4" frameborder="0" allow="encrypted-media; picture-in-picture" allowfullscreen></iframe> -->
-<video controls>
-   <source src="uploads/iggigm_video.mp4" type="video/mp4">
-   <source src="uploads/iggigm_video.webm" type="video/webm">
-	 <track kind="captions" src="uploads/iggigm_video_captions_hu.vtt" srclang="hu" label="Magyar" default>
-</video>
-<center><small>A termék megjelenése eltérhet a filmben bemutatottól.</small></center>
