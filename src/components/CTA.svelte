@@ -31,9 +31,13 @@
 		margin-top: var(--spacer);
 		border: solid var(--light);
 		border-width: 2px 4px;
-    font-weight: bolder;
+		font-weight: bolder;
+		text-align: center;
 	}
-
+	button {
+		/* width: 100%; */
+		margin: 1.5rem auto;
+	}
 	/* a {
 		text-decoration: none;
 	} */

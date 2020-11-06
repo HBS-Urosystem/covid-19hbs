@@ -92,7 +92,7 @@
 	}
 	main a {
 		text-decoration: underline;
-		overflow-wrap: break-word;
+		overflow-wrap: anywhere; /* or break-word */
 	}
 
 	h1, h2, h3, h4, h5, h6 {
@@ -131,6 +131,7 @@
 
 	p {
 		margin: 0 0 .75rem;
+		width: 100%;
 	}
 
 	svg {
@@ -189,7 +190,8 @@
 		background-color: var(--dark75);
 		hyphens: none;
 		font-size: larger;
-    align-self: center;
+		align-self: center;
+		margin: 0 auto;
 	}
 	button a {
 		text-decoration: none;
