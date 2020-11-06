@@ -121,6 +121,7 @@
 		flex-wrap: wrap;
 		justify-content: center;
 		grid-gap: var(--gutter);
+		gap: var(--gutter);
 		/* grid-template-columns: repeat(auto-fill, minmax(18rem, 1fr)); */
 	}
 	label, fieldset {
@@ -128,7 +129,8 @@
 		flex-wrap: wrap;
 		/* justify-content: space-around; */
 		align-items: center;
-		white-space: nowrap;
+		/* white-space: nowrap; */
+		/* text-align: center; */
 		margin: 0 auto;
 		flex-basis: 32ch;
 		padding: 0;
