@@ -41,4 +41,8 @@
 	/* a {
 		text-decoration: none;
 	} */
+
+	:global(p) {
+		background-color: var(--bgcolor);
+	}
 </style>
