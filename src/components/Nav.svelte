@@ -75,6 +75,7 @@
 		</ul>
 		
 		<!-- slide me <-|-> icon -->
+		<!-- css: sticky, left: 0; right: 0, width: 2rem -->
 
 		<!-- <ul>
 			<li>{#if $type && pages[$type].en}

@@ -190,7 +190,7 @@ list:
         A két tesztelési módszer úgy tűnik, kiegészíti egymást: a betegség korai fázisában az RT-PCR teszt megbízhatóbb, nagyjából 2 héttel a tünetek megjelenése után mindkét tesztet érdemes elvégezni, a késői szakaszban, illetve a fertőzés lefolyását követően pedig a gyorsteszteké lehet a főszerep. Ám, amennyiben lehetséges, mindaddig, amíg fennállnak a tünetek, **érdemes mindkét tesztet alkalmazni**, hogy a betegséget a lehető legnagyobb biztonsággal azonosítani lehessen. Ha a betegség korai fázisában, vagy annak gyanúja esetén elengedhetetlen, hogy gyorsan meg lehessen tudni a teszt eredményét, a PCR teszt kiváltható antigén teszttel; és akkor is ez a helyzet, ha olyan mennyiségű tesztet kell elvégezni, ami túl nagy anyagi terhet jelentene – vagy, ami meghaladná a rendelkezésre álló PCR tesztelési kapacitást.
       anchor: melyik-jobb
   - object:
-      question: Hogyan lehet összevetni az ellenanyagtesztek és a PCR-tesztek
+      question: Hogyan lehet összevetni a szerológiai tesztek és a PCR-tesztek
         eredményeit?
       answer: >-
         A [diazyme.com](http://www.diazyme.com/covid-19-antibody-tests) weblap
