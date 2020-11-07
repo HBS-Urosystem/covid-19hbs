@@ -42,7 +42,7 @@
 		text-decoration: none;
 	} */
 
-	:global(ul) {
+	aside :global(ul) {
 		text-align: left;
 	}
 </style>
