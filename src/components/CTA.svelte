@@ -42,7 +42,7 @@
 		text-decoration: none;
 	} */
 
-	:global(p) {
-		background-color: var(--bgcolor);
+	:global(ul) {
+		text-align: left;
 	}
 </style>
