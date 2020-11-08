@@ -70,13 +70,13 @@
 		color: var(--txtcolor);
 	}
 
-	blockquote, em {
+	blockquote/* , em  */{
 		/* font-family: "SilkSerif-Regular", serif; */
 		font-size: 130%;
 	}
-	em {
+	/* em {
     font-style: initial;
-	}
+	} */
 /* 
 	body > input { display: none; }
 	#lang-en:not(:checked) ~ #sapper [lang='en'] { display: none; }
