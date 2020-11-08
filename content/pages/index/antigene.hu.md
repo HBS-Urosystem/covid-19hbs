@@ -10,7 +10,7 @@ intro:
     kapcsolatos legfontosabb információkat. "
   text: ""
   images:
-    - src: /uploads/clungene-antigen-test.jpeg
+    - src: /uploads/antigen-test.jpg
       alt: Clungene® COVID-19 antigén-gyorsteszt
       text: Clungene® COVID-19 antigén-gyorsteszt
 documents:

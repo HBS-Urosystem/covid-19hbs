@@ -10,7 +10,7 @@ menutitle: Gyorstesztek
 hero: /uploads/33838-web.jpg
 intro:
   images:
-    - src: /uploads/clungene-antigen-test.jpeg
+    - src: /uploads/antigen-test.jpg
       alt: Clungene® COVID-19 antigén gyorsteszt kazetta
       text: >-
         ### Clungene® COVID-19 antigén gyorsteszt
