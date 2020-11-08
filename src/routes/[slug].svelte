@@ -78,7 +78,9 @@
 {#if post.intro.highlight}
 <h4>{post.intro.highlight}</h4>
 {/if}
+{#if post.intro.text}
 {@html _md(post.intro.text)}
+{/if}
 </article>
 
 {#if post.intro.images}
@@ -112,7 +114,10 @@
 {#if post.type == 'index'}
 <Index {post}/>
 {/if}
-{#if post.type == 'product'}
+{#if post.type == 'product1'}
+<Index {post}/>
+{/if}
+{#if post.type == 'product2'}
 <Index {post}/>
 {/if}
 {#if post.type == 'gdpr'}
