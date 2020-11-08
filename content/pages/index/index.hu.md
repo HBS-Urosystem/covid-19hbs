@@ -11,7 +11,7 @@ hero: /uploads/33838-web.jpg
 intro:
   images:
     - src: /uploads/antigen-test.jpg
-      alt: Clungene® COVID-19 antigén gyorsteszt kazetta
+      alt: Clungene® COVID-19 antigén gyorsteszt
       text: >-
         ### Clungene® COVID-19 antigén gyorsteszt
 
@@ -20,7 +20,7 @@ intro:
       link: /antigen-teszt
       cta: Részletek
     - src: /uploads/sam_0089_copy.jpg
-      alt: Clungene® COVID-19 IgG/IgM gyorsteszt kazetta
+      alt: Clungene® COVID-19 IgG/IgM gyorsteszt
       text: >-
         ### Clungene® COVID-19 IgG/IgM gyorsteszt
 
@@ -42,8 +42,8 @@ info:
     - src: /uploads/bisnode-hbs-hu.jpeg
       alt: 'Bisnode "A" tanúsítvány: HBS Zrt.'
       text: A Happy Business Services Zrt.
-        ***[Bisnode&nbsp;A](<https://www.bisnode.hu/cegkereses/0/Happy Business
-        Services>)*** tanúsítvánnyal rendelkezik, amely azt jelzi, hogy a céggel
+        **[Bisnode&nbsp;A](<https://www.bisnode.hu/cegkereses/0/Happy Business
+        Services>)** tanúsítvánnyal rendelkezik, amely azt jelzi, hogy a céggel
         való üzleti kapcsolat kialakításának pénzügyi kockázata alacsony. E
         tanúsítvánnyal ([itt
         letölthető](/uploads/20201015-happy-business-services-zrt.m.pdf)) a
@@ -73,10 +73,7 @@ references:
     ## Referenciák
 
 
-    Már számos intézmény és vállalat alkalmazza az általunk forgalmazott **Clungene® COVID-19 IgG/IgM Gyorsteszt** Kazettát.
-
-
-    Emellett többszáz egészségügyi intézmény, szakorvosi- és rendelőintézet, idősek otthona, magánkórház, vállalkozás és más intézmény az általunk forgalmazott gyorstesztekkel dolgozik.
+    Már számos intézmény és vállalat alkalmazza az általunk forgalmazott **Clungene® COVID-19 IgG/IgM Gyorsteszt** Kazettát. Ezek közül közöljük – a teljesség igénye nélkül – néhány internetes elérhetőségét.
 
 
     **Phoenix Pharma és Hungaropharma partnereinken keresztül a tesztek elérhetőek az ország összes gyógyszertárában.**
@@ -90,14 +87,14 @@ cards:
 articles:
   - subtitle: ""
     text: >-
-      <h5>Az alábbi grafikon azt szemlélteti, miként viszonyul egymáshoz a vírus
-      egy adott fehérjéjét kimutató antigén teszt és a SARS-CoV-2 ellen termelt
-      antitesteket kimutató szerológiai teszt</h5>
+      ##### Az alábbi grafikon azt szemlélteti, miként viszonyul egymáshoz a
+      vírus egy adott fehérjéjét kimutató antigén teszt és a SARS-CoV-2 ellen
+      termelt antitesteket kimutató szerológiai teszt
 
 
       <figure>
 
-      <img src="/uploads/mainpage-pic1.jpg" title="Az ábra tájékoztató jellegű. Az Ag az antigén (a vírus egyik fehérjéje), az IgM az immunglobulin M, az IgG az immunglobulin G (két, a szervezet által termelt ellenanyag) mennyiségét jelzi az eltelt napok függvényében. 0. napnak az az időpont tekintendő, amikor a COVID-19 tünetei megjelennek (onset nap)." alt="Antigén teszt és szerológiai tesztek viszonya" />
+      <img src="/uploads/mainpage-pic1.jpg" alt="Antigén teszt és szerológiai tesztek viszonya" />
 
       <figcaption>
 
@@ -118,6 +115,181 @@ articles:
 
       </figure>
     title: ""
+  - text: "#### COVID-19 gyorsteszteket használva rövid idő alatt, költséghatékonyan
+      lehet szűrést végezni egy cég, üzem, hivatal vagy más intézmény dolgozói
+      között. Az érintettek azonosításával és elkülönítésével lassítható a vírus
+      terjedése, valamint megakadályozható a járvány miatt bekövetkező kényszerű
+      leállás, és az azzal járó anyagi veszteségek."
+  - text: >-
+      **Az alábbi táblázatban összehasonlítjuk a leggyakrabban használt
+      teszttípusokat:**
+
+
+      <div>
+
+      <table>
+
+      <thead>
+
+      <tr>
+
+      <th></th>
+
+      <th>RT-PCR</th>
+
+      <th>Antigén gyorsteszt<br>(Ag teszt)</th>
+
+      <th>Ellenanyag (antitest) gyorsteszt<br>(IgG/IgM teszt)</th>
+
+      </tr>
+
+      </thead>
+
+
+      <tbody>
+
+      <tr>
+
+      <td>Mit mutat ki?</td>
+
+      <td>A SARS-CoV-2 (az új koronavírus) örökítőanyagát</td>
+
+      <td>A SARS-CoV-2 valamely fehérjéjét (amelyet az immunrendszer felismer)
+
+      </td>
+
+      <td>A szervezet a SARS-CoV-2 ellen termelt antitestjeit
+
+      </td>
+
+      </tr>
+
+
+      <tr>
+
+      <td>Honnan vesznek mintát?
+
+      </td>
+
+      <td>Orrgarat-, illetve szájgarat-nyálkahártyából
+
+      </td>
+
+      <td>Orrgarat-, illetve szájgarat-nyálkahártyából
+
+      </td>
+
+      <td>Vérből (ujjbegyből vagy vénából)
+
+      </td>
+
+      </tr>
+
+
+      <tr>
+
+      <td>Mennyi ideig tart?
+
+      </td>
+
+      <td>Több mint 2 óra
+
+      </td>
+
+      <td>15–30 perc
+
+      </td>
+
+      <td>15 perc
+
+      </td>
+
+      </tr>
+
+
+      <tr>
+
+      <td>Szükség van-e további eszközökre, anyagokra?
+
+      </td>
+
+      <td>Igen</td>
+
+      <td>Nem</td>
+
+      <td>Nem</td>
+
+      </tr>
+
+
+      <tr>
+
+      <td colspan="4">Ki tudja-e mutatni a fertőzést a tünetek megjelenését követő…</td>
+
+      </tr>
+
+
+      <tr>
+
+      <td>…első héten?</td>
+
+      <td>Igen</td>
+
+      <td>Igen</td>
+
+      <td>Általában nem</td>
+
+      </tr>
+
+
+      <tr>
+
+      <td>…második héten?</td>
+
+      <td>Igen</td>
+
+      <td>Általában nem</td>
+
+      <td>Többnyire igen</td>
+
+      </tr>
+
+
+      <tr>
+
+      <td>…harmadik és negyedik héten?</td>
+
+      <td>Esetenként igen</td>
+
+      <td>Nem</td>
+
+      <td>Igen</td>
+
+      </tr>
+
+
+      <tr>
+
+      <td>Kimutatja-e a múltban lezajlott fertőzést?</td>
+
+      <td>Nem</td>
+
+      <td>Nem</td>
+
+      <td>Igen (ha az ellenanyag még jelen van)</td>
+
+      </tr>
+
+
+      </tbody>
+
+      </table>
+
+      </div>
+  - text: "#### A COVID-19 gyorstesztek tájékoztató jellegű információval szolgálnak
+      az esetleges fertőzöttségről. A teszt elvégzését szakorvos, üzemorvos,
+      vagy ilyen szolgáltatást nyújtó szolgáltató (üzemegészségügyi szolgálat)
+      szakemberei végezhetik. Időtartama kb. 15 perc."
 ---
 <!--
 <article>
@@ -137,7 +309,6 @@ A tünetek a megfertőződést követően 2–14 nap múlva, rendszerint 5–6 n
 </figcaption>
 </figure>
 </article>
--->
 
 <article>
 <h4>COVID-19 gyorsteszteket használva rövid idő alatt, költséghatékonyan lehet szűrést végezni egy cég, üzem, hivatal vagy más intézmény dolgozói között. Az érintettek azonosításával és elkülönítésével lassítható a vírus terjedése, valamint megakadályozható a járvány miatt bekövetkező kényszerű leállás, és az azzal járó anyagi veszteségek.</h4>
@@ -238,3 +409,4 @@ A tünetek a megfertőződést követően 2–14 nap múlva, rendszerint 5–6 n
 <article>
 <h4>A COVID-19 gyorstesztek tájékoztató jellegű információval szolgálnak az esetleges fertőzöttségről. A teszt elvégzését szakorvos, üzemorvos, vagy ilyen szolgáltatást nyújtó szolgáltató (üzemegészségügyi szolgálat) szakemberei végezhetik. Időtartama kb. 15 perc.</h4>
 </article>
+-->

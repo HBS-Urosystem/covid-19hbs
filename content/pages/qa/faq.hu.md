@@ -50,7 +50,7 @@ list:
         árusítanak!
 
 
-        A professzionális (egészségügyi szakdolgozók által történő) használatra szánt tesztekre más szabályozás vonatkozik, mint az otthoni használatra, illetve önellenőrzésre szolgáló hasonló eszközökre. Jelenleg nem érhető el az Európai Unióban olyan termék, amely rendelkezne az önellenőrzésre is alkalmas in vitro diagnosztikai eszközök forgalmazásához szükséges engedélyekkel. Mindennek a jogi hátteréről [itt lehet bővebben olvasni](https://covid-19.hbs.hu/miert-nincsenek-a-piacon-otthoni-hasznalatra-is-alkalmas-covid-19-tesztek).
+        A professzionális (egészségügyi szakdolgozók által történő) használatra szánt tesztekre más szabályozás vonatkozik, mint az otthoni használatra, illetve önellenőrzésre szolgáló hasonló eszközökre. Jelenleg nem érhető el az Európai Unióban olyan termék, amely rendelkezne az önellenőrzésre is alkalmas in vitro diagnosztikai eszközök forgalmazásához szükséges engedélyekkel. Mindennek a jogi hátteréről [itt lehet bővebben olvasni](/miert-nincsenek-a-piacon-otthoni-hasznalatra-is-alkalmas-covid-19-tesztek).
 
 
         Azon túl, hogy a jogi szabályozás nem teszi lehetővé a laikusok által történő tesztelést, azt a következőek is ellenjavallttá teszik:
