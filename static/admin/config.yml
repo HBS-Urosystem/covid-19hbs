@@ -21,7 +21,7 @@ slug:
 
 i18n:
   structure: multiple_files
-  locales: [hu, en, de] 
+  locales: [hu, en, fr] 
 # , de, fr, es
 
 collections:
@@ -60,9 +60,7 @@ collections:
         options:
           - { label: "Magyar", value: "hu" }
           - { label: "English", value: "en" }
-          - { label: "Deutsch", value: "de" }
-          - { label: "Fraçais", value: "fr" }
-          - { label: "Español", value: "es" }
+          - { label: "Français", value: "fr" }
       - label: Title
         name: title
         widget: string
@@ -229,7 +227,7 @@ collections:
     filter: {field: "type.hu", value: "faq"}
     i18n: true
     create: true
-    #identifier_field: slug
+    identifier_field: menutitle
     folder: "content/pages/qa"
     slug: "{{type}}"
     fields:

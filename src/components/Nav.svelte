@@ -27,7 +27,7 @@
 	{/if}
 	<!-- Alternate URLs must be fully-qualified, including the transport method (http/https), so: https://example.com/foo, not //example.com/foo or /foo -->
 	<!-- <link rel="alternate" hreflang="en" href="https://covid-19.hbs.hu/{pages[type].en.slug}" />
-	<link rel="alternate" hreflang="de" href="https://covid-19.hbs.hu/{pages[type].de.slug}" />
+	<link rel="alternate" hreflang="de" href="https://covid-19.hbs.hu/{pages[type].fr.slug}" />
 	<link rel="alternate" hreflang="hu" href="https://covid-19.hbs.hu/{pages[type].hu.slug}" /> -->
 </svelte:head>
 
@@ -84,10 +84,10 @@
 				<a rel="prefetch" aria-expanded="false" href="{pages.index.en.slug}">en</a>
 			{/if}</li>
       <li>/</li>
-			<li>{#if $type && pages[$type].de}
-			<a rel="prefetch" sapper-noscroll aria-current="{'de' == [$lang] ? 'page' : undefined}" href="{pages[$type].de.slug}">de</a>
+			<li>{#if $type && pages[$type].fr}
+			<a rel="prefetch" sapper-noscroll aria-current="{'de' == [$lang] ? 'page' : undefined}" href="{pages[$type].fr.slug}">de</a>
 			{:else}
-			<a rel="prefetch" aria-expanded="false" href="{pages.index.de.slug}">de</a>
+			<a rel="prefetch" aria-expanded="false" href="{pages.index.fr.slug}">de</a>
 			{/if}</li>
 			<li>/</li>
 			<li>{#if $type && pages[$type].hu}
