@@ -70,9 +70,10 @@
     background-position: 50% 70%;
   }
   header#home h1 {
-		border-bottom: solid 4px var(--light);
+		border-bottom-color: var(--light);
 	}
   h1 {
+		border-bottom: solid 4px transparent;
 		filter: drop-shadow(2px 2px 0 var(--dark50));
 		margin: 0;
 		padding: var(--spacer) var(--gutter);
