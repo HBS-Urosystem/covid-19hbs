@@ -154,9 +154,6 @@
 	{/if}
 </figure> -->
 <style>
-	article :global(h2) {
-		text-align: center;
-	}
 	aside > figcaption {
 		text-align: left;
 	}
