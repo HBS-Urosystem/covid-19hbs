@@ -1,5 +1,5 @@
 <script context = "module">
-	import { lang, hero, tagline } from '../stores.js'
+	import { lang, hero, tagline, cookies } from '../stores.js'
 	import { fade } from 'svelte/transition'
 	import { mergePages } from '../content.js'
 	export const pages = mergePages()
@@ -13,6 +13,39 @@
 </script>
 
 <svelte:head>
+	{#if $cookies == true}
+	<!-- Facebook Pixel Code -->
+	<script>
+
+		!function (f, b, e, v, n, t, s) {
+			if (f.fbq) return; n = f.fbq = function () {
+				n.callMethod ?
+					n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+			};
+			if (!f._fbq) f._fbq = n; n.push = n; n.loaded = !0; n.version = '2.0';
+			n.queue = []; t = b.createElement(e); t.async = !0;
+			t.src = v; s = b.getElementsByTagName(e)[0];
+			s.parentNode.insertBefore(t, s)
+		}(window, document, 'script',
+			'https://connect.facebook.net/en_US/fbevents.js');
+		fbq('init', '2111698168960334');
+		fbq('track', 'PageView');
+	</script>
+	<noscript><img height="1" width="1" style="display:none"
+			src="https://www.facebook.com/tr?id=2111698168960334&ev=PageView&noscript=1" alt="fb-pixel" /></noscript>
+	<!-- End Facebook Pixel Code -->
+	
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-52898474-2"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag() { dataLayer.push(arguments); }
+		gtag('js', new Date());
+
+		gtag('config', 'UA-52898474-2');
+	</script>
+
+	{/if}
 	<meta name="description"
 		content="Clungene COVID-19 szerológiai (immunológiai) és antigén gyorsteszt kazetta – olcsón, azonnali szállítással" />
 	<meta name="keywords" content="COVID-19 szerológiai és antigén-gyorsteszt, covid-19, clungene, sars-cov-2, ag teszt, igg/igm teszt, antigén,
