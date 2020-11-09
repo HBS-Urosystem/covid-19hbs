@@ -1,11 +1,16 @@
 <script context="module">
 	import { lang/* , tagline, type, hero */ } from '../stores.js'
-	//import { findForm } from '../forms.js'
+	import showdown from 'showdown'
+	const converter = new showdown.Converter({
+		metadata: false,
+	})
+
 </script>
 <script>
 	export let post
-	//$tagline = 'Kérjen ajánlatot!'
-	//$type = ''
+	function _md(it) {
+		return converter.makeHtml(it)
+	}
 </script>
 
 <svelte:head>
@@ -118,6 +123,11 @@
 		</ul>
 	</div>
 </aside>
+</article>
+<article>
+	<center>
+	{@html post.html}
+	</center>
 </article>
 <style>
 	form {

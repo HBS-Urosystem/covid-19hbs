@@ -408,7 +408,6 @@ collections:
     create: true
     delete: true
     i18n: true
-    summary: "{{button}}"
     fields:
       - label: ID
         name: type

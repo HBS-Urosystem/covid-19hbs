@@ -112,6 +112,8 @@
 	}
 	footer a {
 		text-decoration: none;
+		display: block;
+    padding: var(--gutter);
 	}
 	footer h6 {
 		filter: drop-shadow(2px 2px 0 var(--dark50));

@@ -34,3 +34,9 @@ ig_items:
   - item: 1 db puffer (25 db teszthez),
   - item: használati útmutató.
 ---
+#### Keller Csilla
+
+Termékmenedzser
+
+E-mail: [csilla.keller@hbs.hu](mailto:csilla.keller@hbs.hu)
+Telefon: [+36 20 778 4899](tel:+36207784899)

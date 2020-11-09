@@ -6,13 +6,13 @@ heading: Prevent the spread of the virus by using rapid tests!
 name: Contact Name
 company: Company Name
 email: E-mail
-phone: Telephone
+phone: Phone
 ag_qty: Amount of Antigen Rapid Tests
-ag_min: 2
-ag_note: "Minimum order quantity: 2 boxes (1 box contains 25 tests)"
+ag_min: 50
+ag_note: "Minimum order quantity: 50 boxes (1 box contains 25 tests)"
 ig_qty: Amount of IgG/IgM Rapid Tests
-ig_min: 8
-ig_note: "Minimum order quantity: 8 boxes (1 box contains 25 tests)"
+ig_min: 50
+ig_note: "Minimum order quantity: 50 boxes (1 box contains 25 tests)"
 description: Comments
 button: Enquiry
 composition: Composition
@@ -36,3 +36,9 @@ ig_items:
   - item: 1 Bottle of Buffer (contains solution for 25 tests)
   - item: 1 Package Insert
 ---
+#### Balázs Bogácsi
+
+Sales Representative
+
+E-mail: [balazs.bogacsi@urosystem.com](mailto:balazs.bogacsi@hbs.hu)
+Phone: [+36 20 916 0211](tel:+36209160211)

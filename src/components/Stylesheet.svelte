@@ -88,7 +88,7 @@
 		max-width: 80ch;
 		margin: 0 auto;
 		/* padding: var(--spacer) var(--gutter); */
-		padding: var(--spacer2) var(--gutter);
+		padding: var(--spacer2) var(--gutter) var(--spacer);
 	}
 	main a {
 		text-decoration: underline;
@@ -250,7 +250,7 @@
 	aside img {
 		height: 0;
     padding-bottom: 56.25%;
-    background-position: center;
+    background-position: center 70%;
 		background-size: cover;
 		margin-bottom: 1.5rem;
 	}
