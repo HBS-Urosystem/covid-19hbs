@@ -1,6 +1,6 @@
 ---
 title: quotation
-button: Send Quotation
+button: Send a request
 link: /enquiry
 ---
 ### Send a request or ask a question!
