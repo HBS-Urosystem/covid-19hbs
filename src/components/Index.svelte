@@ -67,7 +67,9 @@
 		{#each post.cards as card}
 		<a rel="prefetch" href="{card.link}">
 			<figure>
+				{#if card.src}
 				<img loading="lazy" src="{card.src}" style="background-image: url('{card.src}');" alt="{card.link}"/>
+				{/if}
 				<figcaption>{@html _md(card.text)}</figcaption>
 			</figure>
 		</a>

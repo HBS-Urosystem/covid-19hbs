@@ -1,6 +1,6 @@
 ---
 type: index
-slug: de
+slug: fr
 title: Clungene® COVID-19 Schnelltests
 menutitle: Schnelltests
 hero: /uploads/33838-web.jpg

@@ -17,10 +17,10 @@
 <svelte:head>
 	<!-- <title>lang: {$lang}</title> -->
 	{#if $lang == 'en'}
-		<meta property="og:locale" content="en_US" />
+		<meta property="og:locale" content="en_GB" />
 	{/if}
-	{#if $lang == 'de'}
-		<meta property="og:locale" content="de_DE" />
+	{#if $lang == 'fr'}
+		<meta property="og:locale" content="fr_FR" />
 	{/if}
 	{#if $lang == 'hu'}
 		<meta property="og:locale" content="hu_HU" />
@@ -44,7 +44,10 @@
 				<a rel="prefetch" name="logo" sapper-noscroll aria-current="{$type == 'index' ? 'page' : undefined}" href="{pages.index[$lang].slug}#content">
 					<span>{pages.index[$lang].menutitle}</span><!-- <img loading="lazy" src="uploads/hbs-logo-medical.png" alt="hbs logo"> -->
 				</a>
-				<small><a aria-current="{segment == 'antigen-teszt' ? 'page' : undefined}" href="/antigen-teszt#content">Antigén</a><a aria-current="{segment == 'szerologiai-teszt' ? 'page' : undefined}" href="/szerologiai-teszt#content">Szerológiai</a></small>
+				<small>
+					<a aria-current="{segment == pages.product1[$lang].slug ? 'page' : undefined}" href="{pages.product1[$lang].slug}#content">{pages.product1[$lang].menutitle}</a>
+					<a aria-current="{segment == pages.product2[$lang].slug ? 'page' : undefined}" href="{pages.product2[$lang].slug}#content">{pages.product2[$lang].menutitle}</a>
+				</small>
 			</li>
 
 			{#if pages.faq[$lang]}
@@ -77,25 +80,25 @@
 		<!-- slide me <-|-> icon -->
 		<!-- css: sticky, left: 0; right: 0, width: 2rem -->
 
-		<!-- <ul>
+		<ul>
 			<li>{#if $type && pages[$type].en}
 				<a rel="prefetch" sapper-noscroll aria-current="{'en' == [$lang] ? 'page' : undefined}" href="{pages[$type].en.slug}">en</a>
 			{:else}
 				<a rel="prefetch" aria-expanded="false" href="{pages.index.en.slug}">en</a>
 			{/if}</li>
-      <li>/</li>
-			<li>{#if $type && pages[$type].fr}
-			<a rel="prefetch" sapper-noscroll aria-current="{'de' == [$lang] ? 'page' : undefined}" href="{pages[$type].fr.slug}">de</a>
+      <!-- <li>/</li> -->
+			<!-- <li>{#if $type && pages[$type].fr}
+			<a rel="prefetch" sapper-noscroll aria-current="{'fr' == [$lang] ? 'page' : undefined}" href="{pages[$type].fr.slug}">fr</a>
 			{:else}
-			<a rel="prefetch" aria-expanded="false" href="{pages.index.fr.slug}">de</a>
-			{/if}</li>
-			<li>/</li>
+			<a rel="prefetch" aria-expanded="false" href="{pages.index.fr.slug}">fr</a>
+			{/if}</li> -->
+			<!-- <li>/</li> -->
 			<li>{#if $type && pages[$type].hu}
 			<a rel="prefetch" sapper-noscroll aria-current="{'hu' == [$lang] ? 'page' : undefined}" href="{pages[$type].hu.slug}">hu</a>
 			{:else}
 			<a rel="prefetch" aria-expanded="false" href="{pages.index.hu.slug}">hu</a>
       {/if}</li>
-		</ul> -->
+		</ul>
 	</div>
 	<h5><a href="https://www.facebook.com/tesztelj" target="_blank" rel="noopener">{@html FBicon}&nbsp;/&thinsp;tesztelj&nbsp;</a></h5>
 </nav>

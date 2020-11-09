@@ -176,13 +176,13 @@ collections:
         required: false
         i18n: true
         fields:
-          - label: References text
+          - label: Documents text
             name: text
             widget: markdown
             required: false
             i18n: true
-          - label: Reference links
-            label_singular: Reference link
+          - label: Document links
+            label_singular: Document link
             name: links
             widget: list
             i18n: true
