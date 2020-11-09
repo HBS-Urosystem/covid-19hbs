@@ -151,7 +151,7 @@
 		font-weight: bolder;
 		text-transform: uppercase;
 		padding: 0;
-		margin: 0 auto;
+		/* margin: 0 auto; */
 		
 		display: flex;
     flex-wrap: nowrap;
