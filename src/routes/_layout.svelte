@@ -44,6 +44,7 @@
 	<footer>
 		<a name="logo" sapper-noscroll href="https://hbs.hu" rel="noopener" target="_blank">
 			<img loading="lazy" src="uploads/hbs-logo-medical.png" alt="hbs logo">
+			<h6>Happy Business Services Zrt.</h6>
 		</a>
 	</footer>
 </main>
@@ -108,5 +109,16 @@
 		width: auto;
 		filter: drop-shadow(2px 2px 0 white);
 		margin: 1rem auto;
+	}
+	footer a {
+		text-decoration: none;
+	}
+	footer h6 {
+		filter: drop-shadow(2px 2px 0 var(--dark50));
+		margin: 0;
+		text-align: center;
+    font-weight: bolder;
+    letter-spacing: .25rem;
+		text-shadow: 2px 2px 4px var(--dark);
 	}
 </style>

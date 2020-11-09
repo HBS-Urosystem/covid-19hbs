@@ -38,7 +38,7 @@ collections:
     summary: "{{menutitle}}"
     slug: "{{type}}"
     fields:
-      - label: Type
+      - label: ID
         name: type
         widget: string
         default: index
@@ -400,4 +400,112 @@ collections:
       - label: Body
         name: body
         widget: markdown
+        i18n: true
+
+  - name: forms
+    label: Forms
+    folder: content/pages/forms
+    create: true
+    delete: true
+    i18n: true
+    summary: "{{button}}"
+    fields:
+      - label: ID
+        name: type
+        widget: string
+        i18n: duplicate
+      - label: URL alias (slug)
+        name: slug
+        i18n: true
+        widget: string
+      - label: Title
+        name: title
+        widget: string
+        i18n: true
+      - label: Heading
+        name: heading
+        widget: string
+        i18n: true
+      - label: Name
+        name: name
+        widget: string
+        i18n: true
+      - label: Company
+        name: company
+        widget: string
+        i18n: true
+      - label: Email
+        name: email
+        widget: string
+        i18n: true
+      - label: Phone
+        name: phone
+        widget: string
+        i18n: true
+      - label: Ag quantity
+        name: ag_qty
+        widget: string
+        i18n: true
+      - label: Ag min-quantity
+        name: ag_min
+        widget: number
+        i18n: true
+      - label: Ag note
+        name: ag_note
+        widget: string
+        i18n: true
+      - label: IgG/IgM quantity
+        name: ig_qty
+        widget: string
+        i18n: true
+      - label: IgG/IgM min-quantity
+        name: ig_min
+        widget: number
+        i18n: true
+      - label: IgG/IgM note
+        name: ig_note
+        widget: string
+        i18n: true
+      - label: Textarea
+        name: description
+        widget: string
+        i18n: true
+      - name: button
+        label: Button text
+        widget: string
+        i18n: true
+      - name: composition
+        label: Composition
+        widget: string
+        i18n: true
+      - name: boxing
+        label: Boxing
+        widget: string
+        i18n: true
+      - label: Ag composition
+        name: ag_comp
+        widget: string
+        i18n: true
+      - label: Ag items
+        name: ag_items
+        widget: list
+        i18n: true
+        fields:
+          - label: Item
+            name: item
+      - label: IgG/IgM composition
+        name: ig_comp
+        widget: string
+        i18n: true
+      - label: IgG/IgM items
+        name: ig_items
+        widget: list
+        i18n: true
+        fields:
+          - label: Item
+            name: item
+      - label: HTML
+        name: body
+        widget: markdown
+        required: false
         i18n: true

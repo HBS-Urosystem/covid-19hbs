@@ -193,11 +193,13 @@
 		display: block;
 		bottom: 0;
 	}
-	small [aria-current]::after {
-		height: var(--gutterz);
-	}
 	ul:nth-child(odd) [aria-current]::after {
 		top: 0;
+	}
+	ul:nth-child(odd) small [aria-current]::after {
+		height: var(--gutterz);
+		top: auto;
+		bottom: 0;
 	}
 	[aria-expanded='false'] {
 		/* color: var(--txt75); */

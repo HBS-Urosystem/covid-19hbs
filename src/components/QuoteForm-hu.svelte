@@ -1,75 +1,71 @@
 <script context="module">
-	import { lang/* , tagline, type, hero */ } from '../stores.js'
-	//import { findForm } from '../forms.js'
+	import { lang, tagline, type } from '../stores.js'
 </script>
 <script>
-	export let post
-	//$tagline = 'Kérjen ajánlatot!'
-	//$type = ''
+	/* export let post */
+	$tagline = 'Kérjen ajánlatot!'
+	$type = ''
 </script>
 
 <svelte:head>
+	<title>{$tagline}</title>
 </svelte:head>
 
 <article>
 
-	<h2>{post.heading}</h2>
+<h2>Segítse Ön is a COVID-19 elleni védekezést!</h2>
 
-	<form name="quoteform" method="POST">
-		<!-- <fieldset> -->
-		<input type='hidden' name='form-name' value='quoteform' />
-		<label>{post.name}
-		<input name="name" type="text" required placeholder="*" />
-		</label>
-		<label>{post.company}
-		<input name="company" type="text" />
-		</label>
-		<label>{post.email}
-		<input name="email" type="email" required placeholder="*" />
-		</label>
-		<label>{post.phone}
-		<input name="phone" type="tel" required placeholder="*" />
-		</label>
-		<label>{post.ag_qty}
-		<input name="ag-qty" type="number" min="{post.ag_min}" />
-		<small>{post.ag_note}</small>
-		</label>
-		<label>{post.ig_qty}
-		<input name="ig-qty" type="number" min="{post.ig_min}" />
-		<small>{post.ig_note}</small>
-		</label>
-		<label>Profile
-		<input name="profile" type="text" />
-		</label>
-		<!-- </fieldset> -->
-		<fieldset>
-			<label for="description">{post.description}</label>
-			<textarea id="description" name="description"></textarea>
-		</fieldset>
-		<fieldset>
-		<button type="submit" role="button">{post.button}</button>
-		</fieldset>
-		
-	</form>
+<form name="quoteform" method="POST">
+	<!-- <fieldset> -->
+	<input type='hidden' name='form-name' value='quoteform' />
+	<label>Kapcsolattartó neve
+	<input name="name" type="text" required placeholder="*" />
+	</label>
+	<label>Cég neve
+	<input name="company" type="text" />
+	</label>
+	<label>Email cím
+	<input name="email" type="email" required placeholder="*" />
+	</label>
+	<label>Telefonszám
+	<input name="phone" type="tel" required placeholder="*" />
+	</label>
+	<label>Antigén gyorsteszt mennyisége (doboz)
+	<input name="ag-qty" type="number" min="2" />
+	<small>Min. megrendelési egység: 2 doboz (1 doboz = 25 db)</small>
+	</label>
+	<label>Szerológiai gyorsteszt mennyisége (doboz)
+	<input name="ig-qty" type="number" min="8" />
+	<small>Min. megrendelési egység: 8 doboz (1 doboz = 25 db)</small>
+	</label>
+	<label>Profile
+	<input name="profile" type="text" />
+	</label>
+	<!-- </fieldset> -->
+	<fieldset>
+		<label for="description">Megjegyzések</label>
+		<textarea id="description" name="description"></textarea>
+	</fieldset>
+	<fieldset>
+	<button type="submit" role="button">Küldés</button>
+	</fieldset>
+	
+</form>
 </article>
 
 <article>
 	<div>
-		<h3>{post.composition}</h3>
+		<h3>Kiszerelés</h3>
 		<p>
-			<b>{post.boxing}</b>
+			<b>1 doboz tartalma: </b>
 		</p>
 	</div>
 <aside>
 	<div>
-		<h4>{post.ag_comp}</h4>
+		<h4>Antigén gyorsteszt</h4>
 		<ul>
-			{#each post.ag_items as item}
-			<li>{item.item}</li>
-			{/each}
-<!-- 
 			<li>
-				25 db egyedileg csomagolt tesztkazetta,
+				25 db egyedileg csomagolt tesztkazetta,<!--  (1-1 db pipetta mellékelve) -->
 			</li>
 			<li>
 				25 db steril mintavevő pálca,
@@ -89,16 +85,11 @@
 			<li>
 				használati útmutató.
 			</li>
- -->
 		</ul>
 	</div>
 	<div>
-		<h4>{post.ig_comp}</h4>
+		<h4>Szerológiai (IgG/IgM) gyorsteszt</h4>
 		<ul>
-			{#each post.ag_items as item}
-			<li>{item.item}</li>
-			{/each}
-<!-- 
 			<li>
 				25 db egyedileg csomagolt tesztkazetta (1-1 db pipetta mellékelve),
 			</li>
@@ -114,7 +105,6 @@
 			<li>
 				használati útmutató.
 			</li>
- -->
 		</ul>
 	</div>
 </aside>

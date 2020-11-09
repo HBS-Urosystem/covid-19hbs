@@ -25,7 +25,7 @@ intro:
         ### Clungene® COVID-19 IgG/IgM Rapid Test
 
 
-        It detects the antibodies produced by the human immune system against the SARS-CoV-2 virus (IgG and (IgM). This test is for detecting the late phase of the infection, just as well as an infection happened in the past. Sensitivity: 86.6%. Specificity: 98.33% (IgG+IgM combined). 8 days after the appearance of the symptoms, specificity is over 90%.
+        It detects the antibodies produced by the human immune system against the SARS-CoV-2 virus (IgG and (IgM). This test is for detecting the late phase of the infection, just as well as an infection happened in the past. Sensitivity: 86.6%. Specificity: 98.33% (IgG+IgM combined). 8 days after the appearance of the symptoms, sensitivity is over 90%.
       link: /serology-test
       cta: Details
   text: >-

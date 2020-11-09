@@ -1,5 +1,5 @@
 ---
-type: gdpr
+type: cookie
 slug: cookie
 title: Cookie-tájékoztató
 menutitle: Cookie-tájékoztató

@@ -1,7 +1,7 @@
 ---
 title: quotation
 button: Ajánlatkérés
-link: /quote
+link: /ajanlatkeres
 ---
 ### Kérjen árajánlatot vagy tegye fel kérdését!
 

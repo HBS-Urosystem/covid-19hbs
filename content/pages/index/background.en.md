@@ -1,5 +1,5 @@
 ---
-type: index
+type: background
 slug: legal-background
 title: Currently, there are no COVID-19 tests available for non-professionals
 menutitle: Legal background

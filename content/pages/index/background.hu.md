@@ -1,5 +1,5 @@
 ---
-type: index
+type: background
 slug: miert-nincsenek-a-piacon-otthoni-hasznalatra-is-alkalmas-covid-19-tesztek
 title: Miért nincsenek a piacon otthoni használatra is alkalmas COVID-19 tesztek?
 menutitle: Jogi háttér

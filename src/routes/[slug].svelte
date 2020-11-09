@@ -3,6 +3,7 @@
 	import List from "../components/List.svelte"
 	import CTA from "../components/CTA.svelte"
 	import Index from "../components/Index.svelte"
+	import QuoteForm from "../components/QuoteForm.svelte"
 	import { findPost } from '../content.js'
 	import { lang, type, hero, tagline } from '../stores.js'
 	import showdown from 'showdown'
@@ -111,22 +112,28 @@
 {/if}
 {/if}
 
+{#if post.type == 'enquiry'}
+<QuoteForm {post}/>
+{/if}
+
 {#if post.type == 'index'}
 <Index {post}/>
 {/if}
+
 {#if post.type == 'product1'}
 <Index {post}/>
 {/if}
+
 {#if post.type == 'product2'}
 <Index {post}/>
 {/if}
+
 {#if post.type == 'gdpr'}
 <article>
 <h1>{post.title}</h1>
 {@html post.html}
 </article>
 {/if}
-
 
 {#if post.list}
 <List {post}/>

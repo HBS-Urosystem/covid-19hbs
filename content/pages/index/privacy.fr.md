@@ -1,5 +1,5 @@
 ---
-type: gdpr
+type: privacy
 slug: adatvedelem
 title: Adatkezelési tájékoztató
 menutitle: Adatkezelési tájékoztató

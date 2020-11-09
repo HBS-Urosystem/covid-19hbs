@@ -1,3 +1,3 @@
 ---
-type: index
+type: background
 ---

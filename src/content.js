@@ -21,7 +21,7 @@ export function findPost(slug = 'hu') {
 }
 
 export function mergePages() {
-	//console.log('_.merge', _.merge(...pages))
+	//console.log('_.merge', pages)
 	return _.merge(...pages)
 }
 

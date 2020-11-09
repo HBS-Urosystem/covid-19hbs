@@ -95,7 +95,7 @@ list:
         * **Az ellenanyag teszt csak akkor mutatja ki a vírusfertőzést, amikor az már elmúlt.**
 
 
-        Nem így van. A fertőzést követő 5–8. napon az IgM antitest már kimutatható. Az IgG valóban később jelenik meg a szervezetben, ám a fertőzés időszakának második felében jellemzően már észlelhető – s az is marad annak lezajlása után is.
+        Nem így van. Az IgM már a tünetek megjelenését követő első héten kimutathatóvá válik. Az IgG valóban később jelenik meg a szervezetben, ám a fertőzés időszakának második felében jellemzően már észlelhető – s az is marad annak lezajlása után is.
 
 
         Ez utóbbiból következően viszont azonosíthatóak azok, akik már átestek a fertőzésen, és ez az információ már önmagában is igen értékes a fertőzőképesség és a munkavégzés szempontjából.
@@ -113,7 +113,7 @@ list:
         Az antigén gyorstesztek egyik legfontosabb előnye, hogy olyankor, amikor valakinél már jelentkeznek a tünetek, vagy nagy a kockázata, hogy az illető elkapta a vírust, gyorsan, olcsón, és akár a helyszínen is elvégezhetőek. Vagyis, jól használhatóak olyankor, ha sürgős szükség van az eredményre, és a PCR teszt elvégzésére nincs idő. Ugyanezen okokból szintén megfontolandó az antigén gyorsteszt alkalmazása, ha rövid idő alatt sok embert kell letesztelni.
 
 
-        Ami a szerológiai teszteket illeti, mivel az antitestek a fertőzést követő 5–8. napon jelennek meg kimutatható mennyiségben, valóban nem képesek a vírust kimutatni, ha az csak néhány napja van jelen a szervezetben. Ugyanakkor, mivel gyorsan és nagy mennyiségben elvégezhetőek, alkalmasak sok, egymással rendszeres kapcsolatot tartó ember (pl. hivatalok, munkahelyek, nagyobb családok) szűrésére, annak azonosítására, hogy megjelent-e már az adott környezetben a vírus.
+        Ami a szerológiai teszteket illeti, azok valóban nem tudják kimutatni a COVID-19 legkorábbi stádiumát, mivel akkor még nincs ahhoz elegendő mennyiségű antitest a szervezetben. Ugyanakkor, mivel gyorsan és nagy mennyiségben elvégezhetőek, alkalmasak sok, egymással rendszeres kapcsolatot tartó ember (pl. hivatalok, munkahelyek, nagyobb családok) szűrésére, annak azonosítására, hogy megjelent-e már az adott környezetben a vírus.
 
 
         A két teszt együttes alkalmazásával a COVID-19 fertőzés korai és késői szakaszában járó embereket is azonosítani lehet; az érintettek elkülönítésével jelentős mértékben lelassítható a vírus terjedése.
@@ -154,7 +154,7 @@ list:
         * Szakképzett személyzet számára az antitest teszt elvégzése nem okoz különösebb nehézséget. Az antigén teszt némiképp bonyolultabb (különösen a mintavétel igényel nagy figyelmet), ám, akárcsak az ellenanyag teszt, ez is bárhol elvégezhető. A PCR reakció előkészítése és lefolytatása azonban olyan speciális szakértelmet kíván, amellyel kevés egészségügyi dolgozó rendelkezik – a műveletek során pedig rengeteg a hibalehetőség. Helyszíni elvégzése nem lehetséges: vagy a páciensnek kell a megfelelő eszközökkel rendelkező helyszínre utaznia, vagy a szakszemélyzetnek kell a pácienshez kiszállnia. A mintavételezés – az antigén teszthez hasonlóan – nagy figyelmet kíván, és könnyedén előfordulhat, hogy egyetlen olyan sejt sem kerül a mintába, melyből a vírus kimutatható – ezért a PCR teszt esetében is születnek téves negatív eredmények.
 
 
-        Az utóbbi időben megjelent szakcikkek alapján azonban a PCR tesztek megbízhatósága is megkérdőjelezhetőnek tűnik. Több kutatás is foglalkozott e tesztek vizsgálatával (például: [1](https://asm.org/Articles/2020/April/False-Negatives-and-Reinfections-the-Challenges-of), [2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7189409/)), a legátfogóbb összegzést pedig az Egyesült Államok egyik legrangosabb intézménye, a baltimore-i John Hopkins Egyetem nyújtotta. [Cikkük hét kutatást, illetve 1330 PCR teszteredményt dolgozott fel](https://www.acpjournals.org/doi/10.7326/M20-1495), az eredmények pedig elég meglepőek lettek.
+        Az utóbbi időben megjelent szakcikkek alapján azonban a PCR tesztek megbízhatósága is megkérdőjelezhetőnek tűnik. Több kutatás is foglalkozott e tesztek vizsgálatával (például: [1](https://asm.org/Articles/2020/April/False-Negatives-and-Reinfections-the-Challenges-of), [2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7189409/)), a legátfogóbb összegzést pedig az Egyesült Államok egyik legrangosabb intézménye, a baltimore-i John Hopkins Egyetem nyújtotta. [Cikkük](https://www.acpjournals.org/doi/10.7326/M20-1495) hét kutatást, illetve 1330 PCR teszteredményt dolgozott fel, az eredmények pedig meglepőek lettek.
 
 
         A SARS-CoV-2 okozta betegség tünetei rendszerint a megfertőződést követő 5. napon jelentkeznek. (Ezt a napot hívják *onset* napnak.) Az ezt megelőző időszak során a PCR tesztek mindössze **0–33% eséllyel mutatták ki a vírust**, annak függvényében, hogy a tesztet a fertőzés elkapása utáni hányadik napon végezték el. 
@@ -193,9 +193,7 @@ list:
       question: Hogyan lehet összevetni a szerológiai tesztek és a PCR-tesztek
         eredményeit?
       answer: >-
-        A [diazyme.com](http://www.diazyme.com/covid-19-antibody-tests) weblap
-        tömören és pontosan foglalja össze a lehetséges eredményeket és azok
-        magyarázatait:
+        A lehetséges eredményeket és azok interpretációját a következő táblázat foglalja össze:
 
 
         <table>
@@ -206,7 +204,7 @@ list:
 
         <th colspan="3">Teszt eredménye</th>
 
-        <th>Magyarázata</th>
+        <th>Legvalószínűbb magyarázat</th>
 
         </tr>
 
@@ -228,7 +226,7 @@ list:
 
         <td>–</td>
 
-        <td>A páciens valószínűleg frissen (pár napja) fertőződött meg.</td>
+        <td>A páciens valószínűleg frissen (pár napja) fertőződött meg. (Ebben az ún. „ablakperiódusban” a szerológiai teszt még nem mutatja ki a fertőzést.)</td>
 
         </tr>
 
@@ -353,7 +351,7 @@ list:
 
         <td>–</td>
 
-        <td>A páciens fertőzött, az antigén teszt eredménye valószínűleg hamis negatív. Elképzelhető, hogy a PCR teszt még kimutatja a vírus jelenlétét, az antigén teszt viszont már nem.</td>
+        <td>A páciens fertőzött, az antigén teszt eredménye valószínűleg hamis negatív.</td>
 
         </tr>
 

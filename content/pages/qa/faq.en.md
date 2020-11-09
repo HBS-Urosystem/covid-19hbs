@@ -300,9 +300,6 @@ list:
         </tr>
 
         </table>
-
-
-        (From [diazyme.com](https://www.diazyme.com/covid-19-antibody-tests))
   - object:
       answer: >
         Since both tests detect the virus itself, it is easier to interpret the

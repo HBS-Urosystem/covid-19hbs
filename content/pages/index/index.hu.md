@@ -17,6 +17,9 @@ intro:
 
 
         A vírusnak azt a fehérjéjét mutatja ki, amit az immunrendszerünk is felismer. A COVID-19 korai szakaszában jól azonosítja a fertőzést.
+
+
+        <small>Szenzitivitás: 91.4%. Specificitás: 100.0%.</small>
       link: /antigen-teszt
       cta: Részletek
     - src: /uploads/sam_0089_copy.jpg
@@ -26,6 +29,9 @@ intro:
 
 
         A szervezetünk által termelt ellenanyagokat mutatja ki. A COVID-19 közép- és késői szakaszának, illetve a múltban lezajlott fertőzés azonosítására alkalmas.
+        
+        
+        <small>Szenzitivitás: 86.6%. Specificitás: 98.33% (IgG+IgM kombinált). A tünetek megjelenését követő 8. naptól kezdve a szenzitivitás 90% feletti.</small>
       cta: Részletek
       link: /szerologiai-teszt
   text: >-
@@ -289,7 +295,7 @@ articles:
   - text: "#### A COVID-19 gyorstesztek tájékoztató jellegű információval szolgálnak
       az esetleges fertőzöttségről. A teszt elvégzését szakorvos, üzemorvos,
       vagy ilyen szolgáltatást nyújtó szolgáltató (üzemegészségügyi szolgálat)
-      szakemberei végezhetik. Időtartama kb. 15 perc."
+      szakemberei végezhetik. Időtartama kb. 15–30 perc."
 ---
 <!--
 <article>

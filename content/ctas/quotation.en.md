@@ -1,9 +1,9 @@
 ---
 title: quotation
-button: Request for Quotation
-link: /quote
+button: Send Quotation
+link: /enquiry
 ---
-### Request for quotation or ask a question!
+### Send a request or ask a question!
 
 * COVID-19 Antigen Rapid Test: On stock from 17<sup>th</sup> November
 * COVID-19 IgG/IgM Rapid Test: On stock
