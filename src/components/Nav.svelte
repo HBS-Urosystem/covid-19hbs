@@ -7,12 +7,12 @@
 
 <script>
 	export let segment
-	$: if (segment && segment !== 'undefined') {
+	/* $: if (segment && segment !== 'undefined') {
 		//console.log('_nav-segment',segment,typeof(segment))
 		//console.log('_nav-type:', $type)
-	}
-	console.log($lang)
-	console.log(pages)
+	} */
+	//console.log($lang)
+	//console.log(pages)
 </script>
 
 <svelte:head>
@@ -152,10 +152,13 @@
 		font-weight: bolder;
 		text-transform: uppercase;
 		padding: 0;
-		/* margin: 0 auto; */
-		
+		justify-content: space-between;
+		width: 100%;
 		display: flex;
     flex-wrap: nowrap;
+	}
+	ul:last-of-type {
+		justify-content: center;
 	}
 	li {
 		/* display: inline-block; */
