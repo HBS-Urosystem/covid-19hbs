@@ -27,7 +27,7 @@
 </footer>
 
 <style>
-	footer[sticky=true] {
+	footer[data-sticky=true] {
 		position: sticky;
 	}
 	footer {
