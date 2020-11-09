@@ -16,7 +16,10 @@ intro:
         ### Clungene® COVID-19 Antigen Rapid Test
 
 
-        It detects the nucleocapsid protein of SARS-CoV-2 (which is detected by the human immune system, too). This test is for detecting the early phase of the infection. Sensitivity: 91.4%. Specificity: 100.0%.
+        It detects the nucleocapsid protein of SARS-CoV-2 (which is detected by the human immune system, too). This test is for detecting the early phase of the infection.
+
+
+        <small>Sensitivity: 91.4%. Specificity: 100.0%.</small>
       link: /antigen-test
       cta: Details
     - src: /uploads/sam_0089_copy.jpg
@@ -25,7 +28,10 @@ intro:
         ### Clungene® COVID-19 IgG/IgM Rapid Test
 
 
-        It detects the antibodies produced by the human immune system against the SARS-CoV-2 virus (IgG and (IgM). This test is for detecting the late phase of the infection, just as well as an infection happened in the past. Sensitivity: 86.6%. Specificity: 98.33% (IgG+IgM combined). 8 days after the appearance of the symptoms, sensitivity is over 90%.
+        It detects the antibodies produced by the human immune system against the SARS-CoV-2 virus (IgG and (IgM). This test is for detecting the late phase of the infection, just as well as an infection happened in the past.
+
+
+        <small>Sensitivity: 86.6%. Specificity: 98.33% (IgG+IgM combined). 8 days after the appearance of the symptoms, sensitivity is over 90%.</small>
       link: /serology-test
       cta: Details
   text: >-

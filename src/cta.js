@@ -16,7 +16,7 @@ function transform({ filename, metadata, html }) {
 	let temp = filename.replace(/.md$/, '').split(".")
 	const lang = temp[temp.length - 1]
 	//const slug = filename.replace(/.md$/, '')
-	const type = metadata.title
+	const type = metadata.type
 	//return { lang, ...metadata, filename, slug, html }
 	return { [type]: { [lang]: { ...metadata, html } } }
 }

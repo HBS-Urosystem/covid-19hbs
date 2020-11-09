@@ -80,7 +80,7 @@ A különféle szabványos technikai és tranzakciós adatok gyűjtésére tová
                       <p>This cookie remembers the language selection of the user.</p>
                     </td>
                     <td>
-                      <p>session </p>
+                      <p>localStorage</p>
                     </td>
                     <td>
                       <p>System</p>

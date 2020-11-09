@@ -117,6 +117,7 @@
 	h4 {
 		font-size: 1.5rem;
 		margin: 1.25rem 0;
+		font-weight: bolder;
 	}
 
 	h5 {
@@ -127,6 +128,7 @@
 	h6 {
 		font-size: 1.125rem;
 		margin: .75rem 0;
+		font-weight: bolder;
 	}
 
 	p {
@@ -231,7 +233,7 @@
 	article h2 {
 		color: var(--light);
 		text-shadow: 1px 1px 2px var(--dark);
-		text-align: center;
+		/* text-align: center; */
 		/* padding: var(--gutter);
 		border: solid var(--light);
 		border-width: 2px 4px; */

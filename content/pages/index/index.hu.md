@@ -29,8 +29,8 @@ intro:
 
 
         A szervezetünk által termelt ellenanyagokat mutatja ki. A COVID-19 közép- és késői szakaszának, illetve a múltban lezajlott fertőzés azonosítására alkalmas.
-        
-        
+
+
         <small>Szenzitivitás: 86.6%. Specificitás: 98.33% (IgG+IgM kombinált). A tünetek megjelenését követő 8. naptól kezdve a szenzitivitás 90% feletti.</small>
       cta: Részletek
       link: /szerologiai-teszt
