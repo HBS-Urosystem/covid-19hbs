@@ -35,6 +35,29 @@
 <nav id="nav">
 	<div>
 		<ul>
+			<li>
+				{#if $type && pages[$type].en}
+				<a rel="prefetch" sapper-noscroll aria-current="{'en' == [$lang] ? 'page' : undefined}" href="{pages[$type].en.slug}">en</a>
+				{:else}
+				<a rel="prefetch" aria-expanded="false" href="{pages.index.en.slug}">en</a>
+				{/if}
+			</li>
+			<!-- <li>/</li> -->
+			<!-- <li>{#if $type && pages[$type].fr}
+			<a rel="prefetch" sapper-noscroll aria-current="{'fr' == [$lang] ? 'page' : undefined}" href="{pages[$type].fr.slug}">fr</a>
+			{:else}
+			<a rel="prefetch" aria-expanded="false" href="{pages.index.fr.slug}">fr</a>
+			{/if}</li> -->
+			<!-- <li>/</li> -->
+			<li>
+				{#if $type && pages[$type].hu}
+				<a rel="prefetch" sapper-noscroll aria-current="{'hu' == [$lang] ? 'page' : undefined}" href="{pages[$type].hu.slug}">hu</a>
+				{:else}
+				<a rel="prefetch" aria-expanded="false" href="{pages.index.hu.slug}">hu</a>
+				{/if}
+			</li>
+		</ul>
+		<ul>
 			<!-- <li>
 				<a aria-current="{segment === pages['index'][$lang] ? 'page' : undefined}" href="/{$lang}">
 					<span>{pages['index'][$lang]}</span>
@@ -51,19 +74,19 @@
 				</small>
 			</li>
 
-			{#if pages.faq[$lang]}
-			<li>
-				<a rel="prefetch" aria-current="{$type == 'faq' ? 'page' : undefined}" href="{pages.faq[$lang].slug}#content">
-					<span>{pages.faq[$lang].menutitle}</span>
-				</a>
-			</li>
-			{/if}
-
 			<!-- segment === pages.business[$lang].slug -->
 			{#if pages.business[$lang]}
 			<li>
 				<a rel="prefetch" aria-current="{$type == 'business' ? 'page' : undefined}" href="{pages.business[$lang].slug}#content">
 					<span>{pages.business[$lang].menutitle}</span>
+				</a>
+			</li>
+			{/if}
+
+			{#if pages.faq[$lang]}
+			<li>
+				<a rel="prefetch" aria-current="{$type == 'faq' ? 'page' : undefined}" href="{pages.faq[$lang].slug}#content">
+					<span>{pages.faq[$lang].menutitle}</span>
 				</a>
 			</li>
 			{/if}
@@ -81,25 +104,6 @@
 		<!-- slide me <-|-> icon -->
 		<!-- css: sticky, left: 0; right: 0, width: 2rem -->
 
-		<ul>
-			<li>{#if $type && pages[$type].en}
-				<a rel="prefetch" sapper-noscroll aria-current="{'en' == [$lang] ? 'page' : undefined}" href="{pages[$type].en.slug}">en</a>
-			{:else}
-				<a rel="prefetch" aria-expanded="false" href="{pages.index.en.slug}">en</a>
-			{/if}</li>
-      <!-- <li>/</li> -->
-			<!-- <li>{#if $type && pages[$type].fr}
-			<a rel="prefetch" sapper-noscroll aria-current="{'fr' == [$lang] ? 'page' : undefined}" href="{pages[$type].fr.slug}">fr</a>
-			{:else}
-			<a rel="prefetch" aria-expanded="false" href="{pages.index.fr.slug}">fr</a>
-			{/if}</li> -->
-			<!-- <li>/</li> -->
-			<li>{#if $type && pages[$type].hu}
-			<a rel="prefetch" sapper-noscroll aria-current="{'hu' == [$lang] ? 'page' : undefined}" href="{pages[$type].hu.slug}">hu</a>
-			{:else}
-			<a rel="prefetch" aria-expanded="false" href="{pages.index.hu.slug}">hu</a>
-      {/if}</li>
-		</ul>
 	</div>
 	<h5><a href="https://www.facebook.com/tesztelj" target="_blank" rel="noopener">{@html FBicon}&nbsp;/&thinsp;tesztelj&nbsp;</a></h5>
 </nav>
@@ -157,7 +161,7 @@
 		display: flex;
     flex-wrap: nowrap;
 	}
-	ul:last-of-type {
+	ul:first-of-type {
 		justify-content: center;
 	}
 	li {
@@ -177,7 +181,7 @@
 		text-align: center;
 	}
 
-	div ul:first-child li:first-child {
+	div ul:last-child li:first-child {
 		line-height: .5;
 	}
 	div ul:first-child li:first-child a {
