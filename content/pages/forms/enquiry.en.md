@@ -40,5 +40,5 @@ ig_items:
 
 Sales Representative
 
-E-mail: [balazs.bogacsi@urosystem.com](mailto:balazs.bogacsi@hbs.hu)
+E-mail: [balazs.bogacsi@hbs.hu](mailto:balazs.bogacsi@hbs.hu)
 Phone: [+36 20 916 0211](tel:+36209160211)
