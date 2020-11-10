@@ -116,33 +116,12 @@
 		width: 100%;
 		z-index: 1;
 	}
-	h5 {
-		position: absolute;
-		/* bottom: .5rem; */
-		margin-left: 50%;
-		color: var(--light);
-		font-size: larger;
-	}
-	h5 a {
-		margin-left: -50%;
-		border-width: 2px 4px;
-    border-radius: 8px;
-    padding: .25rem .5rem;
-		font-weight: bolder;
-		background-color: var(--dark);
-		white-space: nowrap;
-	}
-	h5 :global(svg) {
-		display: inline;
-		fill: var(--light);
-    vertical-align: text-bottom;
-	}
 	nav div {
 		max-width: 80ch;
     margin: 0 auto;
 		display: flex;
     flex-wrap: wrap;
-		justify-content: space-between;
+		/* justify-content: space-between; */
 	}
 
 	ul {
@@ -152,16 +131,17 @@
 		font-weight: bolder;
 		text-transform: uppercase;
 		padding: 0;
-		justify-content: space-between;
-		/* width: 100%; */
+		justify-content: center;
 		display: flex;
-    flex-wrap: nowrap;
+		flex-wrap: nowrap;
+		flex-grow: 1;
 	}
 	ul:last-of-type {
-		justify-content: center;
+		/* justify-content: center; */
+		/* flex-grow: 0; */
+		/* margin: 0 auto; */
 	}
 	li {
-		/* display: inline-block; */
 		vertical-align: middle;
 		display: flex;
     flex-direction: column;
@@ -185,7 +165,6 @@
 	}
 	div ul:first-child li:first-child small a {
 		padding-top: .5rem;
-		padding-bottom: .5rem;
 	}
 
 	ul [aria-current]::after {
@@ -221,4 +200,25 @@
 			background-color: var(--extcolor);
 		}
 	} */
+	h5 {
+		position: absolute;
+		/* bottom: .5rem; */
+		margin-left: 50%;
+		color: var(--light);
+		font-size: larger;
+	}
+	h5 a {
+		margin-left: -50%;
+		border-width: 2px 4px;
+    border-radius: 8px;
+    padding: .25rem .5rem;
+		font-weight: bolder;
+		background-color: var(--dark);
+		white-space: nowrap;
+	}
+	h5 :global(svg) {
+		display: inline;
+		fill: var(--light);
+    vertical-align: text-bottom;
+	}
 </style>
