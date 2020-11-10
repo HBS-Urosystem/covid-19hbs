@@ -1,7 +1,7 @@
 ---
 type: faq
 slug: gyik
-title: COVID-19 gyorstesztek – Gyakori kérdések
+title: "COVID-19 gyorstesztek: Gyakori kérdések"
 subtitle: Amit a SARS-CoV-2 (új koronavírus) rapid tesztekről tudni érdemes
 menutitle: Gyakori kérdések
 intro:
@@ -193,7 +193,8 @@ list:
       question: Hogyan lehet összevetni a szerológiai tesztek és a PCR-tesztek
         eredményeit?
       answer: >-
-        A lehetséges eredményeket és azok interpretációját a következő táblázat foglalja össze:
+        A lehetséges eredményeket és azok interpretációját a következő táblázat
+        foglalja össze:
 
 
         <table>
@@ -393,13 +394,14 @@ list:
         </table>
       anchor: tablazat-2
   - object:
-      question: Olyat is írnak az interneten, hogy ha a szerológiai gyorsteszt pozitív
+      question: Az interneten olvastam, hogy ha a szerológiai gyorsteszt pozitív
         eredményt ad, az esetek többségében a vizsgált személy nem is fertőzött!
       answer: >-
-        Ez önmagában igaz; ahhoz azonban, hogy megértsük, mi áll a jelenség
-        hátterében, meg kell ismerkedni néhány fogalommal. (Az egyszerűbb
-        érthetőség kedvéért a következőkben tekintsünk el attól, hogy a
-        gyorsteszt kétféle ellenanyag kimutatására is alkalmas.)
+        Ez önmagában igaz; hiszen a fertőzés más-más szakaszát jelzik, ahhoz
+        azonban, hogy megértsük, mi áll a különbségek hátterében, meg kell
+        ismerkedni néhány fogalommal. (Az egyszerűbb érthetőség kedvéért
+        tekintsünk el attól, hogy a gyorsteszt kétféle ellenanyag kimutatására
+        is alkalmas.)
 
 
         Egy teszt megbízhatóságát két értékkel lehet jellemezni. A *szenzitivitás* azt adja meg, hány százalékban mutatja ki a teszt, amit keresünk (esetünkben a SARS-CoV-2 vírus ellen termelt ellenanyagot), míg a *specificitás* megmutatja – szintén százalékos formában –, hogy mennyi az esélye annak, hogy a pozitív teszteredmény tényleg arra vezethető vissza, amit keresünk (ténylegesen jelen van az ellenanyag a szervezetben, és annak termelődését a vírus váltotta ki). 

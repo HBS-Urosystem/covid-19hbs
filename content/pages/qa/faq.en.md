@@ -1,7 +1,7 @@
 ---
 type: faq
 slug: faq
-title: COVID-19 Rapid tests – Frequently Asked Questions
+title: "COVID-19 Rapid tests: Frequently Asked Questions"
 subtitle: Everything that you should know about SARS-CoV-2 rapid tests
 menutitle: FAQ
 intro:
