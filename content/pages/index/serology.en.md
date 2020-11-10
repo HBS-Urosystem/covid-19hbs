@@ -144,7 +144,9 @@ articles:
 
       However, they still can spread the virus. Whether SARS-CoV-2 is still present in their body, can be confirmed with a PCR or an antigen test. Should the virus be present, he/she must be isolated. If it is not present any more, he/she can return to work safely without the risk of infecting others.
   - title: A summary of the possible results
-    text: "<table>
+    text: "<div>
+
+      <table>
 
       <thead>
 
@@ -299,7 +301,9 @@ articles:
 
       </tfoot>
 
-      </table>"
+      </table>
+
+      </div>"
   - title: A video demonstration of the Clungene® COVID-19 IgG/IgM Rapid Test Cassette
     text: >-
       <video controls>

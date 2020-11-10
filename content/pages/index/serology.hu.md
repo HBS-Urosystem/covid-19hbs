@@ -186,6 +186,8 @@ articles:
     subtitle: A szerológiai gyorstesztnek négy lehetséges eredménye van.
   - title: Az eredmények értelmezésének egyszerűsített összefoglaló táblázata
     text: >-
+      <div>
+
       <table>
 
       <thead>
@@ -310,8 +312,6 @@ articles:
 
       <td colspan="6">
 
-      <small>Magyarázat. C = kontroll; IgM = immunglobulin M; IgG = immunglobulin G. Az IgG vagy IgM csíkok megjelenése azok intenzitásától függetlenül a kérdéses immunglobulin jelenlétére utal és pozitív eredményként értelmezendő. A csíkok intenzitásából nem lehet sem a betegség stádiumára, sem annak súlyosságára következtetni. A táblázat nem helyettesíti a termék használati útmutatóját és nem tekinthető orvosi diagnosztikai irányelvnek.</small>
-
       </td>
 
       </tr>
@@ -319,6 +319,10 @@ articles:
       </tfoot>
 
       </table>
+
+      <small>Magyarázat. C = kontroll; IgM = immunglobulin M; IgG = immunglobulin G. Az IgG vagy IgM csíkok megjelenése azok intenzitásától függetlenül a kérdéses immunglobulin jelenlétére utal és pozitív eredményként értelmezendő. A csíkok intenzitásából nem lehet sem a betegség stádiumára, sem annak súlyosságára következtetni. A táblázat nem helyettesíti a termék használati útmutatóját és nem tekinthető orvosi diagnosztikai irányelvnek.</small>
+
+      </div>
   - text: >-
       <video controls>
          <source src="uploads/iggigm_video.mp4" type="video/mp4">
