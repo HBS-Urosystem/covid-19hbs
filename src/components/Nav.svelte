@@ -131,15 +131,15 @@
 		font-weight: bolder;
 		text-transform: uppercase;
 		padding: 0;
-		justify-content: center;
+		/* justify-content: center; */
 		display: flex;
 		flex-wrap: nowrap;
-		flex-grow: 1;
+	}
+	ul:first-of-type {
+		margin-right: auto;
 	}
 	ul:last-of-type {
-		/* justify-content: center; */
-		/* flex-grow: 0; */
-		/* margin: 0 auto; */
+		margin-left: auto;
 	}
 	li {
 		vertical-align: middle;
