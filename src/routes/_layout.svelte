@@ -37,6 +37,7 @@
 	
 	<!-- Global site tag (gtag.js) - Google Analytics -->
 	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-52898474-2"></script>
+	{/if}
 	<script>
 		window.dataLayer = window.dataLayer || [];
 		function gtag() { dataLayer.push(arguments); }
@@ -44,8 +45,6 @@
 
 		gtag('config', 'UA-52898474-2');
 	</script>
-
-	{/if}
 	<meta name="description"
 		content="Clungene COVID-19 szerológiai (immunológiai) és antigén gyorsteszt kazetta – olcsón, azonnali szállítással" />
 	<meta name="keywords" content="COVID-19 szerológiai és antigén-gyorsteszt, covid-19, clungene, sars-cov-2, ag teszt, igg/igm teszt, antigén,
