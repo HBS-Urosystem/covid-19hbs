@@ -16,7 +16,6 @@
 	{#if $cookies == true}
 	<!-- Facebook Pixel Code -->
 	<script>
-
 		!function (f, b, e, v, n, t, s) {
 			if (f.fbq) return; n = f.fbq = function () {
 				n.callMethod ?
@@ -34,10 +33,9 @@
 	<noscript><img height="1" width="1" style="display:none"
 			src="https://www.facebook.com/tr?id=2111698168960334&ev=PageView&noscript=1" alt="fb-pixel" /></noscript>
 	<!-- End Facebook Pixel Code -->
-	
+	{/if}
 	<!-- Global site tag (gtag.js) - Google Analytics -->
 	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-52898474-2"></script>
-	{/if}
 	<script>
 		window.dataLayer = window.dataLayer || [];
 		function gtag() { dataLayer.push(arguments); }
