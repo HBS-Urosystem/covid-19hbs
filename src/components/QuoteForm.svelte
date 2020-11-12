@@ -58,6 +58,10 @@
 	</form>
 </article>
 
+<figure>
+	<img src="/uploads/mhpheefgfkjkmobn-web.png" alt="antigen test vs serology test" />
+</figure>
+
 <article>
 	<div>
 		<h3>{post.composition}</h3>
@@ -194,5 +198,10 @@
 	form > label:last-of-type {
 		display: none;
 		visibility: hidden;
+	}
+
+	img {
+		width: auto;
+    margin: auto;
 	}
 </style>
