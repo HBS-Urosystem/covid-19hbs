@@ -19,7 +19,7 @@ documents:
     Clungene® COVID-19 antigen rapid test cassette is registered in the European Union. Its DIMDI registration number is: DE/CA05/IvD-238321-1547-00. Its OGYÉI (National Institute of Pharmacy and Nutrition of Hungary) registration number is: HU/CA01=17106/20.
   links:
     - text: A brochure on the use of the product
-      file: /uploads/clongene-antigen-test-new.pdf
+      file: /uploads/antigen_gyorsteszt_brosura_v2.pdf
       src: /uploads/bxs-file-pdf.svg
     - text: User’s Manual
       file: /uploads/ifu-for-covid-19-antigen-rapid-test-cassette-en-109155103-version-3.0.pdf
