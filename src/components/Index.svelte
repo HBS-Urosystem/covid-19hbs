@@ -23,6 +23,7 @@
 		{@html post.html}
 	{/if}
 </article>
+
 {#if post.info}
 <article>
 	{#if post.info.images}
