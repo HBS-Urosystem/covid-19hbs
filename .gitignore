@@ -119,3 +119,4 @@ package-lock.json
 .env
 # /_bva/
 *.*-copy
+*.insyncdl
