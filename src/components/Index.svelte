@@ -18,11 +18,11 @@
 
 <CTA />
 
+{#if post.html}
 <article>
-	{#if post.html}
-		{@html post.html}
-	{/if}
+	{@html post.html}
 </article>
+{/if}
 
 {#if post.info}
 <article>
