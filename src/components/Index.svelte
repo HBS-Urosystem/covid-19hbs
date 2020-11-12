@@ -3,6 +3,7 @@
 	import showdown from 'showdown'
 	const converter = new showdown.Converter({
 		metadata: false,
+		noHeaderId: true,
 	})
 </script>
 <script>
@@ -17,6 +18,11 @@
 
 <CTA />
 
+<article>
+	{#if post.html}
+		{@html post.html}
+	{/if}
+</article>
 {#if post.info}
 <article>
 	{#if post.info.images}
@@ -55,11 +61,6 @@
 </article>
 {/each}
 {/if}
-
-{#if post.html}
-	{@html post.html}
-{/if}
-
 
 {#if post.cards}
 <article>
