@@ -22,7 +22,7 @@
 
 	<form name="distributor" method="POST">
 		<!-- <fieldset> -->
-		<input type='hidden' name='form-name' value='quoteform' />
+		<input type='hidden' name='form-name' value='distributor' />
 		<label>{post.name}
 		<input name="name" type="text" required placeholder="*" />
 		</label>
