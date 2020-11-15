@@ -1,5 +1,5 @@
 ---
-type: quotation
+title: quotation
 button: Send a request
 link: /enquiry
 ---

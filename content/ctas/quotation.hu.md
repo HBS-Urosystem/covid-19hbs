@@ -1,5 +1,5 @@
 ---
-type: quotation
+title: quotation
 button: Ajánlatkérés
 link: /ajanlatkeres
 ---

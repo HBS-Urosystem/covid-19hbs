@@ -9,10 +9,10 @@ email: E-mail
 phone: Phone
 ag_qty: Amount of Antigen Rapid Tests
 ag_min: 50
-ag_note: "Minimum order quantity: 50 boxes (1 box contains 25 tests)"
+ag_note: "Min. order quantity: 50 boxes (1 box contains 25 tests)"
 ig_qty: Amount of IgG/IgM Rapid Tests
 ig_min: 50
-ig_note: "Minimum order quantity: 50 boxes (1 box contains 25 tests)"
+ig_note: "Min. order quantity: 50 boxes (1 box contains 25 tests)"
 description: Comments
 button: Enquiry
 composition: Composition

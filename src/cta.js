@@ -6,17 +6,17 @@ export const ctas = _.chain(all)
 	//.orderBy('date', 'desc')
 	.value()
 
-export function findCTA(type) {
+export function findCTA(title) {
 	let temp = _.merge(...ctas)
 	//console.log('_cta:', temp[type])
-	return temp[type]
+	return temp[title]
 }
 
 function transform({ filename, metadata, html }) {
 	let temp = filename.replace(/.md$/, '').split(".")
 	const lang = temp[temp.length - 1]
 	//const slug = filename.replace(/.md$/, '')
-	const type = metadata.type
+	const title = metadata.title
 	//return { lang, ...metadata, filename, slug, html }
-	return { [type]: { [lang]: { ...metadata, html } } }
+	return { [title]: { [lang]: { ...metadata, html } } }
 }

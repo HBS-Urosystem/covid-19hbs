@@ -20,7 +20,7 @@
 
 	<h2>{post.heading}</h2>
 
-	<form name="quoteform" method="POST">
+	<form name="distributor" method="POST">
 		<!-- <fieldset> -->
 		<input type='hidden' name='form-name' value='quoteform' />
 		<label>{post.name}
@@ -34,14 +34,6 @@
 		</label>
 		<label>{post.phone}
 		<input name="phone" type="tel" required placeholder="*" />
-		</label>
-		<label>{post.ag_qty}
-		<input name="ag-qty" type="number" min="{post.ag_min}" />
-		<small>{post.ag_note}</small>
-		</label>
-		<label>{post.ig_qty}
-		<input name="ig-qty" type="number" min="{post.ig_min}" />
-		<small>{post.ig_note}</small>
 		</label>
 		<label>Profile
 		<input name="profile" type="text" />
@@ -57,77 +49,11 @@
 		
 	</form>
 </article>
-
+<!-- 
 <figure>
 	<img src="/uploads/mhpheefgfkjkmobn-web.png" alt="antigen test vs serology test" />
 </figure>
-
-<article>
-	<div>
-		<h3>{post.composition}</h3>
-		<p>
-			<b>{post.boxing}</b>
-		</p>
-	</div>
-<aside>
-	<div>
-		<h4>{post.ag_comp}</h4>
-		<ul>
-			{#each post.ag_items as item}
-			<li>{item.item}</li>
-			{/each}
-<!-- 
-			<li>
-				25 db egyedileg csomagolt tesztkazetta,
-			</li>
-			<li>
-				25 db steril mintavevő pálca,
-			</li>
-			<li>
-				25 db extrakciós cső,
-			</li>
-			<li>
-				25 db cseppentőhegy,
-			</li>
-			<li>
-				munkaalátét,
-			</li>
-			<li>
-				25 db egyedileg csomagolt extrakciós reagens,
-			</li>
-			<li>
-				használati útmutató.
-			</li>
  -->
-		</ul>
-	</div>
-	<div>
-		<h4>{post.ig_comp}</h4>
-		<ul>
-			{#each post.ag_items as item}
-			<li>{item.item}</li>
-			{/each}
-<!-- 
-			<li>
-				25 db egyedileg csomagolt tesztkazetta (1-1 db pipetta mellékelve),
-			</li>
-			<li>
-				25 db ujjbegyszúró,
-			</li>
-			<li>
-				25 db egyedileg csomagolt fertőtlenítő lapocska,
-			</li>
-			<li>
-				1 db puffer (a 25 db teszthez),
-			</li>
-			<li>
-				használati útmutató.
-			</li>
- -->
-		</ul>
-	</div>
-</aside>
-</article>
 <article>
 	<center>
 	{@html post.html}

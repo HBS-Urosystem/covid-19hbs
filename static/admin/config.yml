@@ -383,7 +383,7 @@ collections:
     folder: content/ctas
     create: true
     i18n: true
-    summary: "{{button}}"
+    summary: "{{title}}"
     fields:
       - label: ID
         name: title
@@ -393,17 +393,28 @@ collections:
         label: Button text
         widget: string
         i18n: true
+      - name: svg
+        label: Icon
+        required: false
+        widget: select
+        options:
+          - { label: "Facebook", value: "FBicon" }
+          - { label: "Email", value: "MAILicon" }
+          - { label: "Link", value: "Link" }
+        i18n: true
       - label: Link to
         name: link
         widget: string
         i18n: true
       - label: Body
         name: body
+        required: false
         widget: markdown
         i18n: true
 
   - name: forms
     label: Forms
+    label_singular: Form
     folder: content/pages/forms
     create: true
     delete: true

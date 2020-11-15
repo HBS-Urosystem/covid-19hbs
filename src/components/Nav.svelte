@@ -2,11 +2,15 @@
 	import { type, lang/* , hero, tagline */ } from '../stores.js'
 	import { mergePages } from '../content.js'
 	export const pages = mergePages()
-	import { FBicon } from "./SVGs.svelte"
+	import * as svgs from "./SVGs.svelte"
+	import { findCTA } from '../cta.js'
 </script>
 
 <script>
+	/* export let svgs = { FBicon, Link } */
 	export let segment
+	export let cta = findCTA('sticky')
+	//cta = findCTA('sticky')
 	/* $: if (segment && segment !== 'undefined') {
 		//console.log('_nav-segment',segment,typeof(segment))
 		//console.log('_nav-type:', $type)
@@ -101,7 +105,14 @@
       {/if}</li>
 		</ul>
 	</div>
-	<h5><a href="https://www.facebook.com/tesztelj" target="_blank" rel="noopener">{@html FBicon}&nbsp;/&thinsp;tesztelj&nbsp;</a></h5>
+	<h5>
+		<a href="{cta[$lang].link}" target="{cta[$lang].link.startsWith('http') ? '_blank' : ''}" rel="{cta[$lang].link.startsWith('http') ? 'noopener' : ''}">
+			{#if cta[$lang].svg}
+			{@html svgs[cta[$lang].svg]}
+			{/if}
+			{@html cta[$lang].button}
+		</a>
+	</h5>
 </nav>
 
 <style>
@@ -200,14 +211,14 @@
 			background-color: var(--extcolor);
 		}
 	} */
-	h5 {
+	h5, button {
 		position: absolute;
 		/* bottom: .5rem; */
 		margin-left: 50%;
 		color: var(--light);
 		font-size: larger;
 	}
-	h5 a {
+	h5 a, button a {
 		margin-left: -50%;
 		border-width: 2px 4px;
     border-radius: 8px;
@@ -216,7 +227,7 @@
 		background-color: var(--dark);
 		white-space: nowrap;
 	}
-	h5 :global(svg) {
+	h5 :global(svg), button :global(svg) {
 		display: inline;
 		fill: var(--light);
     vertical-align: text-bottom;

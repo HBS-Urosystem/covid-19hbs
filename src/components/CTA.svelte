@@ -5,10 +5,10 @@
 
 <script>
 	export let cta
-	export let type = 'quotation'
+	export let title = 'quotation'
 	$: {
 		//console.log(type)
-		cta = findCTA(type)
+		cta = findCTA(title)
 		//console.log(cta[$lang])
 	}
 </script>

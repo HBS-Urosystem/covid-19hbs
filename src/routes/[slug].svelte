@@ -4,6 +4,7 @@
 	import CTA from "../components/CTA.svelte"
 	import Index from "../components/Index.svelte"
 	import QuoteForm from "../components/QuoteForm.svelte"
+	import Distributor from "../components/Distributor.svelte"
 	import { findPost } from '../content.js'
 	import { lang, type, hero, tagline } from '../stores.js'
 	import showdown from 'showdown'
@@ -109,6 +110,10 @@
 	{#if post.subtitle}
 	<h2>{post.subtitle}</h2>
 	{/if}
+{/if}
+
+{#if post.type == 'distributor'}
+<Distributor {post}/>
 {/if}
 
 {#if post.type == 'enquiry'}

@@ -42,6 +42,14 @@
 			<input name="profile" type="text" />
 			<textarea name="description"></textarea>
 		</form>
+		<form name="distributor" method="POST" hidden aria-hidden="true" netlify netlify-honeypot="profile">
+			<input name="name" type="text" />
+			<input name="company" type="text" />
+			<input name="email" type="email" />
+			<input name="phone" type="tel" />
+			<input name="profile" type="text" />
+			<textarea name="description"></textarea>
+		</form>
 		<!-- Sapper creates a <script> tag containing `src/client.js`
 	     and anything else it needs to hydrate the app and
 	     initialise the router -->
