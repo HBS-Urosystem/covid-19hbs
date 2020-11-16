@@ -203,11 +203,11 @@ articles:
 
       <td>Negative</td>
 
-      <td>IgM pozitive</td>
+      <td>IgM positive</td>
 
-      <td>IgM és IgG pozitive</td>
+      <td>IgM és IgG positive</td>
 
-      <td>IgG pozitive</td>
+      <td>IgG positive</td>
 
       <td>Invalid</td>
 
