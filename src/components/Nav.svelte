@@ -106,7 +106,7 @@
 		</ul>
 	</div>
 	<h5>
-		<a href="{cta[$lang].link}" target="{cta[$lang].link.startsWith('http') ? '_blank' : ''}" rel="{cta[$lang].link.startsWith('http') ? 'noopener' : ''}">
+		<a href="{cta[$lang].link}" target="{cta[$lang].link.startsWith('http') ? '_blank' : ''}" rel="{cta[$lang].link.startsWith('http') ? 'noopener' : 'prefetch'}">
 			{#if cta[$lang].svg}
 			{@html svgs[cta[$lang].svg]}
 			{/if}

@@ -24,12 +24,10 @@
 <script>
 	export let post
 	//$: console.log('_slug:',post)
-	$: if (post) {
-		$lang = post.lang || 'hu'
-		$type = post.type || ''
-		$tagline = post.title
-		$hero = post.hero || undefined
-	}
+	$lang = post.lang || 'hu'
+	$type = post.type || ''
+	$tagline = post.title
+	$hero = post.hero || undefined
 	/* function vchange() {
 		console.log('visibilitychange')
 		if ((document.hidden || document.msHidden || document.webkitHidden)) {
