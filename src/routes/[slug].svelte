@@ -24,44 +24,18 @@
 <script>
 	export let post
 	//$: console.log('_slug:',post)
-	$lang = post.lang || 'hu'
-	$type = post.type || ''
-	$tagline = post.title
-	$hero = post.hero || undefined
-	/* function vchange() {
-		console.log('visibilitychange')
-		if ((document.hidden || document.msHidden || document.webkitHidden)) {
-			// the page has been hidden
-			console.log('hidden')
-			return false
-			//document.addEventListener('visibilitychange', vchange, { once: true });
-		} else {
-			console.log('shown')
-			window.location.reload(true)
-		}
-	} */
+	$: if (post) {
+		$lang = post.lang || 'hu'
+		$type = post.type || ''
+		$tagline = post.title
+		$hero = post.hero || undefined
+	}
 	export let mounted = false
 	onMount(() => {
 		mounted = true
 	});
 	$: if (mounted && post) {
-		//history.pushState("", document.title, window.location.hash !== '#content' ? window.location.pathname + window.location.hash : window.location.pathname)
-		//history.replaceState("", document.title, /* window.location.hash !== '#content' ? window.location.pathname + window.location.hash : */ window.location.pathname)
-//console.log(window.location.pathname , window.location.hash)
 		document.querySelector('html').lang = $lang
-		/* document.addEventListener('visibilitychange', () => {
-			if ((document.hidden || document.msHidden || document.webkitHidden)) {
-				window.onfocus = () => window.location.reload(true)
-			} else {
-				window.focus()
-			}
-		}, {
-			once: true
-		});
-
-		window.addEventListener('onblur', () => {
-			window.onfocus = () => window.location.reload(true)
-		}); */
 	}
 
 </script>

@@ -2,6 +2,7 @@
 	import { type, lang/* , hero, tagline */ } from '../stores.js'
 	import { mergePages } from '../content.js'
 	export const pages = mergePages()
+	//console.log(pages)
 	import * as svgs from "./SVGs.svelte"
 	import { findCTA } from '../cta.js'
 </script>
