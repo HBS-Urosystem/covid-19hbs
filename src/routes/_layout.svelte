@@ -76,6 +76,9 @@
 			<img loading="lazy" src="uploads/hbs-logo-medical.png" alt="hbs logo">
 			<h6>Happy Business Services Zrt.</h6>
 		</a>
+		<small>Székhely: 1137 Budapest, Szent István krt. 18.</small>
+		<small>Adószám: 22923820-2-41</small>
+		<small>Web: <a href="https://hbs.hu" rel="noopener" target="_blank">https://hbs.hu</a></small>
 	</footer>
 </main>
 
@@ -134,6 +137,8 @@
 
 	footer {
 		padding-top: var(--spacer);
+		margin: 0;
+		text-align: center;
 	}
 	footer img {
 		max-height: 3rem;
@@ -141,17 +146,18 @@
 		filter: drop-shadow(2px 2px 0 white);
 		margin: 1rem auto;
 	}
-	footer a {
+	footer > a {
 		text-decoration: none;
-		display: block;
+		/* display: block; */
     padding: var(--gutter);
 	}
 	footer h6 {
-		filter: drop-shadow(2px 2px 0 var(--dark50));
-		margin: 0;
-		text-align: center;
     font-weight: bolder;
     letter-spacing: .25rem;
+		filter: drop-shadow(2px 2px 0 var(--dark50));
 		text-shadow: 2px 2px 4px var(--dark);
+	}
+	footer small {
+		display: block;
 	}
 </style>
