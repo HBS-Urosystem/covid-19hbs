@@ -1,6 +1,6 @@
 ---
 title: sticky
-button: Distribute Rapid Tests!
+button: "&thinsp;Become a distributor"
 svg: Mail
 link: /distributor
 ---
