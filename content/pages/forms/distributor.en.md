@@ -1,8 +1,9 @@
 ---
 type: distributor
 slug: distributor
-title: We are looking for commercial distributors in all European countries
-heading: Become a distributor of rapid tests, or make a bulk purchase
+title: Become a distributor of rapid tests, or make a bulk purchase
+heading: We are looking for commercial distributors in all European countries
+subhead: Retailers, laboratories, healthcare service providers who are to buy large quantities of tests are welcome.
 name: Contact Name
 company: Company Name
 email: E-mail
