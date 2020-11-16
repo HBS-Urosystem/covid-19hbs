@@ -7,8 +7,8 @@ name: Contact Name
 company: Company Name
 email: E-mail
 phone: Phone
-description: Comments
-button: Contact
+description: Message
+button: Send
 ---
 #### Balázs Bogácsi
 
