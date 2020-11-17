@@ -52,6 +52,9 @@
 			<textarea id="description" name="description"></textarea>
 		</fieldset>
 		<fieldset>
+      <label>
+        <input name="consent" type="checkbox" required=true />&nbsp;{@html post.consent}
+      </label>
 		<button type="submit" role="button">{post.button}</button>
 		</fieldset>
 		
@@ -134,55 +137,56 @@
 	</center>
 </article>
 <style>
-	form {
-		padding: var(--gutter);
-		border: solid var(--light);
-		border-width: 4px 2px;
-		color: var(--light);
-	/* }
-	fieldset { */
-		display: flex;
-		flex-wrap: wrap;
-		justify-content: center;
-		grid-gap: var(--gutter);
-		gap: var(--gutter);
-		/* grid-template-columns: repeat(auto-fill, minmax(18rem, 1fr)); */
-	}
-	label/* , fieldset */ {
-		display: flex;
-		flex-wrap: wrap;
-		/* justify-content: space-around; */
-		align-items: center;
-		/* white-space: nowrap; */
-		/* text-align: center; */
-		margin: 0 auto;
-		flex-basis: 32ch;
-		padding: 0;
-	}
-	fieldset {
-		display: flex;
-		flex-direction: column;
-		flex-basis: 100%;
-	}
-	fieldset > label {
-		flex-basis: 0;
-	}
-	fieldset > textarea {
-		max-width: 32ch;
-		margin: 0 auto;
+  form {
+    padding: var(--gutter);
+    border: solid var(--light);
+    border-width: 4px 2px;
+    color: var(--light);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    grid-gap: var(--gutter);
+    gap: var(--gutter);
+  }
+  label {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    margin: var(--gutterx) auto;
+    flex-basis: 32ch;
+    padding: 0;
+  }
+  fieldset {
+    display: flex;
+    flex-direction: column;
+    flex-basis: 100%;
+  }
+  fieldset > label {
+    flex-basis: auto;
+    display: flex;
+    flex-wrap: nowrap;
+    white-space: nowrap;
+  }
+  fieldset > textarea {
+    max-width: 32ch;
+    margin: 0 auto;
+  }
+
+  input, textarea {
+    color: initial;
+    padding: 0 var(--gutterx);
+    width: 100%;
+  }
+
+	input[type=checkbox] {
+		margin: 0 var(--gutter);
+		filter: drop-shadow(0px 0px 4px white);
 	}
 
-	input, textarea {
-		color: initial;
-		/* margin-left: var(--gutterx); */
-		padding: 0 var(--gutterx);
-		width: 100%;
-	}
-
-	button[type=submit] {
-		width: fit-content;
-		margin: 0 auto;
-	}
+  button[type=submit] {
+    width: fit-content;
+    margin: var(--gutterx) auto;
+  }
 
 	/* h2 {
 		padding: var(--gutter);
