@@ -72,64 +72,64 @@
 			<b>{post.boxing}</b>
 		</p>
 	</div>
-<aside>
-	<div>
-		<h4>{post.ag_comp}</h4>
-		<ul>
-			{#each post.ag_items as item}
-			<li>{item.item}</li>
-			{/each}
-<!-- 
-			<li>
-				25 db egyedileg csomagolt tesztkazetta,
-			</li>
-			<li>
-				25 db steril mintavevő pálca,
-			</li>
-			<li>
-				25 db extrakciós cső,
-			</li>
-			<li>
-				25 db cseppentőhegy,
-			</li>
-			<li>
-				munkaalátét,
-			</li>
-			<li>
-				25 db egyedileg csomagolt extrakciós reagens,
-			</li>
-			<li>
-				használati útmutató.
-			</li>
- -->
-		</ul>
-	</div>
-	<div>
-		<h4>{post.ig_comp}</h4>
-		<ul>
-			{#each post.ag_items as item}
-			<li>{item.item}</li>
-			{/each}
-<!-- 
-			<li>
-				25 db egyedileg csomagolt tesztkazetta (1-1 db pipetta mellékelve),
-			</li>
-			<li>
-				25 db ujjbegyszúró,
-			</li>
-			<li>
-				25 db egyedileg csomagolt fertőtlenítő lapocska,
-			</li>
-			<li>
-				1 db puffer (a 25 db teszthez),
-			</li>
-			<li>
-				használati útmutató.
-			</li>
- -->
-		</ul>
-	</div>
-</aside>
+	<aside>
+		<div>
+			<h4>{post.ag_comp}</h4>
+			<ul>
+				{#each post.ag_items as item}
+				<li>{item.item}</li>
+				{/each}
+	<!-- 
+				<li>
+					25 db egyedileg csomagolt tesztkazetta,
+				</li>
+				<li>
+					25 db steril mintavevő pálca,
+				</li>
+				<li>
+					25 db extrakciós cső,
+				</li>
+				<li>
+					25 db cseppentőhegy,
+				</li>
+				<li>
+					munkaalátét,
+				</li>
+				<li>
+					25 db egyedileg csomagolt extrakciós reagens,
+				</li>
+				<li>
+					használati útmutató.
+				</li>
+	-->
+			</ul>
+		</div>
+		<div>
+			<h4>{post.ig_comp}</h4>
+			<ul>
+				{#each post.ag_items as item}
+				<li>{item.item}</li>
+				{/each}
+	<!-- 
+				<li>
+					25 db egyedileg csomagolt tesztkazetta (1-1 db pipetta mellékelve),
+				</li>
+				<li>
+					25 db ujjbegyszúró,
+				</li>
+				<li>
+					25 db egyedileg csomagolt fertőtlenítő lapocska,
+				</li>
+				<li>
+					1 db puffer (a 25 db teszthez),
+				</li>
+				<li>
+					használati útmutató.
+				</li>
+	-->
+			</ul>
+		</div>
+	</aside>
 </article>
 <article>
 	<center>
@@ -188,16 +188,7 @@
     margin: var(--gutterx) auto;
   }
 
-	/* h2 {
-		padding: var(--gutter);
-		border: solid var(--light);
-		border-width: 4px 2px;
-		color: var(--light);
-		text-shadow: 1px 1px 2px var(--dark);
-		background-color: var(--light25);
-		text-align: center;
-	} */
-	article > div, aside h3, aside h4 {
+	article > div, aside h4 {
 		text-align: center;
 	}
 

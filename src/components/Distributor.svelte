@@ -114,33 +114,8 @@
     width: fit-content;
     margin: var(--gutterx) auto;
   }
-
-  /* h2 {
-    padding: var(--gutter);
-    border: solid var(--light);
-    border-width: 4px 2px;
-    color: var(--light);
-    text-shadow: 1px 1px 2px var(--dark);
-    background-color: var(--light25);
-    text-align: center;
-  } */
-  article > div, aside h3, aside h4 {
-    text-align: center;
-  }
-
-  aside div {
-    padding-left: var(--gutter2);
-    padding-right: var(--gutter2);
-    /* text-shadow: 1px 1px 2px rgb(94, 93, 93); */
-  }
-
   form > label:last-of-type {
     display: none;
     visibility: hidden;
-  }
-
-  img {
-    width: auto;
-    margin: auto;
   }
 </style>
