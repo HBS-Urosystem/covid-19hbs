@@ -13,14 +13,9 @@
 	})
 
 	export async function preload(page) {
-		const f1 = await this.fetch('privacy', { headers: { 'Access-Control-Allow-Origin': '*' } });
-		const f2 = await this.fetch('distributor', { headers: { 'Access-Control-Allow-Origin': '*' } });
 		//console.log('_slug-post',findPost(page.params.slug))
 		return { post: findPost(page.params.slug) }
 	}
-/* 	<link rel="preload" href="/privacy" as="document">
-	<link rel="preload" href="/distributor" as="document">
- */
 	function _md(it) {
 		return converter.makeHtml(it)
 	}
@@ -48,6 +43,10 @@
 <svelte:head>
 	<title>{post.title}</title>
 </svelte:head>
+
+	<a hidden aria-hidden="true" href="privacy">privacy</a>
+	<a hidden aria-hidden="true" href="distributor">distributor</a>
+
 
 {#if post.intro}
 	<article>
