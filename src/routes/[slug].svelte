@@ -13,8 +13,8 @@
 	})
 
 	export async function preload(page) {
-		const f1 = await this.fetch('privacy')
-		const f2 = await this.fetch('distributor')
+		const f1 = await this.fetch('privacy', { headers: { 'Access-Control-Allow-Origin': '*' } });
+		const f2 = await this.fetch('distributor', { headers: { 'Access-Control-Allow-Origin': '*' } });
 		//console.log('_slug-post',findPost(page.params.slug))
 		return { post: findPost(page.params.slug) }
 	}
