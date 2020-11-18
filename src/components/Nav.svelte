@@ -33,7 +33,7 @@
 	{/if}
 	<!-- Alternate URLs must be fully-qualified, including the transport method (http/https), so: https://example.com/foo, not //example.com/foo or /foo -->
 	<!-- <link rel="alternate" hreflang="en" href="https://covid-19.hbs.hu/{pages[type].en.slug}" />
-	<link rel="alternate" hreflang="de" href="https://covid-19.hbs.hu/{pages[type].fr.slug}" />
+	<link rel="alternate" hreflang="fr" href="https://covid-19.hbs.hu/{pages[type].fr.slug}" />
 	<link rel="alternate" hreflang="hu" href="https://covid-19.hbs.hu/{pages[type].hu.slug}" /> -->
 </svelte:head>
 
@@ -88,21 +88,21 @@
 
 		<ul>
 			<li>{#if $type && pages[$type].en && pages[$type].en.slug}
-				<a rel="prefetch" sapper-noscroll aria-current="{'en' == [$lang] ? 'page' : undefined}" href="{pages[$type].en.slug}">en</a>
+				<a rel="prefetch" sapper-noscroll aria-current="{'en' == [$lang] ? 'page' : undefined}" href="{pages[$type].en.slug}" hreflang="en">en</a>
 			{:else}
-				<a rel="prefetch" aria-expanded="false" href="{pages.index.en.slug}">en</a>
+				<a rel="prefetch" aria-expanded="false" href="{pages.index.en.slug}" hreflang="en">en</a>
 			{/if}</li>
       <!-- <li>/</li> -->
 			<!-- <li>{#if $type && pages[$type].fr}
-			<a rel="prefetch" sapper-noscroll aria-current="{'fr' == [$lang] ? 'page' : undefined}" href="{pages[$type].fr.slug}">fr</a>
+			<a rel="prefetch" sapper-noscroll aria-current="{'fr' == [$lang] ? 'page' : undefined}" href="{pages[$type].fr.slug}" hreflang="fr">fr</a>
 			{:else}
-			<a rel="prefetch" aria-expanded="false" href="{pages.index.fr.slug}">fr</a>
+			<a rel="prefetch" aria-expanded="false" href="{pages.index.fr.slug}" hreflang="fr">fr</a>
 			{/if}</li> -->
 			<!-- <li>/</li> -->
 			<li>{#if $type && pages[$type].hu && pages[$type].hu.slug}
-			<a rel="prefetch" sapper-noscroll aria-current="{'hu' == [$lang] ? 'page' : undefined}" href="{pages[$type].hu.slug}">hu</a>
+			<a rel="prefetch" sapper-noscroll aria-current="{'hu' == [$lang] ? 'page' : undefined}" href="{pages[$type].hu.slug}" hreflang="hu">hu</a>
 			{:else}
-			<a rel="prefetch" aria-expanded="false" href="{pages.index.hu.slug}">hu</a>
+			<a rel="prefetch" aria-expanded="false" href="{pages.index.hu.slug}" hreflang="hu">hu</a>
       {/if}</li>
 		</ul>
 	</div>
