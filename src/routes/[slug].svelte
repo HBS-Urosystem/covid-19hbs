@@ -47,7 +47,6 @@
 	<a hidden aria-hidden="true" href="privacy">privacy</a>
 	<a hidden aria-hidden="true" href="distributor">distributor</a>
 
-
 {#if post.intro}
 	<article>
 		{#if post.subtitle}
