@@ -12,10 +12,15 @@
 		metadata: false,
 	})
 
-	export function preload(page) {
+	export async function preload(page) {
+		const f1 = await this.fetch('privacy')
+		const f2 = await this.fetch('distributor')
 		//console.log('_slug-post',findPost(page.params.slug))
 		return { post: findPost(page.params.slug) }
 	}
+/* 	<link rel="preload" href="/privacy" as="document">
+	<link rel="preload" href="/distributor" as="document">
+ */
 	function _md(it) {
 		return converter.makeHtml(it)
 	}

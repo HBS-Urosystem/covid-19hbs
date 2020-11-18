@@ -50,8 +50,6 @@
 	{#if $hero}
 	<link rel="preload" href="{$hero}" as="image">
 	{/if}
-	<link rel="preload" href="/privacy" as="document">
-	<link rel="preload" href="/distributor" as="document">
 </svelte:head>
 
 <Nav {segment} />
