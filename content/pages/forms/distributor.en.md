@@ -9,7 +9,7 @@ company: Company Name
 email: E-mail
 phone: Phone
 description: Message
-consent: I've read and accept the&nbsp;<a href="/privacy" target="_blank">privacy policy</a>.
+consent: I've read and accepted the&nbsp;<a href="/privacy" target="_blank">privacy policy</a>.
 button: Send
 ---
 #### Balázs Bogácsi
