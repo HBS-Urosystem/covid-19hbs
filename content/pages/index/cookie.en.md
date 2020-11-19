@@ -1,6 +1,6 @@
 ---
 type: cookie
-slug: cookie
+slug: cookie-en
 title: Cookie-tájékoztató
 menutitle: Cookie-tájékoztató
 ---
