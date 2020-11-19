@@ -153,6 +153,9 @@
 	ul:last-of-type {
 		margin-left: auto;
 	}
+	ul:last-of-type li {
+		margin-top: var(--guttery);
+	}
 	li {
 		vertical-align: middle;
 		display: flex;
