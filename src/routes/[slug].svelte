@@ -48,6 +48,7 @@
 <a hidden aria-hidden="true" href="enquiry">enquiry</a>
 <a hidden aria-hidden="true" href="privacy">privacy</a>
 <a hidden aria-hidden="true" href="cookie-en">cookie-en</a>
+<a hidden aria-hidden="true" href="vedoszemuveg">vedoszemuveg</a>
 
 {#if post.intro}
 <article>
@@ -106,6 +107,10 @@
 {/if}
 
 {#if post.type == 'product2'}
+<Index {post}/>
+{/if}
+
+{#if post.type == 'glasses'}
 <Index {post}/>
 {/if}
 

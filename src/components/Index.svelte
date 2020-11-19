@@ -28,9 +28,11 @@
 <article>
 	{#if post.info.images}
 	<aside>
+		{#if post.info.text}
 		<section>
 		{@html _md(post.info.text)}
 		</section>
+		{/if}
 		{#each post.info.images as image}
 		<figure>
 			<img loading="lazy" src="{image.src}" style="height:auto;padding:0;" alt="{image.alt}"/>
