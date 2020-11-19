@@ -154,24 +154,31 @@
 		margin-left: auto;
 		flex-shrink: 0;
     box-shadow: 0px -16px 16px black;
+		z-index: 1;
 	}
-	ul:last-of-type li {
-		margin-top: var(--guttery);
-	}
+
 	li {
 		vertical-align: middle;
 		display: flex;
     flex-direction: column;
 	}
+	ul:last-of-type li {
+		margin-top: var(--guttery);
+	}
 
 	li a {
 		position: relative;
 		display: inline-block;
-		padding: var(--gutter);
 		text-decoration: none;
 		font-weight: bolder;
 		color: var(--txtcolor);
 		text-align: center;
+	}
+	ul:first-of-type li a {
+		padding: var(--gutter);
+	}
+	ul:last-of-type li a {
+		padding: var(--gutter) var(--gutterx);
 	}
 
 	div ul:first-child li:first-child {
@@ -187,11 +194,16 @@
 	ul [aria-current]::after {
 		position: absolute;
 		content: "";
-		width: calc(100% - var(--gutter2));
 		height: var(--guttery);
 		background-color: var(--txtcolor);
 		display: block;
 		bottom: 0;
+	}
+	ul:first-child [aria-current]::after {
+		width: calc(100% - var(--gutter2));
+	}
+	ul:last-child [aria-current]::after {
+		width: calc(100% - var(--gutter));
 	}
 	ul:nth-child(odd) [aria-current]::after {
 		top: 0;
