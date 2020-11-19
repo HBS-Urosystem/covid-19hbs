@@ -95,7 +95,6 @@
 		color: var(--light);
 		min-height: 100vh;
 		margin: var(--spacer-) 0;
-		/* filter: drop-shadow(4px 4px 0 var(--dark)); */
 	}
 	header#home {
 		background-repeat: no-repeat;
@@ -159,5 +158,7 @@
 	}
 	footer small {
 		display: block;
+		color: black;
+		filter: drop-shadow(1px 1px 0 white);
 	}
 </style>
