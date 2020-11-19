@@ -87,11 +87,11 @@
 		<!-- css: sticky, left: 0; right: 0, width: 2rem -->
 
 		<ul>
-			<li>{#if $type && pages[$type].en && pages[$type].en.slug}
+			<li><small>{#if $type && pages[$type].en && pages[$type].en.slug}
 				<a rel="prefetch" sapper-noscroll aria-current="{'en' == [$lang] ? 'page' : undefined}" href="{pages[$type].en.slug}" hreflang="en">en</a>
 			{:else}
 				<a rel="prefetch" aria-expanded="false" href="{pages.index.en.slug}" hreflang="en">en</a>
-			{/if}</li>
+			{/if}</small></li>
       <!-- <li>/</li> -->
 			<!-- <li>{#if $type && pages[$type].fr}
 			<a rel="prefetch" sapper-noscroll aria-current="{'fr' == [$lang] ? 'page' : undefined}" href="{pages[$type].fr.slug}" hreflang="fr">fr</a>
@@ -99,11 +99,11 @@
 			<a rel="prefetch" aria-expanded="false" href="{pages.index.fr.slug}" hreflang="fr">fr</a>
 			{/if}</li> -->
 			<!-- <li>/</li> -->
-			<li>{#if $type && pages[$type].hu && pages[$type].hu.slug}
+			<li><small>{#if $type && pages[$type].hu && pages[$type].hu.slug}
 			<a rel="prefetch" sapper-noscroll aria-current="{'hu' == [$lang] ? 'page' : undefined}" href="{pages[$type].hu.slug}" hreflang="hu">hu</a>
 			{:else}
 			<a rel="prefetch" aria-expanded="false" href="{pages.index.hu.slug}" hreflang="hu">hu</a>
-      {/if}</li>
+      {/if}</small></li>
 		</ul>
 	</div>
 	<h5>
