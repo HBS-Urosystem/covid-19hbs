@@ -74,16 +74,36 @@ A különféle szabványos technikai és tranzakciós adatok gyűjtésére tová
                   </tr>
                   <tr>
                     <td>
-                      <p>frontend_lang</p>
+                      <p>_gid</p>
                     </td>
                     <td>
-                      <p>This cookie remembers the language selection of the user.</p>
+                      <p>This cookie is installed by Google Analytics. The cookie is used to store
+						information of how visitors use a website and helps in creating an analytics report of how the website is
+						doing. The data collected including the number visitors, the source where they have come from, and the pages
+						visited in an anonymous form.</p>
                     </td>
                     <td>
-                      <p>localStorage</p>
+                      <p>1 day </p>
                     </td>
                     <td>
-                      <p>System</p>
+                      <p>Analytics</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>_fbp</p>
+                    </td>
+                    <td>
+                      <p>This cookie is installed by Google Analytics. The cookie is used to store
+						information of how visitors use a website and helps in creating an analytics report of how the website is
+						doing. The data collected including the number visitors, the source where they have come from, and the pages
+						visited in an anonymous form.</p>
+                    </td>
+                    <td>
+                      <p>3 months</p>
+                    </td>
+                    <td>
+                      <p>Analytics</p>
                     </td>
                   </tr>
                   <tr>
@@ -105,44 +125,27 @@ A különféle szabványos technikai és tranzakciós adatok gyűjtésére tová
                   </tr>
                   <tr>
                     <td>
-                      <p>_gid</p>
+                      <p>xs, datr, spin, wd, fr, c_user, locale, sb</p>
                     </td>
                     <td>
-                      <p>This cookie is installed by Google Analytics. The cookie is used to store
-						information of how visitors use a website and helps in creating an analytics report of how the website is
-						doing. The data collected including the number visitors, the source where they have come from, and the pages
-						visited in an anonymous form.</p>
+                      <p>Facebook secure cookies that are stored upon consent of the visitor.</p>
                     </td>
                     <td>
-                      <p>1 day </p>
+                      <p>1–2 years</p>
                     </td>
                     <td>
-                      <p>Analytics</p>
+                      <p>Re-marketing</p>
                     </td>
                   </tr>
                   <tr>
                     <td>
-                      <p>visitor_uuid</p>
+                      <p>frontend_lang</p>
                     </td>
                     <td>
-                      <p>Unclassified</p>
+                      <p>This cookie remembers the language selection of the user.</p>
                     </td>
                     <td>
-                      <p>1 year</p>
-                    </td>
-                    <td>
-                      <p>System</p>
-                    </td>
-                  </tr>
-                  <tr>
-                    <td>
-                      <p>session_id</p>
-                    </td>
-                    <td>
-                      <p>Unclassified</p>
-                    </td>
-                    <td>
-                      <p>3 months</p>
+                      <p>localStorage</p>
                     </td>
                     <td>
                       <p>System</p>
@@ -153,10 +156,10 @@ A különféle szabványos technikai és tranzakciós adatok gyűjtésére tová
                       <p>cookieconsent_status</p>
                     </td>
                     <td>
-                      <p>To store cookie consent preferences</p>
+                      <p>Storing cookie consent status</p>
                     </td>
                     <td>
-                      <p>1 year</p>
+                      <p>localStorage</p>
                     </td>
                     <td>
                       <p>Functional</p>

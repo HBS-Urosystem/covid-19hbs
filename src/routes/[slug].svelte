@@ -44,46 +44,47 @@
 	<title>{post.title}</title>
 </svelte:head>
 
-	<a hidden aria-hidden="true" href="privacy">privacy</a>
-	<a hidden aria-hidden="true" href="distributor">distributor</a>
+<a hidden aria-hidden="true" href="distributor">distributor</a>
+<a hidden aria-hidden="true" href="privacy">privacy</a>
+<a hidden aria-hidden="true" href="cookie-en">cookie-en</a>
 
 {#if post.intro}
-	<article>
-		{#if post.subtitle}
-		<h2>{post.subtitle}</h2>
-		{/if}
-		{#if post.intro.highlight}
-		<h4>{post.intro.highlight}</h4>
-		{/if}
-		{#if post.intro.text}
-		{@html _md(post.intro.text)}
-		{/if}
-	</article>
+<article>
+	{#if post.subtitle}
+	<h2>{post.subtitle}</h2>
+	{/if}
+	{#if post.intro.highlight}
+	<h4>{post.intro.highlight}</h4>
+	{/if}
+	{#if post.intro.text}
+	{@html _md(post.intro.text)}
+	{/if}
+</article>
 
 	{#if post.intro.images}
-	<article>
-		<aside>
-			{#each post.intro.images as image}
-			<figure>
-				{#if image.link}
-				<a href="{image.link}"><img loading="lazy" src="{image.src}" style="background-image: url('{image.src}');" alt="{image.alt}"/></a>
-				{:else}
-				<img loading="lazy" src="{image.src}" style="background-image: url('{image.src}');" alt="{image.alt}" />
-				{/if}
-				{#if image.text}
-				<figcaption>{@html _md(image.text)}</figcaption>
-				{/if}
-				{#if image.cta}
-				<button><a href="{image.link}">{image.cta}</a></button>
-				{/if}
-			</figure>
-			{/each}
-		</aside>
-	</article>
+<article>
+	<aside>
+		{#each post.intro.images as image}
+		<figure>
+			{#if image.link}
+			<a href="{image.link}"><img loading="lazy" src="{image.src}" style="background-image: url('{image.src}');" alt="{image.alt}"/></a>
+			{:else}
+			<img loading="lazy" src="{image.src}" style="background-image: url('{image.src}');" alt="{image.alt}" />
+			{/if}
+			{#if image.text}
+			<figcaption>{@html _md(image.text)}</figcaption>
+			{/if}
+			{#if image.cta}
+			<button><a href="{image.link}">{image.cta}</a></button>
+			{/if}
+		</figure>
+		{/each}
+	</aside>
+</article>
 	{/if}
 {:else}
 	{#if post.subtitle}
-	<h2>{post.subtitle}</h2>
+<h2>{post.subtitle}</h2>
 	{/if}
 {/if}
 
