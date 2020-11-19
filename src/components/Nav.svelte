@@ -148,11 +148,9 @@
 		flex-wrap: nowrap;
 	}
 	ul:first-of-type {
-		order: 1;
 		margin-right: auto;
 	}
 	ul:last-of-type {
-		order: 0;
 		margin-left: auto;
 	}
 	ul:last-of-type li {
