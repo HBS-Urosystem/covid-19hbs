@@ -38,6 +38,7 @@
 		align-items: center;
 		padding: 0 .5rem;
 		z-index: 1;
+		box-shadow: inset 0 var(--gutter-) var(--gutter) var(--gutter-) black;
 	}
 	button {
 		flex-shrink: 0;
@@ -46,9 +47,8 @@
 	p {
 		max-height: var(--spacer);
 		overflow-y: auto;
-	}
-	p {
 		color: var(--dark);
+		margin: var(--guttery) 0;
 	}
 	a {
 		text-decoration: underline;
