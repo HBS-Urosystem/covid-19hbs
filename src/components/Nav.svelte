@@ -132,7 +132,7 @@
 		max-width: 80ch;
     margin: 0 auto;
 		display: flex;
-    flex-wrap: wrap;
+    flex-wrap: nowrap;
 		/* justify-content: space-between; */
 	}
 
@@ -152,6 +152,8 @@
 	}
 	ul:last-of-type {
 		margin-left: auto;
+		flex-shrink: 0;
+    box-shadow: 0px -16px 16px black;
 	}
 	ul:last-of-type li {
 		margin-top: var(--guttery);
