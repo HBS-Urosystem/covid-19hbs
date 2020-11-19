@@ -1,9 +1,9 @@
 ---
 type: quotation
-button: Angebot
-link: /#angebot
+button: Envoyer une demande
+link: /enquete
 ---
-### Kérjen árajánlatot vagy tegye fel kérdését!
+### Demandez une devis ou posez une question
 
-* COVID-19 Antigén gyorsteszt: Elfogyott! Szállítás november 17-től
-* COVID-19 IgG/IgM gyorsteszt: raktárról
+* Test Rapide COVID-19 Antigène: Sur stock á partir du 17 Novembre
+* Test Rapide COVID-19 IgG/IgM: sur stock

@@ -50,7 +50,7 @@ intro:
 info:
   images:
     - src: /uploads/bisnode-hbs-en.jpeg
-      alt: Bisnode&nbsp;A certificate for HBS Zrt.
+      alt: Bisnode A certificate for HBS Zrt.
       text: Happy Business Services Ltd. has obtained
         **[Bisnode&nbsp;A](<https://www.bisnode.hu/cegkereses/0/Happy Business
         Services>)** certificate. This testifies that the financial risk of

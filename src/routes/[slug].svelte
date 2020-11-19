@@ -110,6 +110,10 @@
 <Index {post}/>
 {/if}
 
+{#if post.type == 'background'}
+<Index {post}/>
+{/if}
+
 {#if post.type == 'glasses'}
 <Index {post}/>
 {/if}

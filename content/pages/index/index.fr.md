@@ -1,90 +1,271 @@
 ---
 type: index
 slug: fr
-title: Clungene® COVID-19 Schnelltests
-menutitle: Schnelltests
+title: Tests rapides Clungene® COVID-19
+keywords: COVID-19 serological and antigene rapid test, covid-19, clungene,
+  rapid test, sars-cov-2, ag test, igg/igm test, antigene, serological
+description: Clungene® COVID-19 Rapid Test Cassette – at a competitive price,
+  delivered from Europe within 72 hours
+menutitle: Tests rapides
 hero: /uploads/33838-web.jpg
 intro:
   images:
-    - src: /uploads/sam_0364_copy.jpg
-      alt: Clungene® COVID-19 Antigen Schnelltest
-    - src: /uploads/sam_0258_copy.jpg
-      alt: Clungene® COVID-19 IgG/IgM Schnelltest
+    - src: /uploads/antigen-test.jpg
+      alt: Tests rapides antigène Clungene® COVID-19
+      text: >-
+        ### Tests rapides antigène Clungene® COVID-19
+
+
+        Il détecte la protéine de nucléocapside du SRAS-CoV-2 (qui est également détectée par le système immunitaire humain). Ce test sert à détecter la phase précoce de l'infection.
+
+
+        <small>Sensibilité: 91,4%. Spécificité: 100,0%.</small>
+      link: /tests-antigen
+      cta: Détails
+    - src: /uploads/sam_0089_copy.jpg
+      alt: Tests rapides IgG/IgM Clungene® COVID-19
+      text: >-
+        ### Tests rapides IgG/IgM Clungene® COVID-19
+
+
+        Il détecte les anticorps produits par le système immunitaire humain contre le virus SARS-CoV-2 (IgG et (IgM). Ce test permet de détecter la phase tardive de l'infection, ainsi qu'une infection survenue dans le passé.
+
+
+        <small>Sensibilité: 86,6% Spécificité: 98,33% (IgG + IgM combinées) 8 jours après l'apparition des symptômes, la spécificité est supérieure à 90%.</small>
+      link: /test-anticorps
+      cta: Détails
   text: >-
-    ### COVID-19 disease, which is caused by the novel coronavirus (nCoV-2019)
-    can be considered a world-wide pandemic. Compared to similar entities, like
-    influenza, its virulence is much higher.
+    Pour ralentir la pandémie et minimiser les pertes économiques causées par le
+    COVID-19, il est essentiel de tester les personnes régulièrement et de
+    manière systématique. Notre société, **Happy Business Services Ltd.,
+    distribue des cassettes de test rapide d'anticorps et d'antigène.** Les deux
+    peuvent être exécutés rapidement et peuvent être appliqués par les
+    professionnels de la santé sur les sites de soins.
 
 
-    Primarily, due to the complications in which the lungs are affected its mortality rate is much higher, too, than that of other viruses. Moreover, nCoV-2019 tolerates the higher temperature of summer better, and it can remain virulent if attached to certain common surfaces and objects for days.
-
-
-    **The medical division of our company, Happy Business Services Ltd., is one of the major importers of COVID-19 immunochromatography rapid assays.** There have already been several shipments arrived in Hungary. A considerable part of the tests has been bought by the Hungarian National Healthcare Services Center (Állami Egészségügyi Ellátó Központ; ÁEEK); our other customers have included professionals, laboratories, healthcare institutions and city councils for whom we have already shipped the products.
-  highlight: COVID-19 rapid test is to be qualified as a serological examination.
-    The information it provides is for reference whether people are or have been
-    infected or not.
+    **Les tests d'antigène** sont capables d'identifier le COVID-19 **à la phase précoce** de l'infection, tandis que les **tests d'anticorps** peuvent également le détecter à **la phase tardive et dans les infections passées.** De cette manière, les deux tests **se complètent parfaitement.**
+  highlight: Le COVID-19 causé par le nouveau coronavirus (SRAS-CoV-2) est devenu
+    une pandémie au premier semestre 2020. À l'automne, la deuxième vague s'est
+    rompue, provoquant une situation encore plus désespérée dans de nombreux
+    pays.
 info:
   images:
-    - src: /uploads/linda-perez-johannessen-u0fdwnbodks-unsplash.jpg
-      alt: The time needed for the test is 15 minutes
-  text: >-
-    ### What another significant advantage of this test is that it is able to
-    confirm the presence of COVID-19 in the past (with mild symptoms or without
-    symptoms, too). The earliest possible time to do so is the third week after
-    the infection occurred. In this case the patient can work in a more relaxed
-    way provided the usual precautions are followed strictly.
-
-
-    **The rapid tests can be used by medical specialists, company doctors or any competent people providing the same service (e.g. plant health service). The time needed for the test is 15 minutes.**
-
-
-    WARNING! This test is for professional use only. Selling it for home environment use and/or self-testing is prohibited. *[More details on the legal background can be found here.](https://covid-19.hbs.hu/miert-nincsenek-a-piacon-otthoni-hasznalatra-is-alkalmas-covid-19-tesztek)*
-
-
-    Clongene Co., who is the supplier of our company, manufactures more than 1,000 sorts of microbiological test materials and finished products. It is one of the biggest companies in China; our company is their exclusive distributor in Hungary. Regarding Europe, their tests have already been sold in the following countries: Belgium, Germany, The Netherlands, Italy, Lithuania, The United Kingdom, Switzerland, Spain, Rumania, Denmark, France, Poland, Sweden, Portugal, Ireland, Estonia, Bulgaria and Turkey.
+    - src: /uploads/bisnode-hbs-en.jpeg
+      alt: "[Bisnode A certificate for HBS Zrt.]"
+      text: Happy Business Services Ltd. a obtenu le certificat
+        **[Bisnode&nbsp;A](<https://www.bisnode.hu/cegkereses/0/Happy Business
+        Services>)**. Cela démontre que le risque financier lié à la coopération
+        avec notre entreprise est faible. Seulement 7,44% des entreprises
+        hongroises ont obtenu ce certificat.
+  text: Notre société, **[Happy Business Services Zrt.](https://hbs.hu)** est l'un
+    des principaux importateurs de tests rapides. Notre fournisseur, Hangzhou
+    Clongene Biotech Co. Ltd., fabrique plus de 1 000 types de matériaux et
+    produits de test microbiologique. Nous avons vendu des centaines de milliers
+    de tests en Hongrie, fourni des institutions publiques, des établissements
+    de santé, des municipalités et des entreprises.
 references:
   links:
     - url: https://www.affidea.hu/covid-19-szures
       text: Affidea Hungary Kft.
     - url: https://kelen.hu/szolgaltatasaink/koronavirus-gyorsteszt-ellenanyag-vizsgalat/
-      text: Kelen Hospital
+      text: Hôpital Kelen
     - url: http://mammutegeszsegkozpont.hu/allasfoglalas/
-      text: Medical Service Budapest Mammut Health Centre
+      text: Medical Service Budapest (Centre Médicale Mammut)
     - url: http://arkadegeszsegkozpont.hu/covid-19-szures/
-      text: Medical Service Budapest Árkád Health Centre
+      text: Medical Service Budapest (Centre Médicale Árkád)
     - url: https://robertkorhaz.hu/leiras/koronavirus-gyorstesz
-      text: Róbert Private Hospital
+      text: Hôpital Privée Róbert
   text: >-
-    ## References
+    ## Références
 
 
-    There are several companies and institutions using **Clungene® COVID-19 IgG/IgM Rapid Test Cassette**, which is distributed by us. Here you can find the webpage of some of them.
+    Il existe des centaines d'établissements médicaux, de médecins, de centres de santé, de maisons de soins infirmiers, de cliniques privées, d'entreprises et d'autres institutions qui utilisent **des cassettes de test rapideClungene® COVID-19**, que nous importons. Vous trouverez ici la page Web de certains d'entre eux.
 
 
-    Moreover, hundreds of medical institutions, doctors, health centres, nursing homes, private clinics, companies and other institutions have been using the rapid tests distributed by us.
-
-
-    **Our partners, Phoenix Pharma and Hungaropharma, distribute the rapid tests in the Hungarian pharmacies.**
+    **[Moreover, our partners, Phoenix Pharma and Hungaropharma distributes our rapid tests for all pharmacies in Hungary.]**
 cards:
-  - text: "### Häufig gestellte Fragen (FAQ)"
-    link: /hgf
-    src: /uploads/129.jpg
-documents:
-  text: "## Documents"
-  links:
-    - text: The official certificate of OGYÉI EN
-      file: /uploads/en_ogyei.pdf
-      src: /uploads/bxs-file-pdf.svg
-    - text: EU Declaration of Conformity
-      file: /uploads/ek_megfelelosegi_nyilatkozat.pdf
-      src: /uploads/bxs-file-pdf.svg
-    - text: User's Manual EN
-      file: /uploads/covid-19_igg_igm_4212-en-ce-20200416-109150801.pdf
-      src: /uploads/bxs-file-pdf.svg
-    - text: Certificates of the product
-      file: /uploads/certificates-clongene-covid-2019-igm.igg_1-7.pdf
-      src: /uploads/bxs-file-pdf.svg
-    - text: The diagnostic protocol of SmartBioma EN
-      file: /uploads/smartbioma_protocol_en.pdf
-      src: /uploads/bxs-file-pdf.svg
+  - text: "### [Frequently Asked Questions]"
+    link: /faq
+    src: ""
+articles:
+  - text: >-
+      ##### La figure suivante montre dans quelle période le test d'antigène et
+      le test d'anticorps sont capables de détecter COVID-19.
+
+
+      <figure>
+
+      <img src="/uploads/mainpage-pic1.jpg" alt="[Antigen test and Antibody tests diagram]" />
+
+      <figcaption>
+
+      <details><summary><b>[Explanation of figure]</b></summary>
+
+      <p>Ce chiffre sert de référence; il montre quand l'antigène COVID-19 (Ag) et les deux immunoglobulines (IgM et IgG) peuvent être détectés. «0» représente le jour où les symptômes apparaissent pour la première fois (jour du début).</p>
+
+
+      <p>La protéine virale – l'antigène – apparaît en premier; cela peut être détecté par le test antigénique. Ceci est suivi des deux anticorps, IgM et IgG, qui sont détectés par le test d'anticorps. La présence d'IgM fait généralement référence à la phase précoce à moyenne de l'infection. Dans la plupart des cas, les IgG apparaissent plus tard, dans la seconde moitié de l'infection, mais elles sont présentes dans l'organisme en quantité détectable pendant des mois.</p>
+
+
+      <p>Les symptômes typiques du COVID-19 apparaissent entre 2 à 14 jours après l'infection; généralement, sur le jour 5 ou 6. Pendant la période d'incubation (indiquée par des nombres négatifs), aucun test ne peut détecter l'infection de manière cohérente. Cependant, on suppose que pendant la majeure partie de cette période, les personnes pourraient ne pas propager l'infection parce qu'il n'y a pas encore assez de virus dans leur corps.</p>
+
+
+      </details>
+
+      </figcaption>
+
+      </figure>
+  - text: "#### L'utilisation des tests rapides COVID-19 est un moyen rapide et
+      économique de filtrer les employés d'une entreprise, d'un bureau ou de
+      toute autre institution. Identifier et isoler les personnes touchées est
+      un moyen efficace pour ralentir la propagation du virus, ce qui peut
+      empêcher la fermeture du lieu de travail et la perte financière qui y est
+      associée."
+  - text: >-
+      **Une comparaison sur les méthodes de test les plus fréquemment
+      appliquées:**
+
+
+      <div>
+
+      <table>
+
+      <thead>
+
+      <tr>
+
+      <th></th>
+
+      <th>RT-PCR</th>
+
+      <th>Test rapide Antigène<br>(test Ag)</th>
+
+      <th>Test rapide Anticorps<br>(test sérologique, IgG/IgM)</th>
+
+      </tr>
+
+      </thead>
+
+
+      <tbody>
+
+      <tr>
+
+      <td>Qu'est-ce qui est détecté?</td>
+
+      <td>Le material génétique (RNA) du coronavirus SARS-CoV-2</td>
+
+      <td>Une protéin présent dans le SARS-CoV-2 (reconnue par le système immunitaire)</td>
+
+      <td>Les anticorps produits par le système immunitaire humain contre SARS-CoV-2</td>
+
+      </tr>
+
+
+      <tr>
+
+      <td>Échantillon utilisée</td>
+
+      <td>Écouvillon nasal ou oropharyngé</td>
+
+      <td>Écouvillon nasal ou oropharyngé</td>
+
+      <td>Sang (par piqûre au doigt, sang veineux, ou plasma)</td>
+
+      </tr>
+
+
+      <tr>
+
+      <td>Combien de temps ca prend?</td>
+
+      <td>Plus de 2 heures</td>
+
+      <td>15–30 minutes</td>
+
+      <td>15 minutes</td>
+
+      </tr>
+
+
+      <tr>
+
+      <td>Y a-t-il d'autres outils, matériaux, appareils nécessaires?</td>
+
+      <td>Oui</td>
+
+      <td>Non</td>
+
+      <td>Non</td>
+
+      </tr>
+
+
+      <tr>
+
+      <td colspan="4">Peut-il détecter l'infection après le délai décrit ci-dessous après le jour du début?</td>
+
+      </tr>
+
+
+      <tr>
+
+      <td>Première semaine?</td>
+
+      <td>Oui</td>
+
+      <td>Oui</td>
+
+      <td>Peu probable</td>
+
+      </tr>
+
+
+      <tr>
+
+      <td>Deuxième semaine?</td>
+
+      <td>Oui</td>
+
+      <td>Parfois</td>
+
+      <td>Oui, dans la plûpart des cas</td>
+
+      </tr>
+
+
+      <tr>
+
+      <td>Troisième et quatrième semaine?</td>
+
+      <td>Parfois</td>
+
+      <td>Non</td>
+
+      <td>Oui</td>
+
+      </tr>
+
+
+      <tr>
+
+      <td>Peut-il détecter une infection passée?</td>
+
+      <td>Non</td>
+
+      <td>Non</td>
+
+      <td>Oui (si les anticorps sont toujour présentes)</td>
+
+      </tr>
+
+
+      </tbody>
+
+      </table>
+
+      </div>
+  - text: "#### Les informations fournies par les tests rapides COVID-19 servent à
+      indiquer si les personnes sont ou ont été infectées ou non. Les tests sont
+      réservés à un usage professionnel."
 ---
