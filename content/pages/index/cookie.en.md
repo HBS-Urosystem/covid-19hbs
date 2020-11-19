@@ -145,7 +145,7 @@ A különféle szabványos technikai és tranzakciós adatok gyűjtésére tová
                       <p>This cookie remembers the language selection of the user.</p>
                     </td>
                     <td>
-                      <p>localStorage</p>
+                      <p>session</p>
                     </td>
                     <td>
                       <p>System</p>
@@ -159,7 +159,7 @@ A különféle szabványos technikai és tranzakciós adatok gyűjtésére tová
                       <p>Storing cookie consent status</p>
                     </td>
                     <td>
-                      <p>localStorage</p>
+                      <p>session</p>
                     </td>
                     <td>
                       <p>Functional</p>

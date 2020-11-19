@@ -1,4 +1,4 @@
-import { writable as persistent } from 'svelte-persistent-store/dist/local'
+import { writable as persistent } from 'svelte-persistent-store/dist/session'
 import { writable, readable, derived } from 'svelte/store'
 //export const lang = writable('hu')
 export const lang = persistent('frontend_lang', 'hu')
