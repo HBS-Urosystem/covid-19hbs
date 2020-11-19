@@ -45,6 +45,7 @@
 </svelte:head>
 
 <a hidden aria-hidden="true" href="distributor">distributor</a>
+<a hidden aria-hidden="true" href="enquiry">enquiry</a>
 <a hidden aria-hidden="true" href="privacy">privacy</a>
 <a hidden aria-hidden="true" href="cookie-en">cookie-en</a>
 
