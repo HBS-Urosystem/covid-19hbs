@@ -399,7 +399,7 @@ collections:
         widget: select
         options:
           - { label: "Facebook", value: "FBicon" }
-          - { label: "Email", value: "MAILicon" }
+          - { label: "Email", value: "Email" }
           - { label: "Link", value: "Link" }
         i18n: true
       - label: Link to
