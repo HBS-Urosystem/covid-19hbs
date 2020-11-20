@@ -84,7 +84,7 @@ references:
 
     **[Moreover, our partners, Phoenix Pharma and Hungaropharma distributes our rapid tests for all pharmacies in Hungary.]**
 cards:
-  - text: "### [Frequently Asked Questions]"
+  - text: "### [Questions Fréq\b\buentes]"
     link: /faq
     src: ""
 articles:
