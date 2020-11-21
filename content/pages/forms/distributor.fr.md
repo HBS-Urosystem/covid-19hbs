@@ -1,20 +1,20 @@
 ---
 type: distributor
-slug: distribut
-title: [Become a distributor of rapid tests, or make a bulk purchase]
-heading: We are looking for commercial distributors in all European countries
-subhead: Retailers, laboratories, healthcare service providers who are to buy large quantities of tests are welcome.
-name: Contact Name
-company: Company Name
+slug: distributeur
+title: Devenez distributeur de tests rapides ou faites un achat en gros
+heading: Nous recherchons des distributeurs commerciaux dans tous les pays européens
+subhead: Des renendeurs, laboratoires, prestataires de soins de santé qui doivent acheter de grandes quantités de tests sont les bienvenus.
+name: Nom du contact
+company: Nom de la société
 email: E-mail
-phone: Phone
-description: Message
-consent: I've read and accepted the&nbsp;<a href="/privacy" target="_blank">privacy policy</a>.
-button: Send
+phone: Téléphone
+description: Commentaire
+consent: J'ai lu et accepté la&nbsp;<a href="/confidentialité" target="_blank">politique de confidentialité</a>.
+button: Envoyer
 ---
 #### Balázs Bogácsi
 
-Sales Representative
+Commercial
 
 E-mail: [balazs.bogacsi@hbs.hu](mailto:balazs.bogacsi@hbs.hu)
 Phone: [+36 20 916 0211](tel:+36209160211)

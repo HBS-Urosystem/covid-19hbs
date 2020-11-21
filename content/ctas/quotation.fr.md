@@ -1,9 +1,9 @@
 ---
-type: quotation
+title: quotation
 button: Envoyer une demande
-link: /enquete
+link: /offre
 ---
-### Demandez une devis ou posez une question
+### Demander une offre ou posez une question
 
-* Test Rapide COVID-19 Antigène: Sur stock á partir du 17 Novembre
+* Test Rapide COVID-19 Antigène: Sur stock á partir du 2 décembre
 * Test Rapide COVID-19 IgG/IgM: sur stock

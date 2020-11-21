@@ -1,150 +1,154 @@
 ---
 type: product2
-slug: test-serology
-title: Clungene® COVID-19 IgG/IgM Rapid Test Cassette
-menutitle: Serology
+slug: test-serologique
+title: Cassette de Test Rapide Clungene® COVID-19 IgG/IgM
+menutitle: Sérologique
 hero: /uploads/sam_0364_copy.jpg
 intro:
   images:
-    - alt: Clungene® COVID-19 IgG/IgM Rapid Test
-      text: Clungene® COVID-19 IgG/IgM Rapid Test
+    - alt: Test Rapide Clungene® COVID-19 IgG/IgM
+      text: Test Rapide Clungene® COVID-19 IgG/IgM
       src: /uploads/sam_0089_copy.jpg
-  highlight: On this page, we summarized the most important information on the
-    serology (IgG/IgM) rapid test.
+  highlight: Sur cette page, nous avons résumé les informations les plus
+    importantes sur le test rapide de sérologie (IgG/IgM).
   text: ""
 documents:
   text: >-
-    ## Further information and documentation
+    ## Informations complémentaires et documentation
 
 
-    Clungene® COVID-19 antigen rapid test cassette is registered in the European Union. Its DIMDI registration number is: DE/CA05/IvD-238321-1330-00. Its OGYÉI (National Institute of Pharmacy and Nutrition of Hungary) registration number is: HU/CA01/17106/20.
+    La cassette de test rapide de l'antigène Clungene® COVID-19 est enregistrée dans l'Union européenne. Son numéro d'enregistrement DIMDI est: DE/CA05/IvD-238321-1330-00. Son numéro d'enregistrement OGYÉI (Institut national de pharmacie et de nutrition de Hongrie) est: HU/CA01/17106/20.
   links:
-    - text: User's Manual
-      file: /uploads/covid-19_igg_igm_4212-en-ce-20200416-109150801.pdf
+    - text: Manuel d’instruction
+      file: /uploads/manuel-d-utilisation-covid-19-iggigm.pdf
       src: /uploads/bxs-file-pdf.svg
-    - text: The diagnostic protocol of SmartBioma
+    - text: Protocôle de diagnostique SmartBioma
       file: /uploads/smartbioma_protocol_en.pdf
       src: /uploads/bxs-file-pdf.svg
 articles:
-  - title: What is being detected?
+  - title: Qu’est-ce qui est détecté?
     text: >-
-      **The serology rapid test detects two antibodies produced by the human
-      body exclusively to the novel coronavirus. These are called immunoglobulin
-      G and immunoglobulin M, their common abbreviation are IgG and IgM,
-      respectively. These are present in the human blood.**
+      **Le test sérologique rapide détecte deux anticorps produits par le corps
+      humain exclusivement contre le nouveau coronavirus. Celles-ci sont
+      appelées immunoglobuline G et immunoglobuline M, leurs abréviations
+      courantes sont respectivement IgG et IgM. Ceux-ci sont présents dans le
+      sang humain.**
 
 
-      IgM appears in the body in a detectable quantity on the 5–8th day after the infection. As the immune system fights off the virus, the amount of IgM decreases. In most cases, 4 weeks after the infection it cannot be detected anymore.
+      Les IgM apparaissent dans le corps en quantité détectable le 5 à 8 jours après l'infection. À mesure que le système immunitaire combat le virus, la quantité d'IgM diminue. Dans la plupart des cas, 4 semaines après l'infection, il ne peut plus être détecté. 
 
 
-      In contrast, IgG starts being produced typically 2 weeks after the infection. Its quantity peaks in the end of the first month, decreases afterwards – but it is detectable for a long time. (Currently there are insufficient data available but it is suspected that IgG is present in the blood for at least several months, maybe years.)
-  - title: What are the advantages of an IgG/IgM rapid test?
+      Les IgG commencent à être produites généralement 2 semaines après l'infection. Sa quantité culmine à la fin du premier mois, diminue ensuite - mais elle est détectable pendant longtemps. (Actuellement, les données disponibles sont insuffisantes, mais on soupçonne que des IgG sont présentes dans le sang pendant au moins plusieurs mois, voire des années.)
+  - title: "[What are the advantages of an IgG/IgM rapid test?]"
     text: >-
-      * It is considerably cheaper than a PCR test
+      * C'est considérablement moins cher qu'un test PCR
 
-      * Medical professionals can perform it at point-of-care (POC) sites, too, e.g. in a suitable room of a company
+      * Les professionnels de la santé peuvent également l'exécuter sur les sites des points de soins (POC), par ex. dans une pièce adaptée d'une entreprise
 
-      * No additional devices or disposables are needed for the test
+      * Aucun appareil supplémentaire ou jetable n'est nécessaire pour le test
 
-      * Collecting the specimen is much easier and less uncomfortable than that of PCR (and antigen) test. The blood specimen needed for the essay can be taken from finger-prick, as well.
+      * Le prélèvement de l'échantillon est beaucoup plus facile et moins inconfortable que celui du test PCR (et antigène). L'échantillon de sang nécessaire à l'essai peut également être prélevé par piqûre au doigt.
 
-      * The results are obtained within 15 minutes
+      * Les résultats sont obtenus en 15 minutes
 
-      * An antibody test is the only way to detect a past infection even if it was symptomless
-
-
-      These advantages make antibody tests the **most capable for regular and systematic screening**. Testing the employees of a company or institution every week can identify those who are infected. By isolating then the spread of SARS-CoV-2 can be slowed down, which helps prevent the shutdown caused by the pandemic.
+      * Un test d'anticorps est le seul moyen de détecter une infection passée même si elle était asymptomatique
 
 
-      **Antibody tests are the most reliable from the second week after the onset day** (when the symptoms first appear). Therefore, to **detect the early phase of COVID-19 infection antigen or PCR tests are recommended.**
-  - title: Whom is the IgG/IgM rapid test recommended?
+      Ces avantages font des tests d'anticorps **les plus performants pour un dépistage régulier et systématique**. Tester les employés d'une entreprise ou d'une institution chaque semaine peut identifier ceux qui sont infectés. En isolant, la propagation du SRAS-CoV-2 peut être ralentie, ce qui aide à prévenir l'arrêt causé par la pandémie.
+
+        **Les tests d'anticorps sont les plus fiables à partir de la deuxième semaine après le jour du début** (lorsque les symptômes apparaissent pour la première fois)**. Par conséquent, pour détecter la phase précoce de l'antigène de l'infection COVID-19 ou des tests PCR sont recommandés.**
+  - title: A qui le test rapide IgG/IgM est recommandé?
     text: >-
-      **Since performing antibody tests is easy and cost-effective, this is the
-      most effective tool for screening large amount of people** – for example,
-      the employees of an office or a company, the students of a school. The
-      regular screening can help trace whether the virus is or has been already
-      present in the community.
+      **Étant donné que la réalisation de tests d'anticorps est facile et
+      rentable, c'est l'outil le plus efficace pour dépister un grand nombre de
+      personnes** - par exemple, les employés d'un bureau ou d'une entreprise,
+      les étudiants d'une école. Le dépistage régulier peut aider à déterminer
+      si le virus est ou a déjà été présent dans la communauté.
 
 
-      Moreover, IgG/IgM rapid tests are recommended for those,
+      De plus, des tests rapides IgG/IgM sont recommandés pour ceux,
 
 
-      * who have been in contact with confirmed infected people recently,
+      * qui ont été récemment en contact avec des personnes infectées confirmées,
 
-      * in whose family/close relatives an illness of influenza-like symptoms has been or is present,
+      * dans la famille/les proches de qui une maladie de type grippal a été ou est présente,
 
-      * who experience the mild form of the characteristic symptoms of COVID-19,
+      * qui présentent la forme bénigne des symptômes caractéristiques du COVID-19,
 
-      * who have recently been abroad or to a place where the risk of infection has been high,
+      * qui ont récemment séjourné à l'étranger ou dans un endroit où le risque d'infection a été élevé,
 
-      * who experienced the typical symptoms of COVID-19 caused by the novel coronavirus and think they already came through the disease in the past – these people might be immune to the virus presently.
+      * qui ont présenté les symptômes typiques du COVID-19 causés par le nouveau coronavirus et qui pensent avoir déjà souffert de la maladie dans le passé - ces personnes pourraient être immunisées contre le virus actuellement.
 
 
-      Rapid tests are **not recommended** for those who has had high temperature, severe cough or general sickness (may be related to COVID-19) in the last 7 days. In this case, voluntary quarantine, or – if the symptoms are severe – hospitalization is strongly recommended in order to ensure the convalescence. This also prevents the spreading of COVID-19.
-  - title: How is the rapid test performed?
+      [Rapid tests are **not recommended** for those who has had high temperature, severe cough or general sickness (may be related to COVID-19) in the last 7 days. In this case, voluntary quarantine, or – if the symptoms are severe – hospitalization is strongly recommended in order to ensure the convalescence. This also prevents the spreading of COVID-19.]
+  - title: Comment le test rapide est-il effectué?
     text: >-
-      **The blood specimen is being taken from finger prick or from the vein
-      (used generally in blood-taking).** The test detects the presence of the
-      antibodies in the blood (whole blood, serum or plasma). The interpretation
-      of the results can take place on the spot or in a laboratory suitable for
-      this process.
+      **L'échantillon de sang est prélevé sur une piqûre au doigt ou dans une
+      veine (généralement utilisé pour la prise de sang).** Le test détecte la
+      présence des anticorps dans le sang (sang total, sérum ou plasma).
+      L'interprétation des résultats peut avoir lieu sur place ou dans un
+      laboratoire adapté à ce procédé.
 
 
-      **No additional preparation is needed from the patient for having the test performed.**
-  - title: How to interpret the results?
-    subtitle: There are four possibilities.
+      **Aucune préparation supplémentaire n'est nécessaire de la part du patient pour faire effectuer le test.**
+  - title: Comment interpréter les résultats?
+    subtitle: "Il y a quatre possibilités. "
     text: >-
-      #### 1. Neither IgM nor IgG is present in the specimen (IgM and IgG
-      negative). 
+      #### 1. Ni IgM ni IgG ne sont présentes dans l'échantillon (IgM et IgG
+      négatifs). 
 
 
-      This means that neither antibodies can be found in the blood in detectable quantity.
+      *Cela signifie qu'aucun anticorps ne peut être trouvé dans le sang en quantité détectable.*
+
+
+      Cela peut en effet arriver parce que la personne testée n'est pas infectée, mais ce n'est pas la seule possibilité.
 
 
       This can indeed happen because of the tested person is not infected, but that is not the only possibility.
 
 
-      * In case of a very early phase of the disease the production of IgM has not been started yet, therefore there is nothing to be detected.
+      * Dans le cas d'une phase très précoce de la maladie, la production d'IgM n'a pas encore démarré, il n'y a donc rien à détecter.
 
-      * Also, some people who are already infected do not produce a detectable amount of IgM for some reason.
-
-
-      For these reasons, if someone with a negative test result shows the typical syndromes of COVID-19 and/or has been to a place with a high risk of infection, it is recommended to repeat the test in the future, or to confirm the result with another diagnostic method.
+      * De plus, certaines personnes déjà infectées ne produisent pas une quantité détectable d'IgM pour une raison quelconque.
 
 
-      #### 2. IgM is present in the specimen (IgM positive).
+      Pour ces raisons, si une personne avec un résultat de test négatif montre les syndromes typiques du COVID-19 et/ou a été dans un endroit à haut risque d'infection, il est recommandé de répéter le test à l'avenir, ou de confirmer le résultat avec une autre méthode de diagnostic.
 
 
-      It is very likely the sign of the infection. The virus appeared in the body 5–21 days before the testing since this antigen is usually detectable in this time range.
+      #### 2. Des IgM sont présentes dans l'échantillon (IgM positives).
 
 
-      The typical syndromes of COVID-19 may be present or develop later. It is worth noting that the novel coronavirus does not always causes symptoms, but IgM positive people can still infect others. Therefore, the IgM positive have to be isolated immediately.
+      C'est très probablement le signe de l'infection. Le virus est apparu dans l'organisme 5 à 21 jours avant le test, car cet antigène est généralement détectable dans cette plage de temps.
 
 
-      #### 3. Both IgM and IgG are present (IgM and IgG positive).
+      Les syndromes typiques du COVID-19 peuvent être présents ou se développer plus tard. Il est à noter que le nouveau coronavirus ne provoque pas toujours de symptômes, mais les personnes IgM positives peuvent toujours en infecter d'autres. Par conséquent, les IgM positives doivent être isolées immédiatement.
 
 
-      It is very likely the sign of the infection. The virus appeared in the body 14–28 before the testing since both antigens are usually detectable in this time range. (The exact amount of time may be different.)
+      #### 3. Des IgM et des IgG sont présentes (IgM et IgG positives).
 
 
-      The typical symptoms of COVID-19 have already developed by this time – if it has not happened, the tested person must have a symptomless infection.
+      C'est très probablement le signe de l'infection. Le virus est apparu dans le corps 14 à 28 avant le test, car les deux antigènes sont généralement détectables dans cette plage de temps. (La durée exacte peut être différente.)
 
 
-      Still, IgM+IgG positive people can infect others, therefore they must be isolated immediately.
+      Les symptômes typiques du COVID-19 se sont déjà développés à cette époque - si cela ne s'est pas produit, la personne testée doit avoir une infection asymptomatique.
 
 
-      #### 4. IgG is present (IgG positive).
+      Pourtant, les personnes IgM + IgG positives peuvent infecter d'autres personnes, elles doivent donc être isolées immédiatement.
 
 
-      The person has already fought off the infection, with or without symptoms.
+      #### 4. Des IgG sont présentes (IgG positives).
 
 
-      According to our current knowledge this also means that the tested person has become immune to COVID-19. Should they get infected, their immune system fights off SARS-CoV-2 in maximum 1–2 days, with mild-to-no symptoms, in most cases.
+      La personne a déjà combattu l'infection, avec ou sans symptômes.
 
 
-      However, they still can spread the virus. Whether SARS-CoV-2 is still present in their body, can be confirmed with a PCR or an antigen test. Should the virus be present, he/she must be isolated. If it is not present any more, he/she can return to work safely without the risk of infecting others.
-  - title: A summary of the possible results
-    text: "<div>
+      Selon nos connaissances actuelles, cela signifie également que la personne testée est devenue immunisée contre le COVID-19. S'ils sont infectés, leur système immunitaire combat le SRAS-CoV-2 en 1 à 2 jours maximum, avec des symptômes légers ou inexistants dans la plupart des cas.
+
+
+      Cependant, ils peuvent toujours propager le virus. Si le SRAS-CoV-2 est toujours présent dans leur corps, peut être confirmé par une PCR ou un test d'antigène. Si le virus est présent, il/elle doit être isolé. S'il n'est plus présent, il peut retourner au travail en toute sécurité sans risquer d'infecter les autres.
+  - title: Un résumé des résultats possibles
+    text: >-
+      <div>
 
       <table>
 
@@ -152,42 +156,37 @@ articles:
 
       <tr>
 
-      <th>Test image
+      <th>Ce que montre le test
 
       </th>
 
       <th>
 
-      <img style=\"max-height:128px;width:auto\" alt=\"IgG/IgM-test:
-      negative\" src=\"/uploads/ig-image1.jpg\">
+      <img style="max-height:128px;width:auto" alt="test IgG et IgM: négative" src="/uploads/ig-image1.jpg">
 
       </th>
 
       <th>
 
-      <img style=\"height:128px;width:auto\" alt=\"IgM-test: positive\"
-      src=\"/uploads/ig-image2.jpg\">
+      <img style="height:128px;width:auto" alt="test IgM: positive" src="/uploads/ig-image2.jpg">
 
       </th>
 
       <th>
 
-      <img style=\"height:128px;width:auto\" alt=\"IgG/IgM-test:
-      positive\" src=\"/uploads/ig-image3.jpg\">
+      <img style="height:128px;width:auto" alt="test IgG et IgM: positive" src="/uploads/ig-image3.jpg">
 
       </th>
 
       <th>
 
-      <img style=\"height:128px;width:auto\" alt=\"IgG-test: positive\"
-      src=\"/uploads/ig-image4.jpg\">
+      <img style="height:128px;width:auto" alt="test IgG: positive" src="/uploads/ig-image4.jpg">
 
       </th>
 
       <th>
 
-      <img style=\"height:128px;width:auto\" alt=\"IgG/IgM-test: invalid\"
-      src=\"/uploads/ig-image5.jpg\">
+      <img style="height:128px;width:auto" alt="test IgG/IgM: invalide" src="/uploads/ig-image5.jpg">
 
       </th>
 
@@ -199,65 +198,59 @@ articles:
 
       <tr>
 
-      <td>Interpretation</td>
+      <td>Interprétation</td>
 
-      <td>Negative</td>
+      <td>Négative</td>
 
       <td>IgM positive</td>
 
-      <td>IgM és IgG positive</td>
+      <td>IgM et IgG positive</td>
 
       <td>IgG positive</td>
 
-      <td>Invalid</td>
+      <td>Invalide</td>
 
       </tr>
 
       <tr>
 
-      <td>What does the result mean?</td>
+      <td>Que veut dire le resultat?</td>
 
-      <td>Most likely, the person has not come across the virus so
-      far</td>
+      <td>Très probablement, la personne n'a pas encore rencontré le virus</td>
 
-      <td>The person is in the early-to-mid phase of infection</td>
+      <td>La personne est dans la phase précoce à moyenne de l'infection</td>
 
-      <td>The person is in the mid-phase of infection</td>
+      <td>La personne est au milieu de la phase d'infection</td>
 
-      <td>The person is in the late phase of infection – or fought off the
-      infection in the past</td>
+      <td>La personne est dans la phase tardive de l'infection – ou a combattu l'infection dans le passé</td>
 
-      <td rowspan=\"4\">The appearance of the control line shows that the
-      test has worked correctly. If the control line fails to appear, repeat the
-      test with a new cassette regardless of any other lines appearing!</td>
+      <td rowspan="4">L'apparence de la ligne de contrôle montre que le test a fonctionné correctement. Si la ligne de contrôle n'apparaît pas, répétez le test avec une nouvelle cassette indépendamment de toute autre ligne apparaissant</td>
 
       </tr>
 
       <tr>
 
-      <td>Can the person have symptoms?</td>
+      <td>Peut la personne avoir des symptoms?</td>
 
-      <td>No</td>
+      <td>Non</td>
 
-      <td>Yes, and they may become more severe later</td>
+      <td>Oui, et ils peuvent devenir plus graves plus tard</td>
 
-      <td>Yes, but it is very unlikely that they will become more severe
-      later</td>
+      <td>Oui, mais il est très peu probable qu'ils deviennent plus graves plus tard</td>
 
-      <td>Yes, but if he/she has not had any symptoms so far, it is not
-      likely they will have any later</td>
+      <td>Oui, mais s'il n'a eu aucun symptôme jusqu'à présent, il est peu probable qu'il en ait plus tard</td>
 
       </tr>
 
       <tr>
 
-      <td>Can the person infect others?</td>
+      <td> Peut la personne propager le virus ?</td>
 
-      <td>No</td>
+      <td>Non</td>
 
-      <td>Yes</td>
+      <td>Oui</td>
 
-      <td>Most likely</td>
+      <td>Probablement</td>
 
       <td>Possible</td>
 
@@ -265,35 +258,25 @@ articles:
 
       <tr>
 
-      <td>What to do?</td>
+      <td>Quoi faire?</td>
 
-      <td>Nothing</td>
+      <td>Rien</td>
 
-      <td>Isolation and, if it is possible, the confirmation of the result
-      with Ag or PCR test</td>
+      <td>Isolement et, si possible, confirmation du résultat par test Ag ou PCR</td>
 
-      <td>Isolation and, if it is possible, the confirmation of the result
-      with Ag or PCR test</td>
+      <td>Isolement et, si possible, confirmation du résultat par test Ag ou PCR</td>
 
-      <td>Confirm the result with PCR test if it is possible – in case of
-      a positive result, isolation, in case of negative, nothing to do</td>
+      <td>Confirmer le résultat avec un test PCR si c'est possible - en cas de résultat positif, isolement, en cas de négatif, rien à faire</td>
 
       </tr></tbody><tfoot>
 
       <tr>
 
-      <td colspan=\"6\">
+      <td colspan="6">
 
-      <small>Code. C = Control; IgM = Immunoglobulin M; IgG =
-      Immunoglobulin G. The appearance of any IgG or IgM lines refers to the
-      presence of the antibody and has to be interpreted as a positive result
-      (to the antibody in question) regardless of the intensity of the
-      line(s).\r
+      <small>Code. C = contrôle; IgM = Immunoglobuline M; IgG = Immunoglobuline G. L'apparition de toute lignée IgG ou IgM fait référence à la présence de l'anticorps et doit être interprétée comme un résultat positif (pour l'anticorps en question) quelle que soit l'intensité de la ou des lignes.<br>
 
-      The intensity of the lines does not refer to the phase of the
-      infection or the severity of the disease. This table is for reference
-      only; it does not substitute the User’s Manual. This table cannot be used
-      as a medical diagnostic guideline.</small>
+      L'intensité des lignes ne fait pas référence à la phase de l'infection ou à la gravité de la maladie. Ce tableau est pour référence seulement; il ne remplace pas le manuel de l’utilisateur. Ce tableau ne peut pas être utilisé comme guide de diagnostic médical.</small>
 
       </td>
 
@@ -303,25 +286,27 @@ articles:
 
       </table>
 
-      </div>"
-  - title: A video demonstration of the Clungene® COVID-19 IgG/IgM Rapid Test Cassette
+      </div>
+  - title: Une démonstration vidéo de la cassette de test rapide Clungene® COVID-19
+      IgG/IgM
     text: >-
       <video controls>
          <source src="uploads/iggigm_video.mp4" type="video/mp4">
          <source src="uploads/iggigm_video.webm" type="video/webm">
       </video>
 
-      <center><small>The appearance of the product may differ from that shown in the film.</small></center>
-  - title: Warning
+      <center><small>Le produit réel peut être différent de celui qui apparaît dans la vidéo.</small></center>
+  - title: Attention
     text: >-
-      COVID-19 IgG/IgM rapid test is to be qualified as a serological
-      examination. The information it provides is for reference whether people
-      are or have been infected or not. Applying an IgG/IgM rapid test cannot be
-      the sole base of diagnosing or excluding COVID-19. In case the findings of
-      the contact tracing or the current symptoms refer to an infection, the
-      result of the antigen rapid test has to be confirmed with other diagnostic
-      methods, e.g. a molecular assay.
+      Le test rapide COVID-19 IgG/IgM doit être qualifié d'examen sérologique.
+      Les informations qu'il fournit servent à indiquer si les personnes sont ou
+      ont été infectées ou non. L'application d'un test rapide IgG/IgM ne peut
+      pas être la seule base de diagnostic ou d'exclusion du COVID-19. Dans le
+      cas où les résultats de la recherche des contacts ou les symptômes actuels
+      se réfèrent à une infection, le résultat du test rapide d'antigène doit
+      être confirmé avec d'autres méthodes de diagnostic, par ex. un test
+      moléculaire.
 
 
-      WARNING. This test is for professional use only. A short summary on the (Hungarian) legal background of diagnostic tests can be found [here](/legal-background).
+      Ce test est réservé à un usage professionnel. Un bref résumé du contexte juridique des tests de diagnostic peut être trouvé [ici](/legal-background).
 ---

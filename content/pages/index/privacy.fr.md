@@ -1,6 +1,6 @@
 ---
 type: privacy
-slug: privacy-fr
+slug: confidentialité
 title: Privacy Policy
 menutitle: Privacy Policy
 intro:

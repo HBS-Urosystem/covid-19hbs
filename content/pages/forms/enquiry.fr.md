@@ -1,45 +1,48 @@
 ---
 type: enquiry
-slug: enquire
-title: Send a request
-heading: Prevent the spread of the virus by using rapid tests!
-name: Contact Name
-company: Company Name
+slug: offre
+title: Demande de offre
+heading: Empêchez la propagation du virus en utilisant des tests rapides!
+name: Nom du contact
+company: Nom de la société
 email: E-mail
-phone: Phone
-ag_qty: Amount of Antigen Rapid Tests
+phone: Téléphone
+ag_qty: Quantité des tests d’antigène
 ag_min: 50
-ag_note: "Min. order quantity: 50 boxes (1 box contains 25 tests)"
-ig_qty: Amount of IgG/IgM Rapid Tests
+ag_note: "Quantité minimal de commande: 50 boîte (1 boîte contient 25 tests)"
+ig_qty: Quantité des tests anticorps
 ig_min: 50
-ig_note: "Min. order quantity: 50 boxes (1 box contains 25 tests)"
-description: Comments
-consent: I've read and accepted the&nbsp;<a href="/privacy" target="_blank">privacy policy</a>.
-button: Enquiry
-composition: Composition
-boxing: "1 box contains:"
-ag_comp: Antigen Rapid Test
+ig_note: "Quantité minimal de commande: 50 boîte (1 boîte contient 25 tests)"
+description: Commentaire
+button: Envoyer
+composition: "[Composition]"
+boxing: "[1 box contains:]"
+ag_comp: Test rapide d'antigène COVID-19
 ag_items:
-  - item: 25 Test Cassettes (each packed individually)
-  - item: "25 Extraction Reagent (in separate ampoules, 1 ampoule contains 0.3ml
-      reagent) "
-  - item: 25 Sterilized Swabs (single use for specimen collection)
-  - item: 25 Extraction Tubes
-  - item: 25 Dropper Tips
-  - item: 1 Work Station
-  - item: 1 Package Insert
-ig_comp: IgG/IgM Rapid Test
+  - item: 25 cassettes de test (chacune emballée individuellement)
+  - item: 25 réactifs d'extraction (dans des ampoules séparées, 1 ampoule contient
+      0,3 ml de réactif)
+  - item: 25 écouvillons stérilisés (à usage unique pour le prélèvement
+      d'échantillons)
+  - item: 25 tubes d'extraction
+  - item: 25 embouts compte-gouttes
+  - item: 1 poste de travail
+  - item: 1 notice d'emballage
+ig_comp: Test rapide COVID-19 IgG/IgM
+consent: J'ai lu et accepté la&nbsp;<a href="/confidentialité"
+  target="_blank">politique de confidentialité</a>.
 ig_items:
-  - item: 25 Test Cassettes (each packed individually)
-  - item: 25 Droppers (single use)
-  - item: 25 Lancets (single use, for finger-prick blood specimen collection)
-  - item: 25 Alcohol pads (single use, for disinfection)
-  - item: 1 Bottle of Buffer (contains solution for 25 tests)
-  - item: 1 Package Insert
+  - item: 25 cassettes de test (chacune emballée individuellement)
+  - item: 25 compte-gouttes (usage unique)
+  - item: 25 lancettes (à usage unique, pour prélèvement d'échantillons de sang par
+      piqûre au doigt)
+  - item: 25 tampons d'alcool (à usage unique, pour la désinfection)
+  - item: 1 flacon de tampon (contient une solution pour 25 tests)
+  - item: 1 notice d'emballage
 ---
 #### Balázs Bogácsi
 
-Sales Representative
+Commercial
 
 E-mail: [balazs.bogacsi@hbs.hu](mailto:balazs.bogacsi@hbs.hu)
 Phone: [+36 20 916 0211](tel:+36209160211)

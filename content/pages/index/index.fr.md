@@ -2,10 +2,10 @@
 type: index
 slug: fr
 title: Tests rapides Clungene® COVID-19
-keywords: COVID-19 serological and antigene rapid test, covid-19, clungene,
-  rapid test, sars-cov-2, ag test, igg/igm test, antigene, serological
-description: Clungene® COVID-19 Rapid Test Cassette – at a competitive price,
-  delivered from Europe within 72 hours
+keywords: Test rapide sérologique et antigénique COVID-19, covid-19, clungène,
+  test rapide, sars-cov-2, test ag, test igg / igm, antigène, sérologique
+description: Cassette de test rapide Clungene® COVID-19 – à un prix compétitif,
+  livrée depuis l'Europe en 72 heures
 menutitle: Tests rapides
 hero: /uploads/33838-web.jpg
 intro:
@@ -20,7 +20,7 @@ intro:
 
 
         <small>Sensibilité: 91,4%. Spécificité: 100,0%.</small>
-      link: /tests-antigen
+      link: /antigeniques
       cta: Détails
     - src: /uploads/sam_0089_copy.jpg
       alt: Tests rapides IgG/IgM Clungene® COVID-19
@@ -32,7 +32,7 @@ intro:
 
 
         <small>Sensibilité: 86,6% Spécificité: 98,33% (IgG + IgM combinées) 8 jours après l'apparition des symptômes, la spécificité est supérieure à 90%.</small>
-      link: /test-anticorps
+      link: /test-serologique
       cta: Détails
   text: >-
     Pour ralentir la pandémie et minimiser les pertes économiques causées par le
@@ -51,7 +51,7 @@ intro:
 info:
   images:
     - src: /uploads/bisnode-hbs-en.jpeg
-      alt: "[Bisnode A certificate for HBS Zrt.]"
+      alt: Certificat Bisnode A pour HBS Zrt.
       text: Happy Business Services Ltd. a obtenu le certificat
         **[Bisnode&nbsp;A](<https://www.bisnode.hu/cegkereses/0/Happy Business
         Services>)**. Cela démontre que le risque financier lié à la coopération
@@ -82,9 +82,9 @@ references:
     Il existe des centaines d'établissements médicaux, de médecins, de centres de santé, de maisons de soins infirmiers, de cliniques privées, d'entreprises et d'autres institutions qui utilisent **des cassettes de test rapideClungene® COVID-19**, que nous importons. Vous trouverez ici la page Web de certains d'entre eux.
 
 
-    **[Moreover, our partners, Phoenix Pharma and Hungaropharma distributes our rapid tests for all pharmacies in Hungary.]**
+    **De plus, nos partenaires, Phoenix Pharma et Hungaropharma distribuent nos tests rapides pour toutes les pharmacies en Hongrie.**
 cards:
-  - text: "### [Questions Fréq\b\buentes]"
+  - text: ""
     link: /faq
     src: ""
 articles:
@@ -95,11 +95,11 @@ articles:
 
       <figure>
 
-      <img src="/uploads/mainpage-pic1.jpg" alt="[Antigen test and Antibody tests diagram]" />
+      <img src="/uploads/mainpage-pic1.jpg" alt="Diagramme des tests d'antigène et des tests d'anticorps" />
 
       <figcaption>
 
-      <details><summary><b>[Explanation of figure]</b></summary>
+      <details><summary><b>Explication de la figure</b></summary>
 
       <p>Ce chiffre sert de référence; il montre quand l'antigène COVID-19 (Ag) et les deux immunoglobulines (IgM et IgG) peuvent être détectés. «0» représente le jour où les symptômes apparaissent pour la première fois (jour du début).</p>
 

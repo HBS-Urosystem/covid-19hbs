@@ -14,6 +14,7 @@ ig_qty: Amount of IgG/IgM Rapid Tests
 ig_min: 50
 ig_note: "Min. order quantity: 50 boxes (1 box contains 25 tests)"
 description: Comments
+consent: I've read and accepted the&nbsp;<a href="/privacy" target="_blank">privacy policy</a>.
 button: Enquiry
 composition: Composition
 boxing: "1 box contains:"
@@ -28,8 +29,6 @@ ag_items:
   - item: 1 Work Station
   - item: 1 Package Insert
 ig_comp: IgG/IgM Rapid Test
-consent: I've read and accepted the&nbsp;<a href="/privacy"
-  target="_blank">privacy policy</a>.
 ig_items:
   - item: 25 Test Cassettes (each packed individually)
   - item: 25 Droppers (single use)

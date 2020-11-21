@@ -1,6 +1,6 @@
 ---
 title: sticky
-button: "&thinsp;[Become a distributor]"
+button: "&thinsp;Devenez distributeur"
 svg: Email
-link: /distribution
+link: /distributeur
 ---

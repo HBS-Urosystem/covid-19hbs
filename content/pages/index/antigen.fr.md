@@ -1,101 +1,102 @@
 ---
 type: product1
-slug: test-antigen
-title: Clungene® COVID-19 Antigen Rapid Test Cassette
-menutitle: Antigèn
+slug: antigeniques
+title: Cassettes de test rapide Clungene® COVID-19 Antigéniques
+menutitle: Antigéniques
 intro:
-  highlight: Antigen (Ag) rapid tests complement IgG/IgM (antibody) rapid tests
-    perfectly. On this page the most important information on the antigen test
-    is summarized.
+  highlight: Les tests rapides d'antigène (Ag) complètent parfaitement les tests
+    rapides IgG/IgM (anticorps). Sur cette page, les informations les plus
+    importantes sur le test d'antigène sont résumées.
   images:
-    - alt: Clungene® COVID-19 Antigen Rapid Test
-      text: Clungene® COVID-19 Antigen Rapid Test
+    - alt: Test rapide Clungene® COVID-19 Antigéniques
+      text: Test rapide Clungene® COVID-19 Antigéniques
       src: /uploads/antigen-test.jpg
 documents:
   text: >-
-    ## Further information and documentation
+    ## Informations complémentaires et documentation
 
 
-    Clungene® COVID-19 antigen rapid test cassette is registered in the European Union. Its DIMDI registration number is: DE/CA05/IvD-238321-1547-00. Its OGYÉI (National Institute of Pharmacy and Nutrition of Hungary) registration number is: HU/CA01=17106/20.
+    La cassette de test rapide de l'antigène Clungene® COVID-19 est enregistrée dans l'Union européenne. Son numéro d'enregistrement DIMDI est: DE / CA05 / IvD-238321-1547-00. Son numéro d'enregistrement OGYÉI (Institut national de pharmacie et de nutrition de Hongrie) est: HU / CA01 = 17106/20.
   links:
-    - text: A brochure on the use of the product
+    - text: Une brochure sur l'utilisation du produit
       file: /uploads/clongene-antigen-test-new.pdf
       src: /uploads/bxs-file-pdf.svg
-    - text: User’s Manual
-      file: /uploads/ifu-for-covid-19-antigen-rapid-test-cassette-en-109155103-version-3.0.pdf
+    - text: Manuel d’instruction
+      file: /uploads/covid-19-antigene-notice-francais.pdf
       src: /uploads/bxs-file-pdf.svg
 articles:
   - text: >-
-      The substances recognized by the immune system and trigger the immune
-      response are generally called antigens. An antigen test detects **directly
-      of the presence of SARS-CoV-2**. This aspect is common with the PCR test.
-      However, antigen tests detect **a specific protein of the virus**, not the
-      RNA of it.
+      Les substances reconnues par le système immunitaire et déclenchant la
+      réponse immunitaire sont généralement appelées antigènes. Un test
+      d'antigène **détecte directement la présence de SRAS-CoV-2**. Cet aspect
+      est commun avec le test PCR. Cependant, les tests antigéniques détectent
+      **une protéine spécifique du virus**, pas l'ARN de celui-ci.
 
 
-      It must be pointed out that the virus antigen is present in a detectable amount **in the early phase of the infection** – antigen tests are thus the most reliable when they are used in the **first 7 days after the onset day** (when the symptoms first appear).
-    title: What is detected by an antigen rapid test?
+      Il faut souligner que l'antigène du virus est présent en quantité détectable **dans la phase précoce de l'infection** – les tests antigéniques sont donc les plus fiables lorsqu'ils sont utilisés dans les **7 premiers jours suivant le jour du début** (lorsque les symptômes apparaissent pour la première fois).
+    title: Qu'est-ce qui est détecté par un test rapide d'antigène?
   - text: >-
-      * It is considerably cheaper than a PCR test
+      * C'est considérablement moins cher qu'un test PCR
 
-      * Medical professionals can perform it at point-of-care (POC) sites, too, e.g. in a suitable room of a company
+      * Les professionnels de la santé peuvent également l'exécuter sur les sites des points de service (POC), par ex. dans une pièce adaptée d'une entreprise
 
-      * No additional devices or disposables are needed for the test
+      * Aucun appareil supplémentaire ou jetable n'est nécessaire pour le test
 
-      * The results are obtained within 15–30 minutes
+      * Les résultats sont obtenus en 15–30 minutes
 
 
-      Although they are slightly less sensitive than PCR tests, they **can be used together with antibody tests**, since **they detect COVID-19 in the phase of the infection when antibody tests are not able to do so yet.**
-    title: What are the advantages of an antigen rapid test?
+      Bien qu'ils soient légèrement moins sensibles que les tests PCR**, ils peuvent être utilisés ensemble avec des tests d'anticorps**, car ils détectent le COVID-19 dans la phase de l'infection **lorsque les tests d'anticorps ne sont pas encore en mesure de le faire.**
+    title: Quels sont les avantages d'un test rapide d'antigène?
   - text: >-
-      Assuming all the employees (or clients) are being screened systematically
-      with antibody rapid tests at an institution, antigen tests mean the **next
-      step of testing** in any case when performing a PCR test is not possible
-      (e.g. lack of time or financial resources).
+      En supposant que tous les employés (ou clients) sont systématiquement
+      dépistés avec des tests rapides d'anticorps dans une institution, les
+      tests d'antigènes signifient **la prochaine étape** de test dans tous les
+      cas lorsque la réalisation d'un test PCR n'est pas possible (par exemple
+      manque de temps ou de ressources financières).
 
 
-      If a person has been tested positive with an antibody test, the antigen test **can be strengthen the diagnosis of an active infection**. In case of a confirmed new infection, with antigen tests **close contact can be tested** to discover whether they have got COVID-19, too in a cost-effective way. (Antibody tests often miss the early phase of the infection.)
+      Si une personne a été testée positive avec un test d'anticorps, le test d'antigène **peut renforcer le diagnose d'une infection active**. En cas de nouvelle infection confirmée, avec des tests d'antigène, **des contacts étroit peuvent être** testés pour découvrir si quelqu’un a également contracté le COVID-19 de manière rentable. (Les tests d'anticorps passent souvent à côté de la phase précoce de l'infection.)
 
 
-      Moreover, with an antigen test COVID-19 can be detected even if the antibody test has been negative but the person **shows the** (mild) **symptoms of the disease or have met confirmed COVID-19 people recently**.
+      De plus, avec un test antigénique, le COVID-19 peut être détecté même si le test d'anticorps a été négatif mais que la personne **présente les symptômes** (légers) **de la maladie ou a rencontré récemment des personnes confirmées COVID-19**.
 
 
-      Finally, having an antigen test made **is the best way of detection if it is crucial to get the result as quickly as possible – when there is no time for a PCR test**. For example, for employees having to start a business trip or at medical institution for patients whose treatment cannot be delayed.
+      Enfin, faire réaliser un test antigénique **est le meilleur moyen de détection s'il est crucial d'obtenir le résultat le plus rapidement possible – quand il n'y a pas de temps pour un test PCR.** Par exemple, pour les employés devant commencer un voyage d'affaires ou dans une institution médicale pour les patients dont le traitement ne peut être retardé.
 
 
-      An antigen test is **not recommended** if the symptoms have been persisting for a long time, and they cannot detect past infections. In these cases, an antibody test is to be performed.
-    title: Whom is an antibody test recommended?
+      Un test antigénique **n'est pas recommandé** si les symptômes persistent depuis longtemps et qu'ils ne peuvent pas détecter les infections passées. Dans ces cas, un test d'anticorps doit être effectué.
+    title: A qui est un test d'anticorps est recommandé?
   - text: >-
-      Nasopharyngeal or oropharyngeal swab has to be collected as specimen.
+      [Nasopharyngeal or oropharyngeal swab has to be collected as specimen.
       Next, there are a couple of easy steps needed to be performed to prepare
       the specimen, which is placed on the test cassette. The result can be
-      obtained in 15–30 minutes.
+      obtained in 15–30 minutes. 
 
 
-      The test can be performed by a healthcare professional at any place, no additional devices or disposables are needed for that.
-    title: How is an antigen test used?
-  - title: How can the results be interpreted?
-    subtitle: There are two possible outcomes.
+      The test can be performed by a healthcare professional at any place, no additional devices or disposables are needed for that.]
+    title: Comment un test d'antigène est-il utilisé?
+  - title: Comment interpréter les résultats?
+    subtitle: Il y a deux résultats possibles.
     text: >-
-      #### 1. Only the control line appears on the cassette – negative result.
+      #### 1. Seule la ligne de contrôle apparaît sur la cassette – résultat
+      négatif.
 
 
-      In this case the tested person is most likely not infected, the virus is not present in their body. However, a negative result cannot role out the infection totally, because
+      Dans ce cas, la personne testée n'est probablement pas infectée, le virus n'est pas présent dans son corps. Cependant, un résultat négatif ne peut éliminer totalement l'infection, car
 
 
-      * it is possible that the viral protein is present in their system but its amount is so small that the antigen test cannot detect it;
+      * il est possible que la protéine virale soit présente dans leur système mais sa quantité est si faible que le test antigénique ne peut pas la détecter;
+
+      * si le prélèvement d'échantillons ou le texte est mal effectué, il peut ne pas y avoir de protéine virale dans l'échantillon.
 
 
-      * if the specimen collection or the text is performed incorrectly, there may be no viral protein in the sample.
+      #### 2. La ligne de contrôle et la ligne de test apparaissent sur la cassette – résultat positif.
 
 
-      #### 2. Both the control line and the test line appear on the cassette – positive result.
+      Étant donné que la protéine de nucléocapside du SRAS-CoV-2 détectée par le test est unique à ce virus, le résultat positif signifie que la personne testée est presque sûrement infectée.
 
 
-      Since the SARS-CoV-2 nucleocapsid protein detected by the test is unique to this virus, the positive result means that the tested person is almost surely infected.
-
-
-      Infected people **must be isolated** even if they have no symptoms at all, because **they can infect others with the virus, too**.
+      Les personnes infectées **doivent être isolées** même si elles ne présentent aucun symptôme, **car elles peuvent également infecter d'autres personnes avec le virus**.
   - text: >-
       <table>
 
@@ -103,25 +104,23 @@ articles:
 
       <tr>
 
-      <th>Test image
+      <th>Ce que montre le test</th>
+
+      <th>
+
+      <img style="max-height:128px;width:auto" alt="test-Ag: négative" src="/uploads/image1.jpeg" />
 
       </th>
 
       <th>
 
-      <img style="max-height:128px;width:auto" alt="Ag-test: negative" src="/uploads/image1.jpeg" />
+      <img style="max-height:128px;width:auto" alt="test-Ag: positive" src="/uploads/image2.jpeg" />
 
       </th>
 
       <th>
 
-      <img style="max-height:128px;width:auto" alt="Ag-test: positive" src="/uploads/image2.jpeg" />
-
-      </th>
-
-      <th>
-
-      <img style="max-height:128px;width:auto" alt="Ag-test: invalid" src="/uploads/image3.jpeg" />
+      <img style="max-height:128px;width:auto" alt="test-Ag: invalide" src="/uploads/image3.jpeg" />
 
       </th>
 
@@ -133,65 +132,67 @@ articles:
 
       <tr>
 
-      <td>Interpretation</td>
+      <td>Interprétation</td>
 
-      <td>Negative</td>
+      <td>Négative</td>
 
       <td>Positive</td>
 
-      <td>Invalid</td>
+      <td>Invalide</td>
 
       </tr>
 
       <tr>
 
-      <td>What does that mean?</td>
+      <td>Que veut dire le résultat?</td>
 
-      <td>There is no detectable amount of virus (protein) in the tested person</td>
+      <td>Il n'y a pas de quantité détectable de virus (protéine) chez la personne testée</td>
 
-      <td>The virus is present in the tested person</td>
+      <td>Le virus est présent chez la personne testée</td>
 
-      <td rowspan="4">The appearance of the control line shows that the test has been performed well.<br>
+      <td rowspan="4">L'apparence de la ligne de contrôle montre que le test a été bien réalisé.<br>
 
-      If the control line fails to appear the test is invalid, regardless of any other lines. Repeat the test with a new cassette!</td>
-
-      </tr>
-
-      <tr>
-
-      <td>Is the tested person infected?</td>
-
-      <td>No, or in the late phase of the infection</td>
-
-      <td>Yes, in the early-to-mid phase of the infection</td>
+      Si la ligne de contrôle n'apparaît pas, le test n'est pas valide, quelles que soient les autres lignes. Répétez le test avec une nouvelle cassette.</td>
 
       </tr>
 
       <tr>
 
-      <td>Can the tested person infect others?</td>
+      <td>Est-ce que la personne est infectée?</td>
 
-      <td>In the late phase of the infection, it is possible</td>
+      <td>Incertain; si c'est le cas, il / elle doit être en phase tardive de l'infection</td>
 
-      <td>Yes</td>
+      <td>Oui, il / elle est dans la phase précoce à moyenne de l'infection</td>
 
       </tr>
 
       <tr>
 
-      <td>What to do?</td>
+      <td>Peut la personne propager le virus?</td>
 
-      <td>In case of typical symptoms confirm the result with another method</td>
+      <td>Si la personne se trouve dans la phase tardive de l'infection, c’esr est possible</td>
 
-      <td>The person must be isolated; if possible, the result must be confirmed</td>
+      <td>Oui</td>
 
-      </tr><tfoot>
+      </tr>
+
+      <tr>
+
+      <td>Quoi faire?</td>
+
+      <td>En cas de symptômes typiques, confirmez le résultat avec une autre méthode</td>
+
+      <td>La personne doit être isolée, si possible, le résultat doit être confirmé.</td>
+
+      </tr>
+
+      <tfoot>
 
       <tr>
 
       <td colspan="4">
 
-      <small>Code. C = control. Ag or T = antigen (or Test). If the Ag (T) line appears, the result is positive, regardless of the intensity of the line. The intensity of the Ag (T) line does not refer to the phase of the infection nor to the severity of the disease. This table is for reference only; it does not substitute the User’s Manual. This table cannot be used as a medical diagnostic guideline.</small>
+      <small>Code. C = contrôle. Ag ou T = antigène (ou test). Si la ligne Ag (T) apparaît, le résultat est positif, quelle que soit l'intensité de la ligne. L'intensité de la ligne Ag (T) ne se réfère pas à la phase de l'infection ni à la gravité de la maladie. Ce tableau est pour référence seulement; il ne remplace pas le manuel de l’utilisateur. Ce tableau ne peut pas être utilisé comme guide de diagnostic médical.</small>
 
       </td>
 
@@ -200,24 +201,26 @@ articles:
       </tfoot>
 
       </table>
-    title: A summary of the possible test results
-  - title: A video demonstration of the Clungene® COVID-19 Antigen Rapid Test Cassette
+    title: Un résumé des résultats possibles
+  - title: Une démonstration vidéo de l’utilisation de la cassette de test rapide de
+      l'antigène Clungene® COVID-19
     text: >-
       <video controls>
         <source src="uploads/ag_use_video.mp4" type="video/mp4">
         <source src="uploads/ag_use_video.webm" type="video/webm">
       </video>
 
-      <center><small>The appearance of the product may differ from that shown in the film.</small></center>
+      <center><small>Le produit réel peut être différent de celui qui apparaît dans la vidéo.</small></center>
   - text: >-
-      The information the antigen rapid test provides is for reference whether
-      people are infected or not. Applying an antigen rapid test cannot be the
-      sole base of diagnosing or excluding COVID-19. In case the findings of the
-      contact tracing or the current symptoms refer to an infection, the result
-      of the antigen rapid test has to be confirmed with other diagnostic
-      methods, e.g. a molecular assay.
+      Les informations fournies par le test rapide d'antigène servent à indiquer
+      si les personnes sont infectées ou non. L'application d'un test rapide
+      d'antigène ne peut pas être la seule base de diagnostic ou d'exclusion du
+      COVID-19. Dans le cas où les résultats de la recherche des contacts ou les
+      symptômes actuels se réfèrent à une infection, le résultat du test rapide
+      d'antigène doit être confirmé avec d'autres méthodes de diagnostic, par
+      ex. un test moléculaire.
 
 
-      This test is for professional use only. A short summary on the (Hungarian) legal background of diagnostic tests can be found [here](https://covid-19.hbs.hu/legal-background).
-    title: Warning
+      Ce test est réservé à un usage professionnel. Un bref résumé du contexte juridique des tests de diagnostic peut être trouvé [ici](https://covid-19.hbs.hu/legal-background).
+    title: Attention
 ---
