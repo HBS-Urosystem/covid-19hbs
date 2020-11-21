@@ -57,7 +57,7 @@ articles:
 
 
       **Antibody tests are the most reliable from the second week after the onset day** (when the symptoms first appear). Therefore, to **detect the early phase of COVID-19 infection antigen or PCR tests are recommended.**
-  - title: Whom is the IgG/IgM rapid test recommended?
+  - title: Whom is the IgG/IgM rapid test recommended to?
     text: >-
       **Since performing antibody tests is easy and cost-effective, this is the
       most effective tool for screening large amount of people** – for example,
@@ -205,7 +205,7 @@ articles:
 
       <td>IgM positive</td>
 
-      <td>IgM és IgG positive</td>
+      <td>IgM and IgG positive</td>
 
       <td>IgG positive</td>
 
@@ -288,7 +288,7 @@ articles:
       Immunoglobulin G. The appearance of any IgG or IgM lines refers to the
       presence of the antibody and has to be interpreted as a positive result
       (to the antibody in question) regardless of the intensity of the
-      line(s).\r
+      line(s).\r<br>
 
       The intensity of the lines does not refer to the phase of the
       infection or the severity of the disease. This table is for reference
@@ -323,5 +323,5 @@ articles:
       methods, e.g. a molecular assay.
 
 
-      WARNING. This test is for professional use only. A short summary on the (Hungarian) legal background of diagnostic tests can be found [here](/legal-background).
+      This test is for professional use only. A short summary on the legal background of diagnostic tests can be found [here](/legal-background).
 ---

@@ -2,7 +2,7 @@
 type: product2
 slug: szerologiai-teszt
 title: Clungene® COVID-19 IgG/IgM gyorsteszt kazetta
-menutitle: Szerológiai
+menutitle: IgG/IgM
 hero: /uploads/sam_0364_copy.jpg
 intro:
   highlight: Ezen az oldalon megtudhatja a szerológiai gyorsteszt kazettával
@@ -49,14 +49,14 @@ references:
 documents:
   text: "## További információk, dokumentumok"
   links:
+    - text: Használati útmutató
+      file: /uploads/hasznalati_utasitas_clungene_covid-19_igg-igm-4212-hu-v4.pdf
+      src: /uploads/bxs-file-pdf.svg
     - text: OGYÉI hatósági bizonyítvány HU
       file: /uploads/ogyei_hatosagi_bizonyitvany_orvostech-17106-3-2020-szghbv_alairt-1.pdf
       src: /uploads/bxs-file-pdf.svg
     - text: EU megfelelőségi nyilatkozat
       file: /uploads/ek_megfelelosegi_nyilatkozat.pdf
-      src: /uploads/bxs-file-pdf.svg
-    - text: Használati útmutató
-      file: /uploads/hasznalati_utasitas_clungene_covid-19_igg-igm-4212-hu-v4.pdf
       src: /uploads/bxs-file-pdf.svg
     - text: A termék bizonyítványai
       file: /uploads/certificates-clongene-covid-2019-igm.igg_1-7.pdf

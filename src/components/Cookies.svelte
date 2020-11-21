@@ -15,14 +15,12 @@
 		{#if !$cookies}<button on:click={consent}>Megértettem</button>{/if}
 	{/if}
 	{#if $lang == 'en'}
-		<p>Our website may collect analytic data depending on your consent with third parties like Google or Facebook. – <a href="/cookie-en">Cookie Policy</a> – <a href="/privacy">Privacy Policy</a></p>
+		<p>The webpage of HBS uses cookies in order to operate the page, make its use more convenient and track the actions of the users to display relevant offers for them. – <a href="/cookie-en">Cookie Policy</a> – <a href="/privacy">Privacy Policy</a></p>
 		{#if !$cookies}<button on:click={consent}>Accept</button>{/if}
 	{/if}
 	{#if $lang == 'fr'}
-		<p>Az HBS weboldala sütiket használ a weboldal működtetése, használatának megkönnyítése, a weboldalon végzett tevékenység
-	nyomon követése és releváns ajánlatok megjelenítése érdekében. / The webpage of HBS uses cookies in order to operate the
-	page, make its use more convenient and track the actions of the users to display relevant offers for them. – <a href="/cookie-fr">Cookie-tájékoztató / Cookie Policy</a> – <a href="/privacy-fr">Adatkezelési tájékoztató / Privacy Policy</a></p>
-	{#if !$cookies}<button on:click={consent}>Megértettem / Accept</button>{/if}
+		<p>The webpage of HBS uses cookies in order to operate the page, make its use more convenient and track the actions of the users to display relevant offers for them. – <a href="/cookie-fr">Cookie Policy</a> – <a href="/confidentialité">Privacy Policy</a></p>
+	{#if !$cookies}<button on:click={consent}>Accept</button>{/if}
 	{/if}
 </footer>
 
