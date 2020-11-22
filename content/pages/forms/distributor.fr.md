@@ -14,7 +14,7 @@ button: Envoyer
 ---
 #### Balázs Bogácsi
 
-Commercial
+Représentent commercial
 
 E-mail: [balazs.bogacsi@hbs.hu](mailto:balazs.bogacsi@hbs.hu)
 Phone: [+36 20 916 0211](tel:+36209160211)

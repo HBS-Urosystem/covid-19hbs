@@ -67,13 +67,13 @@ articles:
       Un test antigénique **n'est pas recommandé** si les symptômes persistent depuis longtemps et qu'ils ne peuvent pas détecter les infections passées. Dans ces cas, un test d'anticorps doit être effectué.
     title: A qui est un test d'anticorps est recommandé?
   - text: >-
-      [Nasopharyngeal or oropharyngeal swab has to be collected as specimen.
-      Next, there are a couple of easy steps needed to be performed to prepare
-      the specimen, which is placed on the test cassette. The result can be
-      obtained in 15–30 minutes. 
+      Un écouvillon nasopharyngé ou oropharyngé doit être prélevé comme
+      échantillon. Ensuite, il y a quelques étapes faciles à effectuer pour
+      préparer l'échantillon, qui est placé sur la cassette de test. Le résultat
+      peut être obtenu en 15 à 30 minutes.
 
 
-      The test can be performed by a healthcare professional at any place, no additional devices or disposables are needed for that.]
+      Le test peut être effectué par un professionnel de la santé à n'importe quel endroit, aucun appareil supplémentaire ou jetable n'est nécessaire pour cela.
     title: Comment un test d'antigène est-il utilisé?
   - title: Comment interpréter les résultats?
     subtitle: Il y a deux résultats possibles.

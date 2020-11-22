@@ -83,10 +83,6 @@ references:
 
 
     **De plus, nos partenaires, Phoenix Pharma et Hungaropharma distribuent nos tests rapides pour toutes les pharmacies en Hongrie.**
-cards:
-  - text: ""
-    link: /faq
-    src: ""
 articles:
   - text: >-
       ##### La figure suivante montre dans quelle période le test d'antigène et

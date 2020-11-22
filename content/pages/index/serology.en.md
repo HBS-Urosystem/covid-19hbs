@@ -81,6 +81,9 @@ articles:
 
 
       Rapid tests are **not recommended** for those who has had high temperature, severe cough or general sickness (may be related to COVID-19) in the last 7 days. In this case, voluntary quarantine, or – if the symptoms are severe – hospitalization is strongly recommended in order to ensure the convalescence. This also prevents the spreading of COVID-19.
+
+
+      In case COVID-19 is suspected, it can be confirmed with an [antigen](/antigen-test) or PCR test.
   - title: How is the rapid test performed?
     text: >-
       **The blood specimen is being taken from finger prick or from the vein

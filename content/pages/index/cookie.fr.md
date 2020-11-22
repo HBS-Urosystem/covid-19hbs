@@ -4,48 +4,51 @@ slug: cookie-fr
 title: Cookie-tájékoztató
 menutitle: Cookie-tájékoztató
 ---
-## 1. Általános információk
+### 1. General Information
 
-A Happy Business Services Zrt. (székhely: 1137 Budapest, Szent István krt 18.; telefonszám: 452-1700; e-mail: [info@hbs.hu](mailto:info@hbs.hu), továbbiakban HBS) a https://hbs.hu/ nevű honlap (továbbiakban: „Honlap") használata során tudomására jutott személyes adatokat az Európai Parlament és Tanács (EU) 2016/679. számú rendelete (GDPR) és az egyéb adatvédelmi jogszabályok szerint kezeli, és megteszi azon biztonsági, technikai és szervezési intézkedéseket, melyek az adatok biztonságát garantálják.
+The Happy Business Services Ltd. (Address: 18. Szent István körút, Budapest, 1137, Hungary; telephone: 36-1-452-1700; e-mail: [info@hbs.hu](mailto:info@hbs.hu); henceforth HBS or Company) controls all personal data obtained according to the General Data Protection Regulation (EU) decree 2016/679 (also known as GDPR) of the European Parliament and Council, just as well as to other relevant data protection law, and applies the necessary security, technical and organizational procedures to grant the safety of data on its webpage <https://covid-19.hbs.hu> (henceforth: webpage).
 
-## 2. Cookie-ról bővebben
+## 2. Information on Cookies
 
-A HBS. is használ „cookie”-kat (sütiket) weboldalain, különösen a https://covid-19.hbs.hu, annak érdekében, hogy a Honlapra látogatók igényeinek minél jobban megfeleljen, illetve a HBS számára hasznosítható üzleti és marketing információkat szerezzen..
+Similarly to other webpages, HBS uses cookies on their webpages, therefore on <https://covid-19.hbs.hu>, as well, in order to comply the needs of the visitors and to obtain useful business and marketing information.
 
-A tájékoztató jelen pontjának célja az arról való tájékoztatás, hogy a Társaság milyen sütiket és milyen célból alkalmaz.
+### What are Cookies?
 
-### Mik azok a cookie-k vagy sütik?
+Cookies are small text files sent to the electronic devices of the persons concerned (visitors). Cookies may contain personal data (e.g. visiting history), too, but never contain information that can be used for identifying the visitor. On the other hand, these cookies help provide personalized experience for the visitors. The information may refer to the visitor’s preferences, the device used by the visitor, or to ensure the expected operation of the webpage. If the visitor does not give a consent to the use of cookies during they visit the webpage of HBS, in the first step, they are to change the setup of their Internet browser. In this case the visitor cannot access to certain parts of the webpage (e.g. storing the preferences, username, password etc.)
 
-A cookie-k a készülékre küldött kis szöveges fájlok. A sütik tartalmazhatnak olyan adatokat, amelyek személyes adatoknak minősülnek (pl. látogatási előzmények), de nem tartalmaznak olyan információkat, amelyek személyesen azonosítják az érintett személyt, ugyanakkor képesek a látogatónak személyre szabottabb internet-élményt nyújtani. Az információk vonatkozhatnak továbbá a látogató preferenciáira, a látogató által használt eszközre vagy az oldal elvárt működésének biztosítására. Amennyiben az érintett nem kíván hozzájárulni a cookie-k kezeléséhez a Társaság weboldalának meglátogatása során, elsőként az érintett az internetes böngészőjében kell, hogy módosítsa a beállításokat, illetve jelen ablakban azt a különböző süti kategóriák fejlécére kattintva módosíthatja. Amennyiben az érintett nem járul hozzá a cookie-k kezeléséhez, úgy abban az esetben a hivatkozott honlapok egy részéhez az érintett nem férhet hozzá (például: testre szabások megjegyzése, jelszó vagy felhasználó név megjegyzése, stb).\
-A sütik a honlap látogatójának a honlap használatához igénybevett számítógépén, telefonján, egyéb eszközén kerülnek letárolásra, ugyanakkor ez nem jelenti azt, hogy a sütik által a HBS hozzáférne egyéb adatokhoz ezeken az eszközökön.
+Cookies are stored on the device used for accessing the webpage (e.g. computer, mobile phone). This does not mean that HBS is able to access any other data on these devices.
 
-### Miért használja a Társaság a cookie-kat a Honlapon?
+### Why are Cookies used by the Company on the Webpage?
 
-A HBS cookie-kat alkalmaz a weboldal használatának megértéséhez, tartalmának javításához. A cookie-k használatával a Társaság a honlapot személyre szabja a látogatások tapasztalatai alapján (például a cookie-k felismerik amikor a honlap látogatója ismételten megnyitja a Társaság honlapját). Cookie-kat annak érdekében is felhasználhatja a Társaság, hogy a Honlapon termékeket és szolgáltatásokat kínáljon a honlap látogatója részére.
+Cookies are used for understanding the needs and habits of the visitors so that the webpage can be developed constantly. Building on the experience gained from the visits the Company can help provide personal preferences for the visitors. (E.g. the cookies can recognize if the visitor returns to the page). Moreover, cookies can be used for offering products and services to the visitors.
 
-### Milyen típusú cookie-kat alkalmaz a HBS?
+### What Types of Cookies are being Used?
 
-A cookie-k típusai:
+There are several types of cookies as follows:
 
-* Szükséges cookie-k/sütik: A szükséges sütik a honlap működtetéséhez szükségesek, melyek gyűjtése emiatt nem kapcsolható ki. Ezek a sütik általában a honlap látogató tevékenységére tekintettel kerülnek rögzítésre, pl. preferenciák beállítása, bejelentkezés, vagy adatok megadása weblapon. A szükséges sütik blokkolhatóak vagy törölhetőek a böngészési beállítások módosításával, ugyanakkor ebben az esetben a honlap bizonyos funkciói nem lesznek elérhetőek.
-* Statisztikai cookie-k/sütik: A statisztikai sütik segítségével a HBS azt ismeri meg, hogy a honlap látogatók hogyan használják a weboldalunkat. Ezen sütik használata segíti a HBS-t abban, hogy továbbfejleszthesse honlapját a látogatók igényeinek megfelelően.
-* Működést segítő cookie-k/sütik: A működést segítő sütik speciális funkciókat és személyre szabást tesznek lehetővé. A sütiket a HBS helyezi el a látogató eszközén, vagy olyan harmadik fél, amely a honlappal kapcsolatban szolgáltatást nyújt a HBS-nek. Amennyiben a látogató nem engedélyezi a sütik használatát, előfordulhat, hogy egyes speciális funkciók nem megfelelően működnek.
-* Marketing cookie-k/sütik: A marketing sütiket a HBS a reklámok perszonalizálására, illetve célzott hirdetésre használja annak érdekében, hogy a honlap látogatónak leginkább releváns reklámot jelenítsen meg. További fontos funkciója ezeknek a sütiknek, hogy segítségükkel megelőzze a HBS azt, hogy már korábban mutatott hirdetést töltsön be a látogató részére. A marketing sütik biztosítják továbbá, hogy a hirdetések megfelelően kerüljenek megjelenítésre, illetve a hirdetések elérésének mérését és azt, hogy amennyiben a látogató úgy dönt, hogy a továbbiakban a marketing sütik vonatkozásában a hozzájárulást visszavonja, úgy a továbbiakban a hirdetések a látogató vonatkozásában ne jelenjenek meg. A HBS nem továbbítja ezen adatokat harmadik fél részére.\
-  A cookie-k addig kerülnek tárolásra, míg azokat a honlap látogatója ki nem törli, vagy le nem jár a tárolási idő. A cookie-k tárolási idejére az alábbiak az irányadóak:
-* „Session cookie” (munkamenet alatti süti): ezen típusú sütik ideiglenesen kerülnek tárolásra, a tárolási idő ahhoz a munkamenethez igazodik, amíg a látogató a honlapot böngészi. A böngésző munkamenete akkor kezdődik, amikor a felhasználó a böngésző ablakot megnyitja és akkor fejeződik be, amikor a felhasználó a böngésző ablakot bezárja. A böngésző ablak bezárását követően valamennyi „session cookie” törlődik.
-* „Persistent cookie” (tartós süti): ezen típusú sütik az alábbi táblázatban meghatározott időtartamig kerülnek tárolásra a felhasználó számítógépén. Ezek a sütik tehát a böngésző ablak bezárásakor nem, csak a meghatározott időtartam elteltével törlődnek.
+* Necessary cookies: these cookies are essential for the operation of the webpage, therefore collecting them cannot be turned off. These cookies are generally recorded due to the activities of the visitor, such as, setting up preferences, logging in or entering data on the webpage. However, by changing the setup of the browser used these cookies can be blocked or deleted, but in this case certain parts of the webpage will not be available.
+* Statistical (analytical) cookies: these are to help HBS learn how the visitors use the webpage. Thus, they help HBS develop the webpage constantly, to satisfy the needs of the visitors.
+* Functional cookies: these cookies enable preferences and certain special functions. These are placed on the visitor’s device by HBS or by a third party which provides services to HBS. If the visitor does not allow these cookies, certain special functions of the webpage may not run properly.
+* Marketing cookies: these are used by HBS to personalize the advertisements and to display targeted advertisements so that the visitors can see the advertisements of their most relevance. Another function of these cookies to help HBS prevent showing advertisements have been displayed to the visitor before. Marketing cookies also make it sure that the advertisements are being displayed properly, their reach is being measured, and in case the visitor withdraws their consent to enable marketing cookies, to block the advertisements for them. These data are not transferred to third parties by HBS.
 
-Azt figyelembe véve, hogy a cookie-k mely internetes oldalon tárolódnak le, az alábbi típusokat különböztetjük meg:
+Cookies are stored until they are deleted by the visitor or their storing time is expired. Regarding the duration of storing the standards are as follows:
 
-* „Saját” süti: ebben az esetben a sütik azon a honlapon keresztül kerülnek tárolásra, amelyet a felhasználó meglátogat
-* Harmadik feles süti: ebben az esetben a sütik nem a HBS, hanem egy másik internetes oldalon kerülnek tárolásra.
+* Session cookie: these cookies are stored temporarily. Their storing time is linked to the session starts when the visitor opens the browser and ends when they close it. Closing the browser makes all session cookie deleted.
+* Persistent cookie: these cookies are stored for the duration shown in the table below. They are not deleted when the browser is closed; they are stored for a definite amount of time.
 
-### Eltekintve a fent említettektől, milyen egyéb adatot gyűjt a HBS?
+Regarding the internet page where the cookies are being stored, there are two categories: 
 
-A különféle szabványos technikai és tranzakciós adatok gyűjtésére további adatokat gyűjthet a Társaság a Honlap látogatóiról, miközben meglátogatják a Honlapot a weboldal megfelelő működésének és a felhasználói élmény javításának érdekében. Ezek a következő típusú információkat tartalmazhatják:
+* Self cookies: these are stored on the webpage visited by the person concerned
+* Third party cookies: these are stored on another website, rather than the website of HBS.
 
-* a böngészővel és az eszközzel kapcsolatos adatok,
-* statisztikai információk a Honlap használatáról.
+### What Other Types of Data are Being Stored?
+
+To collect several types technical or transaction-related, standardized data the Company may collect further data about the visitors why they visit the webpage; so that the webpage can operate optimally and the Company can improve its content constantly. The types of information are the following: 
+
+* Data on the browser and the device used for visiting the webpage,
+* Statistical information on the use of the webpage.
+
+The certain cookies are summarized in the table as follows:
 
 <div>
 <table>
@@ -74,44 +77,10 @@ A különféle szabványos technikai és tranzakciós adatok gyűjtésére tová
                   </tr>
                   <tr>
                     <td>
-                      <p>frontend_lang</p>
-                    </td>
-                    <td>
-                      <p>This cookie remembers the language selection of the user.</p>
-                    </td>
-                    <td>
-                      <p>localStorage</p>
-                    </td>
-                    <td>
-                      <p>System</p>
-                    </td>
-                  </tr>
-                  <tr>
-                    <td>
-                      <p>_ga</p>
-                    </td>
-                    <td>
-                      <p>This cookie is installed by Google Analytics. The cookie is used to
-						calculate visitor, session, campaign data and keep track of site usage for the site's analytics report. The
-						cookies store information anonymously and assign a randomly generated number to identify unique
-						visitors.</p>
-                    </td>
-                    <td>
-                      <p>2 years </p>
-                    </td>
-                    <td>
-                      <p>Analytics</p>
-                    </td>
-                  </tr>
-                  <tr>
-                    <td>
                       <p>_gid</p>
                     </td>
                     <td>
-                      <p>This cookie is installed by Google Analytics. The cookie is used to store
-						information of how visitors use a website and helps in creating an analytics report of how the website is
-						doing. The data collected including the number visitors, the source where they have come from, and the pages
-						visited in an anonymous form.</p>
+                      <p>This cookie is installed by Google Analytics. The cookie is used to store information of how visitors use a website and helps in creating an analytics report of how the website is doing. The data collected including the number visitors, the source where they have come from, and the pages visited in an anonymous form.</p>
                     </td>
                     <td>
                       <p>1 day </p>
@@ -122,27 +91,55 @@ A különféle szabványos technikai és tranzakciós adatok gyűjtésére tová
                   </tr>
                   <tr>
                     <td>
-                      <p>visitor_uuid</p>
+                      <p>_fbp</p>
                     </td>
                     <td>
-                      <p>Unclassified</p>
+                      <p>This cookie is installed by Google Analytics. The cookie is used to store information of how visitors use a website and helps in creating an analytics report of how the website is doing. The data collected including the number visitors, the source where they have come from, and the pages visited in an anonymous form.</p>
                     </td>
                     <td>
-                      <p>1 year</p>
+                      <p>3 months</p>
                     </td>
                     <td>
-                      <p>System</p>
+                      <p>Analytics</p>
                     </td>
                   </tr>
                   <tr>
                     <td>
-                      <p>session_id</p>
+                      <p>_ga</p>
                     </td>
                     <td>
-                      <p>Unclassified</p>
+                      <p>This cookie is installed by Google Analytics. The cookie is used to calculate visitor, session, campaign data and keep track of site usage for the site's analytics report. The cookies store information anonymously and assign a randomly generated number to identify unique visitors.</p>
                     </td>
                     <td>
-                      <p>3 months</p>
+                      <p>2 years </p>
+                    </td>
+                    <td>
+                      <p>Analytics</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>xs, datr, spin, wd, fr, c_user, locale, sb</p>
+                    </td>
+                    <td>
+                      <p>Facebook secure cookies that are stored upon consent of the visitor.</p>
+                    </td>
+                    <td>
+                      <p>1–2 years</p>
+                    </td>
+                    <td>
+                      <p>Marketing</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>frontend_lang</p>
+                    </td>
+                    <td>
+                      <p>This cookie remembers the language selection of the user.</p>
+                    </td>
+                    <td>
+                      <p>session</p>
                     </td>
                     <td>
                       <p>System</p>
@@ -153,10 +150,10 @@ A különféle szabványos technikai és tranzakciós adatok gyűjtésére tová
                       <p>cookieconsent_status</p>
                     </td>
                     <td>
-                      <p>To store cookie consent preferences</p>
+                      <p>Storing cookie consent status</p>
                     </td>
                     <td>
-                      <p>1 year</p>
+                      <p>session</p>
                     </td>
                     <td>
                       <p>Functional</p>
@@ -166,51 +163,51 @@ A különféle szabványos technikai és tranzakciós adatok gyűjtésére tová
               </table>
 </div>
 
-### Hogyan módosíthatóak a cookie beállítások?
+### How Can the Cookie Settings Be Changed?
 
-Amikor a felhasználó meglátogatja honlapunkat, a szükséges sütik eltárolódnak az eszközén. Az előzőekben felsorolt egyéb sütik vonatkozásában a HBS a felhasználó hozzájárulását kéri a sütik letárolását megelőzően. A hozzájárulás a honlap megnyitásakor megjelenő, „cookie”-ra vonatkozó felületen adható meg (itt állítható be az is, hogy a felhasználó mely sütik vonatkozásában adja meg hozzájárulását).
+When the user visits the webpage, the necessary cookies are being stored on their device. Regarding the cookies listed above and other cookies, HBS asks for the visitor’s consent priorly to the storing of them. This consent can be expressed in the box referring to the “cookies” which appears after the webpage has been loaded. At the same place the user can set it up which cookies they give consent to.
 
-Amennyiben a felhasználó nem kívánja megadni a sütik kezeléséhez való hozzájárulást, vagy a korábban megadott hozzájárulást vissza kívánja vonni, ezt bármikor meg tudja tenni a böngésző beállítások menüpontja alatt, vagy a honlapon található „süti” beállítások ablakban.
+If the visitor does not specify their consent to cookies or wants to withdraw their prior consent, they can do so anytime, either at the corresponding menu of their browser, or at the corresponding section of the webpage.
 
-A legtöbb böngésző lehetővé teszi a cookie-k ellenőrzését a böngésző beállítások segítségével. További, általános információ a cookie-król – beleértve a cookie-k beállításának módját, valamint azok kezelését és törlését is – a [www.aboutcookies.org](https://www.aboutcookies.org/) vagy a [www.allaboutcookies.org](https://www.allaboutcookies.org/) webhelyen elérhető. A cookie beállításokat a felhasználó bármikor módosíthatja az általa használt böngésző beállításainak a módosításával. A leggyakrabban használt böngészők süti beállításai az alábbi linkekre kattintva érhető el.
+Most browsers enable cookie control through their setup system. Further information on the cookies, including setting up the acceptance of them, can be found on the following webpages: [www.aboutcookies.org](http://www.aboutcookies.org), [www.allaboutcookies.org](http://www.allaboutcookies.org). The visitor can change their cookie setup anytime by changing the browser setups. The setup menus of the most frequently used browsers are available by clicking on the following links:
 
 [Google Chrome](https://support.google.com/accounts/answer/61416?hl=hu)\
-[Mozilla Firefox](https://support.mozilla.org/hu/kb/sutik-informacio-amelyet-weboldalak-tarolnak-szami?redirectlocale=hu&redirectslug=Su%CC%88tik+kezele%CC%81se)\
+[Mozilla Firefox](https://support.mozilla.org/hu/kb/sutik-informacio-amelyet-weboldalak-tarolnak-szami?redirectlocale=hu&redirectslug=Su%25CC%2588tik+kezele%25CC%2581se)\
 [Internet Explorer](https://support.microsoft.com/hu-hu/help/17442/windows-internet-explorer-delete-manage-cookies#ie=ie-11)\
 [Opera](https://help.opera.com/en/latest/web-preferences/#cookies)\
 [Safari](https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac)
 
-### Linkek külső weboldalakhoz
+### **External Links**
 
-A HBS Honlapja más vállalatokra, szervezetekre és állami szervekre is hivatkozhat, illetve kapcsolatokat létesíthet, amelyek lehetővé teszik a Honlap közvetlen elérését. Mindegyik saját politikát működtet a cookie-k használatával, valamint az információk gyűjtésével és felhasználásával kapcsolatban. Amennyiben a felhasználónak valamely oldallal kapcsolatban ellenérzése vagy kérdése merülne fel, úgy javasolt az adott oldal tájékoztatójában megjelölt személlyel felvenni a kapcsolatot.
+The webpage of HBS may provide links to other companies, organizations, or public bodies; it can have contacts that enable the direct access of the webpage. All of these pages have their own cookie, information collecting and using policies. Should the visitor have issues or questions regarding these pages, it is recommended to contact the person specified in their corresponding policies.
 
-A HBS nem felelős az egyéb adatkezelők által üzemeltetett honlapok tartalmáért, illetve beállításaiért.
+The HBS takes no responsibility for the content or the setup of webpages operated by other data controllers.
 
-### A Google Analytics
+### Google Analytics
 
-A Honlap a Google Analytics és más mérőeszközök segítségével elemzi, hogy a felhasználók hogyan használják az oldalt. Ezek az eszközök “cookie”-kat használnak, amik szöveges file-ok a Honlap látogatóinak számítógépén. Ezek segítségével gyűjthetőek az általános internetes adatok és információk a látogatók viselkedéséről. Ezek az adatok teljes mértékben titkosítottak. A cookie-k nem használhatóak arra, hogy információt gyűjtsenek a Honlap látogatóinak merevlemezéről, e-mail címéről, illetve személyes adatairól.
+This webpage uses the services of Google Analytics and other analytical methods to analyze how the visitors use the webpage. These applications use cookies, too, which are fully encrypted. These cookies cannot be used for collecting information from the hard disk or memory of the visitors, nor about their e-mail address or other personal data.
 
-Ezt az információt a HBS arra használja, hogy kiértékelje a látogatók weboldal használatát és statisztikai jelentést készítsen a weboldalon történő aktivitásról, illetve hogy célzott hirdetéseket helyezzen el más weboldalakon. A HBS soha nem használja (és ezt soha nem is engedélyezi harmadik személy részére) ezeket a statisztikai elemző eszközöket arra, hogy a Honlap látogatóiról személyes adatokat gyűjtsön.
+HBS uses the information obtained in this way to evaluate how the visitors use the webpage, to make statistic reports on their activities and to display targeted advertisements on other webpages. HBS never uses these analytical tools for collecting personal data on the visitors of the webpages, and never allows this activity to any third parties.
 
-A Google nem társítja a Honlap látogatójának IP címét bármely más adattal, ami a Google birtokában van. A HBS nem kísérli meg azonosítani a számítógép használójának személyét az IP cím alapján. A Honlapon összegyűjtött adatokat a HBS nem társítja semmilyen más forrásból szerzett adattal.
+Google never pairs the IP address of the visitors of the webpage with any other data being in their possession. HBS never attempts to identify the user of a computer or other device using their IP address. No data collected by the webpage of HBS will be paired with any data obtained from other sources.
 
-### Google Ads remarketing
+### Google Ads Remarketing
 
-Weboldalunkat a Google Ads révén hirdetjük a Google keresési eredményei között, ugyanakkor harmadik felek webhelyein. Erre a célra, weboldalunk felkeresésekor, egy úgynevezett remarketing süti van beállítva a Google részéről, amely automatikusan engedélyezi az érdeklődésen alapuló hirdetéseket amely egy álneves süti ID-t használ a meglátogatott oldalak alapján. Miután megszüntettük és befejeztük a Google Ads remarketing használatát, a gyűjtött adatok törlődnek.
+Our webpage is being advertised by Google Ads among the search engine’s results and on webpages of third parties. For this purpose, when our webpage is visited, a remarketing cookie set up by Google automatically enables advertisements on the basis of interest, using an anonymized cookie ID on the pages the user visits. When the Google Ads remarketing is ended by us, the data collected in this way will be deleted.
 
-Minden további adatfeldolgozásra csak akkor kerül sor, ha Ön hozájárult, hogy az internetes és alkalmazásböngésző előzményeit a Google összekapcsolja az Ön Google-fiókjával, és a Google-fiókjából származó adatokat felhasználja az interneten az Ön által elhelyezett hirdetések személyre szabásához. Weboldalunk látogatása közben, ha Ön be van jelentkezve a Google-ba, akkor a Google, az Ön adatait a Google Analytics segítségével felhasználja célcsoportlisták létrehozására és meghatározására az eszközök közötti újra marketingezéshez. Ennek érdekében a Google ideiglenesen összekapcsolja személyes adatait a Google Analytics adataival, hogy célcsoportokat képezzen.
+Any other data processing may happen only in case of the visitor’s consent which includes the pairing of the visitor’s Google account with the browsing history by Google, and enables Google to use the data obtained from the visitor’s account to customize the advertisements appearing on the Internet. If the visitor is logged in to their Google account while visiting our webpage, their data can be used with the help of Google Analytics to create and define target group lists, and for remarketing purposes on the different devices used by the visitor. Google pairs the visitor’s personal data with the data of Google Analytics for this purpose, but only temporarily.
 
-Ezen a linken keresztül hatástalaníthatja a remarketing sütiket: <https://adssettings.google.com/authenticated?hl=en>.
+Remarketing cookies can be turned off on the following page: <https://adssettings.google.com/authenticated?hl=en>
 
-A süti beállításáról a Digital Advertising Alliance segítségével is tájékozódhat, ugyanakkor be is állíthatja.
+Further information about cookie settings can be found on the following page where the setup can be changed, as well: <https://digitaladvertisingalliance.org/about>.
 
-A Google által végzett adatfeldolgozással kapcsolatos további információk a Google adatvédelmi oldalán találhatók.
+Regarding the data processing performed by Google, further information can be found in the Privacy Policy of Google.
 
-### Online jelenlétünk a Facebook-on, a Google-on
+### Online Activity on Facebook and Google
 
-Jelenlétünk a közösségi hálózatokon és platformokon jobb, aktív kommunikációt szolgál ügyfeleinkkel. Tájékoztatást nyújtunk termékeinkről és a folyamatban lévő speciális promóciókról. Amikor meglátogatja online oldalunkat a közösségi hálózatokon, adatait automatikusan össze lehet gyűjteni és tárolni piackutatás és hirdetés céljából. Ezekből az adatokból álnevek használatával, úgynevezett használati profilok jönnek létre. Ezek felhasználhatók, például olyan hirdetések elhelyezésére a platformon és azon kívül, amelyekről úgy gondolják, hogy megfelelnek az Ön érdeklődési körének. Erre a célra sütiket használnak fel, melyben a látogatók viselkedése és a felhasználók érdekei tárolódnak. Ha a közösségi médiaplatform-üzemeltetők kérik az Ön beleegyezését az adatfeldolgozáshoz, például egy jelölőnégyzet által, akkor az adatfeldolgozás jogalapját a GDPR 6-os cikk 1 bekezdés a) pontja képezi. A szolgáltatók által, az oldalakon végzett adatok feldolgozására és felhasználására vonatkozó részletes információkat, az Ön személyes adatainak védelmére vonatkozó jogai és technikai beállítási lehetőségeket az adatvédelmi politikai szabályzatukban közlik az alábbi linkek alatt.
+The presence of the Company in the social media and network enables better communication with its clients. The Company can provide information on their products and special sales. When the user visits the page of the Company using the social network, their data can be collected and stored automatically, for market research and advertising purposes. An anonymized user profile is generated from these data, which can be used for displaying targeted advertisements on and out of the social media platform. For this purpose, we use cookies which store the behavior and interests of the visitor. When the operators of a social media platform ask for the consent of the visitor (e.g. using a box that can be ticked), the legal basis of data controlling is GDPR act, 6 article, 1 paragraph, a) point. These social media service providers have their own Privacy Policies which explain and elaborate every information on the data processing and controlling, alongside all the legal and technical setup possibilities. The corresponding links of Facebook and Google (YouTube) are the following:
 
-Facebook: <https://www.facebook.com/about/privacy/>\
-Google/YouTube: <https://policies.google.com/privacy>\
-Facebook: <https://www.facebook.com/settings?tab=ads>\
+Facebook: [https://www.facebook.com/about/privacy](https://www.facebook.com/about/privacy/)
+Google/YouTube: <https://policies.google.com/privacy>
+Facebook: <https://www.facebook.com/settings?tab=ads>
 Google/YouTube: <https://adssettings.google.com/authenticated>

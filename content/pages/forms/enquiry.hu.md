@@ -14,7 +14,6 @@ ig_qty: Szerológiai gyorsteszt mennyisége (doboz)
 ig_min: 0
 ig_note: "Min. megrendelési egység: 1 doboz (25 db)"
 description: Megjegyzések
-consent: Elolvastam és elfogadom az&nbsp;<a href="/adatkezeles" target="_blank">adatkezelési tájékoztatót</a>.
 button: Küldés
 composition: Kiszerelés
 boxing: "1 doboz tartalma:"
@@ -28,6 +27,8 @@ ag_items:
   - item: 25 db egyedileg csomagolt extrakciós reagens,
   - item: használati útmutató.
 ig_comp: Szerológiai (IgG/IgM) gyorsteszt
+consent: Elolvastam és elfogadom az&nbsp;<a href="/adatkezeles"
+  target="_blank">adatkezelési tájékoztatót</a>.
 ig_items:
   - item: 25 db egyedileg csomagolt tesztkazetta (1-1 db pipetta mellékelve)
   - item: 25 db ujjbegyszúró,

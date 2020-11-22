@@ -2,7 +2,7 @@
 type: product2
 slug: szerologiai-teszt
 title: Clungene® COVID-19 IgG/IgM gyorsteszt kazetta
-menutitle: IgG/IgM
+menutitle: Szerológiai
 hero: /uploads/sam_0364_copy.jpg
 intro:
   highlight: Ezen az oldalon megtudhatja a szerológiai gyorsteszt kazettával
@@ -120,6 +120,9 @@ articles:
 
 
       **Nem ajánlott a vizsgálat** azoknak, akiknél jelenleg, vagy az elmúlt 7 nap során magas láz, heves köhögés vagy rosszullét jelentkezett. Ilyenkor a gyógyulás, illetve az esetleges fertőzés terjedésének megakadályozása érdekében az önkéntes, otthoni karantén, súlyosabb esetben pedig kórházi ápolás, illetve az intézmény keretei között végzett tesztek és vizsgálatok javasoltak.
+
+
+      Ha fennáll a COVID-19 fertőzés gyanúja, azt [antigén](/antigen-teszt)-, vagy PCR-teszttel lehet megerősíteni.
     title: Kik számára ajánlott a szerológiai gyorsteszt elvégeztetése?
   - title: Hogyan zajlik a vizsgálat?
     text: >-

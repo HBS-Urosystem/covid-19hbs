@@ -38,8 +38,8 @@ articles:
       Les IgM apparaissent dans le corps en quantité détectable le 5 à 8 jours après l'infection. À mesure que le système immunitaire combat le virus, la quantité d'IgM diminue. Dans la plupart des cas, 4 semaines après l'infection, il ne peut plus être détecté. 
 
 
-      Les IgG commencent à être produites généralement 2 semaines après l'infection. Sa quantité culmine à la fin du premier mois, diminue ensuite - mais elle est détectable pendant longtemps. (Actuellement, les données disponibles sont insuffisantes, mais on soupçonne que des IgG sont présentes dans le sang pendant au moins plusieurs mois, voire des années.)
-  - title: "[What are the advantages of an IgG/IgM rapid test?]"
+      En revanche, les IgG commencent à être produites généralement 2 semaines après l'infection. Sa quantité culmine à la fin du premier mois, diminue ensuite - mais elle est détectable pendant longtemps. (Actuellement, les données disponibles sont insuffisantes, mais on soupçonne que des IgG sont présentes dans le sang pendant au moins plusieurs mois, voire des années.)
+  - title: Quels sont les avantages d'un test rapide IgG/IgM?
     text: >-
       * C'est considérablement moins cher qu'un test PCR
 
@@ -80,7 +80,7 @@ articles:
       * qui ont présenté les symptômes typiques du COVID-19 causés par le nouveau coronavirus et qui pensent avoir déjà souffert de la maladie dans le passé - ces personnes pourraient être immunisées contre le virus actuellement.
 
 
-      [Rapid tests are **not recommended** for those who has had high temperature, severe cough or general sickness (may be related to COVID-19) in the last 7 days. In this case, voluntary quarantine, or – if the symptoms are severe – hospitalization is strongly recommended in order to ensure the convalescence. This also prevents the spreading of COVID-19.]
+      Les tests rapides ne sont pas recommandés pour ceux qui ont eu une température élevée, une toux sévère ou une maladie générale (pouvant être liée au COVID-19) au cours des 7 derniers jours. Dans ce cas, la mise en quarantaine volontaire ou - si les symptômes sont sévères - l'hospitalisation est fortement recommandée afin d'assurer la convalescence. Cela empêche également la propagation du COVID-19.
   - title: Comment le test rapide est-il effectué?
     text: >-
       **L'échantillon de sang est prélevé sur une piqûre au doigt ou dans une

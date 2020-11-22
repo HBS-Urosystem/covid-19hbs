@@ -1,7 +1,7 @@
 ---
 type: enquiry
-slug: offre
-title: Demande de offre
+slug: proposition
+title: Demande de devis
 heading: Empêchez la propagation du virus en utilisant des tests rapides!
 name: Nom du contact
 company: Nom de la société
@@ -15,8 +15,8 @@ ig_min: 50
 ig_note: "Quantité minimal de commande: 50 boîte (1 boîte contient 25 tests)"
 description: Commentaire
 button: Envoyer
-composition: "[Composition]"
-boxing: "[1 box contains:]"
+composition: Composition
+boxing: "1 boîte contient:"
 ag_comp: Test rapide d'antigène COVID-19
 ag_items:
   - item: 25 cassettes de test (chacune emballée individuellement)
@@ -42,7 +42,7 @@ ig_items:
 ---
 #### Balázs Bogácsi
 
-Commercial
+Représentent commercial
 
 E-mail: [balazs.bogacsi@hbs.hu](mailto:balazs.bogacsi@hbs.hu)
 Phone: [+36 20 916 0211](tel:+36209160211)
