@@ -1,20 +1,20 @@
 ---
-type: glasses
+type: goggles
 slug: vedoszemuveg
-title: Védőszemüveg
+title: Páramentes védőszemüveg
 menutitle: Védőszemüveg
 hero: ""
 intro:
-  highlight: A COVID-19 tesztekkel való vizsgálathoz elengedhetetlenül szükséges
-    alábbi terméket felajánljuk megvételre, melyet raktárról tudunk szállítani.
+  highlight: A COVID-19 tesztekkel való vizsgálat végzéséhez ajánlott termék,
+    amelyet raktárról tudunk szállítani.
   text: >-
     Páramentes védőszemüveg: **2390,– HUF + Áfa/db**
 
 
-    Legkisebb rendelhető mennyiség: 1 doboz, amelyben 20 darab szemüveg van, a következő szállítható egység 200 darab (10 doboz x 20 db)
+    Legkisebb rendelhető mennyiség: 1 doboz, amelyben 20 darab szemüveg van.<!-- A következő szállítható egység 200 darab (10 doboz x 20 db) -->
 
 
-    A termék **rendelkezik CE tanúsítvánnyal**, a jogszabályokban foglalt előírásoknak megfelel.
+    A termék **CE tanúsítvánnyal rendelkezik**, a jogszabályokban foglalt előírásoknak megfelel.
 
 
     Fizetés a szállítást követően 15 napon belül.
@@ -26,7 +26,7 @@ intro:
     ![CE-tanúsítvány](/uploads/glasses-ce.png)
   images:
     - src: /uploads/glasses1-1.png
-      alt: Védőszemüveg
+      alt: Páramentes védőszemüveg
 info:
   images:
     - src: /uploads/glasses1.png
@@ -53,19 +53,14 @@ info:
 **\[Használati útmutató]**
 
 1. Nyissa fel a csomagolást és távolítsa el belőle a védőszemüveget. (Azt nem kell összeszerelni.)
-
 2. Használat előtt távolítsa el a mindkét oldalra felhelyezett védőfóliákat, és fertőtlenítse a szemüveget fertőtlenítő szerrel.
-
 3. Helyezze a szemüveget a homlokára. Szorítsa meg az elasztikus pántokat olyan mértékben, hogy a szemüveg még kényelmesen hordható legyen.
-
 4. Normális körülmények között a szemüveg többször is használható. Fertőtlenítse annak védőfelszínét minden használat után. 
-
 5. Veszélyes körülmények között használva érdemes a szemüveget egyszer használatos termékként viselni.
 
 **\[Vigyázat]** 
 
 1. Ne tegye ki a terméket közvetlen erős napfénynek.
-
 2. Kellő óvatossággal használja a szemüveget. Tartsa távol éles tárgyaktól a szemeket védő áttetsző részt.
 
 **\[Figyelmeztetés]** Ne használja a terméket, ha sérült a csomagolása, vagy ha a felhasználhatósági ideje lejárt.
@@ -76,7 +71,7 @@ info:
 
 **\[Gyártó címe]** B2 Area, 5th Floor, Building C, FirstFlag Science and Technology Park, No.26 Baili Road, Xialilang Village, Nanwan Road, Longgang District, Shenzhen, Kína
 
-**\[Irányító szám]** 518112
+**\[Irányítószám]** 518112
 
 **\[Telefonszám]** (+86)0755-84573525
 

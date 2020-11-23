@@ -115,7 +115,7 @@
 <Index {post}/>
 {/if}
 
-{#if post.type == 'glasses'}
+{#if post.type == 'goggles'}
 <Index {post}/>
 {/if}
 

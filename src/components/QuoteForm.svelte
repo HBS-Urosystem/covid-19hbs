@@ -36,26 +36,33 @@
 		<input name="phone" type="tel" required placeholder="*" />
 		</label>
 		<label>{post.ag_qty}
-		<input name="ag-qty" type="number" min="{post.ag_min}" />
-		<small>{post.ag_note}</small>
+			<input name="ag-qty" type="number" min="{post.ag_min}" />
+			<small>{post.ag_note}</small>
 		</label>
 		<label>{post.ig_qty}
-		<input name="ig-qty" type="number" min="{post.ig_min}" />
-		<small>{post.ig_note}</small>
+			<input name="ig-qty" type="number" min="{post.ig_min}" />
+			<small>{post.ig_note}</small>
 		</label>
-		<label>Profile
-		<input name="profile" type="text" />
+		{#if $lang='hu'}
+		<label><a href="vedoszemuveg" target="_blank">Védőszemüveg</a>&nbsp;mennyisége (doboz)
+			<input name="goggles" type="number" min="1" />
+			<small>Min. megrendelési egység: 1 doboz (20 db)</small>
 		</label>
+		{/if}
+		<!-- <fieldset> -->
 		<!-- </fieldset> -->
 		<fieldset>
 			<label for="description">{post.description}</label>
 			<textarea id="description" name="description"></textarea>
 		</fieldset>
+		<label>Profile
+			<input name="profile" type="text" />
+		</label>
 		<fieldset>
-      <label>
-        <input name="consent" type="checkbox" required=true />&nbsp;{@html post.consent}
-      </label>
-		<button type="submit" role="button">{post.button}</button>
+			<label>
+				<input name="consent" type="checkbox" required=true />&nbsp;{@html post.consent}
+			</label>
+			<button type="submit" role="button">{post.button}</button>
 		</fieldset>
 		
 	</form>
@@ -79,29 +86,6 @@
 				{#each post.ag_items as item}
 				<li>{item.item}</li>
 				{/each}
-	<!-- 
-				<li>
-					25 db egyedileg csomagolt tesztkazetta,
-				</li>
-				<li>
-					25 db steril mintavevő pálca,
-				</li>
-				<li>
-					25 db extrakciós cső,
-				</li>
-				<li>
-					25 db cseppentőhegy,
-				</li>
-				<li>
-					munkaalátét,
-				</li>
-				<li>
-					25 db egyedileg csomagolt extrakciós reagens,
-				</li>
-				<li>
-					használati útmutató.
-				</li>
-	-->
 			</ul>
 		</div>
 		<div>
@@ -110,23 +94,6 @@
 				{#each post.ag_items as item}
 				<li>{item.item}</li>
 				{/each}
-	<!-- 
-				<li>
-					25 db egyedileg csomagolt tesztkazetta (1-1 db pipetta mellékelve),
-				</li>
-				<li>
-					25 db ujjbegyszúró,
-				</li>
-				<li>
-					25 db egyedileg csomagolt fertőtlenítő lapocska,
-				</li>
-				<li>
-					1 db puffer (a 25 db teszthez),
-				</li>
-				<li>
-					használati útmutató.
-				</li>
-	-->
 			</ul>
 		</div>
 	</aside>
@@ -148,24 +115,27 @@
     grid-gap: var(--gutter);
     gap: var(--gutter);
   }
+	form > label {
+		flex-basis: 32ch;
+	}
   label {
     display: flex;
     flex-wrap: wrap;
     align-items: center;
     margin: var(--gutterx) auto;
-    flex-basis: 32ch;
     padding: 0;
   }
   fieldset {
     display: flex;
     flex-direction: column;
     flex-basis: 100%;
+		margin-top: var(--gutterx);
   }
   fieldset > label {
-    flex-basis: auto;
+    /* flex-basis: auto;
     display: flex;
-    flex-wrap: nowrap;
-    white-space: nowrap;
+		flex-direction: column; */
+    margin: 0 auto;
   }
   fieldset > textarea {
     max-width: 32ch;

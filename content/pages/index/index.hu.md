@@ -297,14 +297,14 @@ articles:
       vagy ilyen szolgáltatást nyújtó szolgáltató (üzemegészségügyi szolgálat)
       szakemberei végezhetik. Időtartama kb. 15–30 perc."
 ---
-### Friss hír!
+#### Friss hír
 
-Adómódosításokat fogadott el a törvényalkotási bizottság, amelyek értelmében a tao-támogatás teljes egészében felhasználható lesz például lázmérő, maszk, gumikesztyű, teszt, kézfertőtlenítő, egészségügyi védőruházat vásárlására vagy egészségügyi vizsgálat finanszírozására. (Forrás: [ado.hu](https://ado.hu/ado/adomodositasokat-fogadott-el-a-torvenyalkotasi-bizottsag/))
+Adómódosításokat fogadott el a törvényalkotási bizottság, amelyek értelmében a tao-támogatás teljes egészében felhasználható lesz például lázmérő, maszk, gumikesztyű, teszt, kézfertőtlenítő, **egészségügyi védőruházat vásárlására vagy egészségügyi vizsgálat finanszírozására**. (Forrás: [ado.hu](https://ado.hu/ado/adomodositasokat-fogadott-el-a-torvenyalkotasi-bizottsag/))
 
-### [Védőszemüveg](/vedoszemuveg)
+#### [Páramentes védőszemüveg](/vedoszemuveg)
 
-A COVID-19 tesztekkel való vizsgálathoz elengedhetetlenül szükséges terméket ajánlunk megvételre, melyet raktárról tudunk szállítani.
+A COVID-19 tesztekkel való vizsgálat végzéséhez ajánlott termék, amelyet raktárról tudunk szállítani.
 
-A termék **rendelkezik CE tanúsítvánnyal**, a jogszabályokban foglalt előírásoknak megfelel.
+**CE tanúsítvánnyal rendelkezik**, a jogszabályokban foglalt előírásoknak megfelel.
 
 <button role="button"><a href="/vedoszemuveg">Részletek</a></button>

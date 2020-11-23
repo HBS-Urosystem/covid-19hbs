@@ -1,5 +1,5 @@
 ---
-type: glasses
+type: goggles
 slug: null
 title: Des lunettes de protection
 menutitle: Des lunettes de protection

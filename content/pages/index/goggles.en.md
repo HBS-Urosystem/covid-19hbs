@@ -1,6 +1,6 @@
 ---
-type: glasses
-slug: goggles
+type: goggles
+slug: null
 title: Protective Goggles
 menutitle: Protective Goggles
 intro:
