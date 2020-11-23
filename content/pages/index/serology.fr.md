@@ -81,6 +81,9 @@ articles:
 
 
       Les tests rapides ne sont pas recommandés pour ceux qui ont eu une température élevée, une toux sévère ou une maladie générale (pouvant être liée au COVID-19) au cours des 7 derniers jours. Dans ce cas, la mise en quarantaine volontaire ou - si les symptômes sont sévères - l'hospitalisation est fortement recommandée afin d'assurer la convalescence. Cela empêche également la propagation du COVID-19.
+
+
+      En cas de suspicion de COVID-19, il peut être confirmé par test un [antigène](/antigeniques) ou un test PCR.
   - title: Comment le test rapide est-il effectué?
     text: >-
       **L'échantillon de sang est prélevé sur une piqûre au doigt ou dans une

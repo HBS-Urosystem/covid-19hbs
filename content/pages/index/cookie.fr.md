@@ -4,7 +4,7 @@ slug: cookie-fr
 title: Cookie-tájékoztató
 menutitle: Cookie-tájékoztató
 ---
-### 1. General Information
+## 1. General Information
 
 The Happy Business Services Ltd. (Address: 18. Szent István körút, Budapest, 1137, Hungary; telephone: 36-1-452-1700; e-mail: [info@hbs.hu](mailto:info@hbs.hu); henceforth HBS or Company) controls all personal data obtained according to the General Data Protection Regulation (EU) decree 2016/679 (also known as GDPR) of the European Parliament and Council, just as well as to other relevant data protection law, and applies the necessary security, technical and organizational procedures to grant the safety of data on its webpage <https://covid-19.hbs.hu> (henceforth: webpage).
 
