@@ -1,7 +1,7 @@
 ---
 title: quotation
 button: Enquête
-link: /offre
+link: /proposition
 ---
 ### Demandez une devis ou posez une question!
 
