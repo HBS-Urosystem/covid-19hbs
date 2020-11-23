@@ -43,7 +43,7 @@
 			<input name="ig-qty" type="number" min="{post.ig_min}" />
 			<small>{post.ig_note}</small>
 		</label>
-		{#if $lang='hu'}
+		{#if $lang=='hu'}
 		<label><a href="vedoszemuveg" target="_blank">Védőszemüveg</a>&nbsp;mennyisége (doboz)
 			<input name="goggles" type="number" min="1" />
 			<small>Min. megrendelési egység: 1 doboz (20 db)</small>
