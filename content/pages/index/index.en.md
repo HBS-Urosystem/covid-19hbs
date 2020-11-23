@@ -22,7 +22,7 @@ intro:
         <small>Sensitivity: 91.4%. Specificity: 100.0%.</small>
       link: /antigen-test
       cta: Details
-    - src: /uploads/sam_0089_copy.jpg
+    - src: /uploads/sam_0364_copy.jpg
       alt: Clungene® COVID-19 IgG/IgM Rapid Test
       text: >-
         ### Clungene® COVID-19 IgG/IgM Rapid Test

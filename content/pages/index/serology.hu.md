@@ -3,7 +3,7 @@ type: product2
 slug: szerologiai-teszt
 title: Clungene® COVID-19 IgG/IgM gyorsteszt kazetta
 menutitle: Szerológiai
-hero: /uploads/sam_0364_copy.jpg
+hero: /uploads/sam_0258_copy.jpg
 intro:
   highlight: Ezen az oldalon megtudhatja a szerológiai gyorsteszt kazettával
     kapcsolatos legfontosabb információkat.
@@ -23,7 +23,7 @@ intro:
 
     -->
   images:
-    - src: /uploads/sam_0089_copy.jpg
+    - src: /uploads/sam_0364_copy.jpg
       alt: Clungene® COVID-19 IgG/IgM gyorsteszt
       text: Clungene® COVID-19 IgG/IgM gyorsteszt
 references:

@@ -8,10 +8,10 @@ intro:
   highlight: A COVID-19 tesztekkel való vizsgálathoz elengedhetetlenül szükséges
     alábbi terméket felajánljuk megvételre, melyet raktárról tudunk szállítani.
   text: >-
-    Védőszemüveg anti foggy goggle, **2390,– HUF + Áfa/db**
+    Páramentes védőszemüveg: **2390,– HUF + Áfa/db**
 
 
-    Legkisebb rendelhető mennyiség: 1 doboz, amelyben 20 darab szemüveg van, a következő szállitható egység 200 darab (10 doboz x 20 db)
+    Legkisebb rendelhető mennyiség: 1 doboz, amelyben 20 darab szemüveg van, a következő szállítható egység 200 darab (10 doboz x 20 db)
 
 
     A termék **rendelkezik CE tanúsítvánnyal**, a jogszabályokban foglalt előírásoknak megfelel.
@@ -20,7 +20,7 @@ intro:
     Fizetés a szállítást követően 15 napon belül.
 
 
-    Raktárunkból a termékeket, amennyiben a rendelés meghaladja a nettó 50.000 Ft-ot, téritésmentesen kiszállítjuk az Önök címére.
+    Amennyiben a rendelés meghaladja a nettó 50&thinsp;000 Ft-ot, téritésmentesen kiszállítjuk a terméket.
 
 
     ![CE-tanúsítvány](/uploads/glasses-ce.png)

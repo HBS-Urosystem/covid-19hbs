@@ -93,7 +93,7 @@
 				<a rel="prefetch" aria-expanded="false" href="{pages.index.en.slug}" hreflang="en">en</a>
 			{/if}</small></li>
       <!-- <li>/</li> -->
-			<li><small>{#if $type && pages[$type].fr && pages[$type].fr.slug}}
+			<li><small>{#if $type && pages[$type].fr && pages[$type].fr.slug}
 				<a rel="prefetch" sapper-noscroll aria-current="{'fr' == [$lang] ? 'page' : undefined}" href="{pages[$type].fr.slug}" hreflang="fr">fr</a>
 			{:else}
 				<a rel="prefetch" aria-expanded="false" href="{pages.index.fr.slug}" hreflang="fr">fr</a>

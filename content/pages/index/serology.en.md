@@ -3,12 +3,12 @@ type: product2
 slug: serology-test
 title: Clungene® COVID-19 IgG/IgM Rapid Test Cassette
 menutitle: Serology
-hero: /uploads/sam_0364_copy.jpg
+hero: /uploads/sam_0258_copy.jpg
 intro:
   images:
     - alt: Clungene® COVID-19 IgG/IgM Rapid Test
       text: Clungene® COVID-19 IgG/IgM Rapid Test
-      src: /uploads/sam_0089_copy.jpg
+      src: /uploads/sam_0364_copy.jpg
   highlight: On this page, we summarized the most important information on the
     serology (IgG/IgM) rapid test.
   text: ""
