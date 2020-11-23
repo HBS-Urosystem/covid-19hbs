@@ -292,13 +292,20 @@ articles:
       </div>
   - title: Une démonstration vidéo de la cassette de test rapide Clungene® COVID-19
       IgG/IgM
-    text: >-
-      <video controls>
-         <source src="uploads/iggigm_video.mp4" type="video/mp4">
-         <source src="uploads/iggigm_video.webm" type="video/webm">
+    text: "<video controls>
+
+      \   <source src=\"uploads/iggigm_video.mp4\" type=\"video/mp4\">
+
+      \   <source src=\"uploads/iggigm_video.webm\" type=\"video/webm\">
+
+      \t <track kind=\"captions\"
+      src=\"uploads/iggigm_video_captions_fr.vtt\" srclang=\"fr\"
+      label=\"França\x1di\x1ds\" default>
+
       </video>
 
-      <center><small>Le produit réel peut être différent de celui qui apparaît dans la vidéo.</small></center>
+      <center><small>Le produit réel peut être différent de celui qui
+      apparaît dans la vidéo.</small></center>"
   - title: Attention
     text: >-
       Le test rapide COVID-19 IgG/IgM doit être qualifié d'examen sérologique.

@@ -1,0 +1,71 @@
+WEBVTT
+
+00:02.000 --> 00:07.000
+Lisez attentivement les instructions avant utilisation!
+(L'apparence du produit peut différer de celle montrée dans le vidéo.)
+
+00:07.000 --> 00:10.000
+Le kit comprend des tests emballés individuellement, des lingettes alcoolisées, 
+
+00:10.000 --> 00:12.000
+pipettes, lances à percer les doigts (25–25 db.)
+
+00:12.000 --> 00:14.500
+et la solution tampon (1 flacon pour 25 tests).
+
+00:15.500 --> 00:25.000
+1) Assurez-vous que la température des appareils de test et des échantillons de sang est comprise entre 15 et 30 ° C.
+
+00:26.000 --> 00:31.000
+2) Retirez la cartouche de test de la pochette scellée.
+
+00:31.000 --> 00:34.000
+Massez le bout du doigt pour augmenter le flux sanguin.
+
+00:34.000 --> 00:37.000
+Désinfectez votre doigt avec un tampon imbibé d'alcool.
+
+00:37.000 --> 00:42.000
+Percer la peau du bout du doigt avec la lance en un seul mouvement ferme.
+
+00:42.000 --> 00:46.000
+À l'aide d'une pipette, prélevez doucement le sang du bout des doigts.
+
+00:46.000 --> 00:49.000
+3) En tenant la pipette à la verticale, appliquez 1 goutte de sang.
+
+00:49.000 --> 00:52.000
+dans l'ouverture sur l'avant de la casette d'échantillon,
+
+00:52.000 --> 00:56.000
+puis déposez 2 gouttes de solution tampon dans le fond de l'ouverture,
+
+00:56.000 --> 00:58.000
+et démarrer le chronomètre.
+
+00:59.000 --> 01:02.000
+4) Attendez que les lignes colorées apparaissent!
+
+01:02.000 --> 01:06.000
+Interpréter les résultats après 15 minutes.
+
+01:07.000 --> 01:10.000
+N'attendez pas plus de 20 minutes pour l'interprétation!
+
+01:11.000 --> 01:17.000
+Si la bandelette de contrôle et au moins une ligne de signalisation d'anticorps apparaissent sur la membrane, le résultat est positif, quelle que soit l'intensité de la ligne.
+
+01:17.000 --> 01:24.000
+L'apparition de la lignée de test IgG indique la présence de nouveaux anticorps IgG spécifiques du coronavirus, suggérant une infection existante ou préexistante.
+
+01:25.000 --> 01:32.000
+L'apparition de la ligne de test IgM indique la présence de nouveaux anticorps IgM spécifiques du coronavirus, indiquant une infection préexistante, précoce ou intermédiaire.
+
+01:33.000 --> 01:44.000
+Si les deux lignées IgG et IgM apparaissent, cela indique la présence des deux nouveaux anticorps spécifiques du coronavirus.
+
+01:45.000 --> 01:53.000
+Si une seule ligne colorée apparaît dans la région de contrôle (C) et qu'aucune strie colorée n'apparaît dans les anticorps, il s'agit d'un résultat négatif.
+
+01:54.000 --> 01:59.000
+Si la barre de contrôle n'apparaît pas, le test est invalide.
