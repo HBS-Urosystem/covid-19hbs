@@ -1,8 +1,8 @@
 ---
 type: cookie
 slug: cookie-fr
-title: Cookie-tájékoztató
-menutitle: Cookie-tájékoztató
+title: Cookie Policy
+menutitle: Cookie Policy
 ---
 ## 1. General Information
 
