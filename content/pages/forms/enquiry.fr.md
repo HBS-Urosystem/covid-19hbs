@@ -1,6 +1,6 @@
 ---
 type: enquiry
-slug: proposition
+slug: devis
 title: Demande de devis
 heading: Empêchez la propagation du virus en utilisant des tests rapides!
 name: Nom du contact
