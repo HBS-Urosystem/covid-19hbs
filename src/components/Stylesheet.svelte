@@ -247,8 +247,16 @@
     display: flex;
 		/* justify-content: space-between; */
 		justify-content: start;
-    flex-direction: column;
+    	flex-direction: column;
 	}
+	section ~ figure img {
+		width: 50%;
+		margin-left: auto;
+		margin-right: auto;
+		height:auto;
+		padding:0;
+	}
+
 	aside img {
 		height: 0;
     padding-bottom: 56.25%;

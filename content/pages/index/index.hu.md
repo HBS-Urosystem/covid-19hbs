@@ -297,14 +297,22 @@ articles:
       vagy ilyen szolgáltatást nyújtó szolgáltató (üzemegészségügyi szolgálat)
       szakemberei végezhetik. Időtartama kb. 15–30 perc."
 ---
-#### Friss hír
+#### Phoenix Pharma és Hungaropharma partnereinken keresztül a tesztek elérhetőek az ország összes gyógyszertárában.
 
-Adómódosításokat fogadott el a törvényalkotási bizottság, amelyek értelmében a tao-támogatás teljes egészében felhasználható lesz például lázmérő, maszk, gumikesztyű, teszt, kézfertőtlenítő, **egészségügyi védőruházat vásárlására vagy egészségügyi vizsgálat finanszírozására**. (Forrás: [ado.hu](https://ado.hu/ado/adomodositasokat-fogadott-el-a-torvenyalkotasi-bizottsag/))
+###### Friss hír
 
-#### [Páramentes védőszemüveg](/vedoszemuveg)
+Adómódosításokat fogadott el a törvényalkotási bizottság, amelyek értelmében **a tao-támogatás** teljes egészében felhasználható lesz például lázmérő, maszk, gumikesztyű, teszt, kézfertőtlenítő, **egészségügyi védőruházat vásárlására vagy egészségügyi vizsgálat finanszírozására**. (Forrás: [ado.hu](https://ado.hu/ado/adomodositasokat-fogadott-el-a-torvenyalkotasi-bizottsag/))
+
+### Páramentes védőszemüveg
 
 A COVID-19 tesztekkel való vizsgálat végzéséhez ajánlott termék, amelyet raktárról tudunk szállítani.
 
-**CE tanúsítvánnyal rendelkezik**, a jogszabályokban foglalt előírásoknak megfelel.
-
+<aside>
+<section>
+<p><b>CE tanúsítvánnyal rendelkezik</b>, a jogszabályokban foglalt előírásoknak megfelel.</p>
 <button role="button"><a href="/vedoszemuveg">Részletek</a></button>
+</section>
+<figure>
+<img src="/uploads/glasses1-1.png" alt="Páramentes védőszemüveg" />
+</figure>
+</aside>

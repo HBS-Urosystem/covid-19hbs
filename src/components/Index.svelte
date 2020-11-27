@@ -35,7 +35,7 @@
 		{/if}
 		{#each post.info.images as image}
 		<figure>
-			<img loading="lazy" src="{image.src}" style="height:auto;padding:0;" alt="{image.alt}"/>
+			<img loading="lazy" src="{image.src}" alt="{image.alt}"/>
 			{#if image.text}
 			<figcaption style="hyphens: none">{@html _md(image.text)}</figcaption>
 			{/if}
@@ -115,9 +115,9 @@
 <CTA />
 
 <style>
-	section ~ figure img {
+	/* section ~ figure img {
 		width: 50%;
 		margin-left: auto;
 		margin-right: auto;
-	}
+	} */
 </style>
