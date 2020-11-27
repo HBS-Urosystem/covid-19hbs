@@ -1,98 +1,98 @@
 WEBVTT
 
-00:00.000 -> 00:04.500
-Utilisation de la cassette de test rapide de l'antigène Clungene® COVID-19
+00:00.000 --> 00:04.500
+A Clungene® COVID-19 antigén gyorsteszt kazetta használata
 
-00:05.000 -> 00:11.000
-Attendez que le test et les échantillons soient similaires à température ambiante (15-30 ° C) avant de commencer le test.
+00:05.000 --> 00:11.000
+A tesztelés megkezdése előtt várjon, amíg a teszt és a minták hasonló, szobahőmérsékletűek nem lesznek (15–30 °C)
 
-00:11.500 -> 00:23.500
-Le produit contient: mode d'emploi, baguette d'échantillonnage stérile (25 pièces), tampon de travail, tube d'extraction (25 pièces), drip tip (25 pièces), réactif d'extraction (25 pièces), cassette de test (25 pièces).
+00:11.500 --> 00:23.500
+A termék a következőket tartalmazza: használati útmutató, steril mintavevő pálca (25 db), munkaalátét, extrakciós cső (25 db), cseppentőhegy (25 db), extrakciós reagens (25 db), teszt kazetta (25 db).
 
-00:24.000 -> 00:26.500
-Effectuer le test
+00:24.000 --> 00:26.500
+A teszt elvégzése
 
-00:27.000 -> 00:30.500
-Placez le tube d'extraction sur le plateau de travail.
+00:27.000 --> 00:30.500
+Tegye az extrakciós csövet a munkaalátétre.
 
-00:31.000 -> 00:37.000
-Dévissez le capuchon du réactif d'extraction et versez tous les réactifs dans le tube d'extraction.
+00:31.000 --> 00:37.000
+Csavarja le az extrakciós reagens kupakját, majd öntse az összes reagenst az extrakciós csőbe.
 
-00:37.500 -> 00:38.500
-Échantillonnage
+00:37.500 --> 00:38.500
+Mintavételezés
 
-00:39.000 -> 00:43.000
-Retirez la baguette d'échantillonnage de son emballage.
+00:39.000 --> 00:43.000
+Vegye ki a mintavevő pálcát a csomagolásából.
 
-00:43.500 -> 00:46.500
-Schéma de frottis nasopharyngé
+00:43.500 --> 00:46.500
+Orr-garatnyálkahártya kenet minta
 
-00:47.000 -> 00:49.500
-Repliez la tête du patient pendant env. À un angle de 70 °.
+00:47.000 --> 00:49.500
+Hajtsa hátra a páciens fejét kb. 70°-os szögben.
 
-00:50.000 -> 01:00.500
-Insérez la baguette parallèlement (pas vers le haut) dans la narine et déplacez-la vers l'avant jusqu'à ce qu'elle rencontre une résistance ou jusqu'à ce que l'écouvillon soit à égale distance des narines et des oreilles.
+00:50.000 --> 01:00.500
+Helyezze a pálcát párhuzamosan (nem felfelé) az orrlyukba, és haladjon vele előre addig, amíg ellenállásba nem ütközik, vagy amíg a tampon egyenlő távolságban nem lesz az orrcimpáktól és a fültől.
 
-01:01.000 -> 01:10.000
-Frottez l'écouvillon contre le nasopharynx en le faisant tourner doucement. Laissez l'échantillonneur dans cette position pendant quelques secondes pour prélever les sécrétions.
-Lentement, tournez, sortez la baguette.
+01:01.000 --> 01:10.000
+Óvatosan forgatva dörzsölje a tampont az orrgarathoz. Hagyja a mintavevőt néhány másodpercig e pozícióban, hogy az felvegye a váladékokat.
+Lassan, forgatva húzza ki a pálcát.
 
-01:10.500 -> 01:12.500
-Schéma de frottis bouche-gorge
+01:10.500 --> 01:12.500
+Száj-garatnyálkahártya kenet minta
 
-01:13.000 -> 01:18.000
-Placez la baguette au fond de la gorge, dans la région garative.
+01:13.000 --> 01:18.000
+Helyezze a pálcát a torok hátsó részébe, a garatív régiójába.
 
-01:18.500 -> 01:26.500
-Frottez doucement l'écouvillon contre le garate et l'arrière de la bouche. Ne touchez pas la langue, les dents ou les gencives.
+01:18.500 --> 01:26.500
+Óvatosan dörzsölje a tampont a garatívhez és a szájgarat hátsó részéhez. Ne érjen hozzá a nyelvhez, a fogakhoz vagy az ínyhez.
 
-01:27.000 -> 01:32.000
-Placez l'écouvillon dans le tube d'extraction (qui contient déjà le réactif d'extraction).
+01:27.000 --> 01:32.000
+Helyezze a tampont az extrakciós csőbe (mely már tartalmazza az extrakciós reagenst).
 
-01:32.500 -> 01:37.500
-Faites tourner l'écouvillon au moins cinq fois tout en appuyant l'extrémité contre le fond et le côté du tube.
+01:32.500 --> 01:37.500
+Forgassa meg a tampont legalább ötször úgy, hogy annak végét közben a cső aljához és oldalához nyomja.
 
-01:38.000 -> 01:40.500
-Laissez l'écouvillon reposer dans le tube d'extraction pendant 1 minute.
+01:38.000 --> 01:40.500
+Hagyja állni a tampont 1 percen át az extrakciós csőben.
 
-01:41.000 -> 01:45.500
-Retirez l'écouvillon du tube. Pendant ce temps, pressez les côtés du tube pour faire sortir le liquide restant de l'écouvillon.
+01:41.000 --> 01:45.500
+Vegye ki a tampont a csőből. Eközben nyomja össze a cső oldalait, hogy kipréselje a maradék folyadékot a tamponból.
 
-01:46.000 -> 01:49.500
-Fixez fermement l'embout compte-gouttes au tube.
+01:46.000 --> 01:49.500
+Erősítse szorosan a cseppentőhegyet a csőre.
 
-01:50.000 -> 01:55.500
-Retirez la cartouche de test de son emballage scellé. Placez-le sur une surface sèche et plane.
+01:50.000 --> 01:55.500
+Vegye ki a teszt kazettát a lezárt csomagolásából. Helyezze azt száraz, vízszintes felszínre.
 
-01:56.000 -> 02:06.500
-Inversez le tube d'extraction et maintenez-le verticalement et ajoutez 3 gouttes d'échantillon (environ 100 µL) dans l'ouverture d'échantillon (S) de la cartouche de test.
+01:56.000 --> 02:06.500
+Fordítsa meg az extrakciós csövet és azt függőlegesen tartva adjon 3 csepp mintát (kb. 100 µL-t) a teszt kazetta minta (S) nyílásába.
 
-02:07.000 -> 02:10.500
-Démarrez le chronomètre et attendez les lignes colorées.
+02:07.000 --> 02:10.500
+Indítsa el az időmérőt, és várjon a színes vonalakra.
 
-02:11.000 -> 02:17.500
-Évaluez les résultats après 15 minutes. N'attendez pas plus de 20 minutes.
+02:11.000 --> 02:17.500
+Az eredményeket 15 perc múlva értékelje ki. Ne várjon 20 percnél tovább.
 
-02:18.000 -> 02:19.500
-Interprétation des résultats
+02:18.000 --> 02:19.500
+Az eredmények értelmezése
 
-02:20.000 -> 02:31.000
-Positif: deux barres apparaissent.
-Une bande colorée est vue dans la région de contrôle (C) et une bande est vue dans la région de test (T). Le résultat est considéré comme positif quelle que soit l'intensité de la bande.
+02:20.000 --> 02:31.000
+Pozitív: két csík jelenik meg.
+Egy színes csík látható a kontroll (C) régióban, egy csík látható a teszt (T) régióban. Az eredmény a csík intenzitásától függetlenül pozitívnak számít.
 
-02:31.500 -> 02:37.500
-Négatif: une bande apparaît dans la région témoin (C), aucune bande dans la région test (T).
+02:31.500 --> 02:37.500
+Negatív: egy csík jelenik meg a kontroll (C) régióban, nincs csík a teszt (T) régióban.
 
-02:38.000 -> 02:52.500
-Invalide: la barre de contrôle n'apparaît pas.
-La raison la plus courante est un volume d'échantillon insuffisant ou des performances de test incorrectes. Répétez le test avec une nouvelle cartouche de test.
+02:38.000 --> 02:52.500
+Érvénytelen: nem jelenik meg a kontrolcsík.
+Ennek leggyakoribb oka az elégtelen mintamennyiség, vagy a teszt helytelen elvégzése. Ismételje meg a tesztelést egy új tesztkazettával.
 
-02:52.750 -> 03:00.000
-DÉCHETS SANITAIRES
-Les réglementations en vigueur dans le pays concerné concernant l'élimination de la cassette-test utilisée doivent être respectées!
+02:52.750 --> 03:00.000
+EGÉSZSÉGÜGYI HULLADÉK
+A használt teszt kazetta hulladékkezelését illetően az adott országban érvényes szabályozás követendő!
 
 03:00.000 --> 03:33.000
-Limitations d'applicabilité:
-- Le produit permet une détection qualitative. L'intensité de la ligne de test n'indique pas nécessairement la quantité d'antigène dans l'échantillon.
-- Un résultat négatif n'exclut pas l'infection par le SRAS-CoV-2 et ne peut donc pas être la seule base des décisions de soins aux patients.
-- Le médecin doit toujours interpréter le résultat du test conformément aux antécédents et aux résultats du patient et aux résultats d'autres méthodes de diagnostic.
+Az alkalmazhatóság korlátai:
+- A termék kvalitatív kimutatást tesz lehetővé. A tesztvonal intenzitásából nem szükségszerűen következik a mintában lévő antigén mennyisége.
+- A negatív eredmény nem zárja ki a SARS-CoV-2 fertőzést, ezért nem képezheti a betegellátással kapcsolatos döntések egyedüli alapját.
+- Az orvosnak a teszt eredményét mindig a páciens előtörténetével és leleteivel, valamint más diagnosztikai módszerek eredményeivel összhangban kell értelmeznie.
