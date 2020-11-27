@@ -208,6 +208,7 @@ articles:
       <video controls>
         <source src="uploads/ag_use_video.mp4" type="video/mp4">
         <source src="uploads/ag_use_video.webm" type="video/webm">
+        <track kind="captions" src="uploads/ag_use_video_captions_hu.vtt" srclang="fr" label="Français" default>
       </video>
 
       <center><small>Le produit réel peut être différent de celui qui apparaît dans la vidéo.</small></center>
