@@ -299,9 +299,13 @@ articles:
 ---
 #### Phoenix Pharma és Hungaropharma partnereinken keresztül a tesztek elérhetőek az ország összes gyógyszertárában.
 
-###### Friss hír
+---
+
+### Friss hír
 
 Adómódosításokat fogadott el a törvényalkotási bizottság, amelyek értelmében **a tao-támogatás** teljes egészében felhasználható lesz például lázmérő, maszk, gumikesztyű, teszt, kézfertőtlenítő, **egészségügyi védőruházat vásárlására vagy egészségügyi vizsgálat finanszírozására**. (Forrás: [ado.hu](https://ado.hu/ado/adomodositasokat-fogadott-el-a-torvenyalkotasi-bizottsag/))
+
+---
 
 ### Páramentes védőszemüveg
 

@@ -282,6 +282,8 @@
 		padding-left: var(--gutter2);
 		padding-right: var(--gutter2);
 		text-shadow: 1px 1px 2px rgb(94, 93, 93);
+		display: flex;
+		flex-direction: column;
 	}
 	figcaption > :first-child {
     margin-top: 0;
