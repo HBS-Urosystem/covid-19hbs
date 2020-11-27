@@ -46,11 +46,12 @@
 
 <!-- <a hidden aria-hidden="true" href="fr">fr</a> -->
 <a hidden aria-hidden="true" href="distributor">distributor</a>
-<!-- <a hidden aria-hidden="true" href="enquiry">enquiry</a> -->
+<a hidden aria-hidden="true" href="enquiry">enquiry</a>
+<a hidden aria-hidden="true" href="devis">devis</a>
 <a hidden aria-hidden="true" href="privacy">privacy</a>
-<a hidden aria-hidden="true" href="privacy">confidentialité</a>
+<a hidden aria-hidden="true" href="confidentialité">confidentialité</a>
 <a hidden aria-hidden="true" href="cookie-en">cookie-en</a>
-<a hidden aria-hidden="true" href="cookie-en">cookie-fr</a>
+<a hidden aria-hidden="true" href="cookie-fr">cookie-fr</a>
 <!-- <a hidden aria-hidden="true" href="vedoszemuveg">vedoszemuveg</a> -->
 
 {#if post.intro}
