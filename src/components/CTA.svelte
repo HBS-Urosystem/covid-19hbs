@@ -35,8 +35,8 @@
 		text-align: center;
 	}
 	button {
-		/* width: 100%; */
-		margin: 1.5rem auto;
+		/* margin: 1.5rem auto; */
+		/* margin-top: 1.5rem; */
 	}
 	/* a {
 		text-decoration: none;

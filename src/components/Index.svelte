@@ -120,4 +120,7 @@
 		margin-left: auto;
 		margin-right: auto;
 	} */
+	article :global(aside button) {
+		margin-top: 0;
+	}
 </style>

@@ -74,6 +74,11 @@
 		/* font-family: "SilkSerif-Regular", serif; */
 		font-size: 130%;
 	}
+
+	/* hr {
+		border-width: 1px;
+	} */
+	
 	/* em {
     font-style: initial;
 	} */
@@ -243,6 +248,11 @@
 		font-weight: bolder;
 		hyphens: none;
 	}
+	aside button {
+		margin: 1.5rem auto;
+		grid-column: 1 / -1;
+	}
+
 	aside figure {
     display: flex;
 		/* justify-content: space-between; */
@@ -253,6 +263,7 @@
 		width: 50%;
 		margin-left: auto;
 		margin-right: auto;
+		margin-top: 1.5rem;
 		height:auto;
 		padding:0;
 	}

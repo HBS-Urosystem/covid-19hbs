@@ -307,16 +307,14 @@ Adómódosításokat fogadott el a törvényalkotási bizottság, amelyek értel
 
 ---
 
-### Páramentes védőszemüveg
-
-A COVID-19 tesztekkel való vizsgálat végzéséhez ajánlott termék, amelyet raktárról tudunk szállítani.
-
+<h3>Páramentes védőszemüveg</h3>
 <aside>
 <section>
-<p><b>CE tanúsítvánnyal rendelkezik</b>, a jogszabályokban foglalt előírásoknak megfelel.</p>
-<button role="button"><a href="/vedoszemuveg">Részletek</a></button>
+<p>A COVID-19 tesztekkel való vizsgálat végzéséhez ajánlott termék, amelyet raktárról tudunk szállítani.</p>
+<p><b>CE tanúsítvánnyal rendelkezik,</b> a jogszabályokban foglalt előírásoknak megfelel.</p>
 </section>
 <figure>
 <img src="/uploads/glasses1-1.png" alt="Páramentes védőszemüveg" />
 </figure>
+<button role="button"><a href="/vedoszemuveg">Részletek</a></button>
 </aside>
