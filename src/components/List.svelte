@@ -47,7 +47,7 @@
 	}
 
 	:target {
-		/* padding-top: var(--spacer); */
+		padding-top: var(--spacer);
 		scroll-margin-top: var(--spacer);
 		scroll-snap-margin-top: var(--spacer);
 	}
