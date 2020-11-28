@@ -80,9 +80,6 @@ references:
 
 
     Már számos intézmény és vállalat alkalmazza az általunk forgalmazott **Clungene® COVID-19 IgG/IgM Gyorsteszt** Kazettát. Ezek közül közöljük – a teljesség igénye nélkül – néhány internetes elérhetőségét.
-
-
-    **Phoenix Pharma és Hungaropharma partnereinken keresztül a tesztek elérhetőek az ország összes gyógyszertárában.**
 cards:
   - src: /uploads/pixabay-social-distancing-5044615_640.jpg
     link: /felelos-cegvezeto
@@ -297,6 +294,13 @@ articles:
       vagy ilyen szolgáltatást nyújtó szolgáltató (üzemegészségügyi szolgálat)
       szakemberei végezhetik. Időtartama kb. 15–30 perc."
 ---
+<figure>
+	<img src="/uploads/124096424_145784927297864_7338944986351090301_o.jpg" alt="antigen test vs serology test" />
+<figcaption>Az antigén és a szerológiai gyorsteszt használata</figcaption>
+</figure>
+
+---
+
 #### Phoenix Pharma és Hungaropharma partnereinken keresztül a tesztek elérhetőek az ország összes gyógyszertárában.
 
 ---

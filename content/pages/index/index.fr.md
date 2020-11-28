@@ -80,9 +80,6 @@ references:
 
 
     Il existe des centaines d'établissements médicaux, de médecins, de centres de santé, de maisons de soins infirmiers, de cliniques privées, d'entreprises et d'autres institutions qui utilisent **des cassettes de test rapideClungene® COVID-19**, que nous importons. Vous trouverez ici la page Web de certains d'entre eux.
-
-
-    **De plus, nos partenaires, Phoenix Pharma et Hungaropharma distribuent nos tests rapides pour toutes les pharmacies en Hongrie.**
 articles:
   - text: >-
       ##### La figure suivante montre dans quelle période le test d'antigène et
@@ -265,3 +262,4 @@ articles:
       indiquer si les personnes sont ou ont été infectées ou non. Les tests sont
       réservés à un usage professionnel."
 ---
+#### Nos partenaires, Phoenix Pharma et Hungaropharma distribuent nos tests rapides pour toutes les pharmacies en Hongrie.

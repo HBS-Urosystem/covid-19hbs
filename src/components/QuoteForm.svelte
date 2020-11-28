@@ -69,7 +69,7 @@
 </article>
 
 <figure>
-	<img src="/uploads/mhpheefgfkjkmobn-web.png" alt="antigen test vs serology test" />
+	<img src="/uploads/124096424_145784927297864_7338944986351090301_o.jpg" alt="antigen test vs serology test" />
 </figure>
 
 <article>
