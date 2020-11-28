@@ -75,9 +75,9 @@
 		font-size: 130%;
 	}
 
-	/* hr {
-		border-width: 1px;
-	} */
+	hr {
+		border-color: transparent;
+	}
 	
 	/* em {
     font-style: initial;
