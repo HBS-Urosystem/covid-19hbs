@@ -46,8 +46,10 @@
 		padding-right: var(--gutterx);
 	}
 
-	div:target {
-		padding-top: var(--spacer);
+	:target {
+		/* padding-top: var(--spacer); */
+		scroll-margin-top: var(--spacer);
+		scroll-snap-margin-top: var(--spacer);
 	}
 	div:target+details, details:focus, details:focus-within {
     background-color: var(--toolbg);
