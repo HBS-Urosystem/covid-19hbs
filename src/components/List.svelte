@@ -32,7 +32,7 @@
 <div id="{q.object.anchor}"></div>
 <details open="{hash == '#' + q.object.anchor ? 'open' : ''}">
 	<summary>
-		<a href="{post.slug}/#{q.object.anchor}" sapper-noscroll>{@html Link}</a>{@html _md(q.object.question)}
+		<a href="{post.slug}#{q.object.anchor}" sapper-noscroll>{@html Link}</a>{@html _md(q.object.question)}
 	</summary>
 		{@html _md(q.object.answer)}
 </details>
@@ -46,11 +46,6 @@
 		padding-right: var(--gutterx);
 	}
 
-	:target {
-		padding-top: var(--spacer);
-		scroll-margin-top: var(--spacer);
-		scroll-snap-margin-top: var(--spacer);
-	}
 	div:target+details, details:focus, details:focus-within {
     background-color: var(--toolbg);
 	}

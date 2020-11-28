@@ -70,6 +70,12 @@
 		color: var(--txtcolor);
 	}
 
+	:target {
+		/* padding-top: var(--spacer); */
+		scroll-margin-top: var(--spacer);
+		scroll-snap-margin-top: var(--spacer);
+	}
+
 	blockquote/* , em  */{
 		/* font-family: "SilkSerif-Regular", serif; */
 		font-size: 130%;
