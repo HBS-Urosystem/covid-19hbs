@@ -46,6 +46,8 @@
 
 <!-- <a hidden aria-hidden="true" href="fr">fr</a> -->
 <a hidden aria-hidden="true" href="distributor">distributor</a>
+<a hidden aria-hidden="true" href="distributeur">distributeur</a>
+<a hidden aria-hidden="true" href="contexte-juridique">contexte-juridique</a>
 <a hidden aria-hidden="true" href="enquiry">enquiry</a>
 <a hidden aria-hidden="true" href="devis">devis</a>
 <a hidden aria-hidden="true" href="privacy">privacy</a>
