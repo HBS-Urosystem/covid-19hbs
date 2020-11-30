@@ -222,6 +222,6 @@ articles:
       ex. un test moléculaire.
 
 
-      Ce test est réservé à un usage professionnel. Un bref résumé du contexte juridique des tests de diagnostic peut être trouvé [ici](https://covid-19.hbs.hu/legal-background).
+      Ce test est réservé à un usage professionnel. Un bref résumé du contexte juridique des tests de diagnostic peut être trouvé [ici](/contexte-juridique).
     title: Attention
 ---

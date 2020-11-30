@@ -1,24 +1,29 @@
 ---
 type: background
-slug: background-fr
-title: Currently, there are no COVID-19 tests available for non-professionals
+slug: contexte-juridique
+title: Actuellement, il n'y a aucun tests Covid-19 disponibles pour les non
+  professionels
 menutitle: Legal background
 articles:
   - text: >-
-      Even if there are online shops offering serological tests for home use,
-      currently, such products cannot be on the market legally. Therefore,
-      buying tests for home environment is strongly not recommended, and selling
-      them is strictly prohibited.
+      Même s'il existe des boutiques en ligne proposant des tests sérologiques à
+      usage domestique, ces produits ne peuvent actuellement pas être
+      commercialisés légalement. Par conséquent, l'achat de tests pour
+      l'environnement domestique est fortement déconseillé et leur vente est
+      strictement interdite.
 
 
-      According to the current European regulation, the documentation of in vitro diagnostic (IVD) devices designed for home use must be examined by a notified body before the device can be sold in the EU. This notified body issues the necessary certificates (CE mark), and the process lasts for at least 6 months. Therefore, it is not possible that any manufacturer has already obtained a CE mark for a non-professional use diagnostic test.
+      Selon la réglementation européenne en vigueur, la documentation des dispositifs de diagnostic in vitro (DIV) destinés à un usage domestique doit être examinée par un organisme notifié avant que le dispositif puisse être vendu dans l'UE. Cet organisme notifié délivre les certificats nécessaires (marquage CE) et le processus dure au moins 6 mois. Par conséquent, il n'est pas possible qu'un fabricant ait déjà obtenu un marquage CE pour un test de diagnostic à usage non professionnel.
 
 
-      Moreover, in Hungary, IVD devices count as medical devices and can be sold only in licensed medical device stores and/or pharmacies. Selling them in any other shops – including online shops – is prohibited.
+      En plus, en Hongrie, les dispositifs DIV sont considérés comme des dispositifs médicaux et ne peuvent être vendus que dans les magasins de dispositifs médicaux agréés et / ou les pharmacies. Il est interdit de les vendre dans tout autre magasin, y compris les boutiques en ligne.
 
 
-      COVID-19 diagnostic tests designed for professionals are not recommended for non-professional use either.
+      Les tests de diagnostic COVID-19 conçus pour les professionnels ne sont pas non plus recommandés pour un usage non professionnel.
 
 
-      False positive or negative results may lead to an unnecessary anxiousness or false sense of security. Moreover, performing a test without professional supervision makes the search and isolation of infected people impossible, which seriously impedes the efficient prevention and/or slowing down the pandemic.
+      Des résultats faux positifs ou négatifs peuvent entraîner une anxiété inutile ou un faux sentiment de sécurité.
+
+
+      De plus, la réalisation d'un test sans supervision professionnelle rend impossible la recherche et l'isolement des personnes infectées, ce qui nuit gravement à la prévention efficace et / ou au ralentissement de la pandémie.
 ---

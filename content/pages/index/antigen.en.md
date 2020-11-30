@@ -218,6 +218,6 @@ articles:
       methods, e.g. a molecular assay.
 
 
-      This test is for professional use only. A short summary on the (Hungarian) legal background of diagnostic tests can be found [here](https://covid-19.hbs.hu/legal-background).
+      This test is for professional use only. A short summary on the (Hungarian) legal background of diagnostic tests can be found [here](/legal-background).
     title: Warning
 ---
