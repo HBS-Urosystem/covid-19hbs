@@ -23,18 +23,17 @@
 
 <script>
 	export let post
-	//$: console.log('_slug:',post)
-	$: if (post) {
-		$lang = post.lang || 'hu'
-		$type = post.type || ''
-		$tagline = post.title
-		$hero = post.hero || undefined
-	}
+	//$: console.log('_slug:',post.lang)
+
 	export let mounted = false
 	onMount(() => {
 		mounted = true
 	});
 	$: if (mounted && post) {
+		$lang = post.lang || 'hu'
+		$type = post.type || ''
+		$tagline = post.title
+		$hero = post.hero || undefined
 		document.querySelector('html').lang = $lang
 	}
 

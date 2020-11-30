@@ -3,6 +3,7 @@
 	import { fade } from 'svelte/transition'
 	import { mergePages } from '../content.js'
 	export const pages = mergePages()
+	//console.log('pages',pages)
  	import Nav from "../components/Nav.svelte"
  	import Cookies from "../components/Cookies.svelte"
 	import Stylesheet from "../components/Stylesheet.svelte"
