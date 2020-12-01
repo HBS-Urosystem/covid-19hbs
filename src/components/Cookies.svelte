@@ -6,21 +6,24 @@
 	function consent() {
 		$cookies = true
 	}
+	function unconsent() {
+		$cookies = false
+	}
 </script>
 
 <footer data-sticky={!$cookies}>
 	{#if $lang == 'hu'}
 		<p>Az HBS weboldala sütiket használ a weboldal működtetése, használatának megkönnyítése, a weboldalon végzett tevékenység
 		nyomon követése és releváns ajánlatok megjelenítése érdekében. – <a href="/cookie">Cookie-tájékoztató</a> – <a href="/adatkezeles">Adatkezelési tájékoztató</a></p>
-		{#if !$cookies}<button on:click={consent}>Megértettem</button>{/if}
+		{#if !$cookies}<button on:click={consent}>Elfogadom</button>{:else}<button on:click={unconsent}>Visszavonom</button>{/if}
 	{/if}
 	{#if $lang == 'en'}
 		<p>The webpage of HBS uses cookies in order to operate the page, make its use more convenient and track the actions of the users to display relevant offers for them. – <a href="/cookie-en">Cookie Policy</a> – <a href="/privacy">Privacy Policy</a></p>
-		{#if !$cookies}<button on:click={consent}>Accept</button>{/if}
+		{#if !$cookies}<button on:click={consent}>Accept</button>{:else}<button on:click={unconsent}>Revoke</button>{/if}
 	{/if}
 	{#if $lang == 'fr'}
 		<p>The webpage of HBS uses cookies in order to operate the page, make its use more convenient and track the actions of the users to display relevant offers for them. – <a href="/cookie-fr">Cookie Policy</a> – <a href="/confidentialité">Privacy Policy</a></p>
-	{#if !$cookies}<button on:click={consent}>Accept</button>{/if}
+	{#if !$cookies}<button on:click={consent}>Accept</button>{:else}<button on:click={unconsent}>Revoke</button>{/if}
 	{/if}
 </footer>
 
