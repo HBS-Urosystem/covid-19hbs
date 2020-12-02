@@ -23,7 +23,10 @@
 
 <script>
 	export let post
-	//$: console.log('_slug:',post.lang)
+	export let meta = {
+		"k": {"hu": "COVID-19 szerológiai és antigén-gyorsteszt, covid-19, clungene, sars-cov-2, ag teszt, igg/igm teszt, antigén, szerológiai, gyorsteszt", "en": "COVID-19 serological and antigene rapid test, covid-19, clungene, rapid test, sars-cov-2, ag test, igg/igm test, antigene, serological", "fr": "Test rapide sérologique et antigénique COVID-19, covid-19, clungène, test rapide, sars-cov-2, test ag, test igg / igm, antigène, sérologique"}, 
+		"d": {"hu": "Clungene COVID-19 szerológiai (immunológiai) és antigén gyorsteszt kazetta – olcsón, azonnali szállítással", "en": "Clungene® COVID-19 Rapid Test Cassette – at a competitive price, delivered from Europe within 72 hours", "fr": "Cassette de test rapide Clungene® COVID-19 – à un prix compétitif, livrée depuis l'Europe en 72 heures"}
+	}
 
 	export let mounted = false
 	onMount(() => {
@@ -35,12 +38,40 @@
 		$tagline = post.title
 		$hero = post.hero || undefined
 		document.querySelector('html').lang = $lang
+		document.querySelector('meta[name="keywords"]').setAttribute("content", post.keywords || meta.k[$lang])
+		document.querySelector('meta[name="description"]').setAttribute("content", post.description || meta.d[$lang])
 	}
 
 </script>
 
 <svelte:head>
 	<title>{post.title}</title>
+	<!-- {#if meta.keywords}
+	<meta name="keywords" content="{meta.keywords}" />
+	{:else}
+		{#if $lang == 'en'}
+		<meta name="keywords" content="COVID-19 serological and antigene rapid test, covid-19, clungene, rapid test, sars-cov-2, ag test, igg/igm test, antigene, serological" />
+		{/if}
+		{#if $lang == 'fr'}
+		<meta name="keywords" content="Test rapide sérologique et antigénique COVID-19, covid-19, clungène, test rapide, sars-cov-2, test ag, test igg / igm, antigène, sérologique" />
+		{/if}
+		{#if $lang == 'hu'}
+		<meta name="keywords" content="COVID-19 szerológiai és antigén-gyorsteszt, covid-19, clungene, sars-cov-2, ag teszt, igg/igm teszt, antigén, szerológiai, gyorsteszt" />
+		{/if}
+	{/if}
+	{#if meta.description}
+	<meta name="description" content="{meta.description}" />
+	{:else}
+		{#if $lang == 'en'}
+		<meta name="description" content="Clungene® COVID-19 Rapid Test Cassette – at a competitive price, delivered from Europe within 72 hours" />
+		{/if}
+		{#if $lang == 'fr'}
+		<meta name="description" content="Cassette de test rapide Clungene® COVID-19 – à un prix compétitif, livrée depuis l'Europe en 72 heures" />
+		{/if}
+		{#if $lang == 'hu'}
+		<meta name="description" content="Clungene COVID-19 szerológiai (immunológiai) és antigén gyorsteszt kazetta – olcsón, azonnali szállítással" />
+		{/if}
+	{/if} -->
 </svelte:head>
 
 <!-- <a hidden aria-hidden="true" href="fr">fr</a> -->
