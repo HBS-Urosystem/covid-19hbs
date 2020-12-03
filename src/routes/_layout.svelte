@@ -1,5 +1,5 @@
 <script context = "module">
-	import { lang, hero, tagline, cookies } from '../stores.js'
+	import { lang, hero, tagline } from '../stores.js'
 	import { fade } from 'svelte/transition'
 	import { mergePages } from '../content.js'
 	export const pages = mergePages()
@@ -14,27 +14,6 @@
 </script>
 
 <svelte:head>
-	{#if $cookies == true}
-	<!-- Facebook Pixel Code -->
-	<script>
-		!function (f, b, e, v, n, t, s) {
-			if (f.fbq) return; n = f.fbq = function () {
-				n.callMethod ?
-					n.callMethod.apply(n, arguments) : n.queue.push(arguments)
-			};
-			if (!f._fbq) f._fbq = n; n.push = n; n.loaded = !0; n.version = '2.0';
-			n.queue = []; t = b.createElement(e); t.async = !0;
-			t.src = v; s = b.getElementsByTagName(e)[0];
-			s.parentNode.insertBefore(t, s)
-		}(window, document, 'script',
-			'https://connect.facebook.net/en_US/fbevents.js');
-		fbq('init', '2111698168960334');
-		fbq('track', 'PageView');
-	</script>
-	<noscript><img height="1" width="1" style="display:none"
-			src="https://www.facebook.com/tr?id=2111698168960334&ev=PageView&noscript=1" alt="fb-pixel" /></noscript>
-	<!-- End Facebook Pixel Code -->
-	{/if}
 	<!-- Global site tag (gtag.js) - Google Analytics -->
 	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-52898474-2"></script>
 	<script>
@@ -49,13 +28,13 @@
 	{/if}
 </svelte:head>
 
+{#if $lang}
 <Nav {segment} />
 
 {#if $hero}
 <header id="home" style="background-image: url({$hero})" transition:fade="{{ duration: 750 }}">
 	<img loading="lazy" src="uploads/hbs-logo-medical.png" alt="hbs logo">
 	<h1>{@html $tagline}</h1>
-		<!-- <h5><a href="https://www.facebook.com/tesztelj" target="_blank" rel="noopener">{@html FBicon}&nbsp;/tesztelj&nbsp;</a></h5> -->
 </header>
 {:else}
 <header>
@@ -80,6 +59,7 @@
 </main>
 
 <Cookies/>
+{/if}
 
 <Stylesheet />
 

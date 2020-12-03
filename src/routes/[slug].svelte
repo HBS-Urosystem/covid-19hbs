@@ -6,7 +6,7 @@
 	import QuoteForm from "../components/QuoteForm.svelte"
 	import Distributor from "../components/Distributor.svelte"
 	import { findPost } from '../content.js'
-	import { lang, type, hero, tagline } from '../stores.js'
+	import { lang, type, hero, tagline, cookies } from '../stores.js'
 	import showdown from 'showdown'
 	const converter = new showdown.Converter({
 		metadata: false,
@@ -40,38 +40,44 @@
 		document.querySelector('html').lang = $lang
 		document.querySelector('meta[name="keywords"]').setAttribute("content", post.keywords || meta.k[$lang])
 		document.querySelector('meta[name="description"]').setAttribute("content", post.description || meta.d[$lang])
+		//window.lang = $lang
 	}
-
+	export const pixel = {hu: '2111698168960334', en: '2111698168960334', fr: '451129772954138'}
 </script>
 
 <svelte:head>
 	<title>{post.title}</title>
-	<!-- {#if meta.keywords}
-	<meta name="keywords" content="{meta.keywords}" />
+	{#if $cookies == true}
+	<!-- Facebook Pixel Code -->
+	<script>
+		//var lang = 'hu'
+		//var pixel = {hu: "2111698168960334", en: "2111698168960334", fr: "451129772954138"}
+		!function (f, b, e, v, n, t, s) {
+			if (f.fbq) return; n = f.fbq = function () {
+				n.callMethod ?
+					n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+			};
+			if (!f._fbq) f._fbq = n; n.push = n; n.loaded = !0; n.version = '2.0';
+			n.queue = []; t = b.createElement(e); t.async = !0;
+			t.src = v; s = b.getElementsByTagName(e)[0];
+			s.parentNode.insertBefore(t, s)
+		}(window, document, 'script',
+			'https://connect.facebook.net/en_US/fbevents.js');
+	</script>
+	{#if $lang == 'fr'}
+	<script>
+		fbq('init', '451129772954138');
+		fbq('track', 'PageView');
+	</script>
 	{:else}
-		{#if $lang == 'en'}
-		<meta name="keywords" content="COVID-19 serological and antigene rapid test, covid-19, clungene, rapid test, sars-cov-2, ag test, igg/igm test, antigene, serological" />
-		{/if}
-		{#if $lang == 'fr'}
-		<meta name="keywords" content="Test rapide sérologique et antigénique COVID-19, covid-19, clungène, test rapide, sars-cov-2, test ag, test igg / igm, antigène, sérologique" />
-		{/if}
-		{#if $lang == 'hu'}
-		<meta name="keywords" content="COVID-19 szerológiai és antigén-gyorsteszt, covid-19, clungene, sars-cov-2, ag teszt, igg/igm teszt, antigén, szerológiai, gyorsteszt" />
-		{/if}
+	<script>
+		fbq('init', '2111698168960334');
+		fbq('track', 'PageView');
+	</script>
 	{/if}
-	{#if meta.description}
-	<meta name="description" content="{meta.description}" />
-	{:else}
-		{#if $lang == 'en'}
-		<meta name="description" content="Clungene® COVID-19 Rapid Test Cassette – at a competitive price, delivered from Europe within 72 hours" />
-		{/if}
-		{#if $lang == 'fr'}
-		<meta name="description" content="Cassette de test rapide Clungene® COVID-19 – à un prix compétitif, livrée depuis l'Europe en 72 heures" />
-		{/if}
-		{#if $lang == 'hu'}
-		<meta name="description" content="Clungene COVID-19 szerológiai (immunológiai) és antigén gyorsteszt kazetta – olcsón, azonnali szállítással" />
-		{/if}
-	{/if} -->
+	<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id={pixel[$lang]}&ev=PageView&noscript=1" alt="fb-pixel" /></noscript><!-- OK! -->
+	<!-- End Facebook Pixel Code -->
+	{/if}
 </svelte:head>
 
 <!-- <a hidden aria-hidden="true" href="fr">fr</a> -->
