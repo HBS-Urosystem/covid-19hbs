@@ -26,13 +26,16 @@
 
 {#if post.info}
 <article>
-	{#if post.info.images}
 	<aside>
 		{#if post.info.text}
 		<section>
 		{@html _md(post.info.text)}
 		</section>
+		{:else}
+		<section hidden>
+		</section>
 		{/if}
+		{#if post.info.images}
 		{#each post.info.images as image}
 		<figure>
 			<img loading="lazy" src="{image.src}" alt="{image.alt}"/>
@@ -41,8 +44,8 @@
 			{/if}
 		</figure>
 		{/each}
+		{/if}
 	</aside>
-	{/if}
 </article>
 {/if}
 

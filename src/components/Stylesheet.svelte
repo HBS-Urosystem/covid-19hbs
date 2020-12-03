@@ -85,15 +85,6 @@
 		border-color: transparent;
 	}
 	
-	/* em {
-    font-style: initial;
-	} */
-/* 
-	body > input { display: none; }
-	#lang-en:not(:checked) ~ #sapper [lang='en'] { display: none; }
-	#lang-de:not(:checked) ~ #sapper [lang='de'] { display: none; }
-	#lang-hu:not(:checked) ~ #sapper [lang='hu'] { display: none; }
- */
 	main {
 		/* max-width: 64em; */
 		max-width: 80ch;
@@ -265,11 +256,13 @@
 		justify-content: start;
     	flex-direction: column;
 	}
-	section ~ figure img {
+	section:not([hidden]) ~ figure img {
 		width: 50%;
 		margin-left: auto;
 		margin-right: auto;
 		margin-top: 1.5rem;
+	}
+	section ~ figure img {
 		height:auto;
 		padding:0;
 	}
