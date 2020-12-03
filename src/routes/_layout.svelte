@@ -28,7 +28,7 @@
 	{/if}
 </svelte:head>
 
-{#if $lang}
+<!-- {#if $lang} -->
 <Nav {segment} />
 
 {#if $hero}
@@ -59,7 +59,7 @@
 </main>
 
 <Cookies/>
-{/if}
+<!-- {/if} -->
 
 <Stylesheet />
 

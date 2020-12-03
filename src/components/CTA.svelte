@@ -34,10 +34,10 @@
 		font-weight: bolder;
 		text-align: center;
 	}
-	button {
-		/* margin: 1.5rem auto; */
-		/* margin-top: 1.5rem; */
-	}
+	/* button {
+		margin: 1.5rem auto;
+		margin-top: 1.5rem;
+	} */
 	/* a {
 		text-decoration: none;
 	} */
