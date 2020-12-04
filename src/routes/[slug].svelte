@@ -65,12 +65,12 @@
 	{#if $lang == 'fr'}
 	<script>
 		fbq('init', '451129772954138');
-		fbq('track', 'PageView');
+		fbq('trackSingle', '451129772954138', 'PageView');
 	</script>
 	{:else}
 	<script>
 		fbq('init', '2111698168960334');
-		fbq('track', 'PageView');
+		fbq('trackSingle', '2111698168960334', 'PageView');
 	</script>
 	{/if}
 	<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id={pixel[$lang]}&ev=PageView&noscript=1" alt="fb-pixel" /></noscript><!-- OK! -->
