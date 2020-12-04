@@ -50,8 +50,6 @@
 	{#if $cookies == true}
 	<!-- Facebook Pixel Code -->
 	<script>
-		//var lang = 'hu'
-		//var pixel = {hu: "2111698168960334", en: "2111698168960334", fr: "451129772954138"}
 		!function (f, b, e, v, n, t, s) {
 			if (f.fbq) return; n = f.fbq = function () {
 				n.callMethod ?
