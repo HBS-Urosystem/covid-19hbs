@@ -191,8 +191,8 @@
 	{/if}
 </figure> -->
 <style>
-	aside > figcaption {
+	/* aside > figcaption {
 		text-align: left;
-	}
+	} */
 
 </style>
