@@ -88,21 +88,21 @@
 
 		<ul>
 			<li>{#if $type && pages[$type].en && pages[$type].en.slug}
-				<a rel="prefetch" sapper-noscroll aria-current="{'en' == [$lang] ? 'page' : undefined}" href="{pages[$type].en.slug}" hreflang="en"><small>en</small></a>
+				<a rel="external" sapper-noscroll aria-current="{'en' == [$lang] ? 'page' : undefined}" href="{pages[$type].en.slug}" hreflang="en"><small>en</small></a>
 			{:else}
-				<a rel="prefetch" aria-expanded="false" href="{pages.index.en.slug}" hreflang="en"><small>en</small></a>
+				<a rel="external" aria-expanded="false" href="{pages.index.en.slug}" hreflang="en"><small>en</small></a>
 			{/if}</li>
       <!-- <li>/</li> -->
 			<li>{#if $type && pages[$type].fr && pages[$type].fr.slug}
-				<a rel="prefetch" sapper-noscroll aria-current="{'fr' == [$lang] ? 'page' : undefined}" href="{pages[$type].fr.slug}" hreflang="fr"><small>fr</small></a>
+				<a rel="external" sapper-noscroll aria-current="{'fr' == [$lang] ? 'page' : undefined}" href="{pages[$type].fr.slug}" hreflang="fr"><small>fr</small></a>
 			{:else}
-				<a rel="prefetch" aria-expanded="false" href="{pages.index.fr.slug}" hreflang="fr"><small>fr</small></a>
+				<a rel="external" aria-expanded="false" href="{pages.index.fr.slug}" hreflang="fr"><small>fr</small></a>
 			{/if}</li>
 			<!-- <li>/</li> -->
 			<li>{#if $type && pages[$type].hu && pages[$type].hu.slug}
-				<a rel="prefetch" sapper-noscroll aria-current="{'hu' == [$lang] ? 'page' : undefined}" href="{pages[$type].hu.slug}" hreflang="hu"><small>hu</small></a>
+				<a rel="external" sapper-noscroll aria-current="{'hu' == [$lang] ? 'page' : undefined}" href="{pages[$type].hu.slug}" hreflang="hu"><small>hu</small></a>
 			{:else}
-				<a rel="prefetch" aria-expanded="false" href="{pages.index.hu.slug}" hreflang="hu"><small>hu</small></a>
+				<a rel="external" aria-expanded="false" href="{pages.index.hu.slug}" hreflang="hu"><small>hu</small></a>
       {/if}</li>
 		</ul>
 	</div>
