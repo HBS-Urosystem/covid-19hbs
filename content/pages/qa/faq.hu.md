@@ -169,19 +169,15 @@ list:
         Mindezekből pedig több következtetést is le lehet vonni.
 
 
-        * A tünetek megjelenése előtt **sajnos PCR teszttel sem lehet kimutatni, hogy valaki, aki igazoltan fertőzött emberrel találkozott, elkapta-e az új koronavírust**. 
+        * A tünetek megjelenése előtt **sajnos PCR teszttel sem lehet kimutatni, hogy valaki, aki igazoltan fertőzött emberrel találkozott, elkapta-e az új koronavírust**.
 
+        * Úgy tűnik, létezik egy **„ideális időintervallum”, amikor a PCR tesztek a leghatékonyabbak** – ez pedig a tünetek megjelenését követő 1–7. nap. Ebben a PCR tesztek az antigén tesztekhez hasonlítanak.
 
-        * Úgy tűnik, létezik egy **„ideális időintervallum”, amikor a PCR tesztek a leghatékonyabbak** – ez pedig a tünetek megjelenését követő 1–7. nap. Ebben a PCR tesztek az antigén tesztekhez hasonlítanak.
+        * Ahogy a negatív szerológiai gyorsteszt, a **negatív PCR teszt sem bizonyítja önmagában a fertőzés hiányát**. [Volt már rá példa](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30322-4/fulltext), hogy egy olyan vírushordozó miatt jelent meg két új fertőzési góc, akin két PCR tesztet is elvégeztek – ám mindkettő eredménye negatív lett!
 
+        * **Minél több idő telt el a tünetek megjelenése óta, annál alacsonyabb a PCR tesztek megbízhatósága.**
 
-        * Ahogy a negatív szerológiai gyorsteszt, a **negatív PCR teszt sem bizonyítja önmagában a fertőzés hiányát**. [Volt már rá példa](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30322-4/fulltext), hogy egy olyan vírushordozó miatt jelent meg két új fertőzési góc, akin két PCR tesztet is elvégeztek – ám mindkettő eredménye negatív lett!
-
-
-        * **Minél több idő telt el a tünetek megjelenése óta, annál alacsonyabb a PCR tesztek megbízhatósága.** 
-
-
-        * Bár a szerológiai és antigén tesztek megbízhatóságát általában PCR tesztekkel ellenőrzik, mindezek alapján **kétséges, hogy azok valóban megfelelő referenciaként szolgálnak**.
+        * Bár a szerológiai és antigén tesztek megbízhatóságát általában PCR tesztekkel ellenőrzik, mindezek alapján **kétséges, hogy azok valóban megfelelő referenciaként szolgálnak**.
 
 
         A John Hopkins Egyetem kutatói úgy vélik, „mivel az antitestek a betegség lefolyása során később jelennek meg, ha már sok idő telt el a megfertőződés óta, a páciensek számára a leghasznosabb eljárás az ellenanyag- és az RT-PCR teszt együttes elvégzése lehet.”
@@ -416,7 +412,7 @@ list:
         Legyen a szenzitivitás és a specificitás értéke is 90%, az átfertőzöttség pedig 2%.
 
 
-        Ezekből az adatokból kiindulva egy 1000 fős véletlenszerű mintában 20 fertőzött személynek kell lennie. Ezek közül 18-at kimutat a gyorsteszt (2 esetet nem, hiszen 90% a szenzitivitás – ezeket az eredményeket hívjuk hamis negatívnak). A nem fertőzöttek száma 980, akik közül 882-ről a teszt igazolja, hogy nem fertőzöttek – viszont, 98 egészséges személyt is fertőzöttnek jelez (mert a specificitás is 90% - a tévesen fertőzést jelző eredmény a hamis pozitív). 
+        Ezekből az adatokból kiindulva egy 1000 fős véletlenszerű mintában 20 fertőzött személynek kell lennie. Ezek közül 18-at kimutat a gyorsteszt (2 esetet nem, hiszen 90% a szenzitivitás – ezeket az eredményeket hívjuk hamis negatívnak). A nem fertőzöttek száma 980, akik közül 882-ről a teszt igazolja, hogy nem fertőzöttek – viszont, 98 egészséges személyt is fertőzöttnek jelez (mert a specificitás is 90% – a tévesen fertőzést jelző eredmény a hamis pozitív). 
 
 
         Annak az esélye tehát, hogy egy a teszt által adott pozitív eredmény ténylegesen fertőzött emberhez tartozik, mindössze 18/(18+98)×100%, azaz alig 15,52%. **Ezt az adatot**, vagyis a valódi pozitív eredmények és az összes (valódi és hamis) pozitív eredmény hányadosát (szorozva 100%-kal) hívják **pozitív prediktív értéknek**.
@@ -437,7 +433,7 @@ list:
 
         * 4%-os átfertőzöttség és 95–95%-os szenzitivitás és specificitás mellett a prediktív értékek 44,19%, illetve 99,78%.
 
-        * Ha viszont 10%-os átfertőzöttséggel számolunk 90–90%-os specificitás és szenzitivitás mellett, a pozitív prediktív érték 50,00%, míg a negatív prediktív érték 98,78% - 95–95%-os specificitás és szenzitivitás esetén pedig 67,86%, illetve 99,42%.
+        * Ha viszont 10%-os átfertőzöttséggel számolunk 90–90%-os specificitás és szenzitivitás mellett, a pozitív prediktív érték 50,00%, míg a negatív prediktív érték 98,78% – 95–95%-os specificitás és szenzitivitás esetén pedig 67,86%, illetve 99,42%.
 
 
         Mindebből kitűnik, hogy a pozitív prediktív értékre az átfertőzöttség legalább olyan nagy hatást gyakorol, mint a kérdéses teszt specificitás és szenzitivitás adatai, míg a negatív prediktív érték (feltéve, hogy alacsony átfertőzöttséggel számolunk) alig mutat változást. (Közel ugyanannyit változott a pozitív prediktív érték azzal, hogy az átfertőzöttséget 2%-ról 4%-ra emeltük, mint azzal, hogy a teszt szenzitivitását és specificitását emeltük 90%-ról 95%-re!)

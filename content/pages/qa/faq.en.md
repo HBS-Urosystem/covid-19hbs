@@ -400,10 +400,10 @@ list:
         In the following example, imagine that a test works with 90% specificity and sensitivity, and the prevalence is 2%.
 
 
-        Using these data, if we examine a random sample of 1,000 people, there will be 20 infected persons, on average. 18 persons will be detected by the rapid test (2 of them will not – sensitivity is 90% - these 2 results are called false negatives). There are, on the other hand, 980 people who are not infected. The test will confirm the lack of the infection in 882 cases – but will give in 98 cases a positive result for healthy people, too (specificity is 90% – when the result shows infection by mistake, it is called false positive). Thus, the chance that a positive result belongs to an infected person is the following: 18(18+98)×100%, which is merely 15.52%. **This value is called positive predictive value**, counted by dividing the true positive cases with the sum of the true and false positive cases (multiplied by 100%).
+        Using these data, if we examine a random sample of 1,000 people, there will be 20 infected persons, on average. 18 persons will be detected by the rapid test (2 of them will not – sensitivity is 90% – these 2 results are called false negatives). There are, on the other hand, 980 people who are not infected. The test will confirm the lack of the infection in 882 cases – but will give in 98 cases a positive result for healthy people, too (specificity is 90% – when the result shows infection by mistake, it is called false positive). Thus, the chance that a positive result belongs to an infected person is the following: 18/(18+98)×100%, which is merely 15.52%. **This value is called positive predictive value**, counted by dividing the true positive cases with the sum of the true and false positive cases (multiplied by 100%).
 
 
-        The test will give a negative result for the 90% of the non-infected people, which is 882, plus for 2 of the infected ones. The chance that a negative value means the actual lack of infection is called **negative predictive value**. In our example, it is 884/(884+2)×100% - 99.77% (the true negatives divided by the sum of the true and false negatives, multiplied by 100%).
+        The test will give a negative result for the 90% of the non-infected people, which is 882, plus for 2 of the infected ones. The chance that a negative value means the actual lack of infection is called **negative predictive value**. In our example, it is 884/(884+2)×100%=99.77% (the true negatives divided by the sum of the true and false negatives, multiplied by 100%).
 
 
         At first sight, this appears to be devastatingly bad: the chance of getting a false positive – the test shows the presence of the infection when there is no infection at all – is 84.48%! However, **this happens because of statistical reasons and has nothing to do with the particular rapid test. Whenever the prevalence is low, sensitivity and specificity have very little impact on the predictive values** – the 10% “specificity error” is paired with a huge amount of data (after all, most people are not infected), whereas the 90% sensitivity belongs to very few (the infected minority).
@@ -414,12 +414,9 @@ list:
 
         * If both specificity and sensitivity is raised to 95% and the prevalence is unchanged, the positive predictive value is still only 27.94%. The negative predictive value is 99.89%.
 
-
         * If specificity and sensitivity remain 90% and we raise the prevalence to 4%, the positive predictive value is 27.27%, the negative predictive value is 99.53%.
 
-
         * With specificity and sensitivity of 95% each, at 4% prevalence, these predictive values are 44.19% and 99.78%, respectively.
-
 
         * If we raise the prevalence to 10%, with specificity and sensitivity of 90% each we get 50.00% for the positive predictive value and 98.78% for the negative predictive value. In case of specificity and sensitivity of 95% each, these values are 67.86% and 99.42%, respectively.
 
