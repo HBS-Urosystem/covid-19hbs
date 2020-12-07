@@ -71,7 +71,16 @@
 <article>
 <figure>
 	<img src="/uploads/124096424_145784927297864_7338944986351090301_o.jpg" alt="antigen test vs serology test" />
-<figcaption>Az antigén és a szerológiai gyorsteszt használata</figcaption>
+	{#if $lang == 'hu'}
+	<figcaption>Az antigén és a szerológiai gyorsteszt használata</figcaption>
+	{/if}
+	{#if $lang == 'en'}
+	<figcaption>Use of antigen and rapid serological test</figcaption>
+	{/if}
+	{#if $lang == 'fr'}
+	<figcaption>Utilisation du test antigénique et du test sérologique rapide</figcaption>
+	{/if}
+
 </figure>
 </article>
 
