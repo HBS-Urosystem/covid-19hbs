@@ -83,6 +83,12 @@ cards:
   - text: "### Frequently Asked Questions"
     link: /faq
     src: ""
+documents:
+  text: >-
+    ## Our Social Responsibility
+
+
+    Our company has donated rapid tests to municipalities and other institutions several times, for scientific research, social and public health purposes.
 articles:
   - text: >-
       ##### The following figure shows in what time period the antigen test and

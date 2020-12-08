@@ -80,6 +80,12 @@ references:
 
 
     Il existe des centaines d'établissements médicaux, de médecins, de centres de santé, de maisons de soins infirmiers, de cliniques privées, d'entreprises et d'autres institutions qui utilisent **des cassettes de test rapideClungene® COVID-19**, que nous importons. Vous trouverez ici la page Web de certains d'entre eux.
+documents:
+  text: >-
+    ## Notre responsabilité sociale
+
+
+    Notre entreprise a fait plusieurs fois don de tests rapides à des municipalités et à d'autres institutions, à des fins de recherche scientifique, sociale et de santé publique.
 articles:
   - text: >-
       ##### La figure suivante montre dans quelle période le test d'antigène et

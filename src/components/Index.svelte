@@ -96,9 +96,10 @@
 </article>
 {/if}
 
-{#if post.documents}<!--  -->
+{#if post.documents}
 <article>
 	{@html _md(post.documents.text)}
+	{#if post.documents.links}
 	<ul>
 		{#each post.documents.links as ref}
 		{#if ref.src}
@@ -112,6 +113,7 @@
 		{/if}
 		{/each}
 	</ul>
+	{/if}
 </article>
 {/if}
 

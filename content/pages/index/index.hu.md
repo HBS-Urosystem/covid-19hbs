@@ -87,6 +87,12 @@ cards:
   - text: "### Gyakori kérdések"
     link: /gyik
     src: /uploads/129.jpg
+documents:
+  text: >-
+    ## Társadalmi felelősségvállalásunk
+
+
+    Cégünk már több önkormányzatnak és intézménynek adományozott az általa forgalmazott gyorstesztekből tudományos kutatási, szociális és népegészségügyi célokra.
 articles:
   - subtitle: ""
     text: >-

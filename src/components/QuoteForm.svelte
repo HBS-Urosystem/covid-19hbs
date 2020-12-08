@@ -78,7 +78,7 @@
 	<figcaption>Use of antigen and rapid serological test</figcaption>
 	{/if}
 	{#if $lang == 'fr'}
-	<figcaption>Utilisation du test antigénique et du test sérologique rapide</figcaption>
+	<figcaption>Le mode d'utilisation des tests antigéniques et sérologiques</figcaption>
 	{/if}
 
 </figure>
