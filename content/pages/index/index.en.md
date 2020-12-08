@@ -79,7 +79,6 @@ references:
 
 
     There are hundreds of medical institutions, doctors, health centres, nursing homes, private clinics, companies and other institutions who have been using **Clungene® COVID-19 Rapid Test Cassettes**, which are distributed by us. Here you can find the webpage of some of them.
-cards: []
 documents:
   text: >-
     ## Our Social Responsibility
