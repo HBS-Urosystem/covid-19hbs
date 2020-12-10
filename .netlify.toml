@@ -1,5 +1,9 @@
 [[redirects]]
+from="/"
+to="/hu"
+status=301
+
+[[redirects]]
 from="/felelos-vezeto"
 to="/modszeres-teszteles"
 status=301
-force=true
