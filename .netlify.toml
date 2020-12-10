@@ -3,6 +3,7 @@ from="/"
 to="/hu"
 status=301
 
+[[redirects]]
 from="/felelos-cegvezeto"
 to="/modszeres-teszteles"
 status=301
