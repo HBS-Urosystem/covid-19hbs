@@ -89,22 +89,15 @@ list:
         Ugyanakkor, **csak PCR tesztekre építve nem lehet megvalósítani a COVID-19 elleni védekezés e szintjét**. Félreértés ne essék, **hatalmas szükség van a PCR tesztekre**, ám **kizárólag azokat használva nem valósítható meg az emberek széles körű vizsgálata**. Érdemes röviden összefoglalni, miért nem.
 
 
-        (1) A közfelfogással ellentétben még **a helyesen alkalmazott PCR tesztek megbízhatósága is elmarad a 100%-tól**.
+        1. A közfelfogással ellentétben még **a helyesen alkalmazott PCR tesztek megbízhatósága is elmarad a 100%-tól**.
 
+           A [John Hopkins Egyetem átfogó kutatásának](https://www.acpjournals.org/doi/10.7326/M20-1495) eredményei a következőképpen foglalhatóak össze. A tünetek megjelenését megelőzően a PCR tesztek 0–33% eséllyel mutatták ki a vírust. A tünetek jelentkezésének első napján a PCR teszt 62% eséllyel jelez, majd az arány emelkedik, pár nap múlva eléri a 80%-ot. Ezt követően a PCR teszt megbízhatóság csökken, 2 héttel a tünetek megjelenését követően már ismét csak 33%.
+        2. A PCR tesztek **aránytalan terheket rónak az egészségügyi rendszerre**
 
-        A [John Hopkins Egyetem átfogó kutatásának](https://www.acpjournals.org/doi/10.7326/M20-1495) eredményei a következőképpen foglalhatóak össze. A tünetek megjelenését megelőzően a PCR tesztek 0–33% eséllyel mutatták ki a vírust. A tünetek jelentkezésének első napján a PCR teszt 62% eséllyel jelez, majd az arány emelkedik, pár nap múlva eléri a 80%-ot. Ezt követően a PCR teszt megbízhatóság csökken, 2 héttel a tünetek megjelenését követően már ismét csak 33%.
+           A teszt elvégzéséhez szükséges PCR berendezés ára **mintegy 10 millió forintnál kezdődik**. Ezek hozzáférhetősége, és az **igen összetett vizsgálatot elvégezni képes szakemberek száma is korlátozza az elvégezhető PCR tesztek számát**. Ráadásul, a mintavételezéshez és a reakcióhoz szükséges **fogyóeszközök** (felszerelések, anyagok stb., amelyekből minden vizsgálathoz újabb adagot kell felhasználni) **is költségesek**. Ezekből következik, hogy a magyar állami és magán intézményrendszer **elérte a kapacitásai határait**.Sok helyen **napokat kell várni a tesztidőpontra**, majd az **eredményekre is**. Mindez **hatalmas veszélyeket rejt magában**, hiszen ez alatt az idő alatt, ha a tesztelendő személy továbbra is emberek közé jár, másoknak is továbbadja a fertőzést.
+        3. A PCR tesztek **költségesek**
 
-
-        (2) A PCR tesztek **aránytalan terheket rónak az egészségügyi rendszerre**
-
-
-        A teszt elvégzéséhez szükséges PCR berendezés ára **mintegy 10 millió forintnál kezdődik**. Ezek hozzáférhetősége, és az **igen összetett vizsgálatot elvégezni képes szakemberek száma is korlátozza az elvégezhető PCR tesztek számát**. Ráadásul, a mintavételezéshez és a reakcióhoz szükséges **fogyóeszközök** (felszerelések, anyagok stb., amelyekből minden vizsgálathoz újabb adagot kell felhasználni) **is költségesek**. Ezekből következik, hogy a magyar állami és magán intézményrendszer **elérte a kapacitásai határait**.Sok helyen **napokat kell várni a tesztidőpontra**, majd az **eredményekre is**. Mindez **hatalmas veszélyeket rejt magában**, hiszen ez alatt az idő alatt, ha a tesztelendő személy továbbra is emberek közé jár, másoknak is továbbadja a fertőzést.
-
-
-        (3) A PCR tesztek **költségesek**
-
-
-        Hiába hiába lett Magyarországon a PCR teszteknek hatóságilag megszabott ára, az **így is olyan magas**, hogy a lakosság jelentős része nem engedheti meg magának a teszt elvégeztetését. Az **intézmények, vállalatok túlnyomó többsége sem tudja megfizetni** az összes alkalmazott (akár többszöri) leteszteltetését. A lényegesen olcsóbb, vagy ingyenes tömeges tesztelés sem volna reális megoldás. Az ugyanis csak jelentős állami támogatással valósulhatna meg – a források viszont a világjárvány első hulláma miatt már most is szűkösek.
+           Hiába hiába lett Magyarországon a PCR teszteknek hatóságilag megszabott ára, az **így is olyan magas**, hogy a lakosság jelentős része nem engedheti meg magának a teszt elvégeztetését. Az **intézmények, vállalatok túlnyomó többsége sem tudja megfizetni** az összes alkalmazott (akár többszöri) leteszteltetését. A lényegesen olcsóbb, vagy ingyenes tömeges tesztelés sem volna reális megoldás. Az ugyanis csak jelentős állami támogatással valósulhatna meg – a források viszont a világjárvány első hulláma miatt már most is szűkösek.
       anchor: pcr
   - object:
       question: A tömeges tesztelést gyorstesztek segítségével lehet megvalósítani
@@ -171,38 +164,24 @@ list:
         A további teendők a kapott eredményektől függenek.
 
 
-        (1) **Ha mindenki eredménye negatív, jó eséllyel feltételezhető, hogy az intézményben nincs jelen a vírus*.***
+        1. **Ha mindenki eredménye negatív, jó eséllyel feltételezhető, hogy az intézményben nincs jelen a vírus*.***
 
+           Egy-egy teszteredmény ugyan lehet téves (különösen a fertőzés korai szakaszában), ám, mivel **sok embert** tesztelnek egyszerre, **annak az esélye**, hogy az összes fertőzött személyre téves negatív eredményt ad a teszt, **elenyésző**. Nem zárható ki azonban, hogy a tesztelt emberek közt csak egyetlen, vagy nagyon kevés friss fertőzött van, akit még nem lehet a gyorsteszttel azonosítani. (Jóllehet, a megbetegedés nagyon korai szakaszában a PCR teszt sem mutatja ki a fertőzést.) Ezért érdemes a tesztelést **rendszeresen, például 7–10 naponta megismételni** – amivel minimalizálható annak a veszélye, hogy a vírus gyorsan szétterjedjen a közösségben.
+        2. **Ha van pozitív eredmény, további tesztekre van szükség.**
 
-        Egy-egy teszteredmény ugyan lehet téves (különösen a fertőzés korai szakaszában), ám, mivel **sok embert** tesztelnek egyszerre, **annak az esélye**, hogy az összes fertőzött személyre téves negatív eredményt ad a teszt, **elenyésző**. Nem zárható ki azonban, hogy a tesztelt emberek közt csak egyetlen, vagy nagyon kevés friss fertőzött van, akit még nem lehet a gyorsteszttel azonosítani. (Jóllehet, a megbetegedés nagyon korai szakaszában a PCR teszt sem mutatja ki a fertőzést.) Ezért érdemes a tesztelést **rendszeresen, például 7–10 naponta megismételni** – amivel minimalizálható annak a veszélye, hogy a vírus gyorsan szétterjedjen a közösségben.
+           Amennyiben azt az anyagi források és a munkavégzés körülményei lehetővé teszik, **az érintetteknél, és azok közvetlen kontaktjainál el kell végeztetni a PCR tesztet is**. Akiknél **ez utóbbi is pozitív**, azokat az érvényes járványügyi protokoll alapján **el kell különíteni**, illetve, a tünetek függvényében orvosi ellátásban kell részesíteni.
 
+           Idő-, és költséghatékony megoldás, ha a **kontaktszemélyeknél antigén gyorstesztet végeznek**. Az ugyanis a fertőzés korai szakaszában kimutatja a vírus jelenlétét – pontosan abban az időszakban, amikor a szerológiai teszt még negatív eredményt ad. E módszerrel **rövid idő alatt kideríthető**, az érintett továbbadta-e már a fertőzést másoknak is. (Akiknél az antigén teszt pozitív, azokat el kell különíteni, és a lehetőségek függvényében a fertőzést PCR teszttel lehet igazolni.)
 
-        (2) **Ha van pozitív eredmény, további tesztekre van szükség.**
+           Ha a PCR teszt elvégzésére nincs idő vagy lehetőség, a helyett az érintettnél is végezhető antigén gyorsteszt, feltéve, ha az illető csak IgG-re nézve volt pozitív, ami utalhat a múltban lezajlott fertőzésre is. (Az IgM pozitivitás az esetek túlnyomó részében fertőzőképes állapotra utal, azt mindenképp javasolt PCR teszttel megerősíteni.)
+        3. **Ha valaki a COVID-19 jellegzetes tüneteit mutatja, akkor is úgy kell rá tekinteni, mintha a teszteredménye pozitív lenne, ha az egyébként negatív volt.**
 
+           Ez esetben is az előző pontban írtakat javasolt követni.
 
-        Amennyiben azt az anyagi források és a munkavégzés körülményei lehetővé teszik, **az érintetteknél, és azok közvetlen kontaktjainál el kell végeztetni a PCR tesztet is**. Akiknél **ez utóbbi is pozitív**, azokat az érvényes járványügyi protokoll alapján **el kell különíteni**, illetve, a tünetek függvényében orvosi ellátásban kell részesíteni.
+           Érdemes megemlíteni, ha fennállnak a tünetek, az elsődleges fontosságú teendő az érintett elkülönítése, illetve megfelelő orvosi ellátásban részesítése. Ilyen esetben célszerű minden negatív teszteredményt PCR (vagy annak hiányában antigén) teszt elvégzésével ellenőrizni – beleértve a negatív PCR eredményt is.
+        4. **Ha olyan csak IgG-re nézve pozitív személyek vannak, akik tünetmentesek, nagy az esélye, hogy ezek a személyek már korábban átestek a vírusfertőzésen.**
 
-
-        Idő-, és költséghatékony megoldás, ha a **kontaktszemélyeknél antigén gyorstesztet végeznek**. Az ugyanis a fertőzés korai szakaszában kimutatja a vírus jelenlétét – pontosan abban az időszakban, amikor a szerológiai teszt még negatív eredményt ad. E módszerrel **rövid idő alatt kideríthető**, az érintett továbbadta-e már a fertőzést másoknak is. (Akiknél az antigén teszt pozitív, azokat el kell különíteni, és a lehetőségek függvényében a fertőzést PCR teszttel lehet igazolni.)
-
-
-        Ha a PCR teszt elvégzésére nincs idő vagy lehetőség, a helyett az érintettnél is végezhető antigén gyorsteszt, feltéve, ha az illető csak IgG-re nézve volt pozitív, ami utalhat a múltban lezajlott fertőzésre is. (Az IgM pozitivitás az esetek túlnyomó részében fertőzőképes állapotra utal, azt mindenképp javasolt PCR teszttel megerősíteni.)
-
-
-        (3) **Ha valaki a COVID-19 jellegzetes tüneteit mutatja, akkor is úgy kell rá tekinteni, mintha a teszteredménye pozitív lenne, ha az egyébként negatív volt.**
-
-
-        Ez esetben is az előző pontban írtakat javasolt követni.
-
-
-        Érdemes megemlíteni, ha fennállnak a tünetek, az elsődleges fontosságú teendő az érintett elkülönítése, illetve megfelelő orvosi ellátásban részesítése. Ilyen esetben célszerű minden negatív teszteredményt PCR (vagy annak hiányában antigén) teszt elvégzésével ellenőrizni – beleértve a negatív PCR eredményt is.
-
-
-        (4) **Ha olyan csak IgG-re nézve pozitív személyek vannak, akik tünetmentesek, nagy az esélye, hogy ezek a személyek már korábban átestek a vírusfertőzésen.**
-
-
-        Ezt negatív PCR teszttel lehet igazolni – ebben az esetben e személyek folytathatják a munkát, mert (jelen tudásunk szerint) hosszabb időre védetté váltak a vírussal szemben.
-
+           Ezt negatív PCR teszttel lehet igazolni – ebben az esetben e személyek folytathatják a munkát, mert (jelen tudásunk szerint) hosszabb időre védetté váltak a vírussal szemben.
 
         **Több előnye is van az imént vázolt módszernek.**
 
