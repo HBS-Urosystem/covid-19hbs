@@ -82,8 +82,8 @@ references:
     Már számos intézmény és vállalat alkalmazza az általunk forgalmazott **Clungene® COVID-19 IgG/IgM Gyorsteszt** Kazettát. Ezek közül közöljük – a teljesség igénye nélkül – néhány internetes elérhetőségét.
 cards:
   - src: /uploads/pixabay-social-distancing-5044615_640.jpg
-    link: /felelos-cegvezeto
-    text: "### Felelős cégvezetőknek…"
+    link: /modszeres-teszteles
+    text: "### Módszeres tesztelés"
   - text: "### Gyakori kérdések"
     link: /gyik
     src: /uploads/129.jpg
