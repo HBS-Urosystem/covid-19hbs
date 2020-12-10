@@ -50,7 +50,7 @@ documents:
   text: "## További információk, dokumentumok"
   links:
     - text: Használati útmutató
-      file: /uploads/hasznalati_utasitas_clungene_covid-19_igg-igm-4212-hu-v4.pdf
+      file: /uploads/covid-19_igg-igm-4212-hu-v5.pdf
       src: /uploads/bxs-file-pdf.svg
     - text: OGYÉI hatósági bizonyítvány HU
       file: /uploads/ogyei_hatosagi_bizonyitvany_orvostech-17106-3-2020-szghbv_alairt-1.pdf
