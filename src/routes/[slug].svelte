@@ -97,6 +97,7 @@
 <a hidden aria-hidden="true" href="confidentialité">confidentialité</a>
 <a hidden aria-hidden="true" href="cookie-en">cookie-en</a>
 <a hidden aria-hidden="true" href="cookie-fr">cookie-fr</a>
+<a hidden aria-hidden="true" href="felelos-cegvezeto">felelos-cegvezeto</a>
 <!-- <a hidden aria-hidden="true" href="vedoszemuveg">vedoszemuveg</a> -->
 
 {#if post.intro}
