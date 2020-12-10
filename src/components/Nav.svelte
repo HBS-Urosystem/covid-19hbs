@@ -137,6 +137,7 @@
 	}
 
 	ul {
+		margin-bottom: 0;
 		overflow-x: auto;
 		white-space: nowrap;
 		max-width: 80ch;
