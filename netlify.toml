@@ -2,4 +2,4 @@
 from="/felelos-vezeto"
 to="/modszeres-teszteles"
 status=301
-
+force=true
