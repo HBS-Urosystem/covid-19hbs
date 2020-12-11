@@ -257,7 +257,7 @@ articles:
 
       <td>Igen</td>
 
-      <td>Általában nem</td>
+      <td>Elképzelhető</td>
 
       <td>Többnyire igen</td>
 
@@ -270,7 +270,7 @@ articles:
 
       <td>Esetenként igen</td>
 
-      <td>Nem</td>
+      <td>Általában nem</td>
 
       <td>Igen</td>
 

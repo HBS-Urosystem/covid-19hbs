@@ -239,7 +239,7 @@ articles:
 
       <td>Parfois</td>
 
-      <td>Non</td>
+      <td>Peu probable</td>
 
       <td>Oui</td>
 

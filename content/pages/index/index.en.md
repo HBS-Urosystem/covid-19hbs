@@ -258,7 +258,7 @@ articles:
 
       <td>Sometimes</td>
 
-      <td>No</td>
+      <td>Unlikely</td>
 
       <td>Yes</td>
 
