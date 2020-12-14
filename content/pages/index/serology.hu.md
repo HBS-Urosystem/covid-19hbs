@@ -62,7 +62,7 @@ documents:
       file: /uploads/certificates-clongene-covid-2019-igm.igg_1-7.pdf
       src: /uploads/bxs-file-pdf.svg
     - text: A SmartBioma diagnosztikai protokollja
-      file: /uploads/sars-cov-2-covid-19-szűrés-_-kimutatás.pdf
+      file: /uploads/sars-cov-2-covid-19-szures-_-kimutatas.pdf
       src: /uploads/bxs-file-pdf.svg
 articles:
   - title: Mit mutat ki a szerológiai gyorsteszt?
