@@ -103,7 +103,7 @@
 		<div>
 			<h4>{post.ig_comp}</h4>
 			<ul>
-				{#each post.ag_items as item}
+				{#each post.ig_items as item}
 				<li>{item.item}</li>
 				{/each}
 			</ul>
