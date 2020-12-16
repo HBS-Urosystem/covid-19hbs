@@ -1,4 +1,8 @@
 <script context="module">
+	// import { lang } from '../stores.js'
+	/*export function preload(page) {
+		this.redirect(301, '/hu')
+	}*/
 	import { onMount } from 'svelte'
 	import List from "../components/List.svelte"
 	//import CTA from "../components/CTA.svelte"
