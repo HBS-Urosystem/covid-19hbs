@@ -1,7 +1,7 @@
 <script context="module">
 	import { onMount } from 'svelte'
 	import List from "../components/List.svelte"
-	import CTA from "../components/CTA.svelte"
+	//import CTA from "../components/CTA.svelte"
 	import Index from "../components/Index.svelte"
 	import QuoteForm from "../components/QuoteForm.svelte"
 	import Distributor from "../components/Distributor.svelte"
@@ -14,7 +14,7 @@
 
 	export async function preload(page) {
 		//console.log('_slug-post',findPost(page.params.slug))
-		return { post: findPost(page.params.slug) }
+		return { post: findPost(page.params.slug || 'hu') }
 	}
 	function _md(it) {
 		return converter.makeHtml(it)

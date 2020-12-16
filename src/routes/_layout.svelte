@@ -14,6 +14,9 @@
 </script>
 
 <svelte:head>
+	{#if segment == 'hu'}
+	<link rel="canonical" href="https://covid-19.hbs.hu/">
+	{/if}
 	<!-- Global site tag (gtag.js) - Google Analytics -->
 	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-52898474-2"></script>
 	<script>
