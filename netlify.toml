@@ -1,6 +1,6 @@
 [[redirects]]
-from="/"
-to="/hu"
+from="/hu"
+to="/"
 status=200
 
 [[redirects]]
