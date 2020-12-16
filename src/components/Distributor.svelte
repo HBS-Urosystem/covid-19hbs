@@ -108,6 +108,7 @@
 	input[type=checkbox] {
 		margin: 0 var(--gutter);
 		filter: drop-shadow(0px 0px 4px white);
+		width: auto;
 	}
 
   button[type=submit] {
