@@ -108,21 +108,6 @@
 	{/if}
 </svelte:head>
 
-<!-- <a hidden aria-hidden="true" href="fr">fr</a> -->
-<a hidden aria-hidden="true" href="distributor">distributor</a>
-<a hidden aria-hidden="true" href="distributeur">distributeur</a>
-<a hidden aria-hidden="true" href="contexte-juridique">contexte-juridique</a>
-<a hidden aria-hidden="true" href="enquiry">enquiry</a>
-<a hidden aria-hidden="true" href="devis">devis</a>
-<a hidden aria-hidden="true" href="faq">faq</a>
-<a hidden aria-hidden="true" href="qf">qf</a>
-<a hidden aria-hidden="true" href="privacy">privacy</a>
-<a hidden aria-hidden="true" href="confidentialité">confidentialité</a>
-<a hidden aria-hidden="true" href="cookie-en">cookie-en</a>
-<a hidden aria-hidden="true" href="cookie-fr">cookie-fr</a>
-<a hidden aria-hidden="true" href="modszeres-teszteles">modszeres-teszteles</a>
-<!-- <a hidden aria-hidden="true" href="vedoszemuveg">vedoszemuveg</a> -->
-
 {#if post.intro}
 <article>
 	{#if post.subtitle}
