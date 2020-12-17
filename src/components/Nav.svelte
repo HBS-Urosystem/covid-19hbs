@@ -47,7 +47,7 @@
 			</li> -->
 			<!-- segment === pages.faq[$lang].slug -->
 			<li>
-				<a rel="prefetch" name="logo" aria-current="{$type == 'index' ? 'page' : undefined}" href="{pages.index[$lang].slug}#content">
+				<a rel="prefetch" aria-current="{$type == 'index' ? 'page' : undefined}" href="{$lang == 'hu' ? '/' : pages.index[$lang].slug}#content">
 					<span>{pages.index[$lang].menutitle}</span><!-- <img loading="lazy" src="uploads/hbs-logo-medical.png" alt="hbs logo"> -->
 				</a>
 				<small>
