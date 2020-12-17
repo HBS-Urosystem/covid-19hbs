@@ -51,8 +51,8 @@
 		$tagline = post.title
 		$hero = post.hero || undefined
 		document.querySelector('html').lang = $lang
-		document.querySelector('meta[name="keywords"]').setAttribute("content", post.keywords || meta.k[$lang])
-		document.querySelector('meta[name="description"]').setAttribute("content", post.description || meta.d[$lang])
+		/*document.querySelector('meta[name="keywords"]').setAttribute("content", post.keywords || meta.k[$lang])
+		document.querySelector('meta[name="description"]').setAttribute("content", post.description || meta.d[$lang])*/
 		//window.lang = $lang
 	}
 	export const pixel = {hu: '2111698168960334', en: '2111698168960334', fr: '451129772954138'}
@@ -60,6 +60,8 @@
 
 <svelte:head>
 	<title>{post.title}</title>
+	<meta lang="{$lang}" name="description" content="{post.description || meta.d[$lang]}" />
+	<meta lang="{$lang}" name="keywords" content="{post.keywords || meta.k[$lang]}" />
 	{#if $cookies == true}
 	<!-- Facebook Pixel Code -->
 	<script>
