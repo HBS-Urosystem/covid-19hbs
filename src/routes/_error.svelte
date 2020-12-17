@@ -1,12 +1,15 @@
 <script>
 	//export let status;
-	export let error;
-
-	const dev = process.env.NODE_ENV === "development";
+	//export let error;
+	//const dev = process.env.NODE_ENV === "development";
+	import { type, hero, tagline } from '../stores.js'
+	$type = undefined
+	$tagline = '404'
+	$hero = '/uploads/33838-web.jpg'
 </script>
 
 <svelte:head>
-	<title>Page not found (404) - {error.message}</title>
+	<title>Page not found (404)</title>
 </svelte:head>
 <!-- 
 <h1>{status}</h1>
@@ -14,12 +17,13 @@
 <p>{error.message}</p>
 
 {#if dev && error.stack}
-	<pre>{error.stack}</pre>
+<pre>{error.stack}</pre>
 {/if}
 
 <p><b>…de ha már itt van! </b></p>
  -->
 <aside>
+
 <h1>Felelős vezető Ön?</h1>
 <ul>
 	<li>Gondoskodik dolgozói egészségéről?</li>
@@ -32,7 +36,7 @@
 	</li>
 </ul>
 <p>A tesztelésben segítünk.</p>
-<button><a href="/">Hogyan?</a></button>
+<button><a href="/" rel="external">Hogyan?</a></button>
 </aside>
 <style>
 	aside {

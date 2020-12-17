@@ -1,8 +1,8 @@
 <script context="module">
-	import { type, lang/* , hero, tagline */ } from '../stores.js'
+	import { type, lang, hero, tagline } from '../stores.js'
+	import { fade } from 'svelte/transition'
 	import { mergePages } from '../content.js'
 	export const pages = mergePages()
-	//console.log(pages)
 	import * as svgs from "./SVGs.svelte"
 	import { findCTA } from '../cta.js'
 </script>
@@ -11,32 +11,18 @@
 	/* export let svgs = { FBicon, Link } */
 	export let segment
 	export let cta = findCTA('sticky')
-	//cta = findCTA('sticky')
-	/* $: if (segment && segment !== 'undefined') {
-		//console.log('_nav-segment',segment,typeof(segment))
-		//console.log('_nav-type:', $type)
-	} */
-	//console.log('$lang',$lang)
-	//console.log(pages)
+	//export const pages = mergePages()
 </script>
 
 <svelte:head>
 	<!-- <title>lang: {$lang}</title> -->
-	{#if $lang == 'en'}
-		<meta property="og:locale" content="en_GB" />
-	{/if}
-	{#if $lang == 'fr'}
-		<meta property="og:locale" content="fr_FR" />
-	{/if}
-	{#if $lang == 'hu'}
-		<meta property="og:locale" content="hu_HU" />
-	{/if}
 	<!-- Alternate URLs must be fully-qualified, including the transport method (http/https), so: https://example.com/foo, not //example.com/foo or /foo -->
 	<!-- <link rel="alternate" hreflang="en" href="https://covid-19.hbs.hu/{pages[type].en.slug}" />
 	<link rel="alternate" hreflang="fr" href="https://covid-19.hbs.hu/{pages[type].fr.slug}" />
 	<link rel="alternate" hreflang="hu" href="https://covid-19.hbs.hu/{pages[type].hu.slug}" /> -->
 </svelte:head>
 
+{#if $type}
 <nav id="nav">
 	<div>
 		<ul>
@@ -115,6 +101,25 @@
 		</a>
 	</h5>
 </nav>
+{/if}
+
+{#if $hero}
+<header id="home" style="background-image: url({$hero})" transition:fade="{{ duration: 750 }}">
+	<img loading="lazy" src="uploads/hbs-logo-medical.png" alt="hbs logo">
+	{#if $tagline}
+	<h1>{@html $tagline}</h1>
+	{/if}
+</header>
+{:else}
+<header>
+	<a name="logo" href="{$lang == 'hu' ? '/' : pages.index[$lang].slug}">
+		<img loading="lazy" src="uploads/hbs-logo-medical.png" alt="hbs logo">
+	</a>
+	{#if $tagline}
+	<h1>{@html $tagline}</h1>
+	{/if}
+</header>
+{/if}
 
 <style>
 	nav {
@@ -251,4 +256,51 @@
 		fill: var(--light);
     vertical-align: text-bottom;
 	}
+
+	header {
+		position: relative;
+		display: flex;
+		flex-direction: column;
+		justify-content: flex-end;
+		color: var(--light);
+		min-height: 100vh;
+		margin: var(--spacer-) 0;
+	}
+	header#home {
+		background-repeat: no-repeat;
+		background-size: cover;
+    background-position: 50% 70%;
+  }
+  header#home h1 {
+		border-bottom-color: var(--light);
+	}
+  h1 {
+		border-bottom: solid 4px transparent;
+		filter: drop-shadow(2px 2px 0 var(--dark50));
+		margin: 0;
+		padding: var(--spacer) var(--gutter);
+		text-align: center;
+    font-weight: bolder;
+    letter-spacing: .25rem;
+		text-shadow: 2px 2px 4px var(--dark);
+    /* color: white; */
+		font-size: 1.75rem;
+		text-transform: uppercase;
+	}
+  header img {
+    width: 200px;
+		margin: var(--spacer) auto 0;
+		filter: drop-shadow(2px 2px 0 white);
+  }
+	/* header::before, nav::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+		filter: saturate(0.1);
+		animation: pulse 20s infinite;
+		mix-blend-mode: color;
+	} */
 </style>

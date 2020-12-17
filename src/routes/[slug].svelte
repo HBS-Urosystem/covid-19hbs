@@ -44,15 +44,13 @@
 	$: if (mounted && post) {
 		document.querySelector('html').lang = post.lang
 	}
-	$: if (post) {
-		$lang = post.lang
-		$type = post.type
-		$tagline = post.title
-		$hero = post.hero || undefined
-		/*document.querySelector('meta[name="keywords"]').setAttribute("content", post.keywords || meta.k[$lang])
-		document.querySelector('meta[name="description"]').setAttribute("content", post.description || meta.d[$lang])*/
-		//window.lang = $lang
-	}
+	$lang = post.lang
+	$type = post.type
+	$tagline = post.title
+	$hero = post.hero || undefined
+	/*document.querySelector('meta[name="keywords"]').setAttribute("content", post.keywords || meta.k[$lang])
+	document.querySelector('meta[name="description"]').setAttribute("content", post.description || meta.d[$lang])*/
+	//window.lang = $lang
 	export const pixel = {hu: '2111698168960334', en: '2111698168960334', fr: '451129772954138'}
 </script>
 
@@ -60,6 +58,18 @@
 	<title>{post.title}</title>
 	<meta lang="{$lang}" name="description" content="{post.description || meta.d[$lang]}" />
 	<meta lang="{$lang}" name="keywords" content="{post.keywords || meta.k[$lang]}" />
+	{#if $lang == 'en'}
+		<meta property="og:locale" content="en_GB" />
+	{/if}
+	{#if $lang == 'fr'}
+		<meta property="og:locale" content="fr_FR" />
+	{/if}
+	{#if $lang == 'hu'}
+		<meta property="og:locale" content="hu_HU" />
+	{/if}
+	{#if $hero}
+	<link rel="preload" href="{$hero}" as="image">
+	{/if}
 	{#if $cookies == true}
 	<!-- Facebook Pixel Code -->
 	<script>
