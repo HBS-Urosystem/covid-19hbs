@@ -2,10 +2,6 @@
 type: index
 slug: hu
 title: Clungene® COVID-19 Gyorstesztek
-keywords: COVID-19 szerológiai és antigén-gyorsteszt, covid-19, clungene,
-  sars-cov-2, ag teszt, igg/igm teszt, antigén, szerológiai, gyorsteszt
-description: Clungene COVID-19 szerológiai (immunológiai) és antigén gyorsteszt
-  kazetta – olcsón, azonnali szállítással
 menutitle: Gyorstesztek
 hero: /uploads/33838-web.jpg
 intro:

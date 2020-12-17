@@ -2,10 +2,6 @@
 type: index
 slug: fr
 title: Tests rapides Clungene® COVID-19
-keywords: Test rapide sérologique et antigénique COVID-19, covid-19, clungène,
-  test rapide, sars-cov-2, test ag, test igg / igm, antigène, sérologique
-description: Cassette de test rapide Clungene® COVID-19 – à un prix compétitif,
-  livrée depuis l'Europe en 72 heures
 menutitle: Tests rapides
 hero: /uploads/33838-web.jpg
 intro:

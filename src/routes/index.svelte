@@ -29,8 +29,16 @@
 <script>
 	export let post
 	export let meta = {
-		"k": {"hu": "COVID-19 szerológiai és antigén-gyorsteszt, covid-19, clungene, sars-cov-2, ag teszt, igg/igm teszt, antigén, szerológiai, gyorsteszt", "en": "COVID-19 serological and antigene rapid test, covid-19, clungene, rapid test, sars-cov-2, ag test, igg/igm test, antigene, serological", "fr": "Test rapide sérologique et antigénique COVID-19, covid-19, clungène, test rapide, sars-cov-2, test ag, test igg / igm, antigène, sérologique"}, 
-		"d": {"hu": "Clungene COVID-19 szerológiai (immunológiai) és antigén gyorsteszt kazetta – olcsón, azonnali szállítással", "en": "Clungene® COVID-19 Rapid Test Cassette – at a competitive price, delivered from Europe within 72 hours", "fr": "Cassette de test rapide Clungene® COVID-19 – à un prix compétitif, livrée depuis l'Europe en 72 heures"}
+		"k": {
+			"hu": "COVID-19 szerológiai és antigén-gyorsteszt, covid teszt, covid-19, clungene, sars-cov-2, igg/igm, antigén, szerológiai, gyorsteszt, import, disztribúció", 
+			"en": "COVID-19 serological and antigene rapid test, covid test, covid-19, clungene, sars-cov-2, igg/igm, antigene, serological, rapid test, import, distribution", 
+			"fr": "Test rapide sérologique et antigénique COVID-19, test covid, covid-19, clungene, sars-cov-2, igg-igm, antigène, sérologique, test rapide, importer, distribtion"
+		}, 
+		"d": {
+			"hu": "Clungene COVID-19 szerológiai (immunológiai) és antigén gyorsteszt kazetta – olcsón, azonnali szállítással, kis- és nagy tételben", 
+			"en": "Clungene® COVID-19 Rapid Test Cassette – at a competitive price, delivered from Europe within 72 hours", 
+			"fr": "Cassette de test rapide Clungene® COVID-19 – à un prix compétitif, livrée depuis l'Europe en 72 heures"
+		}
 	}
 
 	export let mounted = false
