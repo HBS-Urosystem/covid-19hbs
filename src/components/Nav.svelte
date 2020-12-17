@@ -100,9 +100,9 @@
 			{/if}</li>
 			<!-- <li>/</li> -->
 			<li>{#if $type && pages[$type].hu && pages[$type].hu.slug}
-				<a rel="external" sapper-noscroll aria-current="{'hu' == [$lang] ? 'page' : undefined}" href="{pages[$type].hu.slug}" hreflang="hu"><small>hu</small></a>
+				<a rel="external" sapper-noscroll aria-current="{'hu' == [$lang] ? 'page' : undefined}" href="{$type == 'index' ? '/' : pages[$type].hu.slug}" hreflang="hu"><small>hu</small></a>
 			{:else}
-				<a rel="external" aria-expanded="false" href="{pages.index.hu.slug}" hreflang="hu"><small>hu</small></a>
+				<a rel="external" aria-expanded="false" href="/" hreflang="hu"><small>hu</small></a>
       {/if}</li>
 		</ul>
 	</div>
