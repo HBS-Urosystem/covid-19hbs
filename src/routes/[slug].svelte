@@ -44,10 +44,10 @@
 	$: if (mounted && post) {
 		document.querySelector('html').lang = post.lang
 	}
-	$lang = post.lang
-	$type = post.type
-	$tagline = post.title
-	$hero = post.hero || undefined
+	$: $lang = post.lang
+	$: $type = post.type
+	$: $tagline = post.title
+	$: $hero = post.hero || undefined
 	/*document.querySelector('meta[name="keywords"]').setAttribute("content", post.keywords || meta.k[$lang])
 	document.querySelector('meta[name="description"]').setAttribute("content", post.description || meta.d[$lang])*/
 	//window.lang = $lang
