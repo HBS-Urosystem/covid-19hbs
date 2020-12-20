@@ -20,7 +20,7 @@
 
 	<h2>{post.heading}</h2>
 
-	<form name="quoteform" method="POST">
+	<form name="quoteform" method="POST" action="/thankyou#content">
 		<!-- <fieldset> -->
 		<input type='hidden' name='form-name' value='quoteform' />
 		<label>{post.name}

@@ -21,7 +21,7 @@
   <h2>{post.heading}</h2>
   <h4>{post.subhead}</h4>
 
-  <form name="distributor" method="POST">
+  <form name="distributor" method="POST" action="/thankyou#content">
     <!-- <fieldset> -->
     <input type='hidden' name='form-name' value='distributor' />
     <label>{post.name}
