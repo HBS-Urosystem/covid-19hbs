@@ -1,6 +1,7 @@
 <script context="module">
 	import { lang } from '../stores.js'
 	import { findCTA } from '../cta.js'
+	import Modal from './Modal.svelte';
 </script>
 
 <script>
@@ -11,12 +12,33 @@
 		cta = findCTA(title)
 		//console.log(cta[$lang])
 	}
+	let showModal = false;
 </script>
 
 <aside>
 	{@html cta[$lang].html}
+	{#if $lang == 'hu'}
+	<button on:click="{() => showModal = true}">{cta[$lang].button}</button>
+	{:else}
 	<button><a href="{cta[$lang].link}">{cta[$lang].button}</a></button>
+	{/if}
 </aside>
+
+{#if showModal}
+	<Modal on:close="{() => showModal = false}">
+		<h2 slot="header">
+			Kedves érdeklődő!
+		</h2>
+
+		<p>Az ünnepek alatt a tesztek értékesítésével hivatalos partnerünk, a <b>medexim.hu</b> foglalkozik.</p>
+		<p>Kattintson a Vásárlás gombra, vagy tovább az Ajánlatkéréshez.</p>
+
+		<div slot="buttons">
+			<button><a href="https://medexim.hu/" rel="external noopener" target="_blank">Vásárlás</a></button>
+			<button><a href="{cta[$lang].link}">{cta[$lang].button}</a></button>
+		</div>
+	</Modal>
+{/if}
 
 <style>
 	aside {
@@ -44,5 +66,11 @@
 
 	aside :global(ul) {
 		text-align: left;
+	}
+
+	div {
+		display: flex;
+		justify-content: space-evenly;
+		flex-wrap: wrap;
 	}
 </style>
