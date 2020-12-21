@@ -112,6 +112,23 @@
 	{/if}
 </svelte:head>
 
+{#if $lang == 'hu'}
+	<aside class="temp">
+		<h2>
+			Kedves érdeklődő!
+		</h2>
+
+		<p>Az ünnepek alatt a tesztek értékesítésével hivatalos partnerünk, a <b>medexim.hu</b> foglalkozik.</p>
+		<p>Kattintson a Vásárlás gombra, vagy tovább az Ajánlatkéréshez.</p>
+
+		<div class="buttons">
+			<button><a href="https://medexim.hu/" rel="external noopener" target="_blank">Vásárlás</a></button>
+			<button><a href="/ajanlatkeres">Ajánlatkérés</a></button>
+		</div>
+	</aside>
+{/if}
+
+
 {#if post.intro}
 <article>
 	{#if post.subtitle}
@@ -207,8 +224,28 @@
 	{/if}
 </figure> -->
 <style>
-	/* aside > figcaption {
-		text-align: left;
-	} */
+	aside.temp {
+		background-color: var(--dark75);
+    background-image: linear-gradient(315deg, var(--light50) 0%, var(--txt50));
+		text-shadow: 1px 1px 2px var(--dark);
+		padding: var(--gutter);
+		border: solid var(--light);
+		border-width: 2px 4px;
+    border-radius: 4px;
+		font-weight: bolder;
+		text-align: center;
+    z-index: 1;
+	}
+  
+	div.buttons {
+		display: flex;
+		justify-content: space-evenly;
+		flex-wrap: wrap;
+	}
+	div.buttons button {
+    white-space: nowrap;
+    margin: var(--gutter) auto;
+	}
+
 
 </style>
