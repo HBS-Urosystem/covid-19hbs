@@ -66,10 +66,10 @@
 		position: absolute;
 		position: fixed;
 		left: 50%;
-		top: 50%;
+		top: calc(50% + var(--gutter2));
 		width: calc(100vw - var(--spacer));
 		max-width: 32em;
-		max-height: calc(100vh - var(--spacer));
+		max-height: calc(100vh - var(--spacer2));
 		overflow: auto;
 		transform: translate(-50%,-50%);
 
@@ -82,12 +82,9 @@
     border-radius: 4px;
 		font-weight: bolder;
 		text-align: center;
+    z-index: 1;
 	}
   hr {
     border-color: var(--light);
   }
-	button {
-		display: block;
-    white-space: nowrap;
-	}
 </style>

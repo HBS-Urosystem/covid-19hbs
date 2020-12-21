@@ -73,4 +73,8 @@
 		justify-content: space-evenly;
 		flex-wrap: wrap;
 	}
+	button {
+    white-space: nowrap;
+    margin: var(--gutter) auto;
+	}
 </style>

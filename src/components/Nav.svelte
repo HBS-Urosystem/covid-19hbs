@@ -131,7 +131,12 @@
 		position: sticky;
 		top: 0;
 		width: 100%;
-		z-index: 1;
+		z-index: 2;
+	}
+	@media (max-height: 419px) {
+		nav {
+			top: var(--spacer-);
+		}
 	}
 	nav div {
 		max-width: 80ch;
