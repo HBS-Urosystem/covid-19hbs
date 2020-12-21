@@ -118,8 +118,8 @@
 			Kedves érdeklődő!
 		</h2>
 
-		<p>Az ünnepek alatt a tesztek értékesítésével hivatalos partnerünk, a <b>medexim.hu</b> foglalkozik.</p>
-		<p>Kattintson a Vásárlás gombra, vagy tovább az Ajánlatkéréshez.</p>
+		<p>25–200 db (1 doboz=25db) közötti megrendelés esetén kattintson a Vásárlás gombra.<br>Az ünnepek alatt a tesztek értékesítésével hivatalos partnerünk, a medexim.hu foglalkozik</p>
+		<p>200 db (8 doboz) feletti megrendelés esetén kérjen árajánlatot.<br>Ajánlatkérésüket az ünnepek alatt is megválaszoljuk.</p>
 
 		<div class="buttons">
 			<button><a href="https://medexim.hu/" rel="external noopener" target="_blank">Vásárlás</a></button>
