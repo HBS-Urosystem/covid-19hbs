@@ -117,10 +117,10 @@
 		<h2>
 			Kedves érdeklődő!
 		</h2>
-
-		<p>25–200 db (1 doboz=25db) közötti megrendelés esetén kattintson a Vásárlás gombra.<br>Az ünnepek alatt a tesztek értékesítésével hivatalos partnerünk, a medexim.hu foglalkozik</p>
-		<p>200 db (8 doboz) feletti megrendelés esetén kérjen árajánlatot.<br>Ajánlatkérésüket az ünnepek alatt is megválaszoljuk.</p>
-
+		<ul>
+			<li>25–200 db (1 doboz=25db) közötti megrendelés esetén kattintson a Vásárlás gombra.<br>Az ünnepek alatt a tesztek értékesítésével hivatalos partnerünk, a medexim.hu foglalkozik</li>
+			<li>200 db (8 doboz) feletti megrendelés esetén kérjen árajánlatot.<br>Ajánlatkérésüket az ünnepek alatt is megválaszoljuk.</li>
+		</ul>
 		<div class="buttons">
 			<button><a href="https://medexim.hu/" rel="external noopener" target="_blank">Vásárlás</a></button>
 			<button><a href="/ajanlatkeres">Ajánlatkérés</a></button>
@@ -233,7 +233,7 @@
 		border-width: 2px 4px;
     border-radius: 4px;
 		font-weight: bolder;
-		text-align: center;
+		/*text-align: center;*/
     z-index: 1;
 	}
   

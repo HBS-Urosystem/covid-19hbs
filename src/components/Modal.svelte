@@ -81,7 +81,7 @@
 		border-width: 2px 4px;
     border-radius: 4px;
 		font-weight: bolder;
-		text-align: center;
+		/*text-align: center;*/
     z-index: 1;
 	}
   hr {
