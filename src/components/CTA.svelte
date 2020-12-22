@@ -31,12 +31,12 @@
 		</h2>
 
 		<ul>
-			<li>25–200 db (1 doboz=25db) közötti megrendelés esetén kattintson a Vásárlás gombra. Az ünnepek alatt a tesztek értékesítésével hivatalos partnerünk, a medexim.hu foglalkozik</li>
+			<li>A 25–200 db (1 doboz=25db) közötti megrendeléseket az ünnepek alatt hivatalos partnerünk, a <a href="https://medexim.hu/" rel="external noopener" target="_blank">medexim.hu</a> szolgálja ki.</li>
 			<li>200 db (8 doboz) feletti megrendelés esetén kérjen árajánlatot. Ajánlatkérésüket az ünnepek alatt is megválaszoljuk.</li>
 		</ul>
 
 		<div slot="buttons">
-			<button><a href="https://medexim.hu/" rel="external noopener" target="_blank">Vásárlás</a></button>
+			<button><a href="https://medexim.hu/" rel="external noopener" target="_blank">Vásárlás a medexim.hu oldalon</a></button>
 			<button><a href="{cta[$lang].link}">{cta[$lang].button}</a></button>
 		</div>
 	</Modal>
