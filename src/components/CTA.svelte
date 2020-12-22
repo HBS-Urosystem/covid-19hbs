@@ -1,5 +1,5 @@
 <script context="module">
-	import { lang } from '../stores.js'
+	import { lang, type } from '../stores.js'
 	import { findCTA } from '../cta.js'
 	import Modal from './Modal.svelte';
 </script>
@@ -17,7 +17,7 @@
 
 <aside>
 	{@html cta[$lang].html}
-	{#if $lang == 'hu'}
+	{#if $lang == 'hu' && $type}
 	<button on:click="{() => showModal = true}">{cta[$lang].button}</button>
 	{:else}
 	<button><a href="{cta[$lang].link}">{cta[$lang].button}</a></button>
