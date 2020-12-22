@@ -60,6 +60,7 @@
 
 <svelte:head>
 	<title>{post.title}</title>
+	<link rel="canonical" href="https://covid-19.hbs.hu/">
 	<meta lang="{$lang}" name="description" content="{post.description || meta.d[$lang]}" />
 	<meta lang="{$lang}" name="keywords" content="{post.keywords || meta.k[$lang]}" />
 	{#if $lang == 'en'}
