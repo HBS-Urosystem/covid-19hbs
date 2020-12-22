@@ -13,7 +13,7 @@ ag_note: "Quantité minimal de commande: 50 boîte (1 boîte contient 25 tests)"
 ig_qty: Quantité des tests anticorps
 ig_min: 50
 ig_note: "Quantité minimal de commande: 50 boîte (1 boîte contient 25 tests)"
-description: Commentaire
+message: Commentaire
 button: Envoyer
 composition: Composition
 boxing: "1 boîte contient:"

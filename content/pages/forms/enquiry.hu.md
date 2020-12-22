@@ -13,7 +13,7 @@ ag_note: "Min. megrendelési egység: 1 doboz (25 db)"
 ig_qty: Szerológiai gyorsteszt mennyisége (doboz)
 ig_min: 0
 ig_note: "Min. megrendelési egység: 1 doboz (25 db)"
-description: Megjegyzések
+message: Üzenet, kérdés
 button: Küldés
 composition: Kiszerelés
 boxing: "1 doboz tartalma:"

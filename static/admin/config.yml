@@ -477,7 +477,7 @@ collections:
         widget: string
         i18n: true
       - label: Textarea
-        name: description
+        name: message
         widget: string
         i18n: true
       - name: button

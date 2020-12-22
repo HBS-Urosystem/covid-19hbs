@@ -13,7 +13,7 @@ ag_note: "Min. order quantity: 50 boxes (1 box contains 25 tests)"
 ig_qty: Amount of IgG/IgM Rapid Tests
 ig_min: 50
 ig_note: "Min. order quantity: 50 boxes (1 box contains 25 tests)"
-description: Comments
+message: Comments, questions
 button: Enquiry
 composition: Composition
 boxing: "1 box contains:"

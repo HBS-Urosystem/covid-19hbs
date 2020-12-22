@@ -41,7 +41,7 @@
     </label>
     <!-- </fieldset> -->
     <fieldset>
-      <label for="description">{post.description}</label>
+      <label for="description">{post.message}</label>
       <textarea id="description" name="description"></textarea>
     </fieldset>
     <fieldset>

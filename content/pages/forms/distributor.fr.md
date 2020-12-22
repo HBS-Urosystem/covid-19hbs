@@ -8,7 +8,7 @@ name: Nom du contact
 company: Nom de la société
 email: E-mail
 phone: Téléphone
-description: Commentaire
+message: Commentaire
 consent: J'ai lu et accepté la&nbsp;<a href="/confidentialité" target="_blank">politique de confidentialité</a>.
 button: Envoyer
 ---
