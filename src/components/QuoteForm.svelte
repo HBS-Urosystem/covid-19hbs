@@ -16,6 +16,21 @@
 <svelte:head>
 </svelte:head>
 
+{#if $lang == 'hu'}
+	<aside class="temp">
+		<h2>
+			Kedves érdeklődő!
+		</h2>
+		<ul>
+			<li>A 25–200 db (1 doboz=25db) közötti megrendeléseket az ünnepek alatt hivatalos partnerünk, a <a href="https://medexim.hu/" rel="external noopener" target="_blank"><b>medexim.hu</b></a> szolgálja ki.</li>
+			<li>200 db (8 doboz) feletti megrendelés esetén kérjen árajánlatot. Ajánlatkérésüket az ünnepek alatt is megválaszoljuk.</li>
+		</ul>
+		<div class="buttons">
+			<button><a href="https://medexim.hu/" rel="external noopener" target="_blank">Vásárlás a <u>medexim.hu</u> oldalon</a></button>
+		</div>
+	</aside>
+{/if}
+
 <article>
 
 	<h2>{post.heading}</h2>
@@ -116,6 +131,29 @@
 	</center>
 </article>
 <style>
+	aside.temp {
+		background-color: var(--dark75);
+    background-image: linear-gradient(315deg, var(--light50) 0%, var(--txt50));
+		text-shadow: 1px 1px 2px var(--dark);
+		padding: var(--gutter);
+		border: solid var(--light);
+		border-width: 2px 4px;
+    border-radius: 4px;
+		font-weight: bolder;
+		/*text-align: center;*/
+    z-index: 1;
+	}
+  
+	div.buttons {
+		display: flex;
+		justify-content: space-evenly;
+		flex-wrap: wrap;
+	}
+	div.buttons button {
+    white-space: nowrap;
+    margin: var(--gutter) auto;
+	}
+
   form {
     padding: var(--gutter);
     border: solid var(--light);
