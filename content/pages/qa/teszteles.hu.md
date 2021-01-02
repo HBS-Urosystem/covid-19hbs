@@ -3,7 +3,7 @@ type: business
 slug: modszeres-teszteles
 title: COVID-19 módszeres tesztelés
 subtitle: A 2020. őszi–téli COVID-19 helyzet veszélyeiről
-menutitle: Módszeress tesztelés
+menutitle: Módszeres tesztelés
 intro:
   text: ''
   highlight: >-
