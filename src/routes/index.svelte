@@ -119,8 +119,8 @@
 			Kedves érdeklődő!
 		</h2>
 		<ul>
-			<li>A 25–200 db (1 doboz=25db) közötti megrendeléseket az ünnepek alatt hivatalos partnerünk, a <a href="https://medexim.hu/" rel="external noopener" target="_blank"><b>medexim.hu</b></a> szolgálja ki.</li>
-			<li>200 db (8 doboz) feletti megrendelés esetén kérjen árajánlatot. Ajánlatkérésüket az ünnepek alatt is megválaszoljuk.</li>
+			<li>A 25–200 db (1 doboz=25db) közötti megrendeléseket hivatalos partnerünk, a <a href="https://medexim.hu/" rel="external noopener" target="_blank"><b>medexim.hu</b></a> szolgálja ki.</li>
+			<li>200 db (8 doboz) feletti megrendelés esetén kérje árajánlatunkat.</li>
 		</ul>
 		<div class="buttons">
 			<button><a href="https://medexim.hu/" rel="external noopener" target="_blank">Vásárlás a <u>medexim.hu</u> oldalon</a></button>
