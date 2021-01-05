@@ -142,7 +142,7 @@
 	}
 	nav div {
 		/*max-width: 80ch;*/
-    margin: 0 4ch;
+    margin: 0 0 0 4ch;
 		display: flex;
     flex-wrap: nowrap;
 		/* justify-content: space-between; */
@@ -166,6 +166,7 @@
 	}
 	ul:last-of-type {
 		margin-left: auto;
+		margin-right: 4ch;
     box-shadow: -8px -16px 16px black;
 		background-image: linear-gradient(-90deg, var(--dark) 0%, var(--toolbg));
 		z-index: 1;
