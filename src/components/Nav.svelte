@@ -141,18 +141,18 @@
 		}
 	}
 	nav div {
-		/*max-width: 80ch;*/
-    margin: 0 0 0 4ch;
+		max-width: 98ch;
+    margin: 0 auto;
 		display: flex;
     flex-wrap: nowrap;
-		/* justify-content: space-between; */
+		/*justify-content: space-between;*/
 		overflow-x: auto;
 	}
 
 	ul {
 		margin-bottom: 0;
 		white-space: nowrap;
-		max-width: 80ch;
+		/*max-width: 80ch;*/
 		font-weight: bolder;
 		text-transform: uppercase;
 		padding: 0;
@@ -168,7 +168,7 @@
 		margin-left: auto;
 		margin-right: 4ch;
     box-shadow: -8px -16px 16px black;
-		background-image: linear-gradient(-90deg, var(--dark) 0%, var(--toolbg));
+		background-image: linear-gradient(-90deg, var(--dark) 25%, var(--toolbg));
 		z-index: 1;
 		position: sticky;
 		right: -10ch;
