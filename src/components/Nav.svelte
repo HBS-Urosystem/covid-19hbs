@@ -202,6 +202,7 @@
 	}
 	ul:last-of-type li :global(svg) {
 		margin: var(--gutter) var(--gutterx);
+		height: 100%;
 	}
 	div ul:first-child li:first-child {
 		line-height: .5;
