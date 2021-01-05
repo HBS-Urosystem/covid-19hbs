@@ -73,6 +73,7 @@
 		<!-- css: sticky, left: 0; right: 0, width: 2rem -->
 
 		<ul>
+			<li>{@html svgs['Langs']}</li>
 			<li>{#if $type && pages[$type].en && pages[$type].en.slug}
 				<a rel="external" sapper-noscroll aria-current="{'en' == [$lang] ? 'page' : undefined}" href="{pages[$type].en.slug}" hreflang="en"><small>en</small></a>
 			{:else}
@@ -127,7 +128,8 @@
 		background-image: linear-gradient(315deg, var(--light50) 0%, var(--txt50));
 		border-bottom: solid 4px white;
 		font-weight: 300;
-		color: var(--toolbg);
+		color: var(--txtcolor);
+		fill: var(--txtcolor);
 		position: sticky;
 		top: 0;
 		width: 100%;
@@ -144,11 +146,11 @@
 		display: flex;
     flex-wrap: nowrap;
 		/* justify-content: space-between; */
+		overflow-x: auto;
 	}
 
 	ul {
 		margin-bottom: 0;
-		overflow-x: auto;
 		white-space: nowrap;
 		max-width: 80ch;
 		font-weight: bolder;
@@ -157,16 +159,21 @@
 		/* justify-content: center; */
 		display: flex;
 		flex-wrap: nowrap;
+		flex-shrink: 0;
 	}
 	ul:first-of-type {
 		margin-right: auto;
 	}
 	ul:last-of-type {
 		margin-left: auto;
-		flex-shrink: 0;
     box-shadow: -8px -16px 16px black;
 		background-color: var(--toolbg);
 		z-index: 1;
+		position: sticky;
+		right: -10ch;
+	}
+	ul:last-of-type:hover {
+		right: 0;
 	}
 
 	li {
@@ -183,7 +190,7 @@
 		display: inline-block;
 		text-decoration: none;
 		font-weight: bolder;
-		color: var(--txtcolor);
+		/*color: var(--txtcolor);*/
 		text-align: center;
 	}
 	ul:first-of-type li a {
@@ -192,7 +199,9 @@
 	ul:last-of-type li a {
 		padding: var(--gutter) var(--gutterx);
 	}
-
+	ul:last-of-type li :global(svg) {
+		margin: var(--gutter) var(--gutterx);
+	}
 	div ul:first-child li:first-child {
 		line-height: .5;
 	}
