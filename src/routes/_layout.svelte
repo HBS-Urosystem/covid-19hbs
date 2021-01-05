@@ -35,10 +35,10 @@
 	<footer>
 		<a name="logo" sapper-noscroll href="https://hbs.hu" rel="noopener" target="_blank">
 			<img loading="lazy" src="uploads/hbs-logo-medical.png" alt="hbs logo">
-			<h6>HBS Medical Kft.</h6>
+			<h6>HBS Urológia Zrt.</h6>
 		</a>
 		<small>Székhely: 1137 Budapest, Szent István park 26. fszt. 2.</small>
-		<small>Adószám: 28947882-2-41</small>
+		<small>Adószám: 22923820-2-41</small>
 		<small>Web: <a href="https://hbs.hu" rel="noopener" target="_blank">https://hbs.hu</a></small>
 	</footer>
 </main>
