@@ -33,10 +33,9 @@ intro:
   text: >-
     To slow the pandemic down and to minimize the economic loss caused by the
     COVID-19, **it is essential to test people regularly and in a systematic
-    way.** Our company, **Happy Business Services Ltd. has been distributing
-    both antibody and antigen rapid test cassettes**. Both of them can be
-    performed quickly and can be applied by healthcare professionals at point of
-    care (POC) sites.
+    way.** Our company, **HBS Medical Ltd. has been distributing both antibody
+    and antigen rapid test cassettes**. Both of them can be performed quickly
+    and can be applied by healthcare professionals at point of care (POC) sites.
 
 
     **Antigen tests** are capable of identifying COVID-19 at the **early phase** of the infection, whereas **antibody tests** can detect it in the **late phase and past infections**, too. In this way, the two tests **complement each other perfectly**.
@@ -52,12 +51,12 @@ info:
         Services>)** certificate. This testifies that the financial risk of
         co-operating with our company is low. Only the 7.44% of the Hungarian
         companies have obtained this certificate.
-  text: Our company, **[Happy Business Services Zrt.](https://hbs.hu)** is one of
-    the major importers of rapid tests. Our supplier, Hangzhou Clongene Biotech
-    Co. Ltd. has been manufacturing more than 1,000 types of microbiological
-    test materials and products. We have sold hundreds of thousands of tests in
-    Hungary, supplied state institutions, healthcare institutions,
-    municipalities and companies, too.
+  text: Our company, **[HBS Medical Ltd.](https://hbs.hu)**, is one of the major
+    importers of rapid tests. Our supplier, [Hangzhou Clongene Biotech Co.
+    Ltd.](http://en.clongene.com/) has been manufacturing more than 1,000 types
+    of microbiological test materials and products. We have sold hundreds of
+    thousands of tests in Hungary, supplied state institutions, healthcare
+    institutions, municipalities and companies, too.
 references:
   links:
     - url: https://www.affidea.hu/covid-19-szures

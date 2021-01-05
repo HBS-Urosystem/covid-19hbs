@@ -33,10 +33,10 @@ intro:
   text: >-
     Pour ralentir la pandémie et minimiser les pertes économiques causées par le
     COVID-19, il est essentiel de tester les personnes régulièrement et de
-    manière systématique. Notre société, **Happy Business Services Ltd.,
-    distribue des cassettes de test rapide d'anticorps et d'antigène.** Les deux
-    peuvent être exécutés rapidement et peuvent être appliqués par les
-    professionnels de la santé sur les sites de soins.
+    manière systématique. Notre société, **HBS Medical Ltd., distribue des
+    cassettes de test rapide d'anticorps et d'antigène.** Les deux peuvent être
+    exécutés rapidement et peuvent être appliqués par les professionnels de la
+    santé sur les sites de soins.
 
 
     **Les tests d'antigène** sont capables d'identifier le COVID-19 **à la phase précoce** de l'infection, tandis que les **tests d'anticorps** peuvent également le détecter à **la phase tardive et dans les infections passées.** De cette manière, les deux tests **se complètent parfaitement.**
@@ -53,12 +53,13 @@ info:
         Services>)**. Cela démontre que le risque financier lié à la coopération
         avec notre entreprise est faible. Seulement 7,44% des entreprises
         hongroises ont obtenu ce certificat.
-  text: Notre société, **[Happy Business Services Zrt.](https://hbs.hu)** est l'un
-    des principaux importateurs de tests rapides. Notre fournisseur, Hangzhou
-    Clongene Biotech Co. Ltd., fabrique plus de 1 000 types de matériaux et
-    produits de test microbiologique. Nous avons vendu des centaines de milliers
-    de tests en Hongrie, fourni des institutions publiques, des établissements
-    de santé, des municipalités et des entreprises.
+  text: Notre société, **[HBS Medical Ltd.](https://hbs.hu)** est l'un des
+    principaux importateurs de tests rapides. Notre fournisseur, [Hangzhou
+    Clongene Biotech Co. Ltd.,](http://en.clongene.com/) fabrique plus de 1 000
+    types de matériaux et produits de test microbiologique. Nous avons vendu des
+    centaines de milliers de tests en Hongrie, fourni des institutions
+    publiques, des établissements de santé, des municipalités et des
+    entreprises.
 references:
   links:
     - url: https://www.affidea.hu/covid-19-szures

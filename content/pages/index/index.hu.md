@@ -51,9 +51,9 @@ info:
         letölthető](/uploads/20201015-happy-business-services-zrt.m.pdf)) a
         magyar cégeknek csak a 7,44%-a rendelkezik.
   text: >-
-    Cégünk, a **[Happy Business Services Zrt.](https://hbs.hu)** orvostechnikai
-    divíziója, az egyik jelentős importőre a **COVID-19 szerológiai és
-    antigén-gyorsteszteknek**. Szállítónk, a [Hangzhou Clongene Biotech Co.,
+    Orvostechnikai cégünk, a **[HBS Medical Kft.](https://hbs.hu)**, az egyik
+    jelentős importőre a **COVID-19 szerológiai és antigén-gyorsteszteknek**.
+    Szállítónk, a [Hangzhou Clongene Biotech Co.,
     Ltd.](http://en.clongene.com/), több mint 1000-féle mikrobiológiai
     tesztanyagot és készterméket gyárt.
 
