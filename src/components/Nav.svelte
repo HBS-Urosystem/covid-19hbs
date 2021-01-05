@@ -171,6 +171,7 @@
 		z-index: 1;
 		position: sticky;
 		right: -10ch;
+		transition: right .5s;
 	}
 	ul:last-of-type:hover {
 		right: 0;
