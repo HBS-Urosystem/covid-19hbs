@@ -162,7 +162,7 @@
 		flex-shrink: 0;
 	}
 	ul:first-of-type {
-		margin-right: auto;
+		margin-right: 6ch;
 	}
 	ul:last-of-type {
 		margin-left: auto;
