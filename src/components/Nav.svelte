@@ -164,7 +164,8 @@
 	ul:last-of-type {
 		margin-left: auto;
 		flex-shrink: 0;
-    box-shadow: 0px -16px 16px black;
+    box-shadow: -8px -16px 16px black;
+		background-color: var(--toolbg);
 		z-index: 1;
 	}
 
