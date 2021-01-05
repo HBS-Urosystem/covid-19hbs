@@ -125,7 +125,7 @@
 <style>
 	nav {
 		background-color: var(--dark);
-		background-image: linear-gradient(315deg, var(--light50) 0%, var(--txt50));
+		/*background-image: linear-gradient(315deg, var(--light50) 0%, var(--txt50));*/
 		border-bottom: solid 4px white;
 		font-weight: 300;
 		color: var(--txtcolor);
@@ -141,8 +141,8 @@
 		}
 	}
 	nav div {
-		max-width: 80ch;
-    margin: 0 auto;
+		/*max-width: 80ch;*/
+    margin: 0 4ch;
 		display: flex;
     flex-wrap: nowrap;
 		/* justify-content: space-between; */
@@ -167,7 +167,7 @@
 	ul:last-of-type {
 		margin-left: auto;
     box-shadow: -8px -16px 16px black;
-		background-color: var(--toolbg);
+		background-image: linear-gradient(-90deg, var(--dark) 0%, var(--toolbg));
 		z-index: 1;
 		position: sticky;
 		right: -10ch;
