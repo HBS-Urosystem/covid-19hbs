@@ -2,525 +2,525 @@
 type: privacy
 slug: confidentialité
 fallback: en
-title: Privacy Policy
-menutitle: Privacy Policy
+title: Politique de confidentialité
+menutitle: Politique de confidentialité
 intro:
   text: >-
-    In accordance with the General Data Protection Regulation (EU) 2016/679
-    (GDPR)
+    Conformément au règlement général sur la protection des données (UE)
+    2016/679 (RGPD)
 
 
-    – On the protection of natural persons regarding the controlling of their personal data, and on the freedom of transfer of these data in the EU –
+    – Sur la protection des personnes physiques concernant le contrôle de leurs données à caractère personnel et sur la liberté de transfert de ces données dans l'UE -
 ---
 ## 1. Introduction
 
-1.1. Hereby we are to inform you about the privacy policy of Happy Business Services Ltd. (henceforth: HBS or Company).
+1.1. Par la présente, nous devons vous informer de la politique de confidentialité de Happy Business Services Ltd. (désormais: HBS ou société).
 
-1.2. Please, read this text carefully, since it contains vital information about the way how your personal data is being controlled.
+1.2. Veuillez lire attentivement ce texte, car il contient des informations vitales sur la manière dont vos données personnelles sont contrôlées.
 
-1.3. The scope of this Privacy Policy is the data controlling of natural persons only. The data of Legal Persons or any other organizations that do not count as Legal Persons are not considered to be personal.
+1.3. La portée de cette politique de confidentialité est le contrôle des données des personnes physiques uniquement. Les données des personnes morales ou de toute autre organisation qui ne sont pas considérées comme des personnes morales ne sont pas considérées comme personnelles.
 
-1.4. Regarding this Privacy Policy, the following legal acts are applied:
+1.4. En ce qui concerne cette politique de confidentialité, les actes juridiques suivants sont appliqués:
 
-* The General Data Protection Regulation (EU) decree 2016/679 (also known as GDPR), whose text can be found here: [https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32016R0679&qid=1605602506800](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%253A32016R0679&qid=1605602506800)
-* The Hungarian Act CXII. of 2011 (Information Act; Infótörvény). 
+* Le décret du règlement général sur la protection des données (UE) 2016/679 (également appelé RGPD), dont le texte peut être trouvé ici: [https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX% 3A32016R0679&qid=1605602506800](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%253A32016R0679&qid=1605602506800)
+* La loi hongroise CXII. de 2011 (Loi sur l'information; Infótörvény).
 
-## 2. Concepts and Definitions
+## 2. Concepts et définitions
 
-2.1. **The Data of the Data Controller**
+2.1. ** Les données du responsable du traitement **
 
-Name: Happy Business Services Ltd.
+Nom: Happy Business Services Ltd.
 
-Address: HU-1137, 18. Szent István körút, Budapest, Hungary
+Adresse: HU-1137, 18. Szent István körút, Budapest, Hongrie
 
-E-mail: info@hbs.hu
+Courriel: info@hbs.hu
 
-Company registration number: 01-10-046757
+Numéro d'enregistrement de la société: 01-10-046757
 
-VAT Number: 22923820-2-41
+Numéro de TVA: 22923820-2-41
 
-2.2. Person Concerned: any person who is or can be identified by their data which are being controlled. 
+2.2. Personne concernée: toute personne qui est ou peut être identifiée par ses données contrôlées.
 
-2.3. Natural Person: any living person subject of personal rights, such as the protection of their personal data. In this Privacy Policy, any person who visits the webpage and/or gives their personal data thereon counts as Natural Person.
+2.3. Personne physique: toute personne vivante soumise à des droits personnels, tels que la protection de ses données personnelles. Dans cette politique de confidentialité, toute personne qui visite la page Web et / ou donne ses données personnelles à ce sujet est considérée comme une personne physique.
 
-2.4. Personal Data: any information which refers to a person, especially but not limited to their name, address (postal or email), telephone number, identification number(s) given by any authorities or companies; any data referring to the person’s physical, physiological, mental, economical, cultural or social identity and any conclusion regarding the person drawn from any of their data.
+2.4. Données personnelles: toute information qui se réfère à une personne, notamment mais sans s'y limiter, son nom, adresse (postale ou e-mail), numéro de téléphone, numéro (s) d'identification donné par toute autorité ou entreprise; toute donnée relative à l’identité physique, physiologique, mentale, économique, culturelle ou sociale de la personne et toute conclusion concernant la personne tirée de l’une de ses données.
 
-2.5. Data Controlling: any automatized or manually performed process applied to data regardless of the method of processing. The term includes collecting, recording, systematization, storing, altering, applying, query from public or private databases, transferring, publishing, harmonizing, attaching/connecting, deleting, destroying and the prevention of the further use of the data.
+2.5. Contrôle des données: tout processus automatisé ou exécuté manuellement appliqué aux données quelle que soit la méthode de traitement. Le terme comprend la collecte, l'enregistrement, la systématisation, le stockage, la modification, l'application, la requête à partir de bases de données publiques ou privées, le transfert, la publication, l'harmonisation, la connexion / connexion, la suppression, la destruction et la prévention de l'utilisation ultérieure des données.
 
-2.6. Data Processing: any technical or technological operation used for data controlling, regardless of the method and tools applied, or the place where the operation happens.
+2.6. Traitement des données: toute opération technique ou technologique utilisée pour le contrôle des données, quels que soient la méthode et les outils appliqués, ou le lieu où se déroule l'opération.
 
-2.7. Data Processor: any natural or legal person, or an organization without a legal personality who is assigned by the Data Controller to the task of processing data. Data processing may happen based on a contract between the data processor and HBS.
+2.7. Processeur de données: toute personne physique ou morale, ou une organisation sans personnalité juridique qui est affectée par le contrôleur de données à la tâche de traitement des données. Le traitement des données peut avoir lieu sur la base d'un contrat entre le sous-traitant et HBS.
 
-2.8 Data Deleting: aka. Erasure, making data unrecognizable in a way which guarantees that the particular data cannot be recovered in the future.
+2.8 Suppression de données: aka. Effacement, rendant les données méconnaissables d'une manière qui garantit que les données particulières ne pourront pas être récupérées à l'avenir.
 
-2.9. Consent:an unambiguous express from the side of a Natural Person which has been performed voluntarily, clearly and definitely based on an adequate form of informing, in which he/she agrees that their Personal Data can be controlled by the Data Controller. The scope of a consent may be all personal data, or certain processes of data controlling.
+2.9. Consentement: un express sans ambiguïté de la part d'une personne physique qui a été effectué volontairement, clairement et définitivement sur la base d'une forme adéquate d'information, dans lequel il / elle accepte que ses données personnelles puissent être contrôlées par le contrôleur de données. La portée d'un consentement peut concerner toutes les données personnelles ou certains processus de contrôle des données.
 
-2.10. Profiling: an automatized form of data processing of personal data whose aim is to interpret, evaluate or predict certain personal parameters of a natural person (e.g. preferences, interests). 
+2.10. Profilage: forme automatisée de traitement de données à caractère personnel dont le but est d'interpréter, d'évaluer ou de prédire certains paramètres personnels d'une personne physique (par exemple, les préférences, les intérêts).
 
-2.11. Objection aka. Protest: a notice given by a person so that they express an objection to the controlling of their personal data, or they express a request of ceasing of Data Controlling, or deleting their data.
+2.11. Objection aka. Réclamation: un avis donné par une personne afin qu'elle exprime une objection au contrôle de ses données personnelles, ou qu'elle exprime une demande de cessation du contrôle des données, ou de suppression de ses données.
 
-2.12. Data Transferring: making data available for a certain third party. 
+2.12. Transfert de données: rendre les données disponibles pour un certain tiers.
 
-2.13. Data Breach aka. Breach: an incident which leads to security issues, which means the loss, alteration or destruction of data (accidentally or illicit), and/or the illicit publishing or accessing to data. 
+2.13. Data Breach aka. Violation: un incident qui entraîne des problèmes de sécurité, c'est-à-dire la perte, l'altération ou la destruction de données (accidentellement ou illicite), et / ou la publication ou l'accès illicites aux données.
 
-2.14. Webpage: <https://covid-19.hbs.hu>, including any of its sub-pages.
+2.14. Page Web: <https://covid-19.hbs.hu>, y compris l'une de ses sous-pages.
 
-## 3. General Information
+## 3. Informations générales
 
-3.1. The legal base of the data controlling performed by HBS is the consent of the person concerned. The person concerned may withdraw their consent anytime. However, the legality of any data controlling prior to the withdrawal remains unaffected. Data confirming the fact of the consent is stored by HBS as long as the consent needs to be proven or any interest of HBS makes it necessary. 
+3.1. La base juridique du contrôle des données effectué par HBS est le consentement de la personne concernée. La personne concernée peut retirer son consentement à tout moment. Cependant, la légalité des données contrôlées avant le retrait reste inchangée. Les données confirmant le fait du consentement sont conservées par HBS tant que le consentement doit être prouvé ou que tout intérêt de HBS le rend nécessaire.
 
-3.2. The person concerned is responsible for the authenticity and accuracy of the data given by them. HBS is not to confirm the authenticity of any data given by the person concerned. HBS shall not be responsible for the consequences of any false or incorrect data given by the person concerned, nor for any damages to the person concerned or any third party caused by these data.
+3.2. La personne concernée est responsable de l'authenticité et de l'exactitude des données qu'elle fournit. HBS ne doit pas confirmer l'authenticité des données fournies par la personne concernée. HBS ne sera pas responsable des conséquences des données fausses ou incorrectes fournies par la personne concernée, ni des dommages causés à la personne concernée ou à un tiers par ces données.
 
-3.3. Unless any law orders it otherwise, HBS shall use the obtained personal data for the purposes, time period and extent defined in this Privacy Policy. 
+3.3. Sauf disposition contraire de la loi, HBS utilisera les données personnelles obtenues aux fins, pour la période et dans l'étendue définies dans la présente politique de confidentialité.
 
-3.4. All data are stored at the following place: Netlify Inc. (325 3rd St, Suite 296, San Francisco, CA 94107, USA)
+3.4. Toutes les données sont stockées à l'endroit suivant: Netlify Inc. (325 3rd St, Suite 296, San Francisco, CA 94107, USA)
 
-## 4. Personal Data Controlling
+## 4. Contrôle des données personnelles
 
-4.1. The Company shall not use any personal data for different purposes to those of defined in this Privacy Policy. Unless any law orders it otherwise or this Privalcy Policy gives different information, the personal data given by the person concerned shall be controlled as long as the person concerned uses the services of the webpage. Deletion shall take place in the shortest possible time after the person concerned has expressed its claim for deletion. Unless any law prohibits it, in case of illicit or misleading data controlling, any criminal act performed by the person concerned, or incoming attack against the system (server), the Company reserves the right to delete the personal data of any person concerned if their registration (to the webpage) ceases to exist. However, in case of any suspicion of a felony or liability of common law the Company reserves the right to store any personal data during the period of the legal procedure. If there is no law or any contradicting statement of this Privacy Policy applied, the Company shall control the personal data given by the person concerned until the person concerned expresses their will for cease controlling their personal data (or until the person concerned unregisters).
+4.1. La Société n'utilisera aucune donnée personnelle à des fins différentes de celles définies dans la présente politique de confidentialité. À moins qu'une loi ne l'ordonne autrement ou que la présente politique de confidentialité ne donne des informations différentes, les données personnelles fournies par la personne concernée seront contrôlées tant que la personne concernée utilise les services de la page Web. La suppression a lieu dans les plus brefs délais après que la personne concernée a exprimé sa demande de suppression. Sauf si une loi l'interdit, en cas de contrôle des données illicites ou trompeuses, de tout acte criminel commis par la personne concernée, ou d'attaque entrante contre le système (serveur), la Société se réserve le droit de supprimer les données personnelles de toute personne concernée si leur l'enregistrement (sur la page Web) cesse d'exister. Cependant, en cas de suspicion de crime ou de responsabilité de droit commun, la Société se réserve le droit de conserver toutes données personnelles pendant la durée de la procédure judiciaire. En l'absence de loi ou de déclaration contradictoire de la présente politique de confidentialité appliquée, la Société contrôlera les données personnelles fournies par la personne concernée jusqu'à ce que la personne concernée exprime sa volonté de cesser de contrôler ses données personnelles (ou jusqu'à ce que la personne concernée se désinscrive).
 
-4.2. The Company shall control any obtained personal data according to the corresponding law and this Privacy Policy. No data shall be transferred to third parties with the exceptions of those stated in this Privacy Policy. In any case the Company is to use any data for any other purposes, the person concerned shall be informed about this fact; shall express their consent thereunto or have the opportunity to express their objection.
+4.2. La Société contrôlera toutes les données personnelles obtenues conformément à la loi correspondante et à la présente politique de confidentialité. Aucune donnée ne sera transférée à des tiers à l'exception de celles indiquées dans la présente politique de confidentialité. Dans tous les cas, la Société doit utiliser des données à d'autres fins, la personne concernée doit être informée de ce fait; y exprime son consentement ou a la possibilité d'exprimer son objection.
 
-4.3. All data obtained by the Company shall be protected with appropriate measurements, especially against unauthorized access, alteration, transferring, publishing, deleting, destroying, unintentional destruction or damage, and unavailability due to any changes to the technological background of data controlling.
+4.3. Toutes les données obtenues par la Société seront protégées par des mesures appropriées, en particulier contre l'accès non autorisé, l'altération, le transfert, la publication, la suppression, la destruction, la destruction ou l'endommagement involontaire, et l'indisponibilité en raison de toute modification du contexte technologique du contrôle des données.
 
-4.4. The system applied by the Company may collect data on the activities of the person concerned in a way that no data collected during this process can be connected to any personal data given by the person concerned, or to any data generated by other webpages and/or services.
+4.4. Le système appliqué par la Société peut collecter des données sur les activités de la personne concernée de manière à ce qu'aucune donnée collectée au cours de ce processus ne puisse être liée à des données personnelles fournies par la personne concernée, ou à des données générées par d'autres pages Web et / ou prestations de service.
 
-4.5. Any personal data may be transferred to any third parties that secede from HBS or merges with HBS. (This is called the legal succession of data controlling.) In case of these events data of the person concerned is being transferred to the necessary extent. No further consent from the person concerned need be obtained, but HBS shall inform the person concerned priorly about the transfer. In case of objection, no data shall be transferred.
+4.5. Toutes les données personnelles peuvent être transférées à des tiers qui se séparent de HBS ou fusionnent avec HBS. (C'est ce qu'on appelle la succession légale du contrôle des données.) Dans le cas de ces événements, les données de la personne concernée sont transférées dans la mesure nécessaire. Aucun autre consentement de la personne concernée n'est nécessaire, mais HBS informera préalablement la personne concernée du transfert. En cas d'objection, aucune donnée ne sera transférée.
 
-4.6. The Controller shall have the right and be obliged to transfer personal data available to and stored by the Controller in a lawful manner to the competent authorities if required to do so by law or by final decisions of authorities. The Controller cannot be hold responsible for such data transfer or for resulting consequences.
+4.6. Le responsable du traitement a le droit et est tenu de transférer les données personnelles disponibles et stockées par le responsable du traitement de manière licite aux autorités compétentes si la loi ou par des décisions finales des autorités l'exigent. Le Responsable du traitement ne peut être tenu responsable d'un tel transfert de données ou des conséquences qui en découlent.
 
-## 5. Cookies and Similar Technologies
+## 5. Cookies et technologies similaires
 
-Our Cookie Policy is available on the following page: <https://covid-19.hbs.hu/cookie-en>
+Notre politique en matière de cookies est disponible sur la page suivante: <https://covid-19.hbs.hu/cookie-en>
 
-## 6. The Cases of Data Controlling
+## 6. Les cas du contrôle des données
 
-6.1 Registration, Logging in and Filling in Forms.
+6.1 Inscription, connexion et remplissage de formulaires.
 
-To visit and use the webpage of the Company no registration is needed. However, the Company reserves the rights to provide content or services in the same webpage which can be visited and/or used only after the visitor have registered, in the future. In this case the following section shall be applied.
+Pour visiter et utiliser la page Web de la Société, aucune inscription n'est nécessaire. Cependant, la Société se réserve le droit de fournir du contenu ou des services dans la même page Web qui ne peuvent être visités et / ou utilisés qu'après l'inscription du visiteur, à l'avenir. Dans ce cas, la section suivante doit être appliquée.
 
-Purpose: enable the service provided by webpage, displaying personalized content and advertisements, compiling databases of statistics, improving the informatic system, protecting the rights of the person concerned. Any data given by the person concerned may be used by the Company for creating user groups so that targeted content and/or advertisements may be displayed for these groups.
+Objectif: activer le service fourni par page Web, afficher un contenu et des publicités personnalisés, compiler des bases de données de statistiques, améliorer le système informatique, protéger les droits de la personne concernée. Toutes les données fournies par la personne concernée peuvent être utilisées par la Société pour créer des groupes d'utilisateurs afin que des contenus et / ou publicités ciblés puissent être affichés pour ces groupes.
 
-Further purposes are: recording the data of the person concerned, give access to certain content, maintaining contact to make the use of the service, or to make the use of the service easier. The form to be filled out at logging in is for identifying the person concerned, enabling the alteration and/or deletion of their data, and simplifying the procedure of ordering.
+Les autres finalités sont: enregistrer les données de la personne concernée, donner accès à certains contenus, maintenir le contact pour rendre l'utilisation du service, ou pour faciliter l'utilisation du service. Le formulaire à remplir lors de la connexion sert à identifier la personne concernée, à permettre la modification et / ou la suppression de ses données, et à simplifier la procédure de commande.
 
-Data are being controlled: name, telephone number, e-mail address. If the person concerned orders any product after a request has been sent, the data controller records the shipping and invoicing data, as well, namely: company name, tax number (VAT number), delivery address. In case the customer of the product is a legal person, their shipping and invoicing data are not considered personal.
+Les données sont contrôlées: nom, numéro de téléphone, adresse e-mail. Si la personne concernée commande un produit après l'envoi d'une demande, le responsable du traitement enregistre également les données d'expédition et de facturation, à savoir: le nom de l'entreprise, le numéro fiscal (numéro de TVA), l'adresse de livraison. Dans le cas où le client du produit est une personne morale, ses données d'expédition et de facturation ne sont pas considérées comme personnelles.
 
-Duration: until the consent has been withdrawn. If the person concerned deletes their registration, their personal data connected to their registered/logged in status shall be deleted without undue delay.
+Durée: jusqu'à ce que le consentement soit retiré. Si la personne concernée supprime son inscription, ses données personnelles liées à son statut enregistré / connecté seront supprimées sans retard injustifié.
 
-Legal basis: GDPR act, 6. article, (1) paragraph, a) point, in accordance with Ektv. tv. 13/A. § (4) paragraph.
+Base juridique: loi GDPR, 6. article, (1) paragraphe, a) point, conformément à Ektv. la télé. 13 / A. § (4) paragraphe.
 
-6.2. Data Controlling of Orders
+6.2. Contrôle des données des commandes
 
-Scope: any person using the webpage of the Company and asks for quotation on any product. 
+Champ d'application: toute personne utilisant la page Web de la Société et demande un devis sur tout produit.
 
-Purpose: the personal data given are used only for giving an offer, without these data the Company cannot process (efficiently) the quotation.
+Finalité: les données personnelles fournies ne sont utilisées que pour faire une offre, sans ces données la Société ne peut pas traiter (efficacement) le devis.
 
-Data being controlled: name, address, telephone number, e-mail address, name, quantity, price of the product(s) to be purchased, payment method, in case of a private person invoicing and shipping method, the IP address and time of the current visit of the webpage.
+Données contrôlées: nom, adresse, numéro de téléphone, adresse e-mail, nom, quantité, prix du (des) produit (s) à acheter, mode de paiement, dans le cas d'une personne privée mode de facturation et d'expédition, l'adresse IP et l'heure de la visite actuelle de la page Web.
 
-Duration: the data of the person concerned are controlled until the fulfillment of the made contract. In case of a legal dispute, the Company shall store the data until a final decision has been reached unless it is obligated by law that the Company shall transfer the personal data to certain authorities (e.g. tax department), and the Company shall store the data until it has been completed. An example for mandatory data controlling is storing the issued invoices for a duration determined by the accounting law. In case of a waiver, due to the legitimate interest for defense against the customer’s claim any personal data connected to the order from the expression of the waiver to the time of prescription shall be stored. In case the ordered product is warranty and/or guarantee covered, the Company stores any data from the order to the end of the warranty or guarantee period (whichever is longer) to fulfill the needs of the person concerned regarding their warranty and/or guarantee claims.
+Durée: les données de la personne concernée sont contrôlées jusqu'à l'exécution du contrat conclu. En cas de litige juridique, la Société conservera les données jusqu'à ce qu'une décision finale soit prise à moins que la loi ne l'oblige à transférer les données personnelles à certaines autorités (par exemple, le service fiscal), et la Société conservera les données jusqu'à ce qu'il soit terminé. Un exemple de contrôle des données obligatoires est le stockage des factures émises pendant une durée déterminée par la loi comptable. En cas de renonciation, en raison de l'intérêt légitime de la défense contre la réclamation du client, toutes les données personnelles liées à la commande de l'expression de la renonciation au moment de la prescription seront conservées. Dans le cas où le produit commandé est couvert par la garantie et / ou la garantie, la Société stocke toutes les données de la commande jusqu'à la fin de la garantie ou de la période de garantie (selon la période la plus longue) pour répondre aux besoins de la personne concernée concernant sa garantie et / ou sa garantie réclamations.
 
-Legal basis: GDPR act 6. article, (1) paragraph, c) point; accounting law (Számv. tv.) 169. §, (2) paragraph, Hungarian act of taxation 2017. CL. 78. §, considering the Ektv. act 13/A § (1) and (2) paragraphs.
+Base juridique: article 6 de la loi GDPR, (1) paragraphe, c) point; loi comptable (Számv. tv.) 169. §, (2) paragraphe, loi fiscale hongroise 2017. CL. 78. §, considérant l'Ektv. act 13 / A § (1) et (2) alinéas.
 
-6.3. Data Controlling of Delivery
+6.3. Contrôle des données de livraison
 
-In case a contract has been made between the person concerned and HBS, the Company transfers the personal data described below to the logistics company so that they can ship the products have been ordered to the person concerned.
+Dans le cas où un contrat a été conclu entre la personne concernée et HBS, la Société transfère les données personnelles décrites ci-dessous à la société de logistique afin qu'elle puisse expédier les produits commandés à la personne concernée.
 
-Scope: any private person the Company delivers the products ordered to the specified address of fulfillment for. 
+Champ d'application: toute personne privée pour laquelle la Société livre les produits commandés à l'adresse de livraison indiquée.
 
-Data being controlled: name, address, e-mail address and telephone number of the recipient, package number, value of package, invoicing and shipping method, amount of c.o.d. fee, invoicing name and address, any other information given willingly to the Company in connection with commorancy at the address, any comment attached to the order and data included therein. 
+Données contrôlées: nom, adresse, adresse e-mail et numéro de téléphone du destinataire, numéro de colis, valeur du colis, mode de facturation et d'expédition, montant de c.o.d. frais, nom et adresse de facturation, toute autre information donnée volontairement à la Société en relation avec la commorance à l'adresse, tout commentaire attaché à la commande et les données qui y sont incluses.
 
-Purpose: the fulfillment of orders, documenting the purchase and the payment, fulfillment of accounting obligations.
+Objet: l'exécution des commandes, la documentation de l'achat et du paiement, l'exécution des obligations comptables.
 
-Duration: 8 years, according to accounting law (Ektv.) 169. § (2) paragraph
+Durée: 8 ans, selon la loi comptable (Ektv.) 169. § (2) paragraphe
 
-Legal basis: GDPR 6. article, (1) paragraph, b) point, considering Ektv. act 13/A § (1) and (2) paragraphs
+Base juridique: article 6 du RGPD, paragraphe (1), point b), compte tenu d'Ektv. acte 13 / A § (1) et (2) alinéas
 
-Third parties data is being transferred to: warehouse, any company involved in delivery
+Les données de tiers sont transférées à: l'entrepôt, toute entreprise impliquée dans la livraison
 
-Legal basis of data transferring: GDPR 6. article, (1) paragraph, f) point – data transfer is necessary for pursuing legitimate interest of the Company and the logistics service provider; without that the fulfillment and confirmation of a contract would not be possible.
+Base juridique du transfert de données: RGPD 6. article, (1) paragraphe, f) point - le transfert de données est nécessaire pour poursuivre l'intérêt légitime de la Société et du prestataire de services logistiques; sans cela, l'exécution et la confirmation d'un contrat ne seraient pas possibles.
 
-On logistics service providers (LSPs)
+Sur les prestataires de services logistiques (LSP)
 
-In case postal service is taken for delivering the ordered products to the fulfillment address, the personal data of the person concerned may be controlled (as a data controller) by the postal service provider, in accordance with the regulations of the postal act (Postatv.), 54. §. In case of a logistics service provider is taken for the delivery, the personal data shall be stored by the LSPs of the Company until the products have been delivered – unless it is obligatory according to the law for the LSPs to store the data further to transfer them to competent authorities (e.g. tax department).
+Dans le cas où le service postal est pris pour livrer les produits commandés à l'adresse de livraison, les données personnelles de la personne concernée peuvent être contrôlées (en tant que responsable du traitement) par le prestataire de services postaux, conformément aux règlements de l'acte postal (Postatv. ), 54. §. Dans le cas où un prestataire de services logistiques est pris pour la livraison, les données personnelles seront stockées par les LSP de la Société jusqu'à ce que les produits aient été livrés - sauf s'il est obligatoire selon la loi pour les LSP de stocker les données à la suite du transfert. les transmettre aux autorités compétentes (par exemple le service des impôts).
 
-Regarding the services provided by a postal or courier service, their Terms of Services and/or Privacy Policies shall be considered normative. These are accepted by the person concerned by accepting this Privacy Policy.
+En ce qui concerne les services fournis par un service postal ou de messagerie, leurs conditions d'utilisation et / ou leur politique de confidentialité seront considérées comme normatives. Ceux-ci sont acceptés par la personne concernée en acceptant cette politique de confidentialité.
 
-The commissioned service providers of the Company as follows:
+Les prestataires de services mandatés par la Société comme suit:
 
-Warehouse, cargo handling, printing the bill and/or invoice of delivery
+Entrepôt, manutention du fret, impression de la facture et / ou facture de livraison
 
-GSP Global Solutions Provider (59–61. Lőrinci út, 2220 Vecsés, Hungary)
+Fournisseur de solutions mondiales GSP (59–61. Lőrinci út, 2220 Vecsés, Hongrie)
 
-Parcel delivery:
+Livraison de colis:
 
-GLS General Logistics Systems (GLS, 2. Európa u., 2351, Alsónémedi, Hungary)
+GLS General Logistics Systems (GLS, 2. Európa u., 2351, Alsónémedi, Hongrie)
 
-6.4. Data Controlling in Connection with Newsletters.
+6.4. Contrôle des données en relation avec les newsletters.
 
-If the person concerned has subscribed to the newsletter of the webpage, any personal data given during this process is used only for enabling the sending of the newsletter, and only in case of a consent given for that by the person concerned. The newsletter contains commercial and direct marketing elements, as well.
+Si la personne concernée s'est abonnée à la newsletter de la page Web, les données personnelles fournies lors de ce processus ne sont utilisées que pour permettre l'envoi de la newsletter, et uniquement en cas de consentement donné à cet effet par la personne concernée. La newsletter contient également des éléments de marketing commercial et direct.
 
-Scope: name, e-mail address, consent to approaches with a purpose of direct marketing and its appointment, data obtained from previous purchases, the delivery method used, analytical data of sending and delivering messages (e.g. sending or opening an email, clicking on links and its date and time, reason for not being able to send a message).
+Périmètre: nom, adresse e-mail, consentement aux démarches à des fins de marketing direct et de sa nomination, données obtenues lors d'achats précédents, mode de livraison utilisé, données analytiques d'envoi et de livraison des messages (ex: envoi ou ouverture d'un e-mail, clic sur liens et sa date et heure, raison de ne pas pouvoir envoyer de message).
 
-Purpose: sending newsletters via e-mail for those who expressed their interest in it (the newsletters contain commercials, too), displaying marketing messages, spreading information on the products and services of the Company (including up-to-date information and discounts), approaches of direct marketing, maintaining contact. The Company controls only those data that have been given by the person concerned.
+Objectif: envoyer des newsletters par e-mail pour ceux qui y ont manifesté leur intérêt (les newsletters contiennent également des publicités), afficher des messages marketing, diffuser des informations sur les produits et services de la Société (y compris des informations à jour et des réductions) , approches de marketing direct, maintien du contact. La Société contrôle uniquement les données qui ont été fournies par la personne concernée.
 
-Duration: any personal data given for enabling the sending of newsletters to the person concerned are stored by the Company only until the person concerned unsubscribes the newsletter. In case of unsubscription the Company shall not approach the person concerned with any newsletters or offers. The person concerned can unsubscribe the newsletter – thus, withdraw their consent – any time and cost-free. In case of unsubscription any personal data given by the person concerned for receiving newsletters are being deleted without undue delay.
+Durée: les données personnelles communiquées pour permettre l'envoi de newsletters à la personne concernée ne sont conservées par la Société que jusqu'à ce que la personne concernée se désinscrive à la newsletter. En cas de désinscription, la Société ne s'adressera pas à la personne concernée avec des newsletters ou offres. La personne concernée peut se désinscrire de la newsletter - donc retirer son consentement - à tout moment et gratuitement. En cas de désinscription, les données personnelles communiquées par la personne concernée pour recevoir les newsletters sont supprimées sans retard injustifié.
 
-There are several methods of unsubscribing the newsletter: 1) clicking on the “unsubscribe” link in any e-mail that contains the newsletter, 2) sending an email with the corresponding content to the address displayed on the webpage or 3) contacting the Company via telephone.
+Il existe plusieurs méthodes pour se désinscrire de la newsletter: 1) en cliquant sur le lien «se désinscrire» dans tout e-mail contenant la newsletter, 2) en envoyant un e-mail avec le contenu correspondant à l'adresse affichée sur la page Web ou 3) en contactant la société par téléphone.
 
-Legal basis: GDPR 6. article, (1) paragraph, a) point, corresponding Ektv. tv. 13/A § (4) paragraph, and Grt. 6. § (1) paragraph, a) point. 
+Base juridique: article 6 du RGPD, paragraphe (1), point a), Ektv correspondant. la télé. 13 / A § (4) paragraphe, et Grt. 6. § (1) paragraphe, a) point.
 
-The Company may involve third parties for the newsletter service from time to time. These parties are to be considered as data processors. The commissioned data processor as follows:
+La Société peut impliquer des tiers pour le service de newsletter de temps à autre. Ces parties doivent être considérées comme des processeurs de données. Le processeur de données mandaté comme suit:
 
-Name of data processor: Muuw Pictures Ltd.
+Nom du sous-traitant: Muuw Pictures Ltd.
 
-Address: fszt. 2., 13. Csikó sétány, 1023 Budapest, Hungary.
+Adresse: fszt. 2., 13. Csikó sétány, 1023 Budapest, Hongrie.
 
-The nature of data processing: the optimization and handling of advertisements and newsletters. 
+La nature du traitement des données: l'optimisation et le traitement des publicités et des newsletters.
 
-## 7. Data Processors, Data Transferring
+## 7. Processeurs de données, transfert de données
 
-The Company may appoint third party data processors so that the proper operation of the webpage can be maintained, the orders can be fulfilled and other activities in connection with the services the webpage (including marketing) can be performed. 
+La Société peut nommer des sous-traitants de données tiers afin que le bon fonctionnement de la page Web puisse être maintenu, que les commandes puissent être exécutées et que d'autres activités liées aux services de la page Web (y compris le marketing) puissent être effectuées.
 
-To control the legality and inform all the people concerned the Company keeps a data transfer record which contains all the appointments when any personal data controlled by the Company are transferred, the legal basis of transferring, the persons concerned whose data are transferred, the scope of data transferring, just as well as any other data that are considered mandatory, according to the data controlling law.
+Pour contrôler la légalité et informer toutes les personnes concernées la Société tient un registre de transfert de données qui contient tous les rendez-vous lorsque des données personnelles contrôlées par la Société sont transférées, la base juridique du transfert, les personnes concernées dont les données sont transférées, le périmètre de transfert de données, ainsi que toutes autres données considérées comme obligatoires, conformément à la loi sur le contrôle des données.
 
-The commissioned data processors are as follows:
+Les processeurs de données mis en service sont les suivants:
 
-Name of data processor: Muuw Pictures Ltd.
+Nom du sous-traitant: Muuw Pictures Ltd.
 
-Address: fszt 2., 13. Csikó sétány, 1203 Budapest, Hungary
+Adresse: fszt 2., 13. Csikó sétány, 1203 Budapest, Hongrie
 
-The nature of data processing: the optimization and handling of advertisements and newsletters
+La nature du traitement des données: l'optimisation et le traitement des publicités et des newsletters
 
-Name of data processor: GSP Global Solutions Provider
+Nom du processeur de données: GSP Global Solutions Provider
 
-Address: 59–61. Lőrinci út, 2220 Vecsés, Hungary
+Adresse: 59–61. Lőrinci út, 2220 Vecsés, Hongrie
 
-The nature of data processing: warehouse, cargo handling, printing the bill and/or invoice of delivery
+La nature du traitement des données: entrepôt, manutention du fret, impression de la facture et / ou facture de livraison
 
-Name of data processor: GLS General Logistics Systems
+Nom du sous-traitant: GLS General Logistics Systems
 
-Address: GLS, 2. Európa u., 2351, Alsónémedi, Hungary
+Adresse: GLS, 2. Európa u., 2351, Alsónémedi, Hongrie
 
-The nature of data processing: parcel delivery
+La nature du traitement des données: livraison de colis
 
-Name of data processor: Google LLC
+Nom du processeur de données: Google LLC
 
-Address: 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA
+Adresse: 1600 Amphitheatre Parkway, Mountain View, CA 94043, États-Unis
 
-The nature of data processing: producing statistical data with the help of analytical cookies
+La nature du traitement des données: produire des données statistiques à l'aide de cookies analytiques
 
-Name of data processor: Facebook Ireland Ltd.
+Nom du sous-traitant: Facebook Ireland Ltd.
 
-Address: 4 Grand Canal Square Grand Canal Harbour Dublin 2, Ireland
+Adresse: 4 Grand Canal Square Grand Canal Harbour Dublin 2, Irlande
 
-The nature of data processing: producing statistical data with the help of analytical cookies and “tracking pixels”
+La nature du traitement des données: produire des données statistiques à l'aide de cookies analytiques et de «pixels espions»
 
-Name of data processor: Netlify Inc.
+Nom du processeur de données: Netlify Inc.
 
-Address: 2325 3rd St #215, San Francisco, CA, USA
+Adresse: 2325 3rd St # 215, San Francisco, CA, États-Unis
 
-Nature of data processing: cloud hosting, form handling
+Nature du traitement des données: hébergement cloud, traitement des formulaires
 
-## 8. Data Safety and Protection
+## 8. Sécurité et protection des données
 
-8.1. HBS ensures the safety and protection of the controlled data in accordance with the corresponding regulation.
+8.1. HBS garantit la sécurité et la protection des données contrôlées conformément à la réglementation correspondante.
 
-8.2. HBS applies all the technical and organizational measurements and defines all the necessary procedural regulation to protect the safety of the controlled data – so that all data will be protected from unauthorized access, alteration, transferring, publishing, deleting, destroying, unintentional damaging or destroying, and becoming unavailable due to any changes affecting the applied technical background. 
+8.2. HBS applique toutes les mesures techniques et organisationnelles et définit toutes les règles de procédure nécessaires pour protéger la sécurité des données contrôlées - afin que toutes les données soient protégées contre tout accès non autorisé, modification, transfert, publication, suppression, destruction, endommagement ou destruction involontaire, et devenir indisponible en raison de changements affectant le contexte technique appliqué.
 
-8.3. HBS takes into consideration the general state of development of the available technologies to determine and apply the measurements of data protection. In case more data controlling methods are available, HBS chooses the one of higher level of data protection unless it would mean disproportional effort to the Company. These requirements shall be enforced to any other data processor, too.
+8.3. HBS prend en considération l'état général de développement des technologies disponibles pour déterminer et appliquer les mesures de protection des données. Dans le cas où plus de méthodes de contrôle des données sont disponibles, HBS choisit celle d'un niveau de protection des données plus élevé, à moins que cela n'entraîne un effort disproportionné pour l'entreprise. Ces exigences seront également appliquées à tout autre processeur de données.
 
-8.4. HBS is obliged to enforce any third parties data may be transferred or given to to comply the measurements detailed above. Given that the data transfer of HBS has been legal, HBS shall take no responsibility for any damage caused by these third parties.
+8.4. HBS est obligé de faire respecter les données de tiers pouvant être transférées ou données pour se conformer aux mesures détaillées ci-dessus. Étant donné que le transfert de données de HBS a été légal, HBS décline toute responsabilité pour les dommages causés par ces tiers.
 
-8.5. All employees HBS and people who are working for HBS on the basis of any legal relationship are obligated to comply all the measurements of data controlling, safety and protection described in this Privacy Policy.
+8.5. Tous les employés HBS et les personnes qui travaillent pour HBS sur la base de toute relation juridique sont tenus de se conformer à toutes les mesures de contrôle, de sécurité et de protection des données décrites dans la présente politique de confidentialité.
 
-8.6. HBS stores all personal data given by persons concerned in databases protected by passwords to protect the secrecy and integrity of these data. HBS protects the personal data with proper infrastructural elements (e.g. firewalls, content filters, anti-malware softwares).
+8.6. HBS stocke toutes les données personnelles fournies par les personnes concernées dans des bases de données protégées par des mots de passe afin de protéger le secret et l'intégrité de ces données. HBS protège les données personnelles avec des éléments d'infrastructure appropriés (par exemple, des pare-feu, des filtres de contenu, des logiciels anti-malware).
 
-8.7. HBS makes a log out of all data accesses to record when and which file of which account of person concerned is being accessed. Every computer data of persons concerned are being controlled on are constantly protected by an anti-malware system approved by the HBS. This ensures that no unauthorized person can access to any personal data.
+8.7. HBS fait un journal de tous les accès aux données pour enregistrer quand et quel fichier de quel compte de la personne concernée est accédé. Toutes les données informatiques des personnes concernées sont contrôlées en permanence sont protégées par un système anti-malware approuvé par le HBS. Cela garantit qu'aucune personne non autorisée ne peut accéder à des données personnelles.
 
-8.8 Automatized data processing of personal data are protected by the data controller and processor with the measurements as follows:
+8.8 Le traitement automatisé des données à caractère personnel est protégé par le responsable du traitement et le sous-traitant avec les mesures suivantes:
 
-a) prevention of unauthorized data entry
+a) prévention de la saisie de données non autorisée
 
-b) prevention of unauthorized use of automatized data processing systems via data transmission devices
+b) prévention de l'utilisation non autorisée de systèmes automatisés de traitement de données via des dispositifs de transmission de données
 
-c) controllability and traceability of data transmission devices to trace what servers are or can be the data transmitted to
+c) la contrôlabilité et la traçabilité des dispositifs de transmission de données pour tracer quels serveurs sont ou peuvent être les données transmises
 
-d) controllability and traceability of what personal data, when and by whom are being recorded in the data processing system
+d) contrôlabilité et traçabilité de quelles données personnelles, quand et par qui sont enregistrées dans le système de traitement des données
 
-e) the possibility of recoverability of the installed systems in case of a malfunction
+e) la possibilité de récupération des systèmes installés en cas de dysfonctionnement
 
-f) a report is being generated when an error occurs during the automatized data processing.
+f) un rapport est généré lorsqu'une erreur survient lors du traitement automatisé des données.
 
-8.9 Invoicing
+8.9 Facturation
 
-Any personal data recorded by the Company during an order of a person concerned are being processed in the Novitax business data processing system.
+Toutes les données personnelles enregistrées par la Société lors d'une commande d'une personne concernée sont en cours de traitement dans le système de traitement des données commerciales Novitax.
 
-Persons concerned: any private person who makes a purchase
+Personnes concernées: toute personne privée qui effectue un achat
 
-Scope: name, e-mail address, invoicing name and address, order identification number, name, price and quantity of the ordered product(s)
+Champ d'application: nom, adresse e-mail, nom et adresse de facturation, numéro d'identification de la commande, nom, prix et quantité du ou des produits commandés
 
-Purpose: fulfilling the invoicing obligation to fulfill the contract made with the person concerned
+Objet: remplir l'obligation de facturation pour remplir le contrat passé avec la personne concernée
 
-Legal basis: Ektv. 13/A § (1)–(2) paragraph, GDPR 6. article (1) paragraph, c) point
+Base juridique: Ektv. 13 / A § (1) - (2) paragraphe, RGPD 6. article (1) paragraphe, c) point
 
-Duration: 8 years, according to Számv. tv. 169 § (2) paragraph.
+Durée: 8 ans, selon Számv. la télé. 169 § (2) paragraphe.
 
-## 9. The Rights of the Person Concerned
+## 9. Les droits de la personne concernée
 
-9.1. The right to be informed forehand
+9.1. Le droit d'être informé d'avance
 
-The person concerned has the right to be informed about all the facts related to data controlling and processing, in a clear and legible form, prior to the start of data controlling. 
+La personne concernée a le droit d'être informée de tous les faits liés au contrôle et au traitement des données, sous une forme claire et lisible, avant le début du contrôle des données.
 
-9.2. Information needs to be provided
+9.2. Des informations doivent être fournies
 
-The person concerned has the right to receive feedback whether the controlling of their personal data has been under process. If yes, they have the right to access their personal data.
+La personne concernée a le droit de recevoir des informations indiquant si le contrôle de ses données personnelles a été en cours. Si oui, ils ont le droit d'accéder à leurs données personnelles.
 
-I. Information to provide in case of personal data obtained from the person concerned
+I. Informations à fournir en cas de données personnelles obtenues de la personne concernée
 
-If the personal data are being obtained from the person concerned, the data controller shall give the following information at the time of obtaining the data as follows:
+Si les données à caractère personnel sont obtenues de la personne concernée, le responsable du traitement fournit les informations suivantes au moment de l'obtention des données comme suit:
 
-a) name and availability (telephone number, e-mail address) of the data controller or their representative;
+a) nom et disponibilité (numéro de téléphone, adresse e-mail) du responsable du traitement ou de son représentant;
 
-b) name and availability (telephone number, e-mail address) of the data protection officer;
+b) nom et disponibilité (numéro de téléphone, adresse e-mail) du délégué à la protection des données;
 
-c) purpose and legal basis of personal data controlling;
+c) but et base juridique du contrôle des données personnelles;
 
-d) in case of data controlling based on pursuing legitimate interest the interests of the data controller and/or third party;
+d) en cas de contrôle des données fondé sur la poursuite d'un intérêt légitime, les intérêts du responsable du traitement et / ou du tiers;
 
-e) the recipients of personal data (if there are any) and the categories of recipients (if there are any);
+e) les destinataires des données personnelles (s'il y en a) et les catégories de destinataires (s'il y en a);
 
-f) the fact itself if any data is transferred to third countries or international organizations.
+f) le fait lui-même si des données sont transférées à des pays tiers ou à des organisations internationales.
 
-Moreover, at the time of obtaining personal data, the person concerned receives the following supplementary information so that the Company ensures the fairness and transparency of data controlling:
+Par ailleurs, au moment de l'obtention des données personnelles, la personne concernée reçoit les informations complémentaires suivantes afin que la Société s'assure de la loyauté et de la transparence du contrôle des données:
 
-a) the duration of personal data storing; if it is not possible or not applicable the considerations applied for defining the duration;
+a) la durée de conservation des données personnelles; si cela n'est pas possible ou non applicable, les considérations appliquées pour définir la durée;
 
-b) the right of the person concerned to request access for, correct, delete or restrict the controlling of their personal data from the data controller, just as well as the right of data portability;
+b) le droit de la personne concernée de demander l'accès, de corriger, de supprimer ou de restreindre le contrôle de ses données personnelles auprès du responsable du traitement, ainsi que le droit à la portabilité des données;
 
-c) the right to withdraw a consent at any time in case the data controlling on the legal basis of a consent, which does not affect the legality of data controlling prior to the withdrawal;
+c) le droit de retirer un consentement à tout moment en cas de contrôle des données sur la base légale d'un consentement, ce qui n'affecte pas la légalité du contrôle des données avant le retrait;
 
-d) the right to make a complaint at the supervisory authority;
+d) le droit de déposer une plainte auprès de l'autorité de contrôle;
 
-e) if the basis of providing personal data is law, obligations or prerequisites of making a contract, whether the person concerned is obligated to give personal data, and the possible consequences if personal data is not given;
+e) si la base de la fourniture de données à caractère personnel est la loi, les obligations ou les conditions préalables à la conclusion d'un contrat, si la personne concernée est obligée de fournir des données à caractère personnel et les conséquences possibles si des données à caractère personnel ne sont pas fournies;
 
-f) if there is automated decision-making – including profile-making –, legible information the logical background applied, on the significance and the possible consequences of this sort of data controlling in these cases.
+f) s'il existe une prise de décision automatisée - y compris la création de profils -, des informations lisibles, le contexte logique appliqué, sur l'importance et les conséquences possibles de ce type de contrôle des données dans ces cas.
 
-I. Information to provide in case of personal data obtained from other sources 
+I. Informations à fournir en cas de données personnelles obtenues auprès d'autres sources
 
-If the personal data are being obtained not from the person concerned, the data controller shall give the following information at the time of obtaining the data as follows:
+Si les données à caractère personnel ne sont pas obtenues auprès de la personne concernée, le responsable du traitement fournit les informations suivantes au moment de l'obtention des données comme suit:
 
-a) name and availability (telephone number, e-mail address) of the data controller or their representative;
+a) nom et disponibilité (numéro de téléphone, adresse e-mail) du responsable du traitement ou de son représentant;
 
-b) name and availability (telephone number, e-mail address) of the data protection officer;
+b) nom et disponibilité (numéro de téléphone, adresse e-mail) du délégué à la protection des données;
 
-c) purpose and legal basis of personal data controlling;
+c) but et base juridique du contrôle des données personnelles;
 
-d) the categories of personal data;
+d) les catégories de données personnelles;
 
-e) the recipients of personal data (if there are any) and the categories of recipients (if there are any);
+e) les destinataires des données personnelles (s'il y en a) et les catégories de destinataires (s'il y en a);
 
-f) the fact itself if any data is transferred to third countries or international organizations.
+f) le fait lui-même si des données sont transférées à des pays tiers ou à des organisations internationales.
 
-Moreover, at the time of obtaining personal data, the person concerned receives the following supplementary information so that the Company ensures the fairness and transparency of data controlling:
+Par ailleurs, au moment de l'obtention des données personnelles, la personne concernée reçoit les informations complémentaires suivantes afin que la Société s'assure de la loyauté et de la transparence du contrôle des données:
 
-a) the duration of personal data storing; if it is not possible or not applicable the considerations applied for defining the duration;
+a) la durée de conservation des données personnelles; si cela n'est pas possible ou non applicable, les considérations appliquées pour définir la durée;
 
-b) in case of data controlling based on pursuing legitimate interest the interests of the data controller and/or third party;
+b) en cas de contrôle des données fondé sur la poursuite d'un intérêt légitime, les intérêts du responsable du traitement et / ou du tiers;
 
-c) the right of the person concerned to request access for, correct, delete or restrict the controlling of their personal data from the data controller, just as well as the right of data portability;
+c) le droit de la personne concernée de demander l'accès, de corriger, de supprimer ou de restreindre le contrôle de ses données personnelles auprès du responsable du traitement, ainsi que le droit à la portabilité des données;
 
-d) the right to withdraw a consent at any time in case the data controlling on the legal basis of a consent, which does not affect the legality of data controlling prior to the withdrawal;
+d) le droit de retirer un consentement à tout moment en cas de contrôle des données sur la base légale d'un consentement, ce qui n'affecte pas la légalité du contrôle des données avant le retrait;
 
-e) the right to make a complaint at the supervisory authority;
+e) le droit de déposer une plainte auprès de l'autorité de contrôle;
 
-f) the source of the obtained personal data, including the fact whether they are obtained from a public access source; 
+f) la source des données personnelles obtenues, y compris le fait qu'elles proviennent d'une source d'accès public;
 
-g) if there is automated decision-making – including profile-making –, legible information the logical background applied, on the significance and the possible consequences of this sort of data controlling at least in these cases.
+g) s'il existe une prise de décision automatisée - y compris la création de profils -, des informations lisibles, le contexte logique appliqué, sur l'importance et les conséquences possibles de ce type de données contrôlant au moins dans ces cas.
 
-III. The information given according to I. and II. shall happen as follows:
+III. Les informations données selon I. et II. doit se produire comme suit:
 
-a) in a reasonable period of time after the personal data have been obtained considering the exact circumstances of data controlling, but in 1 month at longest;
+a) dans un délai raisonnable après l'obtention des données personnelles compte tenu des circonstances exactes du contrôle des données, mais dans un délai maximum d'un mois;
 
-b) in case personal data are being used for maintaining the contact with the person concern, at the time of the first contact made at latest; or
+b) dans le cas où des données personnelles sont utilisées pour maintenir le contact avec la personne concernée, au plus tard au moment du premier contact établi; ou
 
-c) if personal data are expected to be transferred to other recipients as well, at the time of the first transferring made at latest.
+c) si des données personnelles doivent également être transférées à d'autres destinataires, au plus tard au moment du premier transfert effectué.
 
-If the data controller is to perform further data controlling due to any other purpose than obtaining the personal data, the person concerned shall be informed about this purpose alongside with all relevant supplementary information.
+Si le responsable du traitement doit effectuer un contrôle supplémentaire des données dans un autre but que l'obtention des données à caractère personnel, la personne concernée est informée de cette finalité avec toutes les informations supplémentaires pertinentes.
 
-These described above need not be applied if and to the extent
+Celles-ci décrites ci-dessus ne doivent pas être appliquées si et dans la mesure
 
-a) the person concerned is already aware of the information in question;
+a) la personne concernée a déjà connaissance des informations en question;
 
-b) the person concerned published the personal data in question at a public place (including websites) where anyone got access to them, and the personal data were available at the time of data collection performed by the Company;
+b) la personne concernée a publié les données personnelles en question dans un lieu public (y compris des sites Web) où toute personne y a eu accès, et les données personnelles étaient disponibles au moment de la collecte de données effectuée par la Société;
 
-c) providing the information in question has proven to be impossible, mean disproportional effort (especially archiving of public interest, scientific, statistic or historical research purposes), or complying the obligation compromises the data controlling or makes it impossible. In these cases, the data controller shall apply appropriate measurements to protect the rights, freedom and legitimate interest of the person concerned (including making the information publicly accessible);
+c) la fourniture des informations en question s'est avérée impossible, signifie un effort disproportionné (en particulier l'archivage d'intérêt public, à des fins de recherche scientifique, statistique ou historique), ou le respect de l'obligation compromet le contrôle des données ou le rend impossible. Dans ces cas, le responsable du traitement applique des mesures appropriées pour protéger les droits, la liberté et l'intérêt légitime de la personne concernée (y compris en rendant les informations accessibles au public);
 
-d) obtaining or publishing the data in question is compulsory according to the applied local or European Union law, which includes appropriate measurements to protect the legitimate interest of the person concerned; or
+d) l'obtention ou la publication des données en question est obligatoire selon la législation locale ou de l'Union européenne appliquée, qui comprend des mesures appropriées pour protéger l'intérêt légitime de la personne concernée; ou
 
-e) according to the local or European Union jurisdiction that prescribes the obligations of confidentiality of certain profession(s) (including the case when the legal basis of obligations of confidentiality is law) the personal data in question have to remain confidential.
+e) selon la juridiction locale ou de l'Union européenne qui prescrit les obligations de confidentialité de certaines professions (y compris le cas où la base légale des obligations de confidentialité est la loi), les données personnelles en question doivent rester confidentielles.
 
-3.9 The right to access
+3.9 Le droit d'accès
 
-The person concerned has the right to receive a feedback about the process how their data are being controlled. If so, they have the right to access the information as follows: 
+La personne concernée a le droit de recevoir un retour d'information sur le processus de contrôle de ses données. Si tel est le cas, ils ont le droit d'accéder aux informations comme suit:
 
-a) the purposes of data controlling;
+a) les finalités du contrôle des données;
 
-b) the categories of personal data;
+b) les catégories de données personnelles;
 
-c) categories of recipient(s) whom personal data are or will be transferred, included especially third country recipients and international organizations;
+c) les catégories de destinataires auxquels des données à caractère personnel sont ou seront transférées, notamment les destinataires de pays tiers et les organisations internationales;
 
-d) the duration of personal data storing; if it is not possible or not applicable the considerations applied for defining the duration;
+d) la durée de conservation des données personnelles; si cela n'est pas possible ou non applicable, les considérations appliquées pour définir la durée;
 
-e) the right of the person concerned to request the correction, deletion or restriction of data controlling, and to object personal data controlling;
+e) le droit de la personne concernée de demander la correction, la suppression ou la restriction du contrôle des données et de s'opposer au contrôle des données personnelles;
 
-f) the right to make a complaint at any supervisory authority;
+f) le droit de déposer une plainte auprès de toute autorité de contrôle;
 
-g) in case the data have not been obtained from the person concerned, every information available on their source(s);
+g) dans le cas où les données n'ont pas été obtenues de la personne concernée, toutes les informations disponibles sur leur (s) source (s);
 
-h) if there is automated decision-making – including profile-making –, legible information the logical background applied, on the significance and the possible consequences of this sort of data controlling at least in these cases.
+h) s'il existe une prise de décision automatisée - y compris la création de profils -, des informations lisibles, le contexte logique appliqué, sur l'importance et les conséquences possibles de ce type de données contrôlant au moins dans ces cas.
 
-In case any personal data is being transferred to third countries or international organizations, the person concerned has the right to be informed on guarantees of data transfer.
+En cas de transfert de données à caractère personnel vers des pays tiers ou des organisations internationales, la personne concernée a le droit d'être informée des garanties de transfert de données.
 
-The data controller shall share the copy of any personal data controlled with the person concerned. For any further copies requested by the person concerned, the data controller may charge the person concerned due to administrative costs, to a reasonable extent. If the person concerned has submitted their request in an electronic form, the information shall be provided in a wide-spread (file) format unless the person concerned requests for a different format. The right to request for a copy cannot affect disadvantageously other people’s rights and freedom.
+Le responsable du traitement partage la copie de toutes les données personnelles contrôlées avec la personne concernée. Pour toute copie supplémentaire demandée par la personne concernée, le responsable du traitement peut facturer la personne concernée en raison des frais administratifs, dans une mesure raisonnable. Si la personne concernée a soumis sa demande sous forme électronique, les informations sont fournies dans un format (fichier) largement répandu, à moins que la personne concernée ne demande un format différent. Le droit de demander une copie ne peut porter atteinte aux droits et à la liberté d’autrui.
 
-9.4. The right to erasure and to be forgotten
+9.4. Le droit d'effacer et d'être oublié
 
-The person concerned has the right to request for the erasure (deletion) of their personal data which shall happen without undue delay. The data controller is obligated to delete the personal data of the person concerned without undue delay in any of the following cases:
+La personne concernée a le droit de demander l'effacement (suppression) de ses données personnelles, ce qui se fera sans retard injustifié. Le responsable du traitement est tenu de supprimer les données à caractère personnel de la personne concernée sans retard injustifié dans l'un des cas suivants:
 
-a) the collected or processed before are not used in the future for their original purpose;
+a) les éléments collectés ou traités auparavant ne sont plus utilisés à l'avenir pour leur finalité initiale;
 
-b) the person concerned has withdrawn their concern and there is no other legal basis of data controlling;
+b) la personne concernée a retiré son inquiétude et il n'y a pas d'autre base juridique de contrôle des données;
 
-c) the person concerned has objected against data controlling and there is no other legal basis of data controlling;
+c) la personne concernée s'est opposée au contrôle des données et il n'y a pas d'autre base légale de contrôle des données;
 
-d) it has been proved that the data controlling has been illicit;
+d) il a été prouvé que les données contrôlées étaient illicites;
 
-e) to comply any European Union or local law applied for the data controller the personal data has to be deleted;
+e) pour se conformer à toute législation de l'Union européenne ou locale appliquée pour le responsable du traitement, les données personnelles doivent être supprimées;
 
-f) the personal data collection has happened to provide services in connection with the information society.
+f) la collecte de données à caractère personnel a fourni des services en rapport avec la société de l'information.
 
-If any data that are subject of deletion were published priorly, the data controller shall delete them. The data controller shall inform any other data controllers involved that the person concern requested the deletion of the copy of their personal data, and/or links giving access to these data. At applying the reasonably expected steps (including technical procedures) the available technologies and the costs of the procedure shall be considered, too. 
+Si des données faisant l'objet d'une suppression ont été publiées au préalable, le responsable du traitement les supprime. Le responsable du traitement informe tout autre responsable du traitement concerné que la personne concernée a demandé la suppression de la copie de ses données personnelles et / ou des liens donnant accès à ces données. Lors de l'application des étapes raisonnablement attendues (y compris les procédures techniques), les technologies disponibles et les coûts de la procédure doivent également être pris en compte.
 
-The 2 points above shall not be applied if the data controlling is necessary
+Les 2 points ci-dessus ne seront pas appliqués si le contrôle des données est nécessaire
 
-a) for applying the rights of being informed and freedom of deliverance;
+a) pour appliquer les droits d'être informé et la liberté de délivrance;
 
-b) for complying any European Union or local law applied for the data controller, or performing a task of public interest or applying public power license delegated to the data controller;
+b) pour se conformer à toute législation de l'Union européenne ou locale appliquée pour le responsable du traitement, ou pour exécuter une tâche d'intérêt public ou pour appliquer une licence d'électricité publique déléguée au responsable du traitement;
 
-c) due to public interest of public healthcare
+c) en raison de l'intérêt public des soins de santé publics
 
-d) for archiving due to public interest, scientific or historical research, statistical data controlling if the rights described above likely compromise the data controlling or make it impossible; or
+d) pour l'archivage en raison de l'intérêt public, de la recherche scientifique ou historique, des données statistiques contrôlant si les droits décrits ci-dessus sont susceptibles de compromettre le contrôle des données ou de le rendre impossible; ou
 
-e) for proposing, applying or protecting legal interests.
+e) pour proposer, appliquer ou protéger des intérêts juridiques.
 
-9.5. The right to restrict
+9.5. Le droit de restreindre
 
-The person concerned has the right to restrict the data controlling in case of any of the following:
+La personne concernée a le droit de restreindre le contrôle des données dans l'un des cas suivants:
 
-a) the person concerned disputes the accuracy of their personal data – in this case restriction applies for the duration of revising and/or correcting the accuracy of the data;
+a) la personne concernée conteste l'exactitude de ses données personnelles - dans ce cas, la restriction s'applique pendant la durée de la révision et / ou de la correction de l'exactitude des données;
 
-b) the data controlling is illicit and the person concerned objects against deletion and requests for the restriction of data use;
+b) le contrôle des données est illicite et la personne concernée s'oppose à la suppression et aux demandes de restriction d'utilisation des données;
 
-c) the data controller does not need the personal data for controlling any more, but the person concerned requests for them to submit, enforce or defend a legal claim;
+c) le responsable du traitement n'a plus besoin des données personnelles pour le contrôle, mais la personne concernée lui demande de soumettre, de faire valoir ou de défendre une action en justice;
 
-d) the person concerned has objected against the data controlling, in which case the restriction persists until it has been decided whether the legitimate reasons of the Company have priority over the legitimate reasons of the person concerned;
+d) la personne concernée s'est opposée au contrôle des données, auquel cas la restriction persiste jusqu'à ce qu'il ait été décidé si les raisons légitimes de la Société ont priorité sur les raisons légitimes de la personne concernée;
 
-If the data controlling falls into any category of restriction described above, the personal data affected can only be used with the consent of the person concerned, for submitting, enforcing or defending legal claims, in the defense of the rights of another natural or legal person, or for the common interest of importance of the European Union or any member state, with the exception of storing.
+Si le contrôle des données tombe dans l'une des catégories de restriction décrites ci-dessus, les données personnelles concernées ne peuvent être utilisées qu'avec le consentement de la personne concernée, pour soumettre, faire valoir ou défendre des droits en justice, dans la défense des droits d'une autre personne physique ou morale. , ou pour l'intérêt commun d'importance de l'Union européenne ou de tout État membre, à l'exception du stockage.
 
-The data controller shall priorly inform the person concerned whose request is the basis of the data controlling restriction if the restriction has been released.
+Le responsable du traitement informe au préalable la personne concernée dont la demande est à la base de la restriction de contrôle des données si la restriction a été levée.
 
-9.6. Right to data portability
+9.6. Droit à la portabilité des données
 
-The person concerned has the right to receive their personal data that they gave to the data controller or concern them in an organized, wide-spread, electronic format. Moreover, the person concerned has the right to transfer these data to another data controller without any hindrance from the data controller they received the personal data from in case:
+La personne concernée a le droit de recevoir les données personnelles qu'elle a fournies au responsable du traitement ou la concernant dans un format électronique organisé et largement diffusé. En outre, la personne concernée a le droit de transférer ces données à un autre responsable du traitement sans aucune entrave de la part du responsable du traitement dont elle a reçu les données personnelles dans le cas où:
 
-a) the basis of data controlling is a consent or a contract; and
+a) la base du contrôle des données est un consentement ou un contrat; et
 
-b) the data controlling happens in an automated form.
+b) le contrôle des données se fait sous une forme automatisée.
 
-During the right to data portability is being exercised according to the point above, the person concerned has the right to request for the direct transfer between the data controllers assuming it is technically manageable. 
+Pendant que le droit à la portabilité des données est exercé conformément au point ci-dessus, la personne concernée a le droit de demander le transfert direct entre les responsables du traitement en supposant qu'il est techniquement gérable.
 
-Exercising this right cannot hinder the rights or freedom of other persons.
+L'exercice de ce droit ne peut porter atteinte aux droits ou à la liberté d'autrui.
 
-9.7. Right to object
+9.7. Droit d'opposition
 
-The person concerned has the right to object against controlling their own personal data (including profile-making based on the provisions detailed as follows) due to reasons of their own situation; should data controlling take place due to the needs of public interest, applying public power license delegated to the data controller, or enforcing legitimate interest of any third party, at any time.
+La personne concernée a le droit de s'opposer au contrôle de ses propres données personnelles (y compris l'établissement de profils sur la base des dispositions détaillées ci-dessous) en raison de sa propre situation; si le contrôle des données a lieu en raison des besoins d'intérêt public, de l'application d'une licence de puissance publique déléguée au responsable du traitement ou du respect de l'intérêt légitime d'un tiers, à tout moment.
 
-In this case the data controller shall proceed no further data controlling unless the data controller proves that the basis of controlling are compelling legitimate reasons that have priority over the interests or freedom of the person concerned, or are in connection with submitting, enforcing or defending legal claims. 
+Dans ce cas, le responsable du traitement ne procèdera plus au contrôle des données, à moins que le responsable du traitement ne prouve que la base du contrôle est des raisons légitimes impérieuses qui ont priorité sur les intérêts ou la liberté de la personne concernée, ou sont en relation avec la soumission, l'application ou la défense de réclamations.
 
-If the personal data are controlled for direct solicitation, the person concerned has the right to object against controlling their data for this purpose at any time. This includes profile-making, as well, assuming this activity is in connection with direct solicitation.
+Si les données personnelles sont contrôlées pour une sollicitation directe, la personne concernée a le droit de s'opposer à tout moment au contrôle de ses données à cette fin. Cela comprend également l'établissement de profils, en supposant que cette activité est liée à la sollicitation directe.
 
-If the person concerned objects against data controlling in the purpose of direct solicitation, no personal data shall be controlled henceforward for this purpose.
+Si la personne concernée s'oppose au contrôle des données à des fins de sollicitation directe, aucune donnée à caractère personnel ne sera désormais contrôlée à cette fin.
 
-The person concerned shall be informed expressly about their right for objection. This piece of information shall be displayed in an unambiguous form, separated from all other information.
+L'intéressé est expressément informé de son droit d'opposition. Cette information doit être affichée sous une forme non ambiguë, séparée de toutes les autres informations.
 
-If personal data controlling takes place due to scientific, historical research or statistical reasons, the person concerned has the rights to protest due to their own reason against data controlling unless it is necessary for proceeding tasks of public interest.
+Si le contrôle des données personnelles a lieu pour des raisons scientifiques, historiques ou statistiques, la personne concernée a le droit de protester, pour sa propre raison, contre le contrôle des données, sauf si cela est nécessaire pour accomplir des tâches d'intérêt public.
 
-## 10. Automatic Decision-Making and Profiling
+## 10. Prise de décision et profilage automatiques
 
-The person concerned has the rights to exclude their personal data from the scope of decisions originated exclusively from automated data controlling (which includes profile-making) if the decision has a legal effect on them, or affects them with a similar significance. This shall not be applied, if the decision
+La personne concernée a le droit d'exclure ses données personnelles du champ des décisions émanant exclusivement du contrôle automatisé des données (qui comprend la création de profil) si la décision a un effet juridique sur elle ou les affecte avec une importance similaire. Cela ne sera pas appliqué si la décision
 
-a) is necessary for making or complying a contract between the person concerned and the data controller;
+a) est nécessaire pour conclure ou respecter un contrat entre la personne concernée et le responsable du traitement;
 
-b) is enabled by any European Union or local law applied for the data controller that also states measurements for protecting the rights, freedom or legitimate interest of the person concerned;
+b) est permise par toute législation de l'Union européenne ou locale appliquée pour le responsable du traitement qui énonce également des mesures pour protéger les droits, la liberté ou l'intérêt légitime de la personne concernée;
 
-c) is based on the expressed consent of the person concerned.
+c) se fonde sur le consentement exprès de la personne concernée.
 
-The data controller is obligated to take appropriate measurements to protect the rights, freedom or legitimate interest of the person concerned, minimally including the right to request for human intervention, express their standing-point, and submit an objection against the decision. 
+Le responsable du traitement est tenu de prendre les mesures appropriées pour protéger les droits, la liberté ou l'intérêt légitime de la personne concernée, y compris au minimum le droit de demander une intervention humaine, d'exprimer son point de vue et de soumettre une objection à la décision.
 
-## 11. Data Breach
+## 11. Violation de données
 
-In case of any breach that likely means high risk regarding the natural persons’ rights or freedom, the Data Controller informs the person concerned without undue delay.
+En cas de violation susceptible d'entraîner un risque élevé concernant les droits ou la liberté des personnes physiques, le responsable du traitement en informe la personne concernée sans retard injustifié.
 
-Informing the person concerned shall happen in an unambiguous and articulate form, containing as follows: 
+L'information de la personne concernée se fait sous une forme non ambiguë et articulée, contenant ce qui suit:
 
-a) the nature of the breach
+a) la nature de la violation
 
-b) the probable consequences of the breach
+b) les conséquences probables du manquement
 
-c) the actions planned or performed to handle the breach, including the actions which are to lessen the possible negative consequences
+c) les actions prévues ou exécutées pour gérer la violation, y compris les actions destinées à atténuer les conséquences négatives possibles
 
-d) provides the contact of the data protection officer, or if he/she is not available at that time, of a person who is able to give ample amount of information about the situation.
+d) fournit le contact du délégué à la protection des données ou, s'il n'est pas disponible à ce moment-là, d'une personne qui est en mesure de donner suffisamment d'informations sur la situation.
 
-The Data Controller need not inform the persons who are involved in case of any of the following:
+Le responsable du traitement n'est pas tenu d'informer les personnes impliquées dans l'un des cas suivants:
 
-a) the data controller performed appropriate technical or organizational actions of defense; these actions have been performed for the benefit of the person concerned who is affected by the breach – especially measurements which have made the data affected by the breach incomprehensible for the unauthorized (eg. by using encryption on the data);
+a) le responsable du traitement a effectué des actions techniques ou organisationnelles appropriées de défense; ces actions ont été effectuées au profit de la personne concernée qui est affectée par la violation - en particulier des mesures qui ont rendu les données concernées par la violation incompréhensibles pour les personnes non autorisées (par exemple en utilisant le cryptage des données);
 
-b) the data controller performed actions after the breach to ensure that the rights and freedom of the person concerned are most likely not in risk of danger anymore; 
+b) le responsable du traitement des données a effectué des actions après la violation pour s'assurer que les droits et la liberté de la personne concernée ne sont probablement plus en danger;
 
-c) informing the persons concerned would require measurements of disproportional effort. In this case the persons concerned shall be informed with the help of published information or in any other form of similar efficiency. 
+c) informer les personnes concernées exigerait des mesures d'effort disproportionné. Dans ce cas, les personnes concernées sont informées à l'aide d'informations publiées ou sous toute autre forme d'efficacité similaire.
 
-In case the data controller has not informed the person concerned about the breach yet, the supervising authority may order to inform the person concerned if according the estimation of the authority the risk of the breach is likely high.
+Si le responsable du traitement n'a pas encore informé la personne concernée de la violation, l'autorité de contrôle peut ordonner d'informer la personne concernée si, selon l'estimation de l'autorité, le risque de violation est vraisemblablement élevé.
 
-## 12. The Right to Legal Remedy
+## 12. Le droit à un recours juridique
 
-If the person concerned suspects that the law of data protection has been broken, they have the right to register a complaint, especially at the member state of their regular residence, workplace, or at the state where the suspected infringement has happened.
+Si la personne concernée soupçonne que la loi sur la protection des données a été enfreinte, elle a le droit de déposer une plainte, en particulier dans l'État membre de sa résidence habituelle, sur son lieu de travail ou dans l'État où l'infraction présumée s'est produite.
 
-The supervisory authority the complaint has been submitted to is obligated to inform the person concerned on the result of their complaint, just as well as on the fact that he/she has the right to request legal remedy.
+L'autorité de contrôle à laquelle la réclamation a été déposée est tenue d'informer la personne concernée du résultat de sa réclamation, ainsi que du fait qu'elle a le droit de demander un recours juridictionnel.
 
-12.1. The right to request an effective judicial legal remedy against the supervisory authority
+12.1. Le droit de demander un recours juridictionnel effectif contre l'autorité de contrôle
 
-Every person concerned has the right to request an effective legal remedy to challenge a legally enforcing decision of the supervisory authority that affects them. If the supervisory authority does not handle the complaint or fails to inform the person concerned within 3 months about the result of the submitted complaint, the person concerned has the right to request for a legal remedy.
+Toute personne concernée a le droit de demander un recours juridictionnel effectif pour contester une décision juridiquement exécutoire de l'autorité de contrôle qui la concerne. Si l'autorité de contrôle ne traite pas la plainte ou n'informe pas la personne concernée dans les 3 mois du résultat de la plainte déposée, la personne concernée a le droit de demander un recours judiciaire.
 
-Any changes or amendments of the Privacy Policy shall be published on the Webpage. Regarding the controlling of personal data, the Privacy Policy in force shall be applied, regardless of the fact that at the time when the person concerned registered or provided personal data in any other way there might have been an earlier Privacy Policy in force.
+Tout changement ou amendement de la politique de confidentialité sera publié sur la page Web. En ce qui concerne le contrôle des données personnelles, la politique de confidentialité en vigueur sera appliquée, indépendamment du fait qu'au moment où la personne concernée a enregistré ou fourni des données personnelles de toute autre manière, il aurait pu y avoir une politique de confidentialité antérieure en vigueur.
 
 ## Contact
 
-In case of questions, notes or requests regarding this Privacy Policy, registering a complaint or exercise rights, please, contact us using any of the following accessibilities:
+En cas de questions, de notes ou de demandes concernant cette politique de confidentialité, l'enregistrement d'une plainte ou l'exercice de droits, veuillez nous contacter en utilisant l'une des accessibilités suivantes:
 
-Name: HBS Hungary Ltd.
+Nom: HBS Hungary Ltd.
 
-E-mail: [info@hbs.hu](mailto:info@hbs.hu)
+Courriel: [info@hbs.hu] (mailto: info@hbs.hu)
 
-Telephone: 36-1-452-1700
+Téléphone: 36-1-452-1700
 
-The data protection officer of HBS
+Le délégué à la protection des données de HBS
 
-Name: Kéri András
+Nom: Kéri András
 
-E-mail: [andras.keri@hbs.hu](mailto:andras.keri@hbs.hu)
+Courriel: [andras.keri@hbs.hu] (mailto: andras.keri@hbs.hu)
 
-Telephone: 36-30-2512-097
+Téléphone: 36-30-2512-097
 
-## In force
+## En force
 
-This Privacy Policy has been in force since 30th Sept. 2020
+Cette politique de confidentialité est en vigueur depuis le 30 septembre 2020

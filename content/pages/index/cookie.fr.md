@@ -1,54 +1,54 @@
 ---
 type: cookie
 slug: cookie-fr
-title: Cookie Policy
-menutitle: Cookie Policy
+title: Politique relative aux cookies
+menutitle: Politique relative aux cookies
 ---
-## 1. General Information
+## 1. Informations générales
 
-The Happy Business Services Ltd. (Address: 18. Szent István körút, Budapest, 1137, Hungary; telephone: 36-1-452-1700; e-mail: [info@hbs.hu](mailto:info@hbs.hu); henceforth HBS or Company) controls all personal data obtained according to the General Data Protection Regulation (EU) decree 2016/679 (also known as GDPR) of the European Parliament and Council, just as well as to other relevant data protection law, and applies the necessary security, technical and organizational procedures to grant the safety of data on its webpage <https://covid-19.hbs.hu> (henceforth: webpage).
+HBS Medical Ltd. (Adresse: 26. Szent István park, Budapest, 1137, Hongrie; téléphone: 36-1-452-1700; e-mail: [info@hbs.hu](mailto:info@hbs.hu); dorénavant HBS ou société) contrôle toutes les données personnelles obtenues conformément au décret 2016/679 du règlement général sur la protection des données (UE) (également connu sous le nom de RGPD) du Parlement européen et du Conseil, ainsi qu'à d'autres lois pertinentes sur la protection des données, et applique les procédures de sécurité, techniques et organisationnelles nécessaires pour garantir la sécurité des données sur sa page Web <https://covid-19.hbs.hu> (ci-après: page Web).
 
-## 2. Information on Cookies
+## 2. Informations sur les cookies
 
-Similarly to other webpages, HBS uses cookies on their webpages, therefore on <https://covid-19.hbs.hu>, as well, in order to comply the needs of the visitors and to obtain useful business and marketing information.
+À l'instar d'autres pages Web, HBS utilise des cookies sur ses pages Web, donc sur <https://covid-19.hbs.hu>, afin de répondre aux besoins des visiteurs et d'obtenir des informations commerciales et marketing utiles.
 
-### What are Cookies?
+### Que sont les cookies?
 
-Cookies are small text files sent to the electronic devices of the persons concerned (visitors). Cookies may contain personal data (e.g. visiting history), too, but never contain information that can be used for identifying the visitor. On the other hand, these cookies help provide personalized experience for the visitors. The information may refer to the visitor’s preferences, the device used by the visitor, or to ensure the expected operation of the webpage. If the visitor does not give a consent to the use of cookies during they visit the webpage of HBS, in the first step, they are to change the setup of their Internet browser. In this case the visitor cannot access to certain parts of the webpage (e.g. storing the preferences, username, password etc.)
+Les cookies sont de petits fichiers texte envoyés aux appareils électroniques des personnes concernées (visiteurs). Les cookies peuvent également contenir des données personnelles (par exemple, l'historique des visites), mais ne contiennent jamais d'informations pouvant être utilisées pour identifier le visiteur. D'autre part, ces cookies aident à fournir une expérience personnalisée aux visiteurs. Les informations peuvent faire référence aux préférences du visiteur, à l'appareil utilisé par le visiteur ou pour assurer le fonctionnement attendu de la page Web. Si le visiteur ne donne pas son consentement à l'utilisation de cookies lors de sa visite sur la page Web de HBS, dans un premier temps, il doit modifier la configuration de son navigateur Internet. Dans ce cas, le visiteur ne peut pas accéder à certaines parties de la page Web (par exemple, stockage des préférences, nom d'utilisateur, mot de passe, etc.)
 
-Cookies are stored on the device used for accessing the webpage (e.g. computer, mobile phone). This does not mean that HBS is able to access any other data on these devices.
+Les cookies sont stockés sur l'appareil utilisé pour accéder à la page Web (par exemple, ordinateur, téléphone portable). Cela ne signifie pas que HBS est capable d'accéder à d'autres données sur ces appareils.
 
-### Why are Cookies used by the Company on the Webpage?
+### Pourquoi les cookies sont-ils utilisés par la société sur la page Web?
 
-Cookies are used for understanding the needs and habits of the visitors so that the webpage can be developed constantly. Building on the experience gained from the visits the Company can help provide personal preferences for the visitors. (E.g. the cookies can recognize if the visitor returns to the page). Moreover, cookies can be used for offering products and services to the visitors.
+Les cookies sont utilisés pour comprendre les besoins et les habitudes des visiteurs afin que la page Web puisse être développée en permanence. En s'appuyant sur l'expérience acquise lors des visites, la société peut aider à fournir des préférences personnelles aux visiteurs. (Par exemple, les cookies peuvent reconnaître si le visiteur revient sur la page). De plus, les cookies peuvent être utilisés pour offrir des produits et services aux visiteurs.
 
-### What Types of Cookies are being Used?
+### Quels types de cookies sont utilisés?
 
-There are several types of cookies as follows:
+Il existe plusieurs types de cookies comme suit:
 
-* Necessary cookies: these cookies are essential for the operation of the webpage, therefore collecting them cannot be turned off. These cookies are generally recorded due to the activities of the visitor, such as, setting up preferences, logging in or entering data on the webpage. However, by changing the setup of the browser used these cookies can be blocked or deleted, but in this case certain parts of the webpage will not be available.
-* Statistical (analytical) cookies: these are to help HBS learn how the visitors use the webpage. Thus, they help HBS develop the webpage constantly, to satisfy the needs of the visitors.
-* Functional cookies: these cookies enable preferences and certain special functions. These are placed on the visitor’s device by HBS or by a third party which provides services to HBS. If the visitor does not allow these cookies, certain special functions of the webpage may not run properly.
-* Marketing cookies: these are used by HBS to personalize the advertisements and to display targeted advertisements so that the visitors can see the advertisements of their most relevance. Another function of these cookies to help HBS prevent showing advertisements have been displayed to the visitor before. Marketing cookies also make it sure that the advertisements are being displayed properly, their reach is being measured, and in case the visitor withdraws their consent to enable marketing cookies, to block the advertisements for them. These data are not transferred to third parties by HBS.
+* Cookies nécessaires: ces cookies sont essentiels au fonctionnement de la page Web, par conséquent, leur collecte ne peut pas être désactivée. Ces cookies sont généralement enregistrés en raison des activités du visiteur, telles que la configuration des préférences, la connexion ou la saisie de données sur la page Web. Cependant, en modifiant la configuration du navigateur utilisé, ces cookies peuvent être bloqués ou supprimés, mais dans ce cas, certaines parties de la page Web ne seront pas disponibles.
+* Cookies statistiques (analytiques): ils sont destinés à aider HBS à comprendre comment les visiteurs utilisent la page Web. Ainsi, ils aident HBS à développer constamment la page Web, pour satisfaire les besoins des visiteurs.
+* Cookies fonctionnels: ces cookies activent les préférences et certaines fonctions spéciales. Ceux-ci sont placés sur l'appareil du visiteur par HBS ou par un tiers qui fournit des services à HBS. Si le visiteur n'autorise pas ces cookies, certaines fonctions spéciales de la page Web peuvent ne pas fonctionner correctement.
+* Cookies de marketing: ils sont utilisés par HBS pour personnaliser les publicités et afficher des publicités ciblées afin que les visiteurs puissent voir les publicités les plus pertinentes. Une autre fonction de ces cookies pour aider HBS à empêcher l'affichage de publicités a déjà été affichée au visiteur. Les cookies marketing s'assurent également que les publicités sont affichées correctement, que leur portée est mesurée et, au cas où le visiteur retirerait son consentement pour activer les cookies marketing, bloquer les publicités à leur place. Ces données ne sont pas transmises à des tiers par HBS.
 
-Cookies are stored until they are deleted by the visitor or their storing time is expired. Regarding the duration of storing the standards are as follows:
+Les cookies sont stockés jusqu'à ce qu'ils soient supprimés par le visiteur ou que leur durée de conservation soit expirée. En ce qui concerne la durée de stockage, les normes sont les suivantes:
 
-* Session cookie: these cookies are stored temporarily. Their storing time is linked to the session starts when the visitor opens the browser and ends when they close it. Closing the browser makes all session cookie deleted.
-* Persistent cookie: these cookies are stored for the duration shown in the table below. They are not deleted when the browser is closed; they are stored for a definite amount of time.
+* Cookie de session: ces cookies sont stockés temporairement. Leur temps de stockage est lié à la session qui démarre lorsque le visiteur ouvre le navigateur et se termine lorsqu'il le ferme. La fermeture du navigateur supprime tous les cookies de session.
+* Cookie persistant: ces cookies sont stockés pendant la durée indiquée dans le tableau ci-dessous. Ils ne sont pas supprimés lorsque le navigateur est fermé; ils sont stockés pendant une durée déterminée.
 
-Regarding the internet page where the cookies are being stored, there are two categories: 
+En ce qui concerne la page Internet où les cookies sont stockés, il existe deux catégories:
 
-* Self cookies: these are stored on the webpage visited by the person concerned
-* Third party cookies: these are stored on another website, rather than the website of HBS.
+* Auto cookies: ceux-ci sont stockés sur la page Web visitée par la personne concernée
+* Cookies tiers: ceux-ci sont stockés sur un autre site Web, plutôt que sur le site Web de HBS.
 
-### What Other Types of Data are Being Stored?
+### Quels autres types de données sont stockés?
 
-To collect several types technical or transaction-related, standardized data the Company may collect further data about the visitors why they visit the webpage; so that the webpage can operate optimally and the Company can improve its content constantly. The types of information are the following: 
+Pour collecter plusieurs types de données standardisées techniques ou liées aux transactions, la Société peut collecter des données supplémentaires sur les visiteurs pour lesquels ils visitent la page Web; afin que la page Web puisse fonctionner de manière optimale et que la société puisse améliorer constamment son contenu. Les types d'informations sont les suivants:
 
-* Data on the browser and the device used for visiting the webpage,
-* Statistical information on the use of the webpage.
+* Données sur le navigateur et l'appareil utilisé pour visiter la page Web,
+* Informations statistiques sur l'utilisation de la page Web.
 
-The certain cookies are summarized in the table as follows:
+Certains cookies sont résumés dans le tableau comme suit:
 
 <div>
 <table>
@@ -56,158 +56,158 @@ The certain cookies are summarized in the table as follows:
                   <tr>
                     <td>
                       <p>
-                        <b>Cookie</b>
+                        <b> Cookie </b>
                       </p>
                     </td>
                     <td>
                       <p>
-                        <b>Description</b>
+                        <b> Description </b>
                       </p>
                     </td>
                     <td>
                       <p>
-                        <b>Duration</b>
+                        <b> Durée </b>
                       </p>
                     </td>
                     <td>
                       <p>
-                        <b>Type</b>
+                        <b> Type </b>
                       </p>
                     </td>
                   </tr>
                   <tr>
                     <td>
-                      <p>_gid</p>
+                      <p> _gid </p>
                     </td>
                     <td>
-                      <p>This cookie is installed by Google Analytics. The cookie is used to store information of how visitors use a website and helps in creating an analytics report of how the website is doing. The data collected including the number visitors, the source where they have come from, and the pages visited in an anonymous form.</p>
+                      <p> Ce cookie est installé par Google Analytics. Le cookie est utilisé pour stocker des informations sur la façon dont les visiteurs utilisent un site Web et aide à créer un rapport d'analyse de la façon dont le site Web fonctionne. Les données collectées, y compris le nombre de visiteurs, la source d'où ils viennent et les pages visitées sous forme anonyme. </p>
                     </td>
                     <td>
-                      <p>1 day </p>
+                      <p> 1 jour </p>
                     </td>
                     <td>
-                      <p>Analytics</p>
-                    </td>
-                  </tr>
-                  <tr>
-                    <td>
-                      <p>_fbp</p>
-                    </td>
-                    <td>
-                      <p>This cookie is installed by Google Analytics. The cookie is used to store information of how visitors use a website and helps in creating an analytics report of how the website is doing. The data collected including the number visitors, the source where they have come from, and the pages visited in an anonymous form.</p>
-                    </td>
-                    <td>
-                      <p>3 months</p>
-                    </td>
-                    <td>
-                      <p>Analytics</p>
+                      <p> Analytics </p>
                     </td>
                   </tr>
                   <tr>
                     <td>
-                      <p>_ga</p>
+                      <p> _fbp </p>
                     </td>
                     <td>
-                      <p>This cookie is installed by Google Analytics. The cookie is used to calculate visitor, session, campaign data and keep track of site usage for the site's analytics report. The cookies store information anonymously and assign a randomly generated number to identify unique visitors.</p>
+                      <p> Ce cookie est installé par Google Analytics. Le cookie est utilisé pour stocker des informations sur la façon dont les visiteurs utilisent un site Web et aide à créer un rapport d'analyse de la façon dont le site Web fonctionne. Les données collectées, y compris le nombre de visiteurs, la source d'où ils viennent et les pages visitées sous forme anonyme. </p>
                     </td>
                     <td>
-                      <p>2 years </p>
+                      <p> 3 mois </p>
                     </td>
                     <td>
-                      <p>Analytics</p>
-                    </td>
-                  </tr>
-                  <tr>
-                    <td>
-                      <p>xs, datr, spin, wd, fr, c_user, locale, sb</p>
-                    </td>
-                    <td>
-                      <p>Facebook secure cookies that are stored upon consent of the visitor.</p>
-                    </td>
-                    <td>
-                      <p>1–2 years</p>
-                    </td>
-                    <td>
-                      <p>Marketing</p>
+                      <p> Analytics </p>
                     </td>
                   </tr>
                   <tr>
                     <td>
-                      <p>frontend_lang</p>
+                      <p> _ga </p>
                     </td>
                     <td>
-                      <p>This cookie remembers the language selection of the user.</p>
+                      <p> Ce cookie est installé par Google Analytics. Le cookie est utilisé pour calculer les données du visiteur, de la session, de la campagne et pour suivre l'utilisation du site pour le rapport d'analyse du site. Les cookies stockent les informations de manière anonyme et attribuent un numéro généré aléatoirement pour identifier les visiteurs uniques. </p>
                     </td>
                     <td>
-                      <p>session</p>
+                      <p> 2 ans </p>
                     </td>
                     <td>
-                      <p>System</p>
+                      <p> Analytics </p>
                     </td>
                   </tr>
                   <tr>
                     <td>
-                      <p>cookieconsent_status</p>
+                      <p> xs, datr, spin, wd, fr, c_user, locale, sb </p>
                     </td>
                     <td>
-                      <p>Storing cookie consent status</p>
+                      <p> Cookies sécurisés Facebook qui sont stockés avec le consentement du visiteur. </p>
                     </td>
                     <td>
-                      <p>session</p>
+                      <p> 1 à 2 ans </p>
                     </td>
                     <td>
-                      <p>Functional</p>
+                      <p> Marketing </p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p> frontend_lang </p>
+                    </td>
+                    <td>
+                      <p> Ce cookie se souvient de la sélection de la langue de l'utilisateur. </p>
+                    </td>
+                    <td>
+                      <p> session </p>
+                    </td>
+                    <td>
+                      <p> Système </p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p> cookieconsent_status </p>
+                    </td>
+                    <td>
+                      <p> Stockage du statut de consentement aux cookies </p>
+                    </td>
+                    <td>
+                      <p> session </p>
+                    </td>
+                    <td>
+                      <p> Fonctionnel </p>
                     </td>
                   </tr>
                 </tbody>
               </table>
 </div>
 
-### How Can the Cookie Settings Be Changed?
+### Comment les paramètres des cookies peuvent-ils être modifiés?
 
-When the user visits the webpage, the necessary cookies are being stored on their device. Regarding the cookies listed above and other cookies, HBS asks for the visitor’s consent priorly to the storing of them. This consent can be expressed in the box referring to the “cookies” which appears after the webpage has been loaded. At the same place the user can set it up which cookies they give consent to.
+Lorsque l'utilisateur visite la page Web, les cookies nécessaires sont stockés sur son appareil. Concernant les cookies listés ci-dessus et les autres cookies, HBS demande au préalable le consentement du visiteur pour leur stockage. Ce consentement peut être exprimé dans la case faisant référence aux «cookies» qui apparaît après le chargement de la page Web. Au même endroit, l'utilisateur peut configurer les cookies auxquels il donne son consentement.
 
-If the visitor does not specify their consent to cookies or wants to withdraw their prior consent, they can do so anytime, either at the corresponding menu of their browser, or at the corresponding section of the webpage.
+Si le visiteur ne précise pas son consentement aux cookies ou souhaite retirer son consentement préalable, il peut le faire à tout moment, soit dans le menu correspondant de son navigateur, soit dans la section correspondante de la page Web.
 
-Most browsers enable cookie control through their setup system. Further information on the cookies, including setting up the acceptance of them, can be found on the following webpages: [www.aboutcookies.org](http://www.aboutcookies.org), [www.allaboutcookies.org](http://www.allaboutcookies.org). The visitor can change their cookie setup anytime by changing the browser setups. The setup menus of the most frequently used browsers are available by clicking on the following links:
+La plupart des navigateurs activent le contrôle des cookies via leur système de configuration. De plus amples informations sur les cookies, y compris la configuration de leur acceptation, peuvent être trouvées sur les pages Web suivantes: [www.aboutcookies.org](http://www.aboutcookies.org), [www.allaboutcookies.org](http://www.allaboutcookies.org). Le visiteur peut modifier sa configuration de cookies à tout moment en modifiant les paramètres du navigateur. Les menus de configuration des navigateurs les plus fréquemment utilisés sont disponibles en cliquant sur les liens suivants:
 
-[Google Chrome](https://support.google.com/accounts/answer/61416?hl=hu)\
-[Mozilla Firefox](https://support.mozilla.org/hu/kb/sutik-informacio-amelyet-weboldalak-tarolnak-szami?redirectlocale=hu&redirectslug=Su%25CC%2588tik+kezele%25CC%2581se)\
-[Internet Explorer](https://support.microsoft.com/hu-hu/help/17442/windows-internet-explorer-delete-manage-cookies#ie=ie-11)\
-[Opera](https://help.opera.com/en/latest/web-preferences/#cookies)\
+[Google Chrome](https://support.google.com/accounts/answer/61416?hl=hu) \
+[Mozilla Firefox](https://support.mozilla.org/hu/kb/sutik-informacio-amelyet-weboldalak-tarolnak-szami?redirectlocale=hu&redirectslug=Su%25CC%2588tik+kezele%25CC%2581se) \
+[Internet Explorer](https://support.microsoft.com/hu-hu/help/17442/windows-internet-explorer-delete-manage-cookies#ie=ie-11) \
+[Opera](https://help.opera.com/en/latest/web-preferences/#cookies) \
 [Safari](https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac)
 
-### **External Links**
+### **Liens externes**
 
-The webpage of HBS may provide links to other companies, organizations, or public bodies; it can have contacts that enable the direct access of the webpage. All of these pages have their own cookie, information collecting and using policies. Should the visitor have issues or questions regarding these pages, it is recommended to contact the person specified in their corresponding policies.
+La page Web de HBS peut fournir des liens vers d'autres entreprises, organisations ou organismes publics; il peut avoir des contacts qui permettent l'accès direct à la page Web. Toutes ces pages ont leurs propres cookies, la collecte d'informations et l'utilisation de politiques. Si le visiteur a des problèmes ou des questions concernant ces pages, il est recommandé de contacter la personne spécifiée dans leurs politiques correspondantes.
 
-The HBS takes no responsibility for the content or the setup of webpages operated by other data controllers.
+Le HBS décline toute responsabilité quant au contenu ou à la configuration des pages Web exploitées par d'autres responsables du traitement des données.
 
 ### Google Analytics
 
-This webpage uses the services of Google Analytics and other analytical methods to analyze how the visitors use the webpage. These applications use cookies, too, which are fully encrypted. These cookies cannot be used for collecting information from the hard disk or memory of the visitors, nor about their e-mail address or other personal data.
+Cette page Web utilise les services de Google Analytics et d'autres méthodes analytiques pour analyser la façon dont les visiteurs utilisent la page Web. Ces applications utilisent également des cookies, qui sont entièrement cryptés. Ces cookies ne peuvent pas être utilisés pour collecter des informations sur le disque dur ou la mémoire des visiteurs, ni sur leur adresse e-mail ou d'autres données personnelles.
 
-HBS uses the information obtained in this way to evaluate how the visitors use the webpage, to make statistic reports on their activities and to display targeted advertisements on other webpages. HBS never uses these analytical tools for collecting personal data on the visitors of the webpages, and never allows this activity to any third parties.
+HBS utilise les informations ainsi obtenues pour évaluer la manière dont les visiteurs utilisent la page Web, pour établir des rapports statistiques sur leurs activités et pour afficher des publicités ciblées sur d'autres pages Web. HBS n'utilise jamais ces outils analytiques pour collecter des données personnelles sur les visiteurs des pages Web et n'autorise jamais cette activité à des tiers.
 
-Google never pairs the IP address of the visitors of the webpage with any other data being in their possession. HBS never attempts to identify the user of a computer or other device using their IP address. No data collected by the webpage of HBS will be paired with any data obtained from other sources.
+Google ne jumelle jamais l'adresse IP des visiteurs de la page Web avec d'autres données en leur possession. HBS ne tente jamais d'identifier l'utilisateur d'un ordinateur ou d'un autre appareil à l'aide de son adresse IP. Aucune donnée collectée par la page Web de HBS ne sera associée à des données obtenues à partir d'autres sources.
 
-### Google Ads Remarketing
+### Remarketing Google Ads
 
-Our webpage is being advertised by Google Ads among the search engine’s results and on webpages of third parties. For this purpose, when our webpage is visited, a remarketing cookie set up by Google automatically enables advertisements on the basis of interest, using an anonymized cookie ID on the pages the user visits. When the Google Ads remarketing is ended by us, the data collected in this way will be deleted.
+Notre page Web est publiée par Google Ads parmi les résultats du moteur de recherche et sur les pages Web de tiers. À cette fin, lorsque notre page Web est visitée, un cookie de remarketing mis en place par Google active automatiquement les publicités en fonction de l'intérêt, en utilisant un identifiant de cookie anonyme sur les pages que l'utilisateur visite. Lorsque nous mettons fin au remarketing Google Ads, les données collectées de cette manière seront supprimées.
 
-Any other data processing may happen only in case of the visitor’s consent which includes the pairing of the visitor’s Google account with the browsing history by Google, and enables Google to use the data obtained from the visitor’s account to customize the advertisements appearing on the Internet. If the visitor is logged in to their Google account while visiting our webpage, their data can be used with the help of Google Analytics to create and define target group lists, and for remarketing purposes on the different devices used by the visitor. Google pairs the visitor’s personal data with the data of Google Analytics for this purpose, but only temporarily.
+Tout autre traitement de données ne peut avoir lieu qu'en cas de consentement du visiteur, qui comprend le couplage du compte Google du visiteur avec l'historique de navigation de Google et permet à Google d'utiliser les données obtenues à partir du compte du visiteur pour personnaliser les publicités apparaissant sur Internet. Si le visiteur est connecté à son compte Google lors de la visite de notre page Web, ses données peuvent être utilisées à l'aide de Google Analytics pour créer et définir des listes de groupes cibles et à des fins de remarketing sur les différents appareils utilisés par le visiteur. Google associe les données personnelles du visiteur aux données de Google Analytics à cette fin, mais uniquement temporairement.
 
-Remarketing cookies can be turned off on the following page: <https://adssettings.google.com/authenticated?hl=en>
+Les cookies de remarketing peuvent être désactivés sur la page suivante: <https://adssettings.google.com/authenticated?hl=fr>
 
-Further information about cookie settings can be found on the following page where the setup can be changed, as well: <https://digitaladvertisingalliance.org/about>.
+Vous trouverez de plus amples informations sur les paramètres des cookies sur la page suivante où la configuration peut également être modifiée: <https://digitaladvertisingalliance.org/about>.
 
-Regarding the data processing performed by Google, further information can be found in the Privacy Policy of Google.
+En ce qui concerne le traitement des données effectué par Google, de plus amples informations peuvent être trouvées dans la politique de confidentialité de Google.
 
-### Online Activity on Facebook and Google
+### Activité en ligne sur Facebook et Google
 
-The presence of the Company in the social media and network enables better communication with its clients. The Company can provide information on their products and special sales. When the user visits the page of the Company using the social network, their data can be collected and stored automatically, for market research and advertising purposes. An anonymized user profile is generated from these data, which can be used for displaying targeted advertisements on and out of the social media platform. For this purpose, we use cookies which store the behavior and interests of the visitor. When the operators of a social media platform ask for the consent of the visitor (e.g. using a box that can be ticked), the legal basis of data controlling is GDPR act, 6 article, 1 paragraph, a) point. These social media service providers have their own Privacy Policies which explain and elaborate every information on the data processing and controlling, alongside all the legal and technical setup possibilities. The corresponding links of Facebook and Google (YouTube) are the following:
+La présence de l'entreprise dans les médias sociaux et le réseau permet une meilleure communication avec ses clients. La Société peut fournir des informations sur ses produits et ses ventes spéciales. Lorsque l'utilisateur visite la page de la Société en utilisant le réseau social, ses données peuvent être collectées et stockées automatiquement, à des fins d'études de marché et de publicité. Un profil d'utilisateur anonyme est généré à partir de ces données, qui peut être utilisé pour afficher des publicités ciblées sur et en dehors de la plate-forme de médias sociaux. À cette fin, nous utilisons des cookies qui stockent le comportement et les intérêts du visiteur. Lorsque les opérateurs d'une plateforme de médias sociaux demandent le consentement du visiteur (par exemple en utilisant une case qui peut être cochée), la base légale du contrôle des données est la loi GDPR, 6 article, 1 paragraphe, a) point. Ces fournisseurs de services de médias sociaux ont leurs propres politiques de confidentialité qui expliquent et élaborent toutes les informations sur le traitement et le contrôle des données, ainsi que toutes les possibilités de configuration juridiques et techniques. Les liens correspondants de Facebook et Google (YouTube) sont les suivants:
 
 Facebook: [https://www.facebook.com/about/privacy](https://www.facebook.com/about/privacy/)
-Google/YouTube: <https://policies.google.com/privacy>
-Facebook: <https://www.facebook.com/settings?tab=ads>
-Google/YouTube: <https://adssettings.google.com/authenticated>
+Google / YouTube: <https://policies.google.com/privacy>
+Facebook: <https://www.facebook.com/settings?tab=ads>
+Google / YouTube: <https://adssettings.google.com/authenticated>
