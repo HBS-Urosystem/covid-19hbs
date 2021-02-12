@@ -37,7 +37,7 @@ ig_items:
   - item: 25 lancettes (à usage unique, pour prélèvement d'échantillons de sang par
       piqûre au doigt)
   - item: 25 tampons d'alcool (à usage unique, pour la désinfection)
-  - item: 1 flacon de tampon (contient une solution pour 25 tests)
+  - item: 25 ampoules de tampon
   - item: 1 notice d'emballage
 ---
 #### Balázs Bogácsi
