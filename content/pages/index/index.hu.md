@@ -27,9 +27,6 @@ intro:
         A szervezetünk által termelt ellenanyagokat mutatja ki. A COVID-19 közép- és késői szakaszának, illetve a múltban lezajlott fertőzés azonosítására alkalmas.
 
 
-        **ÚJ!** A 25 gyorsteszt kazettát tartalmazó doboz most már 25, egyedileg csomagolt puffer ampullát tartalmaz.
-
-
         <small>Szenzitivitás: 86.6%. Specificitás: 98.33% (IgG+IgM kombinált). A tünetek megjelenését követő 8. naptól kezdve a szenzitivitás 90% feletti.</small>
       cta: Részletek
       link: /szerologiai-teszt
