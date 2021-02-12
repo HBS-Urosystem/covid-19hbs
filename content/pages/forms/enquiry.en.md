@@ -35,7 +35,7 @@ ig_items:
   - item: 25 Droppers (single use)
   - item: 25 Lancets (single use, for finger-prick blood specimen collection)
   - item: 25 Alcohol pads (single use, for disinfection)
-  - item: 1 Bottle of Buffer (contains solution for 25 tests)
+  - item: 25 Ampoules of Buffer
   - item: 1 Package Insert
 ---
 #### Balázs Bogácsi

@@ -27,6 +27,9 @@ intro:
         Il détecte les anticorps produits par le système immunitaire humain contre le virus SARS-CoV-2 (IgG et (IgM). Ce test permet de détecter la phase tardive de l'infection, ainsi qu'une infection survenue dans le passé.
 
 
+        **Nouveau!** La boîte est livrée avec 25 ampoules séparées de tampon pour les 25 cassettes de test.
+
+
         <small>Sensibilité: 86,6% Spécificité: 98,33% (IgG + IgM combinées) 8 jours après l'apparition des symptômes, la spécificité est supérieure à 90%.</small>
       link: /test-serologique
       cta: Détails
