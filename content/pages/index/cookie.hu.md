@@ -6,7 +6,7 @@ menutitle: Cookie-tájékoztató
 ---
 ## 1. Általános információk
 
-A Happy Business Services Zrt. (székhely: 1137 Budapest, Szent István krt 18.; telefonszám: 452-1700; e-mail: [info@hbs.hu](mailto:info@hbs.hu), továbbiakban HBS) a https://hbs.hu/ nevű honlap (továbbiakban: „Honlap") használata során tudomására jutott személyes adatokat az Európai Parlament és Tanács (EU) 2016/679. számú rendelete (GDPR) és az egyéb adatvédelmi jogszabályok szerint kezeli, és megteszi azon biztonsági, technikai és szervezési intézkedéseket, melyek az adatok biztonságát garantálják.
+A HBS Medical Kft. (székhely: 1137 Budapest, Szent István park 26. fszt. 2.; telefonszám: 452-1700; e-mail: [info@hbs.hu](mailto:info@hbs.hu), továbbiakban HBS) a https://hbs.hu/ nevű honlap (továbbiakban: „Honlap") használata során tudomására jutott személyes adatokat az Európai Parlament és Tanács (EU) 2016/679. számú rendelete (GDPR) és az egyéb adatvédelmi jogszabályok szerint kezeli, és megteszi azon biztonsági, technikai és szervezési intézkedéseket, melyek az adatok biztonságát garantálják.
 
 ## 2. Cookie-ról bővebben
 

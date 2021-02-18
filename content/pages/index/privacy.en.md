@@ -13,7 +13,7 @@ intro:
 ---
 ## 1. Introduction
 
-1.1. Hereby we are to inform you about the privacy policy of Happy Business Services Ltd. (henceforth: HBS or Company).
+1.1. Hereby we are to inform you about the privacy policy of HBS Medical Ltd. (henceforth: HBS or Company).
 
 1.2. Please, read this text carefully, since it contains vital information about the way how your personal data is being controlled.
 
@@ -28,15 +28,15 @@ intro:
 
 2.1. **The Data of the Data Controller**
 
-Name: Happy Business Services Ltd.
+Name: HBS Medical Ltd.
 
-Address: HU-1137, 18. Szent István körút, Budapest, Hungary
+Address: HU-1137, 26. Szent István park, Budapest, Hungary
 
 E-mail: info@hbs.hu
 
-Company registration number: 01-10-046757
+Company registration number: 01 09 376867
 
-VAT Number: 22923820-2-41
+VAT Number: 28947882-2-41
 
 2.2. Person Concerned: any person who is or can be identified by their data which are being controlled. 
 
@@ -506,7 +506,7 @@ Any changes or amendments of the Privacy Policy shall be published on the Webpag
 
 In case of questions, notes or requests regarding this Privacy Policy, registering a complaint or exercise rights, please, contact us using any of the following accessibilities:
 
-Name: HBS Hungary Ltd.
+Name: HBS Medical Ltd.
 
 E-mail: [info@hbs.hu](mailto:info@hbs.hu)
 

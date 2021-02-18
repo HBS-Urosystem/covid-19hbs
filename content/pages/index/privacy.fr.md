@@ -14,7 +14,7 @@ intro:
 ---
 ## 1. Introduction
 
-1.1. Par la présente, nous devons vous informer de la politique de confidentialité de Happy Business Services Ltd. (désormais: HBS ou société).
+1.1. Par la présente, nous devons vous informer de la politique de confidentialité de HBS Medical Ltd. (désormais: HBS ou société).
 
 1.2. Veuillez lire attentivement ce texte, car il contient des informations vitales sur la manière dont vos données personnelles sont contrôlées.
 
@@ -29,15 +29,15 @@ intro:
 
 2.1. ** Les données du responsable du traitement **
 
-Nom: Happy Business Services Ltd.
+Nom: HBS Medical Ltd.
 
-Adresse: HU-1137, 18. Szent István körút, Budapest, Hongrie
+Adresse: HU-1137, 26. Szent István park, Budapest, Hongrie
 
 Courriel: info@hbs.hu
 
-Numéro d'enregistrement de la société: 01-10-046757
+Numéro d'enregistrement de la société: 01 09 376867
 
-Numéro de TVA: 22923820-2-41
+Numéro de TVA: 28947882-2-41
 
 2.2. Personne concernée: toute personne qui est ou peut être identifiée par ses données contrôlées.
 

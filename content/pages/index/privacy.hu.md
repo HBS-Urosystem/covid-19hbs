@@ -8,7 +8,7 @@ documents:
 ---
 ## 1. Bevezetés
 
-1.1. Az alábbiakban szeretnénk tájékoztatni Önt a Happy Business Services Zrt. (továbbiakban: HBS, vagy Társaság) általi adatkezeléssel kapcsolatos tudnivalókról.
+1.1. Az alábbiakban szeretnénk tájékoztatni Önt a HBS Medical Kft. (továbbiakban: HBS, vagy Társaság) általi adatkezeléssel kapcsolatos tudnivalókról.
 
 1.2. Kérjük, hogy figyelemmel olvassa el a jelen adatvédelmi tájékoztató rendelkezéseit, mert azok lényeges rendelkezéseket tartalmazhatnak az Ön személyes adatai kezelésére vonatkozóan. 
 
@@ -26,13 +26,13 @@ A rendelet szövegét itt olvashatja: <http://eur-lex.europa.eu/legal-content/H
 
 2.1. Az adatkezelő személye:
 
-Adatkezelő: Happy Business Services Zrt 
+Adatkezelő: HBS Medical Kft. 
 
-Székhely: 1137 Budapest, Szent István krt. 18.
+Székhely: 1137 Budapest, Szent István park 26. fszt. 2.
 
-Adószám: 22923820-2-41
+Adószám: 28947882-2-41
 
-Cégjegyzékszám: 01-10-046757
+Cégjegyzékszám: 01 09 376867
 
 Elérhetőségek: [info@hbs.hu](mailto:info@hbs.hu)
 
