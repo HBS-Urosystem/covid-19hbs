@@ -299,17 +299,18 @@ articles:
 <figcaption>Az antigén és a szerológiai gyorsteszt használata</figcaption>
 </figure>
 
----
+- - -
 
 #### Phoenix Pharma és Hungaropharma partnereinken keresztül a tesztek elérhetőek az ország összes gyógyszertárában.
 
----
+- - -
 
-### Friss hír
+### Friss hírek
 
-Adómódosításokat fogadott el a törvényalkotási bizottság, amelyek értelmében **a tao-támogatás** teljes egészében felhasználható lesz például lázmérő, maszk, gumikesztyű, teszt, kézfertőtlenítő, **egészségügyi védőruházat vásárlására vagy egészségügyi vizsgálat finanszírozására**. (Forrás: [ado.hu](https://ado.hu/ado/adomodositasokat-fogadott-el-a-torvenyalkotasi-bizottsag/))
+* A Clungene COVID-19 antigén gyorsteszt kazetta, melynek cégünk a kizárólagos hazai importőre, szerepel az Európai Bizottság Egészségügyi és Élelmiszerbiztonsági Főigazgatósága által <a href="https://ec.europa.eu/health/sites/health/files/preparedness_response/docs/covid-19_rat_common-list_en.pdf" target="_blank">elfogadott tesztek listáján</a>. E listára csakis olyan tesztek kerülhetnek rá, amelyek teljesítőképessége megfelelő, és rendelkeznek minden szükséges háttérdokumentációval. E szervezet ajánlása biztosítja, hogy a Clungene COVID-19 antigén gyorsteszt kazetta az Európai Unión belül kölcsönösen elfogadott tesztek közé tartozik.
+* Adómódosításokat fogadott el a törvényalkotási bizottság, amelyek értelmében **a tao-támogatás** teljes egészében felhasználható lesz például lázmérő, maszk, gumikesztyű, teszt, kézfertőtlenítő, **egészségügyi védőruházat vásárlására vagy egészségügyi vizsgálat finanszírozására**. (Forrás: [ado.hu](https://ado.hu/ado/adomodositasokat-fogadott-el-a-torvenyalkotasi-bizottsag/))
 
----
+- - -
 
 <h3>Páramentes védőszemüveg</h3>
 <aside>
