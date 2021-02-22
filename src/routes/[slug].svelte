@@ -178,14 +178,12 @@
 
 {#if post.type == 'cookie'}
 <article>
-<h1>{post.title}</h1>
 {@html post.html}
 </article>
 {/if}
 
 {#if post.type == 'privacy'}
 <article>
-<h1>{post.title}</h1>
 {@html post.html}
 </article>
 {/if}
