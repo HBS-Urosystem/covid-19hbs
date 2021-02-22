@@ -24,6 +24,9 @@ documents:
     - text: Manuel d’instruction
       file: /uploads/covid-19-antigene-notice-francais.pdf
       src: /uploads/bxs-file-pdf.svg
+    - text: Common list of COVID-19 Rapid antigen test by EU Health Security Committe
+      file: https://ec.europa.eu/health/sites/health/files/preparedness_response/docs/covid-19_rat_common-list_en.pdf
+      src: /uploads/bxs-file-pdf.svg
 articles:
   - text: >-
       Les substances reconnues par le système immunitaire et déclenchant la

@@ -32,6 +32,9 @@ documents:
     - text: Magyar nyelvű használati útmutató
       file: /uploads/hasznalati_utmutato_covid-19_antigen-5002-hun-ce-3_0-109155103.pdf
       src: /uploads/bxs-file-pdf.svg
+    - text: Common list of COVID-19 Rapid antigen test by EU Health Security Committe
+      file: https://ec.europa.eu/health/sites/health/files/preparedness_response/docs/covid-19_rat_common-list_en.pdf
+      src: /uploads/bxs-file-pdf.svg
 articles:
   - text: >-
       A szerológiai gyorsteszttel ellentétben az antigén-teszt **közvetlenül a

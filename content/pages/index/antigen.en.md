@@ -24,6 +24,9 @@ documents:
     - text: User’s Manual
       file: /uploads/ifu-for-covid-19-antigen-rapid-test-cassette-en-109155103-version-3.0.pdf
       src: /uploads/bxs-file-pdf.svg
+    - file: https://ec.europa.eu/health/sites/health/files/preparedness_response/docs/covid-19_rat_common-list_en.pdf
+      text: Common list of COVID-19 Rapid antigen test by EU Health Security Committe
+      src: /uploads/bxs-file-pdf.svg
 articles:
   - text: >-
       The substances recognized by the immune system and trigger the immune
