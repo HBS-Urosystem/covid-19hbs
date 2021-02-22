@@ -265,8 +265,8 @@ articles:
       indiquer si les personnes sont ou ont été infectées ou non. Les tests sont
       réservés à un usage professionnel."
 ---
-##### Nos partenaires, Phoenix Pharma et Hungaropharma distribuent nos tests rapides pour toutes les pharmacies en Hongrie.
+##### Clungene COVID-19 Antigen Rapid Test Cassette, whose exclusive Hungarian distributor is our company, is present on the <a href="https://ec.europa.eu/health/sites/health/files/preparedness_response/docs/covid-19_rat_common-list_en.pdf" target="_blank">Common list of COVID-19 rapid antigen tests</a>, including those of which their test results are mutually recognized” in the European Union. This list has been compiled by the European Commission Directorate-General For Health And Food Safety. Only tests of excellent sensitivity and specificity, with proper documentation can be added to this list.
 
 - - -
 
-##### Clungene COVID-19 Antigen Rapid Test Cassette, whose exclusive Hungarian distributor is our company, is present on the <a href="https://ec.europa.eu/health/sites/health/files/preparedness_response/docs/covid-19_rat_common-list_en.pdf" target="_blank">Common list of COVID-19 rapid antigen tests</a>, including those of which their test results are mutually recognized” in the European Union. This list has been compiled by the European Commission Directorate-General For Health And Food Safety. Only tests of excellent sensitivity and specificity, with proper documentation can be added to this list.
+##### Nos partenaires, Phoenix Pharma et Hungaropharma distribuent nos tests rapides pour toutes les pharmacies en Hongrie.
