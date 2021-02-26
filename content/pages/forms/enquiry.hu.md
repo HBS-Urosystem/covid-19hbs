@@ -33,7 +33,7 @@ ig_items:
   - item: 25 db egyedileg csomagolt tesztkazetta (1-1 db pipetta mellékelve)
   - item: 25 db ujjbegyszúró,
   - item: 25 db egyedileg csomagolt fertőtlenítő lapocska,
-  - item: 1 db puffer (25 db teszthez),
+  - item: 25 db egyedileg csomagolt puffer,
   - item: használati útmutató.
 ---
 #### Keller Csilla
