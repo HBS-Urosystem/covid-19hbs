@@ -15,7 +15,7 @@
 
 <svelte:head>
 </svelte:head>
-
+<!--
 {#if $lang == 'hu'}
 	<aside class="temp">
 		<h2>
@@ -30,7 +30,7 @@
 		</div>
 	</aside>
 {/if}
-
+-->
 <article>
 
 	<h2>{post.heading}</h2>

@@ -9,9 +9,18 @@ intro:
     - alt: Clungene® COVID-19 IgG/IgM Rapid Test
       text: Clungene® COVID-19 IgG/IgM Rapid Test
       src: /uploads/sam_0364_copy.jpg
-  highlight: On this page, we summarized the most important information on the
-    serology (IgG/IgM) rapid test.
-  text: ""
+  highlight: What is being detected?
+  text: >-
+    **The serology rapid test detects two antibodies produced by the human body
+    exclusively to the novel coronavirus. These are called immunoglobulin G and
+    immunoglobulin M, their common abbreviation are IgG and IgM, respectively.
+    These are present in the human blood.**
+
+
+    IgM appears in the body in a detectable quantity on the 5–8th day after the infection. As the immune system fights off the virus, the amount of IgM decreases. In most cases, 4 weeks after the infection it cannot be detected anymore.
+
+
+    In contrast, IgG starts being produced typically 2 weeks after the infection. Its quantity peaks in the end of the first month, decreases afterwards – but it is detectable for a long time. (Currently there are insufficient data available but it is suspected that IgG is present in the blood for at least several months, maybe years.)
 documents:
   text: >-
     ## Further information and documentation
@@ -26,18 +35,6 @@ documents:
       file: /uploads/smartbioma_protocol_en.pdf
       src: /uploads/bxs-file-pdf.svg
 articles:
-  - title: What is being detected?
-    text: >-
-      **The serology rapid test detects two antibodies produced by the human
-      body exclusively to the novel coronavirus. These are called immunoglobulin
-      G and immunoglobulin M, their common abbreviation are IgG and IgM,
-      respectively. These are present in the human blood.**
-
-
-      IgM appears in the body in a detectable quantity on the 5–8th day after the infection. As the immune system fights off the virus, the amount of IgM decreases. In most cases, 4 weeks after the infection it cannot be detected anymore.
-
-
-      In contrast, IgG starts being produced typically 2 weeks after the infection. Its quantity peaks in the end of the first month, decreases afterwards – but it is detectable for a long time. (Currently there are insufficient data available but it is suspected that IgG is present in the blood for at least several months, maybe years.)
   - title: What are the advantages of an IgG/IgM rapid test?
     text: >-
       * It is considerably cheaper than a PCR test

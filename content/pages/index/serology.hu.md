@@ -5,23 +5,18 @@ title: Clungene® COVID-19 IgG/IgM gyorsteszt kazetta
 menutitle: Szerológiai
 hero: /uploads/sam_0258_copy.jpg
 intro:
-  highlight: Ezen az oldalon megtudhatja a szerológiai gyorsteszt kazettával
-    kapcsolatos legfontosabb információkat.
+  highlight: Mit mutat ki a szerológiai gyorsteszt?
   text: >-
-    <!--
-
-    A teszt további fontos előnye az, hogy az enyhe tünetekkel vagy akár tünetmentesen lezajlott fertőzés után is igazolja a vírus korábbi jelenlétét. (Erre legkorábban a fertőződést követő 3. héttől lehet számítani.) Ilyen esetben a fertőzésből már kigyógyult személy – a szükséges óvintézkedések szigorú betartása mellett – már visszatérhet a munkához. 
-
-
-    **A teszt elvégzését szakorvos, üzemorvos, vagy ilyen szolgáltatást nyújtó szolgáltató (üzemegészségügyi szolgálat) szakemberei végezhetik. Időtartama kb. 15 perc.**
+    A teszt nem közvetlenül a vírust mutatja ki, hanem **két, a szervezet által
+    kifejezetten az új koronavírus ellen termelt, a vérben megtalálható
+    antitest, az immunglobulin M, és az immunglobulin G – röviden: IgM és IgG –
+    jelenlétét.**
 
 
-    FIGYELMEZTETÉS: a tesztet kizárólag orvosi szakdolgozók használhatják! Annak otthoni használatra, illetve önellenőrzési célra történő értékesítése tilos! <a href="/miert-nincsenek-a-piacon-otthoni-hasznalatra-is-alkalmas-covid-19-tesztek" rel="prefetch">A vonatkozó jogi háttérről itt tájékozódhat.</a> 
+    Az IgM a megfertőződést követő 5–8. napon jelenik meg a teszt által is kimutatható mennyiségben a szervezetben. Ahogy a szervezet legyőzi a vírust, a mennyisége egyre csökken; rendszerint a tünetek jelentkezése után 4 héttel már nem mutatható ki.
 
 
-    A mi szállítónk, a Clungene Co., több mint 1000 féle mikrobiológiai teszt anyagot és készterméket gyárt, óriási cég, az egyik legnagyobb Kínában.  Cégünk exkluzív disztribútora Magyarország területén.  Európában Belgium, Németország, Hollandia, Olaszország, Litvánia, Egyesült Királyság, Svájc, Spanyolország, Románia, Dánia, Franciaország, Lengyelország, Svédország, Portugália, Írország, Észtország, Bulgária és Törökország vásárolt már a gyár tesztjeiből.
-
-    -->
+    Az IgG később, leggyakrabban a megfertőződés után 2 héttel kezd el termelődni, mennyisége az első hónap vége felé tetőzik, majd némiképp lecsökken. Az IgM-mel ellentétben azonban az IgG még hónapokon át kimutatható a szervezetben.
   images:
     - src: /uploads/sam_0364_copy.jpg
       alt: Clungene® COVID-19 IgG/IgM gyorsteszt
@@ -65,18 +60,6 @@ documents:
       file: /uploads/sars-cov-2-covid-19-szures-_-kimutatas.pdf
       src: /uploads/bxs-file-pdf.svg
 articles:
-  - title: Mit mutat ki a szerológiai gyorsteszt?
-    text: >-
-      A teszt nem közvetlenül a vírust mutatja ki, hanem **két, a szervezet
-      által kifejezetten az új koronavírus ellen termelt, a vérben megtalálható
-      antitest, az immunglobulin M, és az immunglobulin G – röviden: IgM és IgG
-      – jelenlétét.**
-
-
-      Az IgM a megfertőződést követő 5–8. napon jelenik meg a teszt által is kimutatható mennyiségben a szervezetben. Ahogy a szervezet legyőzi a vírust, a mennyisége egyre csökken; rendszerint a tünetek jelentkezése után 4 héttel már nem mutatható ki.
-
-
-      Az IgG később, leggyakrabban a megfertőződés után 2 héttel kezd el termelődni, mennyisége az első hónap vége felé tetőzik, majd némiképp lecsökken. Az IgM-mel ellentétben azonban az IgG még hónapokon át kimutatható a szervezetben.
   - title: Mik az IgG/IgM gyorsteszt legfontosabb előnyei?
     text: >-
       * Lényegesen olcsóbb, mint a PCR teszt
