@@ -18,7 +18,20 @@
 <aside>
 	{@html cta[$lang].html}
 	{#if $lang == 'hu' && $type}
-	<button on:click="{() => showModal = true}">{cta[$lang].button}</button>
+	<h2>
+		Kedves Érdeklődő!
+	</h2>
+
+	<ul>
+		<li>A 25–200 db (1 doboz=25db) közötti megrendeléseket hivatalos partnerünk, a <a href="https://medexim.hu/" rel="external noopener" target="_blank"><b>medexim.hu</b></a> szolgálja ki.</li>
+		<li>200 db (8 doboz) feletti megrendelés esetén kérje árajánlatunkat.</li>
+	</ul>
+
+	<div>
+		<button><a href="https://medexim.hu/" rel="external noopener" target="_blank">Vásárlás a <u>medexim.hu</u> oldalon</a></button>
+		<button><a href="{cta[$lang].link}">{cta[$lang].button}</a></button>
+	</div>
+	<!--<button on:click="{() => showModal = true}">{cta[$lang].button}</button>-->
 	{:else}
 	<button><a href="{cta[$lang].link}">{cta[$lang].button}</a></button>
 	{/if}
@@ -45,7 +58,7 @@
 <style>
 	aside {
 		display: flex;
-		flex-direction: row;
+		flex-direction: column;
 		flex-wrap: wrap;
 		/* justify-content: space-around; */
     align-items: center;
@@ -74,6 +87,7 @@
 		display: flex;
 		justify-content: space-evenly;
 		flex-wrap: wrap;
+		width: 100%;
 	}
 	button {
     white-space: nowrap;

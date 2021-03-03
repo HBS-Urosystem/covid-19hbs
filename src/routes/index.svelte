@@ -112,7 +112,7 @@
 	<!-- End Facebook Pixel Code -->
 	{/if}
 </svelte:head>
-
+<!--
 {#if $lang == 'hu'}
 	<aside class="temp">
 		<h2>
@@ -128,7 +128,7 @@
 		</div>
 	</aside>
 {/if}
-
+-->
 
 {#if post.intro}
 <article>

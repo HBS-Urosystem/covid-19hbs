@@ -9,9 +9,18 @@ intro:
     - alt: Test Rapide Clungene® COVID-19 IgG/IgM
       text: Test Rapide Clungene® COVID-19 IgG/IgM
       src: /uploads/sam_0364_copy.jpg
-  highlight: Sur cette page, nous avons résumé les informations les plus
-    importantes sur le test rapide de sérologie (IgG/IgM).
-  text: ""
+  highlight: Qu’est-ce qui est détecté?
+  text: >-
+    **Le test sérologique rapide détecte deux anticorps produits par le corps
+    humain exclusivement contre le nouveau coronavirus. Celles-ci sont appelées
+    immunoglobuline G et immunoglobuline M, leurs abréviations courantes sont
+    respectivement IgG et IgM. Ceux-ci sont présents dans le sang humain.**
+
+
+    Les IgM apparaissent dans le corps en quantité détectable le 5 à 8 jours après l'infection. À mesure que le système immunitaire combat le virus, la quantité d'IgM diminue. Dans la plupart des cas, 4 semaines après l'infection, il ne peut plus être détecté. 
+
+
+    En revanche, les IgG commencent à être produites généralement 2 semaines après l'infection. Sa quantité culmine à la fin du premier mois, diminue ensuite - mais elle est détectable pendant longtemps. (Actuellement, les données disponibles sont insuffisantes, mais on soupçonne que des IgG sont présentes dans le sang pendant au moins plusieurs mois, voire des années.)
 documents:
   text: >-
     ## Informations complémentaires et documentation
@@ -26,19 +35,6 @@ documents:
       file: /uploads/smartbioma_protocol_en.pdf
       src: /uploads/bxs-file-pdf.svg
 articles:
-  - title: Qu’est-ce qui est détecté?
-    text: >-
-      **Le test sérologique rapide détecte deux anticorps produits par le corps
-      humain exclusivement contre le nouveau coronavirus. Celles-ci sont
-      appelées immunoglobuline G et immunoglobuline M, leurs abréviations
-      courantes sont respectivement IgG et IgM. Ceux-ci sont présents dans le
-      sang humain.**
-
-
-      Les IgM apparaissent dans le corps en quantité détectable le 5 à 8 jours après l'infection. À mesure que le système immunitaire combat le virus, la quantité d'IgM diminue. Dans la plupart des cas, 4 semaines après l'infection, il ne peut plus être détecté. 
-
-
-      En revanche, les IgG commencent à être produites généralement 2 semaines après l'infection. Sa quantité culmine à la fin du premier mois, diminue ensuite - mais elle est détectable pendant longtemps. (Actuellement, les données disponibles sont insuffisantes, mais on soupçonne que des IgG sont présentes dans le sang pendant au moins plusieurs mois, voire des années.)
   - title: Quels sont les avantages d'un test rapide IgG/IgM?
     text: >-
       * C'est considérablement moins cher qu'un test PCR
