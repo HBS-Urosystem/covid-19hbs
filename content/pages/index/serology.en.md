@@ -3,12 +3,12 @@ type: product2
 slug: serology-test
 title: Clungene® COVID-19 IgG/IgM Rapid Test Cassette
 menutitle: Serology
-hero: /uploads/sam_0258_copy.jpg
+hero: ""
 intro:
   images:
     - alt: Clungene® COVID-19 IgG/IgM Rapid Test
       text: Clungene® COVID-19 IgG/IgM Rapid Test
-      src: /uploads/sam_0364_copy.jpg
+      src: /uploads/002v1.jpg
   highlight: What is being detected?
   text: >-
     **The serology rapid test detects two antibodies produced by the human body

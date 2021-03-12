@@ -6,7 +6,7 @@ menutitle: Tests rapides
 hero: /uploads/33838-web.jpg
 intro:
   images:
-    - src: /uploads/antigen-test.jpg
+    - src: /uploads/003v1.jpg
       alt: Tests rapides antigène Clungene® COVID-19
       text: >-
         ### Tests rapides antigène Clungene® COVID-19
@@ -18,7 +18,7 @@ intro:
         <small>Sensibilité: 91,4%. Spécificité: 100,0%.</small>
       link: /antigeniques
       cta: Détails
-    - src: /uploads/sam_0364_copy.jpg
+    - src: /uploads/004v1.jpg
       alt: Tests rapides IgG/IgM Clungene® COVID-19
       text: >-
         ### Tests rapides IgG/IgM Clungene® COVID-19

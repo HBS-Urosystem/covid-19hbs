@@ -6,7 +6,7 @@ menutitle: Gyorstesztek
 hero: /uploads/33838-web.jpg
 intro:
   images:
-    - src: /uploads/antigen-test.jpg
+    - src: /uploads/003v1.jpg
       alt: Clungene® COVID-19 antigén gyorsteszt
       text: >-
         ### Clungene® COVID-19 antigén gyorsteszt
@@ -18,7 +18,7 @@ intro:
         <small>Szenzitivitás: 91.4%. Specificitás: 100.0%.</small>
       link: /antigen-teszt
       cta: Részletek
-    - src: /uploads/sam_0364_copy.jpg
+    - src: /uploads/004v1.jpg
       alt: Clungene® COVID-19 IgG/IgM gyorsteszt
       text: >-
         ### Clungene® COVID-19 IgG/IgM gyorsteszt

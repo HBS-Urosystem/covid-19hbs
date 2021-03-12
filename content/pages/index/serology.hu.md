@@ -3,7 +3,7 @@ type: product2
 slug: szerologiai-teszt
 title: Clungene® COVID-19 IgG/IgM gyorsteszt kazetta
 menutitle: Szerológiai
-hero: /uploads/sam_0258_copy.jpg
+hero: ""
 intro:
   highlight: Mit mutat ki a szerológiai gyorsteszt?
   text: >-
@@ -18,7 +18,7 @@ intro:
 
     Az IgG később, leggyakrabban a megfertőződés után 2 héttel kezd el termelődni, mennyisége az első hónap vége felé tetőzik, majd némiképp lecsökken. Az IgM-mel ellentétben azonban az IgG még hónapokon át kimutatható a szervezetben.
   images:
-    - src: /uploads/sam_0364_copy.jpg
+    - src: /uploads/002v1.jpg
       alt: Clungene® COVID-19 IgG/IgM gyorsteszt
       text: Clungene® COVID-19 IgG/IgM gyorsteszt
 references:

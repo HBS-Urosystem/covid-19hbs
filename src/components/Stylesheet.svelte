@@ -269,7 +269,7 @@
 
 	aside img {
 		height: 0;
-    padding-bottom: 56.25%;
+    padding-bottom: 66%;
     background-position: center 70%;
 		background-size: cover;
 		margin-bottom: 1.5rem;

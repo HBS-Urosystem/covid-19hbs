@@ -10,7 +10,7 @@ intro:
   images:
     - alt: Clungene® COVID-19 Antigen Rapid Test
       text: Clungene® COVID-19 Antigen Rapid Test
-      src: /uploads/antigen-test.jpg
+      src: /uploads/001v1.jpg
 documents:
   text: >-
     ## Further information and documentation
@@ -22,7 +22,7 @@ documents:
       file: /uploads/clongene-antigen-test-new.pdf
       src: /uploads/bxs-file-pdf.svg
     - text: User’s Manual
-      file: /uploads/ifu-for-covid-19-antigen-rapid-test-cassette-en-109155103-version-3.0.pdf
+      file: /uploads/en_ifu_antigen_test_4.pdf
       src: /uploads/bxs-file-pdf.svg
     - file: https://ec.europa.eu/health/sites/health/files/preparedness_response/docs/covid-19_rat_common-list_en.pdf
       text: Common list of COVID-19 Rapid antigen test by EU Health Security Committe

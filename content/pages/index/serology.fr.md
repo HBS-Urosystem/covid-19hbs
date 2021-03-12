@@ -3,12 +3,12 @@ type: product2
 slug: test-serologique
 title: Cassette de Test Rapide Clungene® COVID-19 IgG/IgM
 menutitle: Sérologique
-hero: /uploads/sam_0258_copy.jpg
+hero: ""
 intro:
   images:
     - alt: Test Rapide Clungene® COVID-19 IgG/IgM
       text: Test Rapide Clungene® COVID-19 IgG/IgM
-      src: /uploads/sam_0364_copy.jpg
+      src: /uploads/002v1.jpg
   highlight: Qu’est-ce qui est détecté?
   text: >-
     **Le test sérologique rapide détecte deux anticorps produits par le corps

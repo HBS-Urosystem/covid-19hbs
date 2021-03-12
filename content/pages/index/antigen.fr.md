@@ -10,7 +10,7 @@ intro:
   images:
     - alt: Test rapide Clungene® COVID-19 Antigéniques
       text: Test rapide Clungene® COVID-19 Antigéniques
-      src: /uploads/antigen-test.jpg
+      src: /uploads/001v1.jpg
 documents:
   text: >-
     ## Informations complémentaires et documentation
