@@ -70,6 +70,11 @@
 	{#if $hero}
 	<link rel="preload" href="{$hero}" as="image">
 	{/if}
+
+	{#if post.type == 'enquiry' && $lang == 'hu'}
+	<script> gtag('config', 'AW-580313650/9tmvCK_JmvwBELLE25QC', { 'phone_conversion_number': '+36 20 778 4899' }); </script>
+	{/if}
+
 	{#if $cookies == true}
 	<!-- Facebook Pixel Code -->
 	<script>
