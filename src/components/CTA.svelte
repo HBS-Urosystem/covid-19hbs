@@ -18,14 +18,14 @@
 <aside>
 	{@html cta[$lang].html}
 	{#if $lang == 'hu' && $type}
-	<h2>
+	<!--<h2>
 		Kedves Érdeklődő!
 	</h2>
 
 	<ul>
 		<li>A 25–200 db (1 doboz=25db) közötti megrendeléseket hivatalos partnerünk, a <a href="https://medexim.hu/" rel="external noopener" target="_blank"><b>medexim.hu</b></a> szolgálja ki.</li>
 		<li>200 db (8 doboz) feletti megrendelés esetén kérje árajánlatunkat.</li>
-	</ul>
+	</ul>-->
 
 	<div>
 		<button><a href="https://medexim.hu/" rel="external noopener" target="_blank">Vásárlás a <u>medexim.hu</u> oldalon</a></button>
@@ -33,7 +33,9 @@
 	</div>
 	<!--<button on:click="{() => showModal = true}">{cta[$lang].button}</button>-->
 	{:else}
-	<button><a href="{cta[$lang].link}">{cta[$lang].button}</a></button>
+	<div>
+		<button><a href="{cta[$lang].link}">{cta[$lang].button}</a></button>
+	</div>
 	{/if}
 </aside>
 
@@ -69,7 +71,7 @@
 		border: solid var(--light);
 		border-width: 2px 4px;
 		font-weight: bolder;
-		text-align: center;
+		/*text-align: center;*/
 	}
 	/* button {
 		margin: 1.5rem auto;
@@ -79,10 +81,15 @@
 		text-decoration: none;
 	} */
 
-	aside :global(ul) {
+	/*aside :global(ul) {
 		text-align: left;
+	}*/
+	aside :global(h6) {
+		margin-right: auto;
 	}
-
+	aside :global(a) {
+		white-space: nowrap;
+	}
 	div {
 		display: flex;
 		justify-content: space-evenly;
