@@ -36,7 +36,7 @@ intro:
   text: >-
     To slow the pandemic down and to minimize the economic loss caused by the
     COVID-19, **it is essential to test people regularly and in a systematic
-    way.** Our company, **HBS Urológia Zrt. has been distributing both antibody
+    way.** Our company, **HBS Medical Kft. has been distributing both antibody
     and antigen rapid test cassettes**. Both of them can be performed quickly
     and can be applied by healthcare professionals at point of care (POC) sites.
 
@@ -49,12 +49,12 @@ info:
   images:
     - src: /uploads/bisnode-hbs-en.jpeg
       alt: Bisnode A certificate for HBS Zrt.
-      text: HBS Zrt. has obtained
+      text: HBS Medical Kft. has obtained
         **[Bisnode&nbsp;A](https://www.bisnode.hu/ceginformacio/5291630/hbs-urologia-zrt/)**
         certificate. This testifies that the financial risk of co-operating with
         our company is low. Only the 7.44% of the Hungarian companies have
         obtained this certificate.
-  text: Our company, **[HBS Zrt.](https://hbs.hu)**, is one of the major importers
+  text: Our company, **[HBS Medical Kft.](https://hbs.hu)**, is one of the major importers
     of rapid tests. Our supplier, [Hangzhou Clongene Biotech Co.
     Ltd.](http://en.clongene.com/) has been manufacturing more than 1,000 types
     of microbiological test materials and products. We have sold hundreds of

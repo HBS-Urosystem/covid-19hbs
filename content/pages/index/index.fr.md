@@ -36,7 +36,7 @@ intro:
   text: >-
     Pour ralentir la pandémie et minimiser les pertes économiques causées par le
     COVID-19, il est essentiel de tester les personnes régulièrement et de
-    manière systématique. Notre société, **HBS Urológia Zrt., distribue des
+    manière systématique. Notre société, **HBS Medical Kft., distribue des
     cassettes de test rapide d'anticorps et d'antigène.** Les deux peuvent être
     exécutés rapidement et peuvent être appliqués par les professionnels de la
     santé sur les sites de soins.
@@ -56,7 +56,7 @@ info:
         Cela démontre que le risque financier lié à la coopération avec notre
         entreprise est faible. Seulement 7,44% des entreprises hongroises ont
         obtenu ce certificat.
-  text: Notre société, **[HBS Urológia Zrt.](https://hbs.hu)** est l'un des
+  text: Notre société, **[HBS Medical Kft.](https://hbs.hu)** est l'un des
     principaux importateurs de tests rapides. Notre fournisseur, [Hangzhou
     Clongene Biotech Co. Ltd.,](http://en.clongene.com/) fabrique plus de 1 000
     types de matériaux et produits de test microbiologique. Nous avons vendu des

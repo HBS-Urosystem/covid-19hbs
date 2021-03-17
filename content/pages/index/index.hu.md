@@ -46,13 +46,13 @@ info:
   images:
     - src: /uploads/bisnode-hbs-hu.jpeg
       alt: 'Bisnode "A" tanúsítvány: HBS Zrt.'
-      text: A HBS Urológia Zrt.
+      text: A HBS Medical Kft.
         **[Bisnode&nbsp;A](https://www.bisnode.hu/ceginformacio/5291630/hbs-urologia-zrt/)**
         tanúsítvánnyal rendelkezik, amely azt jelzi, hogy a céggel való üzleti
         kapcsolat kialakításának pénzügyi kockázata alacsony. E tanúsítvánnyal a
         magyar cégeknek csak a 7,44%-a rendelkezik.
   text: >-
-    Orvostechnikai cégünk, a **[HBS Urológia Zrt.](https://hbs.hu)**, az egyik
+    Orvostechnikai cégünk, a **[HBS Medical Kft.](https://hbs.hu)**, az egyik
     jelentős importőre a **COVID-19 szerológiai és antigén-gyorsteszteknek**.
     Szállítónk, a [Hangzhou Clongene Biotech Co.,
     Ltd.](http://en.clongene.com/), több mint 1000-féle mikrobiológiai
