@@ -40,9 +40,9 @@ ig_items:
   - item: 25 ampoules de tampon
   - item: 1 notice d'emballage
 ---
-#### Balázs Bogácsi
+#### Keller Csilla
 
 Représentent commercial
 
-E-mail: [balazs.bogacsi@hbs.hu](mailto:balazs.bogacsi@hbs.hu)
-Phone: [+36 20 916 0211](tel:+36209160211)
+E-mail: [csilla.keller@hbs.hu](mailto:csilla.keller@hbs.hu)
+Phone: [+36 20 778 4899](tel:+36207784899)

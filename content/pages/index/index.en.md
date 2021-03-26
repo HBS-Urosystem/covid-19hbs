@@ -15,7 +15,7 @@ intro:
         It detects the nucleocapsid protein of SARS-CoV-2 (which is detected by the human immune system, too). This test is for detecting the early phase of the infection.
 
 
-        <small>Sensitivity: 91.4%. Specificity: 100.0%.</small>
+        <small>Sensitivity: 92.0–98.0%. Specificity: 99.7%.</small>
       link: /antigen-test
       cta: Details
     - src: /uploads/004v1.jpg

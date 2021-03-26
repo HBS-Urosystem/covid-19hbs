@@ -15,7 +15,7 @@ intro:
         Il détecte la protéine de nucléocapside du SRAS-CoV-2 (qui est également détectée par le système immunitaire humain). Ce test sert à détecter la phase précoce de l'infection.
 
 
-        <small>Sensibilité: 91,4%. Spécificité: 100,0%.</small>
+        <small>Sensibilité: 92,0–98,0%. Spécificité: 99,7%.</small>
       link: /antigeniques
       cta: Détails
     - src: /uploads/004v1.jpg

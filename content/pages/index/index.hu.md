@@ -15,7 +15,7 @@ intro:
         A vírusnak azt a fehérjéjét mutatja ki, amit az immunrendszerünk is felismer. A COVID-19 korai szakaszában jól azonosítja a fertőzést.
 
 
-        <small>Szenzitivitás: 91.4%. Specificitás: 100.0%.</small>
+        <small>Szenzitivitás: 92,0–98,0%. Specificitás: 99,7%.</small>
       link: /antigen-teszt
       cta: Részletek
     - src: /uploads/004v1.jpg

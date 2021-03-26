@@ -12,9 +12,9 @@ message: Commentaire
 consent: J'ai lu et accepté la&nbsp;<a href="/confidentialité" target="_blank">politique de confidentialité</a>.
 button: Envoyer
 ---
-#### Balázs Bogácsi
+#### Keller Csilla
 
-Représentent commercial
+Sales Representative
 
-E-mail: [balazs.bogacsi@hbs.hu](mailto:balazs.bogacsi@hbs.hu)
-Phone: [+36 20 916 0211](tel:+36209160211)
+E-mail: [csilla.keller@hbs.hu](mailto:csilla.keller@hbs.hu)
+Phone: [+36 20 778 4899](tel:+36207784899)

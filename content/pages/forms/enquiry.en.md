@@ -38,9 +38,9 @@ ig_items:
   - item: 25 Ampoules of Buffer
   - item: 1 Package Insert
 ---
-#### Balázs Bogácsi
+#### Keller Csilla
 
 Sales Representative
 
-E-mail: [balazs.bogacsi@hbs.hu](mailto:balazs.bogacsi@hbs.hu)
-Phone: [+36 20 916 0211](tel:+36209160211)
+E-mail: [csilla.keller@hbs.hu](mailto:csilla.keller@hbs.hu)
+Phone: [+36 20 778 4899](tel:+36207784899)
