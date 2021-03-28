@@ -54,7 +54,7 @@
 		<small>Székhely: 1137 Budapest, Szent István park 26. fszt. 2.</small>
 		<small>Adószám: 28947882-2-41</small>
 		<small>EU TAX ID: HU28947882</small>
-		<small>Web: <a href="https://hbs.hu" rel="noopener" target="_blank">https://hbs.hu</a></small>
+		<small>Web: <a href="https://covid-19.hbs.hu" rel="noopener" target="_blank">https://covid-19.hbs.hu</a></small>
 	</footer>
 	{:else}
 	<footer>
@@ -65,7 +65,7 @@
 		<small>Company’s headquarter: Hungary 1137 Budapest, Szent István park 26. fszt. 2.</small>
 		<small>Tax number: 28947882-2-41</small>
 		<small>EU TAX ID: HU28947882</small>
-		<small>Web: <a href="https://hbs.hu" rel="noopener" target="_blank">https://hbs.hu</a></small>
+		<small>Web: <a href="https://covid-19.hbs.hu" rel="noopener" target="_blank">https://covid-19.hbs.hu</a></small>
 	</footer>
 	{/if}
 </main>

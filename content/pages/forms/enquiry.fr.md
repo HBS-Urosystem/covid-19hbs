@@ -40,7 +40,7 @@ ig_items:
   - item: 25 ampoules de tampon
   - item: 1 notice d'emballage
 ---
-#### Keller Csilla
+#### Csilla Keller
 
 Représentent commercial
 
