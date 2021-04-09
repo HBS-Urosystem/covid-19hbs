@@ -43,6 +43,14 @@
 			</li>
 
 			<!-- segment === pages.business[$lang].slug -->
+			{#if pages.vacs[$lang]}
+			<li>
+				<a rel="prefetch" aria-current="{$type == 'vacs' ? 'page' : undefined}" href="{pages.vacs[$lang].slug}#content">
+					<span>{pages.vacs[$lang].menutitle}</span>
+				</a>
+			</li>
+			{/if}
+
 			{#if pages.business[$lang]}
 			<li>
 				<a rel="prefetch" aria-current="{$type == 'business' ? 'page' : undefined}" href="{pages.business[$lang].slug}#content">

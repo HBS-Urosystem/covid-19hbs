@@ -54,8 +54,8 @@ info:
         certificate. This testifies that the financial risk of co-operating with
         our company is low. Only the 7.44% of the Hungarian companies have
         obtained this certificate.
-  text: Our company, **[HBS Medical Kft.](https://hbs.hu)**, is one of the major importers
-    of rapid tests. Our supplier, [Hangzhou Clongene Biotech Co.
+  text: Our company, **[HBS Medical Kft.](https://hbs.hu)**, is one of the major
+    importers of rapid tests. Our supplier, [Hangzhou Clongene Biotech Co.
     Ltd.](http://en.clongene.com/) has been manufacturing more than 1,000 types
     of microbiological test materials and products. We have sold hundreds of
     thousands of tests in Hungary, supplied state institutions, healthcare

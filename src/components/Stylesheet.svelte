@@ -219,8 +219,9 @@
 		width: 100%;
 		overflow-x: auto;
 	}
-	article img {
+	article img, article button {
 		margin: 0 auto;
+		display: block;
 	}
 
 	article aside {

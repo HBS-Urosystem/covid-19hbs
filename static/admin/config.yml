@@ -224,7 +224,7 @@ collections:
   - name: qa
     label: Q&As
     label_singular: Q&A
-    filter: {field: "type.hu", value: "faq"}
+    #filter: {field: "type.hu", value: "faq"}
     i18n: true
     create: true
     identifier_field: menutitle

@@ -304,6 +304,14 @@ articles:
 
 - - -
 
+### A tesztelésről a COVID-19 védőoltások tükrében
+
+Szerencsére egyre több ember kapja meg a COVID-19 vakcinát, amely hosszabb időre védettséget nyújt a vírus ellen. Ezért érdemes néhány a védőoltásokkal kapcsolatos, a tesztelést érintő kérdést röviden tisztázni.
+
+<button role="button"><a href="/oltas">Részletek</a></button>
+
+- - -
+
 ### Friss hírek
 
 * A Clungene COVID-19 antigén gyorsteszt kazetta, melynek cégünk a kizárólagos hazai importőre, szerepel az Európai Bizottság Egészségügyi és Élelmiszerbiztonsági Főigazgatósága által <a href="https://ec.europa.eu/health/sites/health/files/preparedness_response/docs/covid-19_rat_common-list_en.pdf" target="_blank">elfogadott tesztek listáján</a>. E listára csakis olyan tesztek kerülhetnek rá, amelyek teljesítőképessége megfelelő, és rendelkeznek minden szükséges háttérdokumentációval. E szervezet ajánlása biztosítja, hogy a Clungene COVID-19 antigén gyorsteszt kazetta az Európai Unión belül kölcsönösen elfogadott tesztek közé tartozik.
