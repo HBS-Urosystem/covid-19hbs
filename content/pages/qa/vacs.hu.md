@@ -54,16 +54,16 @@ list:
         Az antigén és PCR tesztek nem, mivel azok magát a vírust detektálják. 
 
 
-        A szerológiai tesztek közül sem mindegyik, mivel azok némelyike nem azt az antigént (az ún. spike proteint, vagyis tüskefehérjét) mutatja ki, melyre a védőoltások „épülnek”. Vannak azonban olyan termékek is – A Clungene® szerológiai gyorsteszt is ilyen –, amelyek elvileg alkalmasak a vakcina nyújtotta védelem kimutatására is. 
+        A szerológiai tesztek közül sem mindegyik, mivel azok némelyike nem azt azon antigén (az ún. spike protein, vagyis tüskefehérje) ellen termelődő antitestet mutatja ki, melyre a védőoltások „épülnek”. Vannak azonban olyan termékek is – A Clungene® szerológiai gyorsteszt is ilyen –, amelyek elvileg alkalmasak a vakcina nyújtotta védelem kimutatására is. 
 
 
         Meg kell azonban jegyezni, hogy a szerológiai teszteket eredetileg nem a védőoltások okozta hatás, hanem a SARS-CoV-2 vírus ellen termelt antitestek kimutatására fejlesztették ki. Hogy pontosan melyik teszt melyik vakcina hatását milyen eséllyel mutatja ki, arról egyelőre nem állnak rendelkezésre bizonyító erejű adatok; az ehhez szükséges klinikai vizsgálatok lefolytatására még nem került sor. Ebből következően írják sok helyen, hogy e tesztek nem alkalmasak a védőoltás hatásosságának igazolására.
 
 
-        Mindazonáltal, a mi tapasztalataink azt mutatják, hogy a Clungene® szerológiai gyorsteszt kazetta a vakcina második dózisát követő 4–10 napon, függetlenül az alkalmazott oltóanyag típusától már IgG pozitív eredményt ad, ami jelzi a vakcina nyújtotta védettséget.
+        Mindazonáltal, a mi tapasztalataink azt mutatják, hogy a Clungene® szerológiai gyorsteszt kazetta a vakcina második dózisát követő 4–10 napon, függetlenül az alkalmazott oltóanyag típusától már IgG pozitív eredményt ad, ami jelzi a vakcina nyújtotta védettséget. (A pozitív eredmény az első dózist követő második héttől kezdve már megjelenhet; a hosszan tartó védettség azonban ennek ellenére a kétdózisú vakcinák mindkét adagjának beadatása után alakul ki!)
 
 
-        Ne essen azonban az sem kétségbe, aki a védőoltást követően elvégzi a gyorstesztet, s az negatív eredményt ad! A szervezetben ekkor is jelen lehet az ellenanyag, s csak annyiról van szó, hogy az nem éri el (vagy még nem éri el) a teszt által is kimutatott mennyiséget.
+        Ne essen azonban az sem kétségbe, aki a védőoltást követően elvégzi a gyorstesztet, s az negatív eredményt ad! A szervezetben ekkor is jelen lehet az ellenanyag, s csak annyiról van szó, hogy az nem éri el (vagy még nem éri el) a teszt által is kimutatott mennyiséget. Azt sem szabad elfelejteni, hogy az immunglobulin (Ig) termelés mellett a szervezet sejtes immunválaszt is ad a kórokozókra, illetve a vakcinákra – ez utóbbi kimutatására azonban nincs egyszerű módszer.
       anchor: immunitas
   - object:
       question: Érdemes tesztelni a már beoltottakat is?
@@ -82,6 +82,6 @@ list:
         Az antigén, illetve PCR teszt pozitivitása minden esetben a vírus jelenlétére utal; aki ilyen eredményt kap, azt a védőoltástól függetlenül fertőzöttnek kell tekinteni.
 
 
-        A szerológiai teszt IgG pozitív eredménye jelezheti a vakcina nyújtotta védettséget, de múltban lezajlott, vagy közép-késői fázisban lévő aktuális fertőzést is. Ezt az eredményt csak akkor érdemes PCR teszttel is megerősíteni, ha azt a tünetek, vagy az érintett előtörténete (igazolt fertőzöttekkel való találkozás) azt indokolják. Ha azonban a teszt IgM-re nézve pozitív, az COVID-19 fertőzésre utal, mivel az oltás hatására ez az ellenanyag nem termelődik. Ilyenkor ajánlott antigén vagy PCR teszttel leellenőrizni a kapott eredményt.
+        A szerológiai teszt IgG pozitív eredménye jelezheti a vakcina nyújtotta védettséget, de múltban lezajlott, vagy közép-késői fázisban lévő aktuális fertőzést is. Ezt az eredményt csak akkor érdemes PCR teszttel is megerősíteni, ha azt a tünetek, vagy az érintett előtörténete (igazolt fertőzöttekkel való találkozás) azt indokolják. Ha azonban a teszt IgM-re nézve pozitív, az rendszerint aktív COVID-19 fertőzésre utal, mivel az oltás hatására ez az ellenanyag nem termelődik. Ilyenkor ajánlott antigén vagy PCR teszttel leellenőrizni a kapott eredményt.
       anchor: beoltottak-tesztelese
 ---
