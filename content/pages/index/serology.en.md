@@ -21,19 +21,6 @@ intro:
 
 
     In contrast, IgG starts being produced typically 2 weeks after the infection. Its quantity peaks in the end of the first month, decreases afterwards – but it is detectable for a long time. (Currently there are insufficient data available but it is suspected that IgG is present in the blood for at least several months, maybe years.)
-documents:
-  text: >-
-    ## Further information and documentation
-
-
-    Clungene® COVID-19 antigen rapid test cassette is registered in the European Union. Its DIMDI registration number is: DE/CA05/IvD-238321-1330-00. Its OGYÉI (National Institute of Pharmacy and Nutrition of Hungary) registration number is: HU/CA01/17106/20.
-  links:
-    - text: User's Manual
-      file: /uploads/covid-19-igg-igm-4212-en-ce-3.0-cgm-496-109147203.pdf
-      src: /uploads/bxs-file-pdf.svg
-    - text: The diagnostic protocol of SmartBioma
-      file: /uploads/smartbioma_protocol_en.pdf
-      src: /uploads/bxs-file-pdf.svg
 articles:
   - title: What are the advantages of an IgG/IgM rapid test?
     text: >-
@@ -278,11 +265,11 @@ articles:
       <td>Confirm the result with PCR test if it is possible – in case of
       a positive result, isolation, in case of negative, nothing to do</td>
 
-      </tr></tbody><tfoot>
+      </tr></tbody>
 
-      <tr>
+      </table>
 
-      <td colspan=\"6\">
+      </div>
 
       <small>Code. C = Control; IgM = Immunoglobulin M; IgG =
       Immunoglobulin G. The appearance of any IgG or IgM lines refers to the
@@ -293,17 +280,7 @@ articles:
       The intensity of the lines does not refer to the phase of the
       infection or the severity of the disease. This table is for reference
       only; it does not substitute the User’s Manual. This table cannot be used
-      as a medical diagnostic guideline.</small>
-
-      </td>
-
-      </tr>
-
-      </tfoot>
-
-      </table>
-
-      </div>"
+      as a medical diagnostic guideline.</small>"
   - title: A video demonstration of the Clungene® COVID-19 IgG/IgM Rapid Test Cassette
     text: >-
       <video controls>
@@ -324,4 +301,17 @@ articles:
 
 
       This test is for professional use only. A short summary on the legal background of diagnostic tests can be found [here](/legal-background).
+documents:
+  text: >-
+    ## Further information and documentation
+
+
+    Clungene® COVID-19 antigen rapid test cassette is registered in the European Union. Its DIMDI registration number is: DE/CA05/IvD-238321-1330-00. Its OGYÉI (National Institute of Pharmacy and Nutrition of Hungary) registration number is: HU/CA01/17106/20.
+  links:
+    - text: User's Manual
+      file: /uploads/covid-19-igg-igm-4212-en-ce-3.0-cgm-496-109147203.pdf
+      src: /uploads/bxs-file-pdf.svg
+    - text: The diagnostic protocol of SmartBioma
+      file: /uploads/smartbioma_protocol_en.pdf
+      src: /uploads/bxs-file-pdf.svg
 ---

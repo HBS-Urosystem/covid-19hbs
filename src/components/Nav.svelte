@@ -149,7 +149,7 @@
 		}
 	}
 	nav div {
-		max-width: 98ch;
+		max-width: 100ch;
     margin: 0 auto;
 		display: flex;
     flex-wrap: nowrap;

@@ -119,14 +119,14 @@
 	<h2>{post.subtitle}</h2>
 	{/if}
 	{#if post.intro.highlight}
-	<h4>{post.intro.highlight}</h4>
+	<h3>{post.intro.highlight}</h3>
 	{/if}
 	{#if post.intro.text}
 	{@html _md(post.intro.text)}
 	{/if}
 </article>
 
-	{#if post.intro.images}
+{#if post.intro.images}
 <article>
 	<aside>
 		{#each post.intro.images as image}

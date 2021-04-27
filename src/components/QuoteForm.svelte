@@ -83,7 +83,7 @@
 	</form>
 </article>
 
-<article>
+<!--<article>
 <figure>
 	<img src="/uploads/124096424_145784927297864_7338944986351090301_o.jpg" alt="antigen test vs serology test" />
 	{#if $lang == 'hu'}
@@ -97,7 +97,7 @@
 	{/if}
 
 </figure>
-</article>
+</article>-->
 
 <article>
 	<div>

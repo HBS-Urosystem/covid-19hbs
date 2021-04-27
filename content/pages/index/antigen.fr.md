@@ -11,22 +11,6 @@ intro:
     - alt: Test rapide Clungene® COVID-19 Antigéniques
       text: Test rapide Clungene® COVID-19 Antigéniques
       src: /uploads/001v1.jpg
-documents:
-  text: >-
-    ## Informations complémentaires et documentation
-
-
-    La cassette de test rapide de l'antigène Clungene® COVID-19 est enregistrée dans l'Union européenne. Son numéro d'enregistrement DIMDI est: DE / CA05 / IvD-238321-1547-00. Son numéro d'enregistrement OGYÉI (Institut national de pharmacie et de nutrition de Hongrie) est: HU / CA01 = 17106/20.
-  links:
-    - text: Une brochure sur l'utilisation du produit
-      file: /uploads/clongene-antigen-test-new.pdf
-      src: /uploads/bxs-file-pdf.svg
-    - text: Manuel d’instruction
-      file: /uploads/covid-19-antigene-notice-francais.pdf
-      src: /uploads/bxs-file-pdf.svg
-    - text: Common list of COVID-19 Rapid antigen test by EU Health Security Committe
-      file: https://ec.europa.eu/health/sites/health/files/preparedness_response/docs/covid-19_rat_common-list_en.pdf
-      src: /uploads/bxs-file-pdf.svg
 articles:
   - text: >-
       Les substances reconnues par le système immunitaire et déclenchant la
@@ -101,6 +85,8 @@ articles:
 
       Les personnes infectées **doivent être isolées** même si elles ne présentent aucun symptôme, **car elles peuvent également infecter d'autres personnes avec le virus**.
   - text: >-
+      <div>
+
       <table>
 
       <thead>
@@ -111,19 +97,19 @@ articles:
 
       <th>
 
-      <img style="max-height:128px;width:auto" alt="test-Ag: négative" src="/uploads/ag-image1.jpg" />
+      <img style="height:128px;width:auto" alt="test-Ag: négative" src="/uploads/ag-image1.jpg" />
 
       </th>
 
       <th>
 
-      <img style="max-height:128px;width:auto" alt="test-Ag: positive" src="/uploads/ag-image2.jpg" />
+      <img style="height:128px;width:auto" alt="test-Ag: positive" src="/uploads/ag-image2.jpg" />
 
       </th>
 
       <th>
 
-      <img style="max-height:128px;width:auto" alt="test-Ag: invalide" src="/uploads/ag-image3.jpg" />
+      <img style="height:128px;width:auto" alt="test-Ag: invalide" src="/uploads/ag-image3.jpg" />
 
       </th>
 
@@ -189,21 +175,13 @@ articles:
 
       </tr>
 
-      <tfoot>
-
-      <tr>
-
-      <td colspan="4">
-
-      <small>Code. C = contrôle. Ag ou T = antigène (ou test). Si la ligne Ag (T) apparaît, le résultat est positif, quelle que soit l'intensité de la ligne. L'intensité de la ligne Ag (T) ne se réfère pas à la phase de l'infection ni à la gravité de la maladie. Ce tableau est pour référence seulement; il ne remplace pas le manuel de l’utilisateur. Ce tableau ne peut pas être utilisé comme guide de diagnostic médical.</small>
-
-      </td>
-
-      </tr>
-
-      </tfoot>
+      </tbody>
 
       </table>
+
+      </div>
+
+      <small>Code. C = contrôle. Ag ou T = antigène (ou test). Si la ligne Ag (T) apparaît, le résultat est positif, quelle que soit l'intensité de la ligne. L'intensité de la ligne Ag (T) ne se réfère pas à la phase de l'infection ni à la gravité de la maladie. Ce tableau est pour référence seulement; il ne remplace pas le manuel de l’utilisateur. Ce tableau ne peut pas être utilisé comme guide de diagnostic médical.</small>
     title: Un résumé des résultats possibles
   - title: Une démonstration vidéo de l’utilisation de la cassette de test rapide de
       l'antigène Clungene® COVID-19
@@ -227,4 +205,20 @@ articles:
 
       Ce test est réservé à un usage professionnel. Un bref résumé du contexte juridique des tests de diagnostic peut être trouvé [ici](/contexte-juridique).
     title: Attention
+documents:
+  text: >-
+    ## Informations complémentaires et documentation
+
+
+    La cassette de test rapide de l'antigène Clungene® COVID-19 est enregistrée dans l'Union européenne. Son numéro d'enregistrement DIMDI est: DE / CA05 / IvD-238321-1547-00. Son numéro d'enregistrement OGYÉI (Institut national de pharmacie et de nutrition de Hongrie) est: HU / CA01 = 17106/20.
+  links:
+    - text: Une brochure sur l'utilisation du produit
+      file: /uploads/clongene-antigen-test-new.pdf
+      src: /uploads/bxs-file-pdf.svg
+    - text: Manuel d’instruction
+      file: /uploads/covid-19-antigene-notice-francais.pdf
+      src: /uploads/bxs-file-pdf.svg
+    - text: Common list of COVID-19 Rapid antigen test by EU Health Security Committe
+      file: https://ec.europa.eu/health/sites/health/files/preparedness_response/docs/covid-19_rat_common-list_en.pdf
+      src: /uploads/bxs-file-pdf.svg
 ---

@@ -173,8 +173,10 @@
 	th {
 		text-align: center;
 	}
-	th:not(:first-of-type) {
+	th img {
+		padding: 0 1rem;
 		background-color: white;
+		max-width: unset;
 	}
 	th:first-of-type, td:first-of-type {
 		text-align: start;
@@ -188,6 +190,7 @@
 	th, td {
 		border-width: 4px 2px;
 		padding: var(--guttery);
+		hyphens: none;
 	}
 
 	button {

@@ -24,44 +24,6 @@ intro:
     - src: /uploads/002v1.jpg
       alt: Clungene® COVID-19 IgG/IgM gyorsteszt
       text: Clungene® COVID-19 IgG/IgM gyorsteszt
-references:
-  links:
-    - url: https://www.affidea.hu/covid-19-szures
-      text: Affidea Magyarország Kft.
-    - url: https://kelen.hu/szolgaltatasaink/koronavirus-gyorsteszt-ellenanyag-vizsgalat/
-      text: Kelen Kórház
-    - url: http://mammutegeszsegkozpont.hu/allasfoglalas/
-      text: Medical Service Budapest Mammut Egészségközpont
-    - url: http://arkadegeszsegkozpont.hu/covid-19-szures/
-      text: Medical Service Budapest Árkád Egészségközpont
-    - url: https://robertkorhaz.hu/leiras/koronavirus-gyorstesz
-      text: Róbert Magánkórház
-  text: >-
-    ## Referenciák
-
-
-    Már számos intézmény és vállalat alkalmazza az általunk forgalmazott **Clungene® COVID-19 Gyorsteszt** Kazettákat. Ezek közül közöljük – a teljesség igénye nélkül – néhány internetes elérhetőségét.
-
-
-    **Phoenix Pharma és Hungaropharma partnereinken keresztül a tesztek elérhetőek az ország összes gyógyszertárában.**
-documents:
-  text: "## További információk, dokumentumok"
-  links:
-    - text: Használati útmutató
-      file: /uploads/covid-19_igg-igm-4212-hu-v5.pdf
-      src: /uploads/bxs-file-pdf.svg
-    - text: OGYÉI hatósági bizonyítvány HU
-      file: /uploads/ogyei_hatosagi_bizonyitvany_orvostech-17106-3-2020-szghbv_alairt-1.pdf
-      src: /uploads/bxs-file-pdf.svg
-    - text: EU megfelelőségi nyilatkozat
-      file: /uploads/ek_megfelelosegi_nyilatkozat.pdf
-      src: /uploads/bxs-file-pdf.svg
-    - text: A termék bizonyítványai
-      file: /uploads/certificates-clongene-covid-2019-igm.igg_1-7.pdf
-      src: /uploads/bxs-file-pdf.svg
-    - text: A SmartBioma diagnosztikai protokollja
-      file: /uploads/sars-cov-2-covid-19-szures-_-kimutatas.pdf
-      src: /uploads/bxs-file-pdf.svg
 articles:
   - title: Mik a szerológiai gyorsteszt legfontosabb előnyei?
     text: >-
@@ -166,7 +128,7 @@ articles:
       A szervezet azonban e szakaszban, sőt, egy darabig a fertőzés után is képes üríteni a vírust. A kórokozó jelenlétét PCR vagy antigén teszttel lehet igazolni. Ha a SARS-CoV-2 még megtalálható a szervezetben, az érintett elkülönítése elkerülhetetlen. Ha azonban már nem, a vizsgált személy munkaképesnek tekinthető: sem ő nem képes megfertőzni a többi embert, és jelenleg ő maga sincs kitéve az új koronavírus okozta (súlyos) megbetegedésnek.
     subtitle: A szerológiai gyorstesztnek négy lehetséges eredménye van.
   - title: Az eredmények értelmezésének egyszerűsített összefoglaló táblázata
-    text: >-
+    text: >
       <div>
 
       <table>
@@ -287,23 +249,15 @@ articles:
 
       <td>Az eredmény megerősítése (RT-PCR), annak függvényében elkülönítés vagy nincs teendő</td>
 
-      </tr></tbody><tfoot>
-
-      <tr>
-
-      <td colspan="6">
-
-      </td>
-
       </tr>
 
-      </tfoot>
+      </tbody>
 
       </table>
 
-      <small>Magyarázat. C = kontroll; IgM = immunglobulin M; IgG = immunglobulin G. Az IgG vagy IgM csíkok megjelenése azok intenzitásától függetlenül a kérdéses immunglobulin jelenlétére utal és pozitív eredményként értelmezendő. A csíkok intenzitásából nem lehet sem a betegség stádiumára, sem annak súlyosságára következtetni. A táblázat nem helyettesíti a termék használati útmutatóját és nem tekinthető orvosi diagnosztikai irányelvnek.</small>
-
       </div>
+
+      <small>Magyarázat. C = kontroll; IgM = immunglobulin M; IgG = immunglobulin G. Az IgG vagy IgM csíkok megjelenése azok intenzitásától függetlenül a kérdéses immunglobulin jelenlétére utal és pozitív eredményként értelmezendő. A csíkok intenzitásából nem lehet sem a betegség stádiumára, sem annak súlyosságára következtetni. A táblázat nem helyettesíti a termék használati útmutatóját és nem tekinthető orvosi diagnosztikai irányelvnek.</small>
   - text: >-
       <video controls>
          <source src="uploads/iggigm_video.mp4" type="video/mp4">
@@ -338,4 +292,42 @@ articles:
 
       A tesztet kizárólag orvosi szakdolgozók használhatják! Annak otthoni használatra, illetve önellenőrzési célra történő értékesítése tilos! [A vonatkozó jogi háttérről itt tájékozódhat.](/otthoni-hasznalat)
     title: Figyelmeztetés
+references:
+  links:
+    - url: https://www.affidea.hu/covid-19-szures
+      text: Affidea Magyarország Kft.
+    - url: https://kelen.hu/szolgaltatasaink/koronavirus-gyorsteszt-ellenanyag-vizsgalat/
+      text: Kelen Kórház
+    - url: http://mammutegeszsegkozpont.hu/allasfoglalas/
+      text: Medical Service Budapest Mammut Egészségközpont
+    - url: http://arkadegeszsegkozpont.hu/covid-19-szures/
+      text: Medical Service Budapest Árkád Egészségközpont
+    - url: https://robertkorhaz.hu/leiras/koronavirus-gyorstesz
+      text: Róbert Magánkórház
+  text: >-
+    ## Referenciák
+
+
+    Már számos intézmény és vállalat alkalmazza az általunk forgalmazott **Clungene® COVID-19 Gyorsteszt** Kazettákat. Ezek közül közöljük – a teljesség igénye nélkül – néhány internetes elérhetőségét.
+
+
+    **Phoenix Pharma és Hungaropharma partnereinken keresztül a tesztek elérhetőek az ország összes gyógyszertárában.**
+documents:
+  text: "## További információk, dokumentumok"
+  links:
+    - text: Használati útmutató
+      file: /uploads/covid-19_igg-igm-4212-hu-v5.pdf
+      src: /uploads/bxs-file-pdf.svg
+    - text: OGYÉI hatósági bizonyítvány HU
+      file: /uploads/ogyei_hatosagi_bizonyitvany_orvostech-17106-3-2020-szghbv_alairt-1.pdf
+      src: /uploads/bxs-file-pdf.svg
+    - text: EU megfelelőségi nyilatkozat
+      file: /uploads/ek_megfelelosegi_nyilatkozat.pdf
+      src: /uploads/bxs-file-pdf.svg
+    - text: A termék bizonyítványai
+      file: /uploads/certificates-clongene-covid-2019-igm.igg_1-7.pdf
+      src: /uploads/bxs-file-pdf.svg
+    - text: A SmartBioma diagnosztikai protokollja
+      file: /uploads/sars-cov-2-covid-19-szures-_-kimutatas.pdf
+      src: /uploads/bxs-file-pdf.svg
 ---

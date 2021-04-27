@@ -5,49 +5,23 @@ title: Clungene® COVID-19 antigén gyorsteszt kazetta
 menutitle: Antigén
 hero: ""
 intro:
-  highlight: "Az antigén (röviden: Ag)-gyorsteszt tökéletes kiegészítője a
-    szerológiai teszteknek. Ezen az oldalon ismertetjük az antigén-teszttel
-    kapcsolatos legfontosabb információkat. "
-  text: ""
+  highlight: Mit mutat ki az antigén-gyorsteszt?
+  text: >-
+    A szerológiai gyorsteszttel ellentétben az antigén-teszt **közvetlenül a
+    vírus jelenlétét mutatja ki** – ebben tehát a PCR tesztre hasonlít. Azonban
+    nem a SARS-CoV-2 örökítőanyagát, hanem annak egy **kifejezetten rá jellemző
+    fehérjéjét észleli**.
+
+
+    Antigénnek hívják azokat az anyagokat, amelyeket az immunrendszer felismer, és amelyek kiváltják annak reakcióját, az immunválaszt (antitesttermelést). Innen kapta a teszt a nevét is, mivel a vírus egy részét (egy fehérjéjét), mint antigént mutatja ki.
+
+
+    Fontos kiemelni, hogy az antigén a legtöbb esetben **a tünetek megjelenését követő 7 napban** van jelen kimutatható mértékben a fertőzött személyben, ezért **az antigén-gyorsteszt ebben az időintervallumban a legmegbízhatóbb**.
   images:
     - src: /uploads/001v1.jpg
       alt: Clungene® COVID-19 antigén gyorsteszt
       text: Clungene® COVID-19 antigén gyorsteszt
-documents:
-  text: >-
-    ## További információk, dokumentumok
-
-
-    A Clungene® COVID-19 antigén-gyorsteszt rendelkezik EU megfelelőségi nyilatkozattal, a termék az Európai Unióban regisztrálva van.
-
-
-    DIMDI regisztrációs száma: DE/CA05/IvD-238321-1547-00
-
-
-    OGYÉI nyilvántartási száma: HU/CA01/55505/20
-  links:
-    - text: A termék használatát ismertető brosúra
-      file: /uploads/antigen_gyorsteszt_brosura_v2.pdf
-      src: /uploads/bxs-file-pdf.svg
-    - text: Magyar nyelvű használati útmutató
-      file: /uploads/v4_hasznalati_utmutato_covid-19_antigen-5002-hun-ce-4_0-109155104.pdf
-      src: /uploads/bxs-file-pdf.svg
-    - text: Common list of COVID-19 Rapid antigen test by EU Health Security Committe
-      file: https://ec.europa.eu/health/sites/health/files/preparedness_response/docs/covid-19_rat_common-list_en.pdf
-      src: /uploads/bxs-file-pdf.svg
 articles:
-  - text: >-
-      A szerológiai gyorsteszttel ellentétben az antigén-teszt **közvetlenül a
-      vírus jelenlétét mutatja ki** – ebben tehát a PCR tesztre hasonlít.
-      Azonban nem a SARS-CoV-2 örökítőanyagát, hanem annak egy **kifejezetten rá
-      jellemző fehérjéjét észleli**.
-
-
-      Antigénnek hívják azokat az anyagokat, amelyeket az immunrendszer felismer, és amelyek kiváltják annak reakcióját, az immunválaszt (antitesttermelést). Innen kapta a teszt a nevét is, mivel a vírus egy részét (egy fehérjéjét), mint antigént mutatja ki.
-
-
-      Fontos kiemelni, hogy az antigén a legtöbb esetben **a tünetek megjelenését követő 7 napban** van jelen kimutatható mértékben a fertőzött személyben, ezért **az antigén-gyorsteszt ebben az időintervallumban a legmegbízhatóbb**.
-    title: Mit mutat ki az antigén-gyorsteszt?
   - text: >-
       * Lényegesen olcsóbb, mint a PCR teszt
 
@@ -118,6 +92,8 @@ articles:
     title: Hogyan kell a kapott eredményt értelmezni?
     subtitle: Az antigén-gyorstesztnek két érvényes eredménye lehet.
   - text: >-
+      <div>
+
       <table>
 
       <thead>
@@ -130,19 +106,19 @@ articles:
 
       <th>
 
-      <img style="max-height:128px;width:auto" alt="Ag-test: negative" src="/uploads/ag-image1.jpg" />
+      <img style="height:128px;width:auto" alt="Ag-test: negative" src="/uploads/ag-image1.jpg" />
 
       </th>
 
       <th>
 
-      <img style="max-height:128px;width:auto" alt="Ag-test: positive" src="/uploads/ag-image1.jpg" />
+      <img style="height:128px;width:auto" alt="Ag-test: positive" src="/uploads/ag-image1.jpg" />
 
       </th>
 
       <th>
 
-      <img style="max-height:128px;width:auto" alt="Ag-test: invalid" src="/uploads/ag-image1.jpg" />
+      <img style="height:128px;width:auto" alt="Ag-test: invalid" src="/uploads/ag-image1.jpg" />
 
       </th>
 
@@ -206,21 +182,15 @@ articles:
 
       <td>Az érintett elkülönítése; ha lehetséges, az eredmény megerősítése</td>
 
-      </tr><tfoot>
-
-      <tr>
-
-      <td colspan="4">
-
-      <small>Magyarázat: C = kontroll; Ag = antigén (a kazetta egyes változatainál T-vel jelölve). Az Ag (T) csík megjelenése annak intenzitásától függetlenül a vírus jelenlétére utal és pozitív eredményként értelmezendő. A csík intenzitásából nem lehet sem a betegség stádiumára, sem annak súlyosságára következtetni. A táblázat nem helyettesíti a termék használati útmutatóját és nem tekinthető orvosi diagnosztikai irányelvnek.</small>
-
-      </td>
-
       </tr>
 
-      </tfoot>
+      </tbody>
 
       </table>
+
+      </div>
+
+      <small>Magyarázat: C = kontroll; Ag = antigén (a kazetta egyes változatainál T-vel jelölve). Az Ag (T) csík megjelenése annak intenzitásától függetlenül a vírus jelenlétére utal és pozitív eredményként értelmezendő. A csík intenzitásából nem lehet sem a betegség stádiumára, sem annak súlyosságára következtetni. A táblázat nem helyettesíti a termék használati útmutatóját és nem tekinthető orvosi diagnosztikai irányelvnek.</small>
     title: Az eredmények értelmezésének egyszerűsített összefoglaló táblázata
   - text: >-
       <!-- <iframe width="560" height="315"
@@ -247,4 +217,26 @@ articles:
 
       A tesztet kizárólag orvosi szakdolgozók használhatják! Otthoni használatra, valamint önellenőrzési célra történő értékesítése tilos! <a href="/otthoni-hasznalat" rel="prefetch">A vonatkozó jogi háttérről itt tájékozódhat.</a>
     title: Figyelmeztetés
+documents:
+  text: >-
+    ## További információk, dokumentumok
+
+
+    A Clungene® COVID-19 antigén-gyorsteszt rendelkezik EU megfelelőségi nyilatkozattal, a termék az Európai Unióban regisztrálva van.
+
+
+    DIMDI regisztrációs száma: DE/CA05/IvD-238321-1547-00
+
+
+    OGYÉI nyilvántartási száma: HU/CA01/55505/20
+  links:
+    - text: A termék használatát ismertető brosúra
+      file: /uploads/antigen_gyorsteszt_brosura_v2.pdf
+      src: /uploads/bxs-file-pdf.svg
+    - text: Magyar nyelvű használati útmutató
+      file: /uploads/v4_hasznalati_utmutato_covid-19_antigen-5002-hun-ce-4_0-109155104.pdf
+      src: /uploads/bxs-file-pdf.svg
+    - text: Common list of COVID-19 Rapid antigen test by EU Health Security Committe
+      file: https://ec.europa.eu/health/sites/health/files/preparedness_response/docs/covid-19_rat_common-list_en.pdf
+      src: /uploads/bxs-file-pdf.svg
 ---

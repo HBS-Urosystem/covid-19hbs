@@ -38,7 +38,7 @@ intro:
       link: /szerologiai-teszt
   text: >-
     ## Az új koronavírus okozta megbetegedés, a COVID-19, 2021. április 15-éig
-    mintegy 24&thinsp;500 halálos áldozatot követelt.
+    24&thinsp;500 halálos áldozatot követelt Magyarországon.
 
 
     Az aktív esetek száma ekkor 270&thinsp;000 fő felett volt, a vírust e napig mintegy 730&thinsp;000 embernél mutatták ki.
@@ -50,7 +50,7 @@ intro:
     Cégünk, a **HBS Medical Kft.**, a **Clungene® COVID-19 szerológiai és antigén gyorsteszt kazetták kizárólagos forgalmazója** ebben kíván segítséget nyújtani. E két teszt együttes alkalmazásával **a COVID-19 korai**, illetve **késői fázisa**, valamint **a múltban**, akár tünetmentesen **lezajlott fertőzés is azonosítható**.
 
 
-    Gyorstesztekkel **rövid idő alatt, költséghatékonyan** lehetszűrést végezni egy cég, üzem, hivatal vagy más intézmény dolgozói között. A módszeres tesztelés **nemcsak egészségügyi, hanem gazdasági szempontból is kulcsfontosságú**. A pozitív esetek elkülönítésével megakadályozható a járványgócok kialakulása, a tömeges megfertőződésből következő kényszerű leállás, és az azzal járó anyagi veszteségek.
+    Gyorstesztekkel **rövid idő alatt, költséghatékonyan** lehet szűrést végezni egy cég, üzem, hivatal vagy más intézmény dolgozói között. A módszeres tesztelés **nemcsak egészségügyi, hanem gazdasági szempontból is kulcsfontosságú**. A pozitív esetek elkülönítésével megakadályozható a járványgócok kialakulása, a tömeges megfertőződésből következő kényszerű leállás, és az azzal járó anyagi veszteségek.
   highlight: ""
 news:
   - title: Hírek, aktualitások

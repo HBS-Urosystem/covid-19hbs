@@ -21,19 +21,6 @@ intro:
 
 
     En revanche, les IgG commencent à être produites généralement 2 semaines après l'infection. Sa quantité culmine à la fin du premier mois, diminue ensuite - mais elle est détectable pendant longtemps. (Actuellement, les données disponibles sont insuffisantes, mais on soupçonne que des IgG sont présentes dans le sang pendant au moins plusieurs mois, voire des années.)
-documents:
-  text: >-
-    ## Informations complémentaires et documentation
-
-
-    La cassette de test rapide de l'antigène Clungene® COVID-19 est enregistrée dans l'Union européenne. Son numéro d'enregistrement DIMDI est: DE/CA05/IvD-238321-1330-00. Son numéro d'enregistrement OGYÉI (Institut national de pharmacie et de nutrition de Hongrie) est: HU/CA01/17106/20.
-  links:
-    - text: Manuel d’instruction
-      file: /uploads/manuel-d-utilisation-covid-19-iggigm.pdf
-      src: /uploads/bxs-file-pdf.svg
-    - text: Protocôle de diagnostique SmartBioma
-      file: /uploads/smartbioma_protocol_en.pdf
-      src: /uploads/bxs-file-pdf.svg
 articles:
   - title: Quels sont les avantages d'un test rapide IgG/IgM?
     text: >-
@@ -267,25 +254,15 @@ articles:
 
       <td>Confirmer le résultat avec un test PCR si c'est possible - en cas de résultat positif, isolement, en cas de négatif, rien à faire</td>
 
-      </tr></tbody><tfoot>
-
-      <tr>
-
-      <td colspan="6">
-
-      <small>Code. C = contrôle; IgM = Immunoglobuline M; IgG = Immunoglobuline G. L'apparition de toute lignée IgG ou IgM fait référence à la présence de l'anticorps et doit être interprétée comme un résultat positif (pour l'anticorps en question) quelle que soit l'intensité de la ou des lignes.<br>
-
-      L'intensité des lignes ne fait pas référence à la phase de l'infection ou à la gravité de la maladie. Ce tableau est pour référence seulement; il ne remplace pas le manuel de l’utilisateur. Ce tableau ne peut pas être utilisé comme guide de diagnostic médical.</small>
-
-      </td>
-
-      </tr>
-
-      </tfoot>
+      </tr></tbody>
 
       </table>
 
       </div>
+
+      <small>Code. C = contrôle; IgM = Immunoglobuline M; IgG = Immunoglobuline G. L'apparition de toute lignée IgG ou IgM fait référence à la présence de l'anticorps et doit être interprétée comme un résultat positif (pour l'anticorps en question) quelle que soit l'intensité de la ou des lignes.<br>
+
+      L'intensité des lignes ne fait pas référence à la phase de l'infection ou à la gravité de la maladie. Ce tableau est pour référence seulement; il ne remplace pas le manuel de l’utilisateur. Ce tableau ne peut pas être utilisé comme guide de diagnostic médical.</small>
   - title: Une démonstration vidéo de la cassette de test rapide Clungene® COVID-19
       IgG/IgM
     text: "<video controls>
@@ -315,4 +292,17 @@ articles:
 
 
       Ce test est réservé à un usage professionnel. Un bref résumé du contexte juridique des tests de diagnostic peut être trouvé [ici](/legal-background).
+documents:
+  text: >-
+    ## Informations complémentaires et documentation
+
+
+    La cassette de test rapide de l'antigène Clungene® COVID-19 est enregistrée dans l'Union européenne. Son numéro d'enregistrement DIMDI est: DE/CA05/IvD-238321-1330-00. Son numéro d'enregistrement OGYÉI (Institut national de pharmacie et de nutrition de Hongrie) est: HU/CA01/17106/20.
+  links:
+    - text: Manuel d’instruction
+      file: /uploads/manuel-d-utilisation-covid-19-iggigm.pdf
+      src: /uploads/bxs-file-pdf.svg
+    - text: Protocôle de diagnostique SmartBioma
+      file: /uploads/smartbioma_protocol_en.pdf
+      src: /uploads/bxs-file-pdf.svg
 ---
