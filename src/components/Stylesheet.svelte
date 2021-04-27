@@ -173,6 +173,9 @@
 	th {
 		text-align: center;
 	}
+	th:not(:first-of-type) {
+		background-color: white;
+	}
 	th:first-of-type, td:first-of-type {
 		text-align: start;
 	}
@@ -243,7 +246,7 @@
 		/* background-color: var(--light25); */
 	}
 	figure h3 {
-		font-weight: bolder;
+		/*font-weight: bolder;*/
 		hyphens: none;
 	}
 	aside button {
@@ -275,8 +278,14 @@
 		background-size: cover;
 		margin-bottom: 1.5rem;
 	}
-	figure figcaption {
+	figure {
+		margin: 0 0 .75rem;
+	}
+	figcaption {
 		text-align: center;
+	}
+	:not(aside) figcaption {
+		font-weight: 400;
 	}
 	figcaption > details {
 		text-align: left;

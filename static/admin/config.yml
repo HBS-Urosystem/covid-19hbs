@@ -111,6 +111,27 @@ collections:
             widget: markdown
             required: false
             i18n: true
+      - label: News blocks
+        label_singular: Block
+        name: news
+        widget: list
+        i18n: true
+        fields: 
+          - label: Title
+            name: title
+            widget: string
+            required: false
+            i18n: true
+          - label: Subtitle
+            name: subtitle
+            widget: string
+            required: false
+            i18n: true
+          - label: Article content
+            name: text
+            widget: markdown
+            required: false
+            i18n: true
       - label: Info
         name: info
         widget: object
@@ -131,6 +152,28 @@ collections:
             widget: markdown
             required: false
             i18n: true
+      - label: Article blocks
+        label_singular: Block
+        name: articles
+        widget: list
+        i18n: true
+        fields: 
+          - label: Title
+            name: title
+            widget: string
+            required: false
+            i18n: true
+          - label: Subtitle
+            name: subtitle
+            widget: string
+            required: false
+            i18n: true
+          - label: Article content
+            name: text
+            widget: markdown
+            required: false
+            i18n: true
+      - {label: "HTML", name: "body", widget: "markdown", i18n: true, required: false}
       - label: References
         name: references
         widget: object
@@ -199,27 +242,6 @@ collections:
                 name: src
                 widget: image
                 i18n: true
-      - label: Article blocks
-        label_singular: Block
-        name: articles
-        widget: list
-        i18n: true
-        fields: 
-          - label: Title
-            name: title
-            widget: string
-            required: false
-            i18n: true
-          - label: Subtitle
-            name: subtitle
-            widget: string
-            required: false
-            i18n: true
-          - label: Article content
-            name: text
-            widget: markdown
-            i18n: true
-      - {label: "HTML", name: "body", widget: "markdown", i18n: true, required: false}
 
   - name: qa
     label: Q&As

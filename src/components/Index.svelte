@@ -18,9 +18,22 @@
 
 <CTA />
 
-{#if post.html}
+{#if post.news}
 <article>
-	{@html post.html}
+{#each post.news as article, i}
+<!--{#if (i+1) / 4 == Math.floor((i+1) / 4)}
+<CTA/>
+{/if}-->
+{#if article.title}
+<h3>{article.title}</h3>
+{/if}
+{#if article.subtitle}
+<h4>{article.subtitle}</h4>
+{/if}
+{#if article.text}
+{@html _md(article.text)}
+{/if}
+{/each}
 </article>
 {/if}
 
@@ -49,7 +62,11 @@
 </article>
 {/if}
 
-<!-- <Form id="quote"/> -->
+{#if post.html}
+<article>
+	{@html post.html}
+</article>
+{/if}
 
 {#if post.articles}
 {#each post.articles as article, i}
@@ -58,12 +75,14 @@
 {/if}
 <article>
 {#if article.title}
-<h2>{article.title}</h2>
+<h3>{article.title}</h3>
 {/if}
 {#if article.subtitle}
-<h3>{article.subtitle}</h3>
+<h4>{article.subtitle}</h4>
 {/if}
+{#if article.text}
 {@html _md(article.text)}
+{/if}
 </article>
 {/each}
 {/if}

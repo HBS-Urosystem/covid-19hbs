@@ -103,7 +103,7 @@ articles:
       Tudni kell azonban, hogy a negatív eredmény nem minden esetben jelenti azt, hogy a vizsgált személy nem fertőzött!
 
 
-      * Előfordulhat ugyanis, hogy a vírus csak olyan kis mennyiségben található meg, hogy azt nem lehet a teszttel kimutatni (erre különösen a tünetek megjelenését megelőzően, illetve a megjelenésüket követő 8. naptól kezdve nagy az esély).
+      * Előfordulhat ugyanis, hogy a vírus csak olyan kis mennyiségben található meg, hogy azt nem lehet a teszttel kimutatni (ennek esélye a tünetek megjelenését követő 8. naptól kezdve növekszik).
 
       * Amennyiben a mintavételt nem kellő gondossággal kivitelezik, megtörténhet, hogy abban nem lesz kimutatható mennyiségű vírus, és a teszt eredménye ezért lesz negatív.
 
@@ -130,19 +130,19 @@ articles:
 
       <th>
 
-      <img style="max-height:128px;width:auto" alt="Ag-test: negative" src="/uploads/image1.jpeg" />
+      <img style="max-height:128px;width:auto" alt="Ag-test: negative" src="/uploads/ag-image1.jpg" />
 
       </th>
 
       <th>
 
-      <img style="max-height:128px;width:auto" alt="Ag-test: positive" src="/uploads/image2.jpeg" />
+      <img style="max-height:128px;width:auto" alt="Ag-test: positive" src="/uploads/ag-image1.jpg" />
 
       </th>
 
       <th>
 
-      <img style="max-height:128px;width:auto" alt="Ag-test: invalid" src="/uploads/image3.jpeg" />
+      <img style="max-height:128px;width:auto" alt="Ag-test: invalid" src="/uploads/ag-image1.jpg" />
 
       </th>
 
@@ -245,6 +245,6 @@ articles:
       módszerrel, például molekuláris teszt elvégzésével meg kell erősíteni.
 
 
-      A tesztet kizárólag orvosi szakdolgozók használhatják! Otthoni használatra, valamint önellenőrzési célra történő értékesítése tilos! <a href="/miert-nincsenek-a-piacon-otthoni-hasznalatra-is-alkalmas-covid-19-tesztek" rel="prefetch">A vonatkozó jogi háttérről itt tájékozódhat.</a>
+      A tesztet kizárólag orvosi szakdolgozók használhatják! Otthoni használatra, valamint önellenőrzési célra történő értékesítése tilos! <a href="/otthoni-hasznalat" rel="prefetch">A vonatkozó jogi háttérről itt tájékozódhat.</a>
     title: Figyelmeztetés
 ---

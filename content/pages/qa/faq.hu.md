@@ -25,7 +25,7 @@ list:
         * Ki lehet mutatni az emberi szervezet a vírus ellen termelt ellenanyagait, az úgynevezett antitesteket. Ezt nevezik szerológiai, immunkromatográfiás vagy immunoglobulin-tesztnek
 
 
-        Gyorsteszt vagy rapid teszt alatt általában az utóbbi kettő valamelyikét értik; az elnevezés arra utal, hogy ezeket nagyon rövid idő (akár 15 perc) alatt is el lehet végezni. (A régebbi források a gyorsteszt kifejezést a szerológiai teszt szinonimájaként használták – az új koronavírust kimutató antigén tesztek ugyanis csak a legutóbbi időkben terjedtek el.)
+        Gyorsteszt vagy rapid teszt alatt általában az utóbbi kettő valamelyikét értik; az elnevezés arra utal, hogy ezeket nagyon rövid idő (akár 15 perc) alatt is el lehet végezni. (A régebbi források a gyorsteszt kifejezést a szerológiai teszt szinonimájaként használták – az új koronavírust kimutató antigén tesztek ugyanis csak később terjedtek el.)
       anchor: kimutatni
   - object:
       question: Mi a gyorstesztek elméleti háttere?
@@ -44,23 +44,20 @@ list:
   - object:
       question: Kik végezhetik el a rapid tesztet?
       answer: >-
-        **Arra képesített orvosok és ápolók. Magánszemélyek semmilyen új
-        koronavírus tesztet nem végezhetnek el** – ami annak ellenére igaz, hogy
-        néhány terméket az interneten, mint „otthon is használható” tesztet
-        árusítanak!
+        **Arra képesített orvosok és ápolók.**
 
 
-        A professzionális (egészségügyi szakdolgozók által történő) használatra szánt tesztekre más szabályozás vonatkozik, mint az otthoni használatra, illetve önellenőrzésre szolgáló hasonló eszközökre. Jelenleg nem érhető el az Európai Unióban olyan termék, amely rendelkezne az önellenőrzésre is alkalmas in vitro diagnosztikai eszközök forgalmazásához szükséges engedélyekkel. Mindennek a jogi hátteréről [itt lehet bővebben olvasni](/miert-nincsenek-a-piacon-otthoni-hasznalatra-is-alkalmas-covid-19-tesztek).
+        A professzionális (egészségügyi szakdolgozók által történő) használatra szánt tesztekre más szabályozás vonatkozik, mint az otthoni használatra, illetve önellenőrzésre szolgáló hasonló eszközökre. Mindennek a jogi hátteréről [itt lehet bővebben olvasni](/otthoni-hasznalat).
 
 
-        Azon túl, hogy a jogi szabályozás nem teszi lehetővé a laikusok által történő tesztelést, azt a következőek is ellenjavallttá teszik:
+        Megjelentek már a piacon olyan gyorstesztek is, amelyeket laikusok is használhatnak. Ezek alkalmazásánál – azon túl, hogy lényegesen drágább termékekről van szó – érdemes néhány dolgot szem előtt tartani. 
 
 
-        * Engedélyhez kötött, hogy milyen intézmények végezhetnek ilyen teszteket Magyarországon, mivel azok hatékony és biztonságos alkalmazásához megfelelő képesített orvosi hátteret és mintavételi körülményeket kell biztosítani. (Ez még akkor is igaz, ha az a vizsgálat nem az intézményben történik.) A szakszerűtlen mintavétel például helytelen teszteredményhez vezethet.
+        * Annak ellenére, hogy egy tesztet bárki használhat, az elvégzése némi gyakorlatot igényel. Különösen igaz ez a mintavételre; ha ezt a felhasználó rosszul csinálja, a teszt eredménye is helytelen lesz. 
 
-        * A tesztet használó személyek járványegészségügyi védelmére vonatkozó szabályokat maximálisan be kell tartani.
+        * A teszt elvégzésekor figyelni kell nemcsak az alapvető higiéniára, hanem a járvánnyal kapcsolatos ajánlásokra, előírásokra is. Különösen igaz ez akkor, ha valaki a tesztet egy másik személyen végzi el – **a gondatlan használat könnyen vezethet egymás megfertőzéséhez**!
 
-        * A teszt során használt eszközök, illetve maga a vérminta biológiai szempontból véve veszélyes hulladéknak minősül.
+        * A teszt során használt eszközök, illetve maga a minta is biológiai szempontból véve **veszélyes hulladéknak minősülnek**. A fertőzött személytől levett orrgarat-, vagy szájgarat-nyálkahártya minta maga is tartalmazza a vírust, ezért **a fertőzés lehetséges forrásának tekinthető**! Mivel a SARS-CoV-2 nem vérrel terjed, az ilyen mintától a COVID-19-et nem lehet elkapni – ugyanez azonban nem mondható el számos más, vérrel (is) terjedő fertőző betegségről.
       anchor: kik-vegezhetik
   - object:
       question: Sok helyen olvasni, hogy a gyorstesztek teljesen megbízhatatlanok.
@@ -69,9 +66,9 @@ list:
         Sajnos, ahogy az új koronavírussal kapcsolatos pánikkeltő írások, a
         veszélyt lekicsinylő vélemények, úgy a tévhitek, a féligazságok, és az
         eredeti környezetükből kiragadott információk is nagyon gyorsan
-        terjednek az interneten. Sajnálatos módon arra is volt már példa, hogy a
-        teszteket nem szakszerű módon használták, vagy magának a tesztnek a
-        minősége nem volt megfelelő.
+        terjednek az interneten. Előfordult már az is, hogy a teszteket nem
+        szakszerű módon használták, vagy magának a tesztnek a minősége nem volt
+        megfelelő.
 
 
         Érdemes tisztázni a leggyakrabban félreértett információkat.
@@ -95,10 +92,7 @@ list:
         * **Az ellenanyag teszt csak akkor mutatja ki a vírusfertőzést, amikor az már elmúlt.**
 
 
-        Nem így van. Az IgM már a tünetek megjelenését követő első héten kimutathatóvá válik. Az IgG valóban később jelenik meg a szervezetben, ám a fertőzés időszakának második felében jellemzően már észlelhető – s az is marad annak lezajlása után is.
-
-
-        Ez utóbbiból következően viszont azonosíthatóak azok, akik már átestek a fertőzésen, és ez az információ már önmagában is igen értékes a fertőzőképesség és a munkavégzés szempontjából.
+        Nem így van. A tünetek megjelenését követő második héttől kezdve e tesztek már kellőképpen érzékenyek a COVID-19 azonosításához. A fertőzés késői – annak elmúltát megelőző – szakaszában pedig még a PCR teszteknél is nagyobb a megbízhatóságuk.
 
 
         * **Az antigén gyorsteszt olyan alacsony megbízhatóságú, hogy nem is érdemes használni.**
@@ -116,7 +110,7 @@ list:
         Ami a szerológiai teszteket illeti, azok valóban nem tudják kimutatni a COVID-19 legkorábbi stádiumát, mivel akkor még nincs ahhoz elegendő mennyiségű antitest a szervezetben. Ugyanakkor, mivel gyorsan és nagy mennyiségben elvégezhetőek, alkalmasak sok, egymással rendszeres kapcsolatot tartó ember (pl. hivatalok, munkahelyek, nagyobb családok) szűrésére, annak azonosítására, hogy megjelent-e már az adott környezetben a vírus.
 
 
-        A két teszt együttes alkalmazásával a COVID-19 fertőzés korai és késői szakaszában járó embereket is azonosítani lehet; az érintettek elkülönítésével jelentős mértékben lelassítható a vírus terjedése.
+        Mivel a kétféle gyorsteszt a fertőzés különböző szakaszaiban a legmegbízhatóbb, együttes alkalmazásukkal a COVID-19 fertőzés korai és késői stádiumában járó embereket is azonosítani lehet; az érintettek elkülönítésével jelentős mértékben lelassítható a vírus terjedése.
 
 
         * **A gyorstesztek olcsó kínai hulladékok: hatékonyságukat semmilyen hatóság vagy vizsgálat nem igazolta, ezért több országban is felhagytak a használatával.**
@@ -154,22 +148,19 @@ list:
         * Szakképzett személyzet számára az antitest teszt elvégzése nem okoz különösebb nehézséget. Az antigén teszt némiképp bonyolultabb (különösen a mintavétel igényel nagy figyelmet), ám, akárcsak az ellenanyag teszt, ez is bárhol elvégezhető. A PCR reakció előkészítése és lefolytatása azonban olyan speciális szakértelmet kíván, amellyel kevés egészségügyi dolgozó rendelkezik – a műveletek során pedig rengeteg a hibalehetőség. Helyszíni elvégzése nem lehetséges: vagy a páciensnek kell a megfelelő eszközökkel rendelkező helyszínre utaznia, vagy a szakszemélyzetnek kell a pácienshez kiszállnia. A mintavételezés – az antigén teszthez hasonlóan – nagy figyelmet kíván, és könnyedén előfordulhat, hogy egyetlen olyan sejt sem kerül a mintába, melyből a vírus kimutatható – ezért a PCR teszt esetében is születnek téves negatív eredmények.
 
 
-        Az utóbbi időben megjelent szakcikkek alapján azonban a PCR tesztek megbízhatósága is megkérdőjelezhetőnek tűnik. Több kutatás is foglalkozott e tesztek vizsgálatával (például: [1](https://asm.org/Articles/2020/April/False-Negatives-and-Reinfections-the-Challenges-of), [2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7189409/)), a legátfogóbb összegzést pedig az Egyesült Államok egyik legrangosabb intézménye, a baltimore-i John Hopkins Egyetem nyújtotta. [Cikkük](https://www.acpjournals.org/doi/10.7326/M20-1495) hét kutatást, illetve 1330 PCR teszteredményt dolgozott fel, az eredmények pedig meglepőek lettek.
+        Az utóbbi időben megjelent szakcikkek alapján azonban a PCR tesztek megbízhatósága is megkérdőjelezhetőnek tűnik. Több kutatás is foglalkozott a PCR tesztek vizsgálatával (például: [1](https://asm.org/Articles/2020/April/False-Negatives-and-Reinfections-the-Challenges-of), [2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7189409/)), a legátfogóbb összegzést pedig az Egyesült Államok egyik legrangosabb intézménye, a baltimore-i John Hopkins Egyetem nyújtotta. [Cikkük](https://www.acpjournals.org/doi/10.7326/M20-1495) hét kutatást, illetve 1330 PCR teszteredményt dolgozott fel, az eredmények pedig meglepőek lettek.
 
 
         A SARS-CoV-2 okozta betegség tünetei rendszerint a megfertőződést követő 5. napon jelentkeznek. (Ezt a napot hívják *onset* napnak.) Az ezt megelőző időszak során a PCR tesztek mindössze **0–33% eséllyel mutatták ki a vírust**, annak függvényében, hogy a tesztet a fertőzés elkapása utáni hányadik napon végezték el. 
 
 
-        A tünetek megjelenésének a napján a PCR tesztek már lényegesen jobban teljesítettek; ekkor **62% eséllyel azonosították a vírust**. Az arány az ezt követő 3 nap során tovább javult, ám **még ekkor is csak 80%-ig emelkedett**. Ezt követően – a megfertőződést követő 9., azaz a tünetek megjelenési utáni 4. naptól kezdve – a **hamis negatívok száma ismét növekedésnek indult**, 12 nappal később pedig **a PCR tesztek érzékenysége már alig 34%-osnak bizonyult**.
+        A tünetek megjelenésének a napján a PCR tesztek már lényegesen jobban teljesítettek; ekkor **62% eséllyel azonosították a vírust**. Az arány az ezt követő 3 nap során tovább javult, ám **még ekkor is csak 80%-ig emelkedett**. Ezt követően – a megfertőződést követő 9., azaz a tünetek megjelenési utáni 4. naptól kezdve – a **hamis negatívok száma ismét növekedésnek indult**, 12 nappal később (az onset utáni 16. napon) pedig **a PCR tesztek érzékenysége már alig 34%-osnak bizonyult**.
 
 
-        Egy 2020. júniusi, 11 szakértő véleményét összegző jelentés, amely a világjárvány során szerzett tapasztalatokat foglalja össze, szintén rámutat a PCR tesztek magas hibaszázalékára: „a fertőzöttek mintegy 30%-át nem mutatják ki, az arány pedig azoknál, akik tünetmentes fertőzöttek, még magasabb is lehet.”
+        Mindebből több következtetést is le lehet vonni.
 
 
-        Mindezekből pedig több következtetést is le lehet vonni.
-
-
-        * A tünetek megjelenése előtt **sajnos PCR teszttel sem lehet kimutatni, hogy valaki, aki igazoltan fertőzött emberrel találkozott, elkapta-e az új koronavírust**.
+        * A tünetek megjelenése előtt **sajnos PCR teszttel sem lehet kimutatni, hogy valaki, aki igazoltan fertőzött emberrel találkozott, elkapta-e az új koronavírust**. Erre egyik teszt sem alkalmas.
 
         * Úgy tűnik, létezik egy **„ideális időintervallum”, amikor a PCR tesztek a leghatékonyabbak** – ez pedig a tünetek megjelenését követő 1–7. nap. Ebben a PCR tesztek az antigén tesztekhez hasonlítanak.
 
@@ -275,7 +266,7 @@ list:
 
         <td>–</td>
 
-        <td>A páciens talán a fertőzés korai szakaszában van, a PCR eredmény pedig hamis negatív.</td>
+        <td>A páciens talán a fertőzés korai szakaszában van, a PCR eredmény pedig hamis negatív – vagy az ellenanyag teszt hamis pozitív.</td>
 
         </tr>
 

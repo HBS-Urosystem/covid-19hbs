@@ -27,75 +27,74 @@ intro:
         A szervezetünk által termelt ellenanyagokat mutatja ki. A COVID-19 közép- és késői szakaszának, illetve a múltban lezajlott fertőzés azonosítására alkalmas.
 
 
-        **ÚJ!** A 25 gyorsteszt kazettát tartalmazó doboz most már 25, egyedileg csomagolt puffer ampullát tartalmaz.
+        Kimutathatja a védőoltás hatására termelődő IgG ellenanyagot is.
+
+
+        <!-- **ÚJ!** A 25 gyorsteszt kazettát tartalmazó doboz most már 25, egyedileg csomagolt puffer ampullát tartalmaz. -->
 
 
         <small>Szenzitivitás: 86.6%. Specificitás: 98.33% (IgG+IgM kombinált). A tünetek megjelenését követő 8. naptól kezdve a szenzitivitás 90% feletti.</small>
       cta: Részletek
       link: /szerologiai-teszt
   text: >-
-    ## Ahhoz, hogy a járvány terjedését lassítani lehessen, elengedhetetlen a
-    rendszeres és módszeres tesztelés.
+    ## Az új koronavírus okozta megbetegedés, a COVID-19, 2021. április 15-éig
+    mintegy 24&thinsp;500 halálos áldozatot követelt.
 
 
-    2020 őszén, amikor már nyilvánvalóvá vált, hogy a COVID-19 második hulláma sokkal több megbetegedést fog okozni, mint az első, cégünk **új terméket** importált, hogy még hatékonyabban lehessen felvenni a harcot a járvánnyal. **A COVID-19 antigén gyorsteszt kiegészíti a szerológiai gyorsteszteket.** Míg az utóbbiakat használva a **fertőzés késői szakaszát, illetve a korábban lezajlott fertőzést lehet azonosítani**, az előbbiekkel a **fertőzés kezdeti szakaszában lehet a vírust kimutatni**.
-  highlight: "Az új koronavírus okozta megbetegedés (COVID-19) nagyon rövid idő
-    alatt világjárványhoz vezetett. Az ősszel kirobbant második hullám pedig jól
-    mutatja: a vírus továbbra is súlyos fenyegetést jelent. "
-info:
-  images:
-    - src: /uploads/bisnode-hbs-hu.jpeg
-      alt: 'Bisnode "A" tanúsítvány: HBS Zrt.'
-      text: A HBS Medical Kft.
-        **[Bisnode&nbsp;A](https://www.bisnode.hu/ceginformacio/5291630/hbs-urologia-zrt/)**
-        tanúsítvánnyal rendelkezik, amely azt jelzi, hogy a céggel való üzleti
-        kapcsolat kialakításának pénzügyi kockázata alacsony. E tanúsítvánnyal a
-        magyar cégeknek csak a 7,44%-a rendelkezik.
-  text: >-
-    Orvostechnikai cégünk, a **[HBS Medical Kft.](https://hbs.hu)**, az egyik
-    jelentős importőre a **COVID-19 szerológiai és antigén-gyorsteszteknek**.
-    Szállítónk, a [Hangzhou Clongene Biotech Co.,
-    Ltd.](http://en.clongene.com/), több mint 1000-féle mikrobiológiai
-    tesztanyagot és készterméket gyárt.
+    Az aktív esetek száma ekkor 270&thinsp;000 fő felett volt, a vírust e napig mintegy 730&thinsp;000 embernél mutatták ki.
 
 
-    Cégünk a Clungene Co. exkluzív disztribútora Magyarország területén. Már több szállítmányunk érkezett az országba, melyek egy részét az Állami Egészségügyi Ellátó Központon (AEEK) keresztül a magyar államnak szállítottuk le. Jelentős mennyiségben vásároltak már egészségügyi intézmények, nagyvállalatok és egyes városok vezetőségei is.
-references:
-  links:
-    - url: https://www.affidea.hu/covid-19-szures
-      text: Affidea Magyarország Kft.
-    - url: https://kelen.hu/szolgaltatasaink/koronavirus-gyorsteszt-ellenanyag-vizsgalat/
-      text: Kelen Kórház
-    - url: http://mammutegeszsegkozpont.hu/allasfoglalas/
-      text: Medical Service Budapest Mammut Egészségközpont
-    - url: http://arkadegeszsegkozpont.hu/covid-19-szures/
-      text: Medical Service Budapest Árkád Egészségközpont
-    - url: https://robertkorhaz.hu/leiras/koronavirus-gyorstesz
-      text: Róbert Magánkórház
-  text: >-
-    ## Referenciák
+    Hogy a valóságban hányan fertőződtek már meg, csak találgatni lehet – feltehetőleg a regisztrált esetek többszöröséről van szó –, mivel **átfogó, rendszeres, módszeres tesztelésre Magyarországon nem került sor**. Holott abban, hogy a járvány terjedését lassítani, s az áldozatok számát csökkenteni lehessen, a tesztelés kiemelten fontos szerepet játszik.
 
 
-    Már számos intézmény és vállalat alkalmazza az általunk forgalmazott **Clungene® COVID-19 Gyorsteszt** Kazettákat. Ezek közül közöljük – a teljesség igénye nélkül – néhány internetes elérhetőségét.
-cards:
-  - src: /uploads/pixabay-social-distancing-5044615_640.jpg
-    link: /modszeres-teszteles
-    text: "### Módszeres tesztelés"
-  - text: "### Gyakori kérdések"
-    link: /gyik
-    src: /uploads/129.jpg
-documents:
-  text: >-
-    ## Társadalmi felelősségvállalásunk
+    Cégünk, a **HBS Medical Kft.**, a **Clungene® COVID-19 szerológiai és antigén gyorsteszt kazetták kizárólagos forgalmazója** ebben kíván segítséget nyújtani. E két teszt együttes alkalmazásával **a COVID-19 korai**, illetve **késői fázisa**, valamint **a múltban**, akár tünetmentesen **lezajlott fertőzés is azonosítható**.
 
 
-    Cégünk már több önkormányzatnak és intézménynek adományozott az általa forgalmazott gyorstesztekből tudományos kutatási, szociális és népegészségügyi célokra.
+    Gyorstesztekkel **rövid idő alatt, költséghatékonyan** lehetszűrést végezni egy cég, üzem, hivatal vagy más intézmény dolgozói között. A módszeres tesztelés **nemcsak egészségügyi, hanem gazdasági szempontból is kulcsfontosságú**. A pozitív esetek elkülönítésével megakadályozható a járványgócok kialakulása, a tömeges megfertőződésből következő kényszerű leállás, és az azzal járó anyagi veszteségek.
+  highlight: ""
+news:
+  - title: Hírek, aktualitások
+    text: ""
+  - title: ""
+    text: >
+      Szerencsére egyre több ember kapja meg a COVID-19 vakcinát, amely hosszabb
+      időre védettséget nyújt a vírus ellen. Ezért érdemes néhány a
+      védőoltásokkal kapcsolatos, a tesztelést érintő kérdést röviden tisztázni.
+
+
+      <button role="button"><a href="/oltas">Részletek</a></button>
+    subtitle: A tesztelésről a COVID-19 védőoltások tükrében
+  - subtitle: ""
+    text: "##### Phoenix Pharma és Hungaropharma partnereinken keresztül a tesztek
+      elérhetőek az ország összes gyógyszertárában."
+  - subtitle: Igazoltan elfogadott teszt
+    text: A Clungene COVID-19 antigén gyorsteszt kazetta, melynek cégünk a
+      kizárólagos hazai importőre, szerepel az Európai Bizottság Egészségügyi és
+      Élelmiszerbiztonsági Főigazgatósága által [elfogadott tesztek
+      listáján](https://ec.europa.eu/health/sites/health/files/preparedness_response/docs/covid-19_rat_common-list_en.pdf).
+      E listára csakis olyan tesztek kerülhetnek rá, amelyek teljesítőképessége
+      megfelelő, és rendelkeznek minden szükséges háttérdokumentációval. E
+      szervezet ajánlása biztosítja, hogy a Clungene COVID-19 antigén gyorsteszt
+      kazetta az Európai Unión belül **kölcsönösen elfogadott tesztek** közé
+      tartozik.
+  - subtitle: Állami támogatás
+    text: Adómódosításokat fogadott el a törvényalkotási bizottság, amelyek
+      értelmében a **tao-támogatás** teljes egészében felhasználható lesz
+      például lázmérő, maszk, gumikesztyű, teszt, kézfertőtlenítő, egészségügyi
+      védőruházat vásárlására vagy **egészségügyi vizsgálat** finanszírozására.
+      (Forrás: [ado.hu](https://ado.hu/ado/adomodositasokat-fogadott-el-a-torvenyalkotasi-bizottsag/))
 articles:
+  - text: >-
+      <figure>
+        <img src="/uploads/124096424_145784927297864_7338944986351090301_o.jpg" alt="antigen test vs serology test" />
+      </figure>
+    subtitle: ""
+    title: Az antigén és a szerológiai gyorsteszt használata
   - subtitle: ""
     text: >-
-      ##### Az alábbi grafikon azt szemlélteti, miként viszonyul egymáshoz a
-      vírus egy adott fehérjéjét kimutató antigén teszt és a SARS-CoV-2 ellen
-      termelt antitesteket kimutató szerológiai teszt
+      **Az alábbi grafikon azt szemlélteti, miként viszonyul egymáshoz a vírus
+      egy adott fehérjéjét kimutató antigén teszt és a SARS-CoV-2 ellen termelt
+      antitesteket kimutató szerológiai teszt**
 
 
       <figure>
@@ -106,7 +105,7 @@ articles:
 
       <details><summary><b>Ábramagyarázat</b></summary>
 
-      <p>Ez az ábra mutatja, melyik gyorsteszt milyen időintervallumban mutatja ki a fertőzést. Az ábrán a 0 azt a napot jelöli, amikor a COVID-19 tünetei jelentkeznek. (Ezt hívják onset napnak.)</p>
+      <p>Az ábrán a 0 azt a napot jelöli, amikor a COVID-19 tünetei jelentkeznek. (Ezt hívják onset napnak.)</p>
 
 
       <p>Leghamarabb, a fertőzés korai szakaszában, az antigén teszt által észlelt vírusfehérje jelenik meg (Ag). Ezt követi a két, a szerológiai teszt által kimutatható ellenanyag. Az immunglobulin M (IgM) jellemzően a fertőzés korai-közép szakaszában van jelen észlelhető mennyiégben. Az immunglobulin G (IgG) rendszerint később jelenik meg, ám az a fertőzés lezajlása után akár hónapokig is megtalálható a szervezetben.</p>
@@ -120,12 +119,12 @@ articles:
       </figcaption>
 
       </figure>
-    title: ""
-  - text: "#### COVID-19 gyorsteszteket használva rövid idő alatt, költséghatékonyan
-      lehet szűrést végezni egy cég, üzem, hivatal vagy más intézmény dolgozói
-      között. Az érintettek azonosításával és elkülönítésével lassítható a vírus
-      terjedése, valamint megakadályozható a járvány miatt bekövetkező kényszerű
-      leállás, és az azzal járó anyagi veszteségek."
+    title: A gyorstesztek működéséről
+  - text: "##### COVID-19 gyorsteszteket használva rövid idő alatt,
+      költséghatékonyan lehet szűrést végezni egy cég, üzem, hivatal vagy más
+      intézmény dolgozói között. Az érintettek azonosításával és elkülönítésével
+      lassítható a vírus terjedése, valamint megakadályozható a járvány miatt
+      bekövetkező kényszerű leállás, és az azzal járó anyagi veszteségek."
   - text: >-
       **Az alábbi táblázatban összehasonlítjuk a leggyakrabban használt
       teszttípusokat:**
@@ -287,42 +286,86 @@ articles:
       </tr>
 
 
+      <tr>
+
+      <td>Kimutatja-e a vakcina révén szerzett védettséget?</td>
+
+      <td>Nem</td>
+
+      <td>Nem</td>
+
+      <td>Bizonyos tesztek kimutathatják (A Clungene® is ilyen)</td>
+
+      </tr>
+
+
       </tbody>
 
       </table>
 
       </div>
-  - text: "#### A COVID-19 gyorstesztek tájékoztató jellegű információval szolgálnak
-      az esetleges fertőzöttségről. A teszt elvégzését szakorvos, üzemorvos,
-      vagy ilyen szolgáltatást nyújtó szolgáltató (üzemegészségügyi szolgálat)
-      szakemberei végezhetik. Időtartama kb. 15–30 perc."
+  - text: "##### A COVID-19 gyorstesztek tájékoztató jellegű információval
+      szolgálnak az esetleges fertőzöttségről. A teszt elvégzését szakorvos,
+      üzemorvos, vagy ilyen szolgáltatást nyújtó szolgáltató (üzemegészségügyi
+      szolgálat) szakemberei végezhetik. Időtartama kb. 15–30 perc."
+  - text: Egyes weboldalakon feltűnően alacsony áron kínálják megvételre a Clungene®
+      szerológiai és antigén teszteket. Teszik ezt annak ellenére, hogy cégünk,
+      a HBS Medical Kft. e termékek kizárólagos magyarországi forgalmazója. (Ezt
+      a tényt az erről szóló dokumentumokkal igazolni is tudjuk.) **Az ilyen
+      weboldalakról megrendelhető tesztekkel kapcsolatban cégünk semmilyen
+      garanciát vagy felelősséget nem vállal**, beleértve azt az esetet is, ha
+      az így megvásárolt tesztek nem is a Hangzhou Clongene Biotech Co. Ltd.
+      termékei.
+    title: FIGYELMEZTETÉS!
+info:
+  images:
+    - src: /uploads/bisnode-hbs-hu.jpeg
+      alt: 'Bisnode "A" tanúsítvány: HBS Zrt.'
+      text: A HBS Medical Kft.
+        **[Bisnode&nbsp;A](https://www.bisnode.hu/ceginformacio/5291630/hbs-urologia-zrt/)**
+        tanúsítvánnyal rendelkezik, amely azt jelzi, hogy a céggel való üzleti
+        kapcsolat kialakításának pénzügyi kockázata alacsony. E tanúsítvánnyal a
+        magyar cégeknek csak a 7,44%-a rendelkezik.
+  text: >-
+    Orvostechnikai cégünk, a **[HBS Medical Kft.](https://hbs.hu)**, az egyik
+    jelentős importőre a **COVID-19 szerológiai és antigén-gyorsteszteknek**.
+    Szállítónk, a [Hangzhou Clongene Biotech Co.,
+    Ltd.](http://en.clongene.com/), több mint 1000-féle mikrobiológiai
+    tesztanyagot és készterméket gyárt.
+
+
+    Cégünk a Clungene Co. exkluzív disztribútora Magyarország területén. Már több szállítmányunk érkezett az országba, melyek egy részét az Állami Egészségügyi Ellátó Központon (AEEK) keresztül a magyar államnak szállítottuk le. Jelentős mennyiségben vásároltak már egészségügyi intézmények, nagyvállalatok és egyes városok vezetőségei is.
+references:
+  links:
+    - url: https://www.affidea.hu/covid-19-szures
+      text: Affidea Magyarország Kft.
+    - url: https://kelen.hu/szolgaltatasaink/koronavirus-gyorsteszt-ellenanyag-vizsgalat/
+      text: Kelen Kórház
+    - url: http://mammutegeszsegkozpont.hu/allasfoglalas/
+      text: Medical Service Budapest Mammut Egészségközpont
+    - url: http://arkadegeszsegkozpont.hu/covid-19-szures/
+      text: Medical Service Budapest Árkád Egészségközpont
+    - url: https://robertkorhaz.hu/leiras/koronavirus-gyorstesz
+      text: Róbert Magánkórház
+  text: >-
+    ## Referenciák
+
+
+    Már számos intézmény és vállalat alkalmazza az általunk forgalmazott **Clungene® COVID-19 Gyorsteszt** Kazettákat. Ezek közül közöljük – a teljesség igénye nélkül – néhány internetes elérhetőségét.
+cards:
+  - src: /uploads/pixabay-social-distancing-5044615_640.jpg
+    link: /modszeres-teszteles
+    text: "### Módszeres tesztelés"
+  - text: "### Gyakori kérdések"
+    link: /gyik
+    src: /uploads/129.jpg
+documents:
+  text: >-
+    ### Társadalmi felelősségvállalásunk
+
+
+    Cégünk már több önkormányzatnak és intézménynek adományozott az általa forgalmazott gyorstesztekből tudományos kutatási, szociális és népegészségügyi célokra.
 ---
-<figure>
-	<img src="/uploads/124096424_145784927297864_7338944986351090301_o.jpg" alt="antigen test vs serology test" />
-<figcaption>Az antigén és a szerológiai gyorsteszt használata</figcaption>
-</figure>
-
-- - -
-
-### A tesztelésről a COVID-19 védőoltások tükrében
-
-Szerencsére egyre több ember kapja meg a COVID-19 vakcinát, amely hosszabb időre védettséget nyújt a vírus ellen. Ezért érdemes néhány a védőoltásokkal kapcsolatos, a tesztelést érintő kérdést röviden tisztázni.
-
-<button role="button"><a href="/oltas">Részletek</a></button>
-
-- - -
-
-### Friss hírek
-
-* A Clungene COVID-19 antigén gyorsteszt kazetta, melynek cégünk a kizárólagos hazai importőre, szerepel az Európai Bizottság Egészségügyi és Élelmiszerbiztonsági Főigazgatósága által <a href="https://ec.europa.eu/health/sites/health/files/preparedness_response/docs/covid-19_rat_common-list_en.pdf" target="_blank" rel="noopener">elfogadott tesztek listáján</a>. E listára csakis olyan tesztek kerülhetnek rá, amelyek teljesítőképessége megfelelő, és rendelkeznek minden szükséges háttérdokumentációval. E szervezet ajánlása biztosítja, hogy a Clungene COVID-19 antigén gyorsteszt kazetta az Európai Unión belül kölcsönösen elfogadott tesztek közé tartozik.
-* Adómódosításokat fogadott el a törvényalkotási bizottság, amelyek értelmében **a tao-támogatás** teljes egészében felhasználható lesz például lázmérő, maszk, gumikesztyű, teszt, kézfertőtlenítő, **egészségügyi védőruházat vásárlására vagy egészségügyi vizsgálat finanszírozására**. (Forrás: [ado.hu](https://ado.hu/ado/adomodositasokat-fogadott-el-a-torvenyalkotasi-bizottsag/))
-
-- - -
-
-#### Phoenix Pharma és Hungaropharma partnereinken keresztül a tesztek elérhetőek az ország összes gyógyszertárában.
-
-- - -
-
 <h3>Páramentes védőszemüveg</h3>
 <aside>
 <section>

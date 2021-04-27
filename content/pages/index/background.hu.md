@@ -1,40 +1,46 @@
 ---
 type: background
-slug: miert-nincsenek-a-piacon-otthoni-hasznalatra-is-alkalmas-covid-19-tesztek
-title: Miért nincsenek a piacon otthoni használatra is alkalmas COVID-19 tesztek?
+slug: otthoni-hasznalat
+title: Az otthoni használatra is alkalmas COVID-19 tesztekről
 menutitle: Jogi háttér
 articles:
   - text: >-
-      Az új koronavírus (SARS-CoV-2) okozta COVID-19 járvány kapcsán napvilágot
-      láttak olyan hírek, amelyek szerint elérhetőek a piacon otthoni
-      használatra – önellenőrzésre – szánt tesztek.
+      Sok internetes oldal árusít laikusok által is használható, önellenőrzésre
+      szánt COVID-19 gyorsteszteket. Valójában azonban az ilyen termékek
+      többsége *in vitro diagnosztikai* (IVD) orvostechnikai eszközöknek számít.
+      Ezek otthoni alkalmazása ellenjavallt, őket kifejezetten laikusok által is
+      használható tesztként forgalomba hozni pedig **tilos**! 
 
 
-      A valóságban e tesztek <i>in vitro</i> diagnosztikai (IVD) orvostechnikai eszközöknek számítanak; **önellenőrzésre is alkalmas változatok** pedig egyelőre **még nem kerülhettek legális módon forgalomba**. Ebből következően, otthoni, illetve laikus személyek általi használatra szánt, az új koronavírus kimutatására szolgáló tesztek vásárlása ellenjavalt, forgalmazása pedig **kifejezetten tilos**!
+      Mindennek a jogi háttere a következőképpen összegezhető.
 
 
-      Mindennek a jogi háttere a következőképpen összegezhető.\
-
-      A 8/2003 (III.13.) ESzCsM (Egészségügyi, Szociális és Családügyi Minisztérium) rendelet az <i>in vitro</i> diagnosztikai orvostechnikai eszközökről így fogalmaz:\
-
-      2.§ e) **önellenőrzésre szolgáló eszköz**: minden olyan eszköz, amely célja a gyártó meghatározása szerint, hogy **laikus személyek otthoni környezetben használják**.
+      A *8/2003 (III.13.) ESzCsM* (Egészségügyi, Szociális és Családügyi Minisztérium) *rendelet az in vitro diagnosztikai orvostechnikai eszközökről* így fogalmaz:
 
 
-      Amennyiben az új koronavírus fertőzést okozó SARS-CoV-2 azonosítására szolgáló eszköz gyártója a csomagolásán (ide értve a használati útmutatót, címkét stb.) is feltüntetett szöveg alapján **önellenőrzési célú, azaz otthoni felhasználásra szánja az adott eszközt**, úgy **az <i>in vitro</i> diagnosztika orvostechnikai eszközökre** (IVD eszköz) **irányadó EU-s** (az <i>in vitro</i> diagnosztikai orvostechnikai eszközökről szóló 1998. okt. 27-i 98/79/EK európai parlamenti és tanácsi irányelv) és **harmonizált hazai** (az <i>in vitro</i> diagnosztikai orvostechnikai eszközökről szóló 8/2003. (III. 13.) ESzCsM rendelet) szabályok alapján **olyan IVD eszköznek minősül, amely eszközök esetében a gyártónak a tervezési dokumentáció vizsgálatára bejelentett szervezetet** (kijelölt szervezetet) **kell felkérnie**.
+      *2.§ e) **önellenőrzésre szolgáló eszköz**: minden olyan eszköz, amely célja a gyártó meghatározása szerint, hogy **laikus személyek otthoni környezetben használják**.*
 
 
-      Ez azt jelenti, hogy **a forgalomba hozatalt megelőzően Európában az eszközt a gyártónak tanúsíttatnia kell, az arra kijelöléssel rendelkező bejelentett szervezettel.** Ez az eljárás **legkevesebb 6 hónapot** vesz igénybe.
+      Amennyiben az új koronavírus fertőzést okozó SARS-CoV-2 azonosítására szolgáló eszköz gyártója a csomagolásán (ide értve a használati útmutatót, címkét stb.) is feltüntetett szöveg alapján **önellenőrzési célú, azaz otthoni felhasználásra szánja az adott eszközt,** úgy **az in vitro diagnosztika orvostechnikai eszközökre** (IVD eszköz) **irányadó EU-s** (az in vitro diagnosztikai orvostechnikai eszközökről szóló 1998. okt. 27-i 98/79/EK európai parlamenti és tanácsi irányelv) és **harmonizált hazai** (az in vitro diagnosztikai orvostechnikai eszközökről szóló 8/2003. (III. 13.) ESzCsM rendelet) szabályok alapján **olyan IVD eszköznek minősül, amely eszközök esetében a gyártónak a tervezési dokumentáció vizsgálatára bejelentett szervezetet** (kijelölt szervezetet) **kell felkérnie.**
 
 
-      Ennyi idő nem telt még el a vírus első megjelenése óta, ezért **kizárható**, hogy jelenleg bármely gyártó **önellenőrzési célú koronavírus gyorstesztre vonatkozóan CE tanúsítvánnyal rendelkezne**. (Az ilyen típusú CE jelölés mellett a termék csomagolásán fel kell tüntetni az eljárást lefolytató szervezet négyjegyű azonosító jelét is.) Magára a tanúsítványra azért is szükség van, hogy meg lehessen győződni a teszt teljesítőképességéről és az otthoni használat biztonságosságáról. E nélkül önellenőrzésre alkalmas IVD-eszközt sem Magyarországon, sem az EU-ban **nem lehet jogszerűen forgalomban hozni**.
+      Ez azt jelenti, hogy **a forgalomba hozatalt megelőzően Európában az eszközt a gyártónak tanúsíttatnia kell, az arra kijelöléssel rendelkező bejelentett szervezettel**. Ez az eljárás **legalább 6 hónapot** vesz igénybe.
 
 
-      Emellett, ezen EU-s irányelveken túl e termékekre egy további hazai jogi szabályozás is vonatkozik. A Magyarországon forgalomba kerülő IVD eszközök **gyógyászati segédeszköznek minősülnek**, ebből kifolyólag azok kizárólag **szolgáltatói engedéllyel rendelkező gyógyászati segédeszköz szaküzletekben, illetve gyógyszertárakban forgalmazhatóak. A más üzletekben** – beleértve az online webáruházakat is – **való értékesítésük tilos!**
+      Ennek volt köszönhető, hogy az első olyan önellenőrzésre is alkalmas COVID-19 gyorstesztek, amelyek rendelkeztek is a szükséges tanúsítványokkal, **csak 2020. végén jelentek meg**, s azok ma is kisebbségben vannak a hozzáférhető gyorstesztek között. (A fentebb vázolt eljárás lefolytatása miatt pedig az áruk is lényegesen magasabb.)
 
 
-      A forgalomban lévő, **nem önellenőrzésre szánt tesztek otthoni használata több okból sem ajánlott.**
+      Emellett, ezen EU-s irányelveken túl e termékekre egy további hazai jogi szabályozás is vonatkozik. A Magyarországon forgalomba kerülő IVD eszközök **gyógyászati segédeszköznek minősülnek**, ebből kifolyólag azok kizárólag **szolgáltatói engedéllyel rendelkező gyógyászati segédeszköz szaküzletekben, illetve gyógyszertárakban forgalmazhatóak**. **A más üzletekben** – beleértve az online webáruházakat is – **való értékesítésük tilos**!
 
-      Egyrészt, minden hasonló IVD eszköznél fennáll a hamis pozitív vagy hamis negatív eredmény esélye – ami a szakképzetlen felhasználó felesleges aggodalmához, illetve téves biztonságérzetéhez vezet.
 
-      Másrészt, minden járványt előidéző, súlyos lefolyású megbetegedést kiváltani képes vírus diagnosztizálására szolgáló eszköz esetében elmondható, hogy a laikus végfelhasználók kiszolgálása kockázatos. Ilyenkor ugyanis már megfertőződött személyek felkutatása, illetve hatósági elkülönítése ugyanis még akkor sem történhetne meg, ha maga a teszt helyes pozitív eredményt adott, aminek a hatására a járvány terjedésének megelőzését, illetve lassítását célzó alapvető közegészségügyi érdek nem valósulhatna meg.
+      A már forgalomban lévő, önellenőrzésre is alkalmas teszteket is **körültekintően kell alkalmazni**. 
+
+
+      Egy szakképzett felhasználó számára ugyanis nem okoz gondot sem a helyes mintavételezés, sem a teszt elvégzése, sem a kapott eredmény megfelelő értelmezése – a laikusok azonban mindegyik lépésnél nagyobb eséllyel követhetnek el hibákat. E hibák **hamis teszteredményhez** vezethetnek, ami felesleges aggodalmat, vagy téves biztonságérzetet eredményezhet.
+
+
+      Másrészt, minden járványt előidéző, súlyos lefolyású megbetegedést kiváltani képes vírus kimutatására szolgáló eszköz esetében elmondható, hogy azok használata **nem teljesen kockázatmentes**. A magát a vírust is tartalmazó (például orrgarat-nyálkahártya) minta **lehetséges fertőzésforrás**, ám a biztosan kórokozómentes (például ujjbegyből vett vér) minta is terjeszthet más betegségeket. Emellett, a teszt és annak összes tartozéka veszélyes hulladéknak minősül.
+
+
+      Végezetül, arra is érdemes felhívni a figyelmet, az önellenőrzésre szánt gyorstesztek **ugyanúgy tájékoztató jellegű információt nyújtanak**; azok önmagukban nem képezhetik sem a diagnózis, sem az arra épített orvosi ellátás alapját. Pozitív teszteredmény – vagy a COVID-19 jellegzetes tüneteinek megléte – esetén **orvoshoz kell fordulni**, hiszen a kapott eredmény leellenőrzése, a diagnózis felállítása és az esetlegesen szükséges terápia megkezdése **nem a laikusok, hanem az egészségügyi szakemberek feladata**.
 ---

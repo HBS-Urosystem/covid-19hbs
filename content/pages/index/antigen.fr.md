@@ -111,19 +111,19 @@ articles:
 
       <th>
 
-      <img style="max-height:128px;width:auto" alt="test-Ag: négative" src="/uploads/image1.jpeg" />
+      <img style="max-height:128px;width:auto" alt="test-Ag: négative" src="/uploads/ag-image1.jpg" />
 
       </th>
 
       <th>
 
-      <img style="max-height:128px;width:auto" alt="test-Ag: positive" src="/uploads/image2.jpeg" />
+      <img style="max-height:128px;width:auto" alt="test-Ag: positive" src="/uploads/ag-image2.jpg" />
 
       </th>
 
       <th>
 
-      <img style="max-height:128px;width:auto" alt="test-Ag: invalide" src="/uploads/image3.jpeg" />
+      <img style="max-height:128px;width:auto" alt="test-Ag: invalide" src="/uploads/ag-image3.jpg" />
 
       </th>
 

@@ -47,45 +47,6 @@ intro:
     une pandémie au premier semestre 2020. À l'automne, la deuxième vague s'est
     rompue, provoquant une situation encore plus désespérée dans de nombreux
     pays.
-info:
-  images:
-    - src: /uploads/bisnode-hbs-en.jpeg
-      alt: Certificat Bisnode A pour HBS Zrt.
-      text: HBS Zrt. a obtenu le certificat
-        **[Bisnode&nbsp;A](https://www.bisnode.hu/ceginformacio/5291630/hbs-urologia-zrt/)**.
-        Cela démontre que le risque financier lié à la coopération avec notre
-        entreprise est faible. Seulement 7,44% des entreprises hongroises ont
-        obtenu ce certificat.
-  text: Notre société, **[HBS Medical Kft.](https://hbs.hu)** est l'un des
-    principaux importateurs de tests rapides. Notre fournisseur, [Hangzhou
-    Clongene Biotech Co. Ltd.,](http://en.clongene.com/) fabrique plus de 1 000
-    types de matériaux et produits de test microbiologique. Nous avons vendu des
-    centaines de milliers de tests en Hongrie, fourni des institutions
-    publiques, des établissements de santé, des municipalités et des
-    entreprises.
-references:
-  links:
-    - url: https://www.affidea.hu/covid-19-szures
-      text: Affidea Hungary Kft.
-    - url: https://kelen.hu/szolgaltatasaink/koronavirus-gyorsteszt-ellenanyag-vizsgalat/
-      text: Hôpital Kelen
-    - url: http://mammutegeszsegkozpont.hu/allasfoglalas/
-      text: Medical Service Budapest (Centre Médicale Mammut)
-    - url: http://arkadegeszsegkozpont.hu/covid-19-szures/
-      text: Medical Service Budapest (Centre Médicale Árkád)
-    - url: https://robertkorhaz.hu/leiras/koronavirus-gyorstesz
-      text: Hôpital Privée Róbert
-  text: >-
-    ## Références
-
-
-    Il existe des centaines d'établissements médicaux, de médecins, de centres de santé, de maisons de soins infirmiers, de cliniques privées, d'entreprises et d'autres institutions qui utilisent **des cassettes de test rapideClungene® COVID-19**, que nous importons. Vous trouverez ici la page Web de certains d'entre eux.
-documents:
-  text: >-
-    ## Notre responsabilité sociale
-
-
-    Notre entreprise a fait plusieurs fois don de tests rapides à des municipalités et à d'autres institutions, à des fins de recherche scientifique, sociale et de santé publique.
 articles:
   - text: >-
       ##### La figure suivante montre dans quelle période le test d'antigène et
@@ -267,6 +228,45 @@ articles:
   - text: "#### Les informations fournies par les tests rapides COVID-19 servent à
       indiquer si les personnes sont ou ont été infectées ou non. Les tests sont
       réservés à un usage professionnel."
+info:
+  images:
+    - src: /uploads/bisnode-hbs-en.jpeg
+      alt: Certificat Bisnode A pour HBS Zrt.
+      text: HBS Zrt. a obtenu le certificat
+        **[Bisnode&nbsp;A](https://www.bisnode.hu/ceginformacio/5291630/hbs-urologia-zrt/)**.
+        Cela démontre que le risque financier lié à la coopération avec notre
+        entreprise est faible. Seulement 7,44% des entreprises hongroises ont
+        obtenu ce certificat.
+  text: Notre société, **[HBS Medical Kft.](https://hbs.hu)** est l'un des
+    principaux importateurs de tests rapides. Notre fournisseur, [Hangzhou
+    Clongene Biotech Co. Ltd.,](http://en.clongene.com/) fabrique plus de 1 000
+    types de matériaux et produits de test microbiologique. Nous avons vendu des
+    centaines de milliers de tests en Hongrie, fourni des institutions
+    publiques, des établissements de santé, des municipalités et des
+    entreprises.
+references:
+  links:
+    - url: https://www.affidea.hu/covid-19-szures
+      text: Affidea Hungary Kft.
+    - url: https://kelen.hu/szolgaltatasaink/koronavirus-gyorsteszt-ellenanyag-vizsgalat/
+      text: Hôpital Kelen
+    - url: http://mammutegeszsegkozpont.hu/allasfoglalas/
+      text: Medical Service Budapest (Centre Médicale Mammut)
+    - url: http://arkadegeszsegkozpont.hu/covid-19-szures/
+      text: Medical Service Budapest (Centre Médicale Árkád)
+    - url: https://robertkorhaz.hu/leiras/koronavirus-gyorstesz
+      text: Hôpital Privée Róbert
+  text: >-
+    ## Références
+
+
+    Il existe des centaines d'établissements médicaux, de médecins, de centres de santé, de maisons de soins infirmiers, de cliniques privées, d'entreprises et d'autres institutions qui utilisent **des cassettes de test rapideClungene® COVID-19**, que nous importons. Vous trouverez ici la page Web de certains d'entre eux.
+documents:
+  text: >-
+    ## Notre responsabilité sociale
+
+
+    Notre entreprise a fait plusieurs fois don de tests rapides à des municipalités et à d'autres institutions, à des fins de recherche scientifique, sociale et de santé publique.
 ---
 ##### Clungene COVID-19 Antigen Rapid Test Cassette, whose exclusive Hungarian distributor is our company, is present on the <a href="https://ec.europa.eu/health/sites/health/files/preparedness_response/docs/covid-19_rat_common-list_en.pdf" target="_blank" rel="noopener">Common list of COVID-19 rapid antigen tests</a>, including those of which their test results are mutually recognized” in the European Union. This list has been compiled by the European Commission Directorate-General For Health And Food Safety. Only tests of excellent sensitivity and specificity, with proper documentation can be added to this list.
 

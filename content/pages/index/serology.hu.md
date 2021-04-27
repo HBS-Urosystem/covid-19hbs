@@ -17,6 +17,9 @@ intro:
 
 
     Az IgG később, leggyakrabban a megfertőződés után 2 héttel kezd el termelődni, mennyisége az első hónap vége felé tetőzik, majd némiképp lecsökken. Az IgM-mel ellentétben azonban az IgG még hónapokon át kimutatható a szervezetben.
+
+
+    Hogy melyik ellenanyag pontosan mikor válik kimutathatóvá, számos tényezőtől függ; ezek közé tartozik a tünetek súlyossága, illetve a vírus lappangási ideje is.
   images:
     - src: /uploads/002v1.jpg
       alt: Clungene® COVID-19 IgG/IgM gyorsteszt
@@ -60,24 +63,19 @@ documents:
       file: /uploads/sars-cov-2-covid-19-szures-_-kimutatas.pdf
       src: /uploads/bxs-file-pdf.svg
 articles:
-  - title: Mik az IgG/IgM gyorsteszt legfontosabb előnyei?
+  - title: Mik a szerológiai gyorsteszt legfontosabb előnyei?
     text: >-
       * Lényegesen olcsóbb, mint a PCR teszt
 
-      * Bárhol el lehet végezni, akár egy vállalat vagy intézmény megfelelő helyiségében is
+      * Bárhol, akár egy vállalat vagy intézmény megfelelő helyiségében is elvégezheti az üzemorvos vagy más egészségügyi dolgozó
 
       * Az elvégzéséhez nincs szükség semmilyen berendezésre, sem további fogyóeszközökre
-
-      * Nincs várólista: a tesztet üzemorvos vagy más egészségügyi dolgozó azonnal elvégezheti
 
       * A PCR-hez szükséges bonyolult és kellemetlen garatból, illetve orrból vett mintavétellel ellentétben a gyorsteszt egyszerűen, ujjbegyből vett vérminta segítségével is elvégezhető
 
       * Az eredmény már 15 perc után leolvasható
 
       * A gyorsteszt segítségével a múltban, tünetekkel vagy azok nélkül lezajlott fertőzések is azonosíthatóak
-
-
-       
 
 
       Ezek az előnyök teszik a gyorstesztet különösen alkalmassá, hogy azokat **akár minden héten el lehessen végezni egy munkahely dolgozóin.** Az így végzett rendszeres szűréssel, illetve a fertőzöttek elkülönítésével kordában tartható a vírus a terjedése és elkerülhető a munkavállalók tömeges kieséséből következő kényszerű leállás.
@@ -88,7 +86,7 @@ articles:
       megjelent-e már az új koronavírus az adott munkahelyen vagy intézményben.
 
 
-      Emellett ajánlott az IgG/IgM gyorsteszt elvégeztetése mindazoknak,
+      Emellett ajánlott a szerológiai gyorsteszt elvégeztetése mindazoknak,
 
 
       * akik esetében fennáll, hogy fertőzött személlyel érintkezett az elmúlt időszakban,
@@ -111,7 +109,7 @@ articles:
     text: >-
       **A szükséges vért ujjbegyből is lehet venni, de a hagyományos vérvétel
       során, könyökhajlati vénából vett vér is megfelelő.** E vérmintából (vagy
-      a vénás vérből nyert szérumból) mutatja ki a rapid teszt az új koronavírus
+      a vénás vérből nyert szérumból) mutatja ki a gyorsteszt az új koronavírus
       ellen képződött antitestek jelenlétét.
 
 
@@ -162,13 +160,10 @@ articles:
       #### 4. A mintában az IgG megtalálható. (IgG pozitív.)
 
 
-      A vizsgált személy – tünetekkel vagy azok nélkül – már átesett a fertőzésen.
+      A vizsgált személy – tünetekkel vagy azok nélkül – már átesett a fertőzésen, vagy a COVID-19 fertőzés késői szakaszában van.
 
 
-      Jelenlegi ismereteink szerint ezzel védettséget szerzett a COVID-19-vel szemben. Ha újra megfertőződik, az esetek túlnyomó többségben a vírust a szervezete maximum 1–2 nap alatt, enyhe tünetekkel vagy tünetmentesen küzdi le.
-
-
-      A szervezet azonban még a fertőzés után is képes üríteni a vírust. A kórokozó jelenlétét PCR vagy antigén teszttel lehet igazolni. Ha a SARS-CoV-2 még megtalálható a szervezetben, az érintett elkülönítése elkerülhetetlen. Ha azonban már nem, a vizsgált személy munkaképesnek tekinthető: sem ő nem képes megfertőzni a többi embert, és ő maga sincs kitéve az új koronavírus okozta (súlyos) megbetegedésnek.
+      A szervezet azonban e szakaszban, sőt, egy darabig a fertőzés után is képes üríteni a vírust. A kórokozó jelenlétét PCR vagy antigén teszttel lehet igazolni. Ha a SARS-CoV-2 még megtalálható a szervezetben, az érintett elkülönítése elkerülhetetlen. Ha azonban már nem, a vizsgált személy munkaképesnek tekinthető: sem ő nem képes megfertőzni a többi embert, és jelenleg ő maga sincs kitéve az új koronavírus okozta (súlyos) megbetegedésnek.
     subtitle: A szerológiai gyorstesztnek négy lehetséges eredménye van.
   - title: Az eredmények értelmezésének egyszerűsített összefoglaló táblázata
     text: >-
@@ -318,6 +313,20 @@ articles:
 
       <center><small>A termék megjelenése eltérhet a filmben bemutatottól.</small></center>
     title: A COVID-19 szerológiai gyorsteszt használatát bemutató videó
+  - title: Kimutatja a szerológiai teszt a védőoltás által szerzett védettséget is?
+    text: >-
+      Ez elsősorban az alkalmazott teszt típusától függ – a Clungene® COVID-19
+      szerológiai gyorsteszt kazetta azon termékek közé tartozik, amelyik –
+      elvileg – igen.
+
+
+      Fel kell azonban hívni a figyelmet arra, hogy a szerológiai gyorsteszt kazetták elsődleges felhasználási területe a SARS-CoV-2 vírus ellen termelődő ellenanyagok kimutatása.
+
+
+      Arra vonatkozóan, hogy a különféle típusú védőoltások hatására megjelenő ellenanyagokat milyen eséllyel és a vakcina beadását követően mennyi időn belül jelzik a gyorstesztek, egyelőre még nem állnak rendelkezésre klinikai adatok. A mi tapasztalataink azt mutatják, hogy a Clungene® COVID-19 szerológiai gyorsteszt kazetta a jelenleg (2021. április 15.) Magyarországon forgalomban lévő **vakcinák második dózisát követő második héten már kimutatják a védőoltás hatására termelődő IgG ellenanyagot**.
+
+
+      Nem szabad elfelejteni azonban, hogy a gyorstesztek csupán tájékoztató jellegű információt nyújtanak. Ebből következően, ha a védőoltást követően a szerológiai teszt eredménye negatív, az nem feltétlenül a vakcina hatástalanságát jelzi; arra is utalhat, hogy a szervezet nem – vagy még nem – termelt kimutatható mennyiségű ellenanyagot.
   - text: >-
       A szerológiai gyorsteszt tájékoztató jellegű információval szolgál az
       esetleges fertőzöttségről. Alkalmazása nem képezheti a COVID-19
@@ -327,6 +336,6 @@ articles:
       módszerrel, például molekuláris teszt elvégzésével meg kell erősíteni.
 
 
-      A tesztet kizárólag orvosi szakdolgozók használhatják! Annak otthoni használatra, illetve önellenőrzési célra történő értékesítése tilos! *[A vonatkozó jogi háttérről itt tájékozódhat.](https://covid-19.hbs.hu/miert-nincsenek-a-piacon-otthoni-hasznalatra-is-alkalmas-covid-19-tesztek)*
+      A tesztet kizárólag orvosi szakdolgozók használhatják! Annak otthoni használatra, illetve önellenőrzési célra történő értékesítése tilos! [A vonatkozó jogi háttérről itt tájékozódhat.](/otthoni-hasznalat)
     title: Figyelmeztetés
 ---

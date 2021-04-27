@@ -2,108 +2,145 @@
 type: business
 slug: modszeres-teszteles
 title: COVID-19 módszeres tesztelés
-subtitle: A 2020. őszi–téli COVID-19 helyzet veszélyeiről
+subtitle: "2021: A COVID-19 második éve"
 menutitle: Módszeres tesztelés
 intro:
   text: ""
-  highlight: Tegyünk együtt a COVID-19 járvány második hullámának megfékezéséért
-    rendszeres és módszeres teszteléssel!
+  highlight: Tegyünk együtt a járvány megfékezéséért módszeres és rendszeres teszteléssel!
 list:
   - object:
-      question: COVID-19 második hullám? *Cunami!*
+      question: Hullámhegyek hullámhegyek hátán…
       answer: >-
-        Amikor Magyarországon augusztus második felében átlépte a 100 főt az
-        újonnan igazolt SARS-CoV-2 fertőzöttek száma, még csak néhányan
-        beszéltek arról, hogy elérkezett a második hullám. Szeptemberben már
-        sorra dőltek meg a fertőzöttségi rekordok, október második felében az új
-        esetek száma nem egyszer meghaladta a 3000 főt, novemberben pedig
-        átlépte a 4000-t is. Tavasszal még csak néhány olyan nap volt, amikor az
-        új érintettek száma 100 fő fölött volt, és a csúcs is alig emelkedett
-        200 ember fölé. A járvány tavasszal naponta 10–15 életet követelt –
-        november elején az áldozatok száma már a napi 100-at közelíti.
-        **Látható, a COVID-19 második hulláma sokkal súlyosabb, mint az első
-        volt.**
+        Egy éve, az első hullám idején még ritkaságszámba ment, ha egy nap
+        100-nál is több új fertőzöttről számoltak be. Ősszel, amikor az új
+        esetek száma rendre meghaladta a napi 800, majd az 1000 főt is, már
+        senki sem vitatta, hogy elérkezett a járvány második hulláma. December
+        elején az már napi 6000-nél is több érintettel tetőzött, majd a januári
+        „pihenő” után – amikor ez az adat többnyire 1000–2000 közt mozgott – a
+        járványgörbe meredek ívelésbe kezdett. Március végén pedig már olyan
+        napok is voltak, amikor **10 000-nél több új fertőzöttet
+        regisztráltak**. A halálozási adatok is lesújtóan alakultak: **április
+        derekáig a COVID-19 már 25 000 életet követelt**.
 
 
-        **A helyzet Európában, sőt, a világ más részein is hasonlóan lesújtó.** A fertőzöttek száma október derekán már a 40 millió főt közelítette, a halálos áldozatok száma pedig átlépte az egymilliót. [Ezen az oldalon](https://covid19.healthdata.org/global?view=total-deaths&tab=trend) nyomon lehet követni, hogy különböző forgatókönyvek mellett hogyan fognak alakulni 2020. végéig a COVID-19 okozta halálozási arányok. Az előrejelzések alapján még ismételt korlátozások mellett is 2 millió főre kell számítani, ám ha az alapvető szociális érintkezési szabályok sem teljesülnek, a 3 millió főt is elérheti.
+        Lassan úgy tűnik, nincs az a pesszimista becslés, amely közelében járna annak, mekkora pusztítást végez az új koronavírus a társadalomban.
 
 
-        A COVID-19 világjárvánnyal kapcsolatos naprakész nemzetközi adatokat többek között a <https://ourworldindata.org/coronavirus/> oldalon lehet megtalálni. Bármelyik ország statisztikái megtekinthetőek, a magyar adatok ide kattintva nézhetőek meg: [link](https://ourworldindata.org/coronavirus/country/hungary?country=~HUN).
+        <figure>
+
+
+        <img src="/uploads/mt-image1.jpg" alt="Az új esetek számának alakulása" />
+
+
+        <figcaption>
+
+        A folytonos vonal az előző 7 nap adatainak átlagát mutatja be; ennek segítségével könnyebben áttekinthető az új esetek számának alakulása. Forrás: telex.hu (a koronavirus.gov.hu adatai alapján)<br><br>
+
+        Aki a COVID-19-cel kapcsolatos nemzetközi adatok után is érdeklődik, azokat többek között a https://ourworldindata.org/coronavirus/ oldalon tudja megtalálni. Bármelyik állam statisztikái megtekinthetőek, a magyar adatok ide kattintva nézhetőek meg: <a href="https://ourworldindata.org/coronavirus/country/hungary?country=~HUN" rel="noopener" target="_blank">link</a>
+
+        </figcaption>
+
+
+        </figure>
+
+
+        Sokat változott a helyzet a téren is, hogy kire nézve mekkora kockázatot jelent az új koronavírus. Kezdetben főként az idősek és a krónikus betegek voltak veszélyben. **Ma már azonban egyre több aktív dolgozó, sőt, fiatal kerül súlyos tünetekkel kórházba** – s túl gyakran fordul elő, hogy onnan már nem is távozik élve.
+
+
+        Hogy minek köszönhető mindez, nincs rá egyszerű magyarázat. Vannak, akik úgy vélik, az újonnan megjelent, fertőzőképesebb és súlyosabb tüneteket okozó mutánsok jelentenek nagyobb veszélyt a fiatalabbakra. Mások szerint arról van szó, hogy mivel a legtöbb ország az oltási programot az idősekkel kezdte, közülük már kevesebben kerülnek kritikus állapotba. Olyanok is vannak, akik úgy tartják, a járványügyi intézkedések vezettek el ahhoz, hogy a fiatalabbak élete mozgásszegény, stresszes, túlterhelt lett – ami hatására kialakultak náluk a súlyos lefutású COVID-19 olyan kockázati tényezői, mint az elhízás, a magas vérnyomás, illetve egyes krónikus betegségek. Így váltak olyanok is veszélyeztetettekké, akik eredetileg nem számítottak annak. 
+
+
+        Bármi is az igazság, ma már kevesen vitatják a tényt: **a COVID-19 mindenkire nézve nagy veszélyt jelent**.
       anchor: cunami
   - object:
-      question: Nagyobb veszélyben vagyunk
+      question: Korlátlan korlátozások
       answer: >-
-        2020 elején az új koronavírus úgy került be a köztudatba, hogy az főként
-        csak az idősebb korosztályra, illetve az egyébként is krónikus
-        betegségekben szenvedőkre nézve jelent komoly egészségügyi kockázatot.
-        Tudni kell azonban, hogy sok 40–50 év alatti áldozatot is követelt már a
-        COVID-19, köztük olyanokat is, akik egyébként egészségesek voltak. Igaz,
-        hogy az idősebbek vannak nagyobb veszélyben, ám a fiatalok sincsenek
-        biztonságban!
+        Egy éve még az üzletek és intézmények bezárását, a különféle kijárási
+        tilalmakat mindenütt ideiglenes megoldásnak szánták. 
 
-        A fiatalok többsége valóban akár tünetmentesen is átvészelheti a fertőzést – sajnálatos módon azonban éppen ők lesznek azok, akik anélkül, hogy tudatában lennének annak, hogy hordozzák a vírust, terjesztik azt – és továbbadják a COVID-19-et ismerőseiknek, családtagjaiknak. Azoknak is, akikre nézve az már sokkal nagyobb veszélyt jelent!
 
-        Az sem segíti a vírus elleni védekezést, hogy megnövekedett azok száma is, akik megkérdőjelezik a védekezés fontosságát, bagatellizálják a COVID-19 okozta veszélyt, vagy akár a vírus létezését is tagadják. Akik még a legalapvetőbb szabályokat – a maszk viselését, a rendelkezésre bocsátott fertőtlenítő használatát, vagy a szociális érintkezés ajánlásait – is megszegik, felelőtlen magatartásukkal gyorsítják a vírus terjedését.
-      anchor: nagyobb-veszely
+        Azóta sok helyen több idő telt el korlátok között, mint azok nélkül – Magyarországon e sorok írásakor már öt hónap bezártságon vagyunk túl. 
+
+
+        Vannak, akik úgy vélik, a korlátozások jelentik a legfőbb fegyvert a vírus elleni harcban – amiben persze van némi igazság.
+
+
+        **De milyen ára van a korlátozásoknak?**
+
+
+        Már a tavaly tavasszal meghozott intézkedések **egész szektorokat bénítottak meg**: a vendéglátás, a turizmus, a rendezvényszervezés bevétele töredékére esett vissza. Rengeteg intézmény, vállalat, üzlet kénytelen volt időlegesen bezárni. Az ősszel bevezetett – és sok elemében máig életben lévő – korlátozások csak súlyosbították az egyébként is nehéz helyzetet. Mindezek miatt Magyarországon **több százezer ember veszítette el átmenetileg vagy véglegesen a munkáját;** rengeteg embernél a kijárási korlátozások fogyasztási korlátozásokkal is együtt kellett, hogy járjanak. A COVID-19 elleni védekezés **a gazdasági világválságokhoz mérhető visszaesést okozott**.
+
+
+        Ennyi idő után **erősebben jelentkeznek a korlátozások pszichés és mentális hatásai is**. A munkahely elvesztése, a bezártság, az elmaradt programok, nyaralások miatti frusztráció érezhetően megváltoztatta az emberek alaphangulatát. Alig maradt lehetőség feltöltődésre – holott, akik továbbra is dolgoznak, ugyanúgy kell teljesíteniük, mint normális körülmények között. Az is érthető, hogy egyre többen érzik úgy, **túl hosszú ideje kell lemondaniuk az életük szórakoztatóbb oldaláról**. Ezért a szabályok keretei közt – vagy azokat át is hágva – próbálnak abból valamit visszaszerezni. Sokszor pont ez vezet felelőtlen magatartáshoz, ám nem egyszer csak annyiról van szó, hogy az emberek szeretnék legalább azt csinálni, amit még szabad – s veszélyes méretű tömeg gyűlik össze a nagyobb parkokban, ismertebb kirándulóhelyeken. Ezért pedig nem lehet elítélni egy hónapok óta bezárva tartott társadalmat. 
+
+
+        Nem segít a helyzeten az sem, hogy sok országban – Magyarországon is – a COVID-19 járvány harmadik hulláma **az életben lévő korlátozások ellenére okozott katasztrófát**, ami miatt sokan megkérdőjelezik az intézkedések hatásosságát.
+
+
+        Hosszú távon tehát **nem lehet csak a korlátozásokra építve megállítani a vírust**.
+      anchor: korlatozasok
   - object:
-      question: Kerülendő korlátozások
+      question: Mi mást lehet tenni?
       answer: >-
-        Vannak, akik szerint egyedül akkor lehet megfékezni a COVID-19 járványt,
-        ha ismét szigorú korlátozásokat vezetnek be.
+        Végleges megoldást a COVID-19 legyőzésére a vakcina jelenthet.
 
 
-        Erre már számos európai országban – többek között Franciaországban, Olaszországban, Nagy-Britanniában – sor is került.
+        Egyelőre azonban a társadalom kellő fokú átoltottsága várat magára. Sajnos **hiába kapják meg a védőoltást egyre többen, a harmadik hullám továbbra sem ért véget** – egyes szakértők pedig már a közelgő negyedik hullámról beszélnek. 
 
 
-        Sajnos azonban az első hullám alatt meghozott intézkedések – amelyek közül néhány nyáron is életben volt, **egész szektorokat bénítottak meg**. a vendéglátás, a turizmus, a rendezvényszervezés bevétele töredékére esett vissza. Rengeteg intézmény, vállalat, üzlet kénytelen volt időlegesen bezárni.
+        Emellett, jelenleg még nem állnak rendelkezésre arról megbízható információk, hogy a vakcina mennyi ideig nyújt védelmet az új koronavírus ellen. Ezek alapján azt kell mondani, a járványt **nem lehet kizárólag az oltásra alapozva megfékezni**.
 
 
-        Mindezekből következően **Magyarországon több százezer ember veszítette el átmenetileg vagy véglegesen a munkáját**; rengeteg embernél a kijárási korlátozások fogyasztási korlátozásokkal is együtt kellett, hogy járjanak. Mindez természetesen a többi gazdasági szereplőre is hatást gyakorolt – aminek következményeként **a COVID-19 elleni védekezés a gazdasági világválságokhoz mérhető visszaesést okozott**.
+        A lakosság tesztelése sok országban **már tavasszal is a vírus elleni védekezés gyakorlatának része volt**. Magyarország e téren elmaradt más államoktól – sok szakember rá is mutatott e tényre. Őszre már megváltozott a helyzet, hazánkban is egyre több tesztet végeztek el. 
 
 
-        Magyarországon egyelőre nincs szó arról, hogy a tavaszihoz hasonló szigorú korlátozásokat vezetnének be – ám, ha arra sor kerül, **a gazdasági károk mértéke felbecsülhetetlen lesz**.
+        Többet – de **messze nem eleget**.
 
 
-        A korlátozások az emberekre gyakorolt pszichés hatása sem elhanyagolható. A munkahely elvesztése, a bezártság, az elmaradt programok, nyaralások miatti frusztráció érezhetően megváltoztatta a társadalom alaphangulatát – a bizonytalanság és feszültség pedig sok embert a felelőtlen magatartásminták felé terelhet.
+        A WHO (World Health Organization, vagyis Egészségügyi Világszervezet) ajánlásai alapján ugyanis a járvány akkor tartható kordában, ha a pozitív tesztek aránya 5% alatt van. Magyarországon azonban **második hónapja 10% feletti e mutató**.
 
 
-        Amellett, hogy nagyon fontos a higiéniai előírásokat és a szociális érintkezés szabályait betartani, **a vírus terjedését hatékonyan lassítja a rendszeres és módszeres tesztelés is**, hiszen e módszerrel azonosítani lehet a fertőzötteket, akiket elkülönítve meggátolható, hogy terjesszék a megbetegedést.
+        <figure>
 
 
-        A lakosság tesztelése sok országban már tavasszal is a vírus elleni védekezés gyakorlatának része volt. Magyarország e téren elmaradt más államoktól – sok szakember rá is mutatott e tényre. Mostanra azonban már megváltozott a helyzet. Sokkal többet tesztelünk, naponta már 15&thinsp;000-nél is többet. A pozitív eredmények aránya viszont azt mutatja, **mindez még mindig nagyon kevés**. Az Egészségügyi Világszervezet (WHO) ajánlásai alapján a járvány akkor van ellenőrzés alatt, ha a pozitív tesztek aránya 5% alatt van – hazánkban e mutató november elején már 20% fölött volt! A gyakorlatban ez azt jelenti, **nagyon sok fertőzött marad felfedezetlenül – ők pedig, ha nem észlelnek tüneteket, maguk is terjesztik a fertőzést**.
+        <img src="/uploads/mt-image2.jpg" alt="A pozitív tesztek százalékos arányának alakulása" />
 
 
-        Ha az események így haladnak tovább, semmi esély nem marad az új koronavírus kordában tartására, ami az egészségügy és a gazdaság összeomlásához vezethet.
+        <figcaption>
+
+        A folytonos vonal az előző 7 nap adatainak átlagát mutatja be; ennek segítségével könnyebben áttekinthető a pozitív tesztek százalékos arányának alakulása. Forrás: telex.hu (a koronavirus.gov.hu adatai alapján)
+
+        </figcaption>
 
 
-        Hogyan lehetne ezen változtatni?
-      anchor: gazdasag
+        </figure>
+
+
+        Ez a gyakorlatban arra utal, hogy **nagyon sok COVID-19 fertőzöttet nem azonosítanak**. Azok soha nem kerülnek az egészségügy látóterébe, ám tünetmentesen, vagy enyhe tünetekkel átvészelve a betegséget is **terjesztik a vírust**.
+
+
+        Ahhoz, hogy a járványt magunk mögött tudhassuk, nem elegendőek a korlátozások, és nem lehet elég gyorsan beoltani kellő mennyiségű embert. **Sokkal többet kell tesztelni**, hiszen az azonosított fertőzöttek elkülönítése – illetve kezelése – **kulcsszerepet játszik a járvány megfékezésében**.
+      anchor: vakcina
   - object:
       question: A PCR teszt szükséges – de nem elégséges
       answer: >-
         Sok helyen, így Magyarországon is, a jelenlegi gyakorlat a vírus
-        örökítőanyagát kimutató PCR tesztet tekinti „arany standardnak”, mivel e
-        teszteket tartják a legmegbízhatóbbaknak.
+        örökítőanyagát kimutató PCR tesztet tekintik a legmegbízhatóbbnak.
 
 
-        Ugyanakkor, **csak PCR tesztekre építve nem lehet megvalósítani a COVID-19 elleni védekezés e szintjét**. Félreértés ne essék, **hatalmas szükség van a PCR tesztekre**, ám **kizárólag azokat használva nem valósítható meg az emberek széles körű vizsgálata**. Érdemes röviden összefoglalni, miért nem.
+        Ugyanakkor **csak PCR tesztekre építve nem lehet megvalósítani a COVID-19 elleni védekezés e szintjét**. Félreértés ne essék, **hatalmas szükség van a PCR tesztekre**, ám **kizárólag azokat használva nem valósítható meg az emberek széles körű vizsgálata**. Érdemes röviden összefoglalni, miért nem.
 
 
-        1. A közfelfogással ellentétben még **a helyesen alkalmazott PCR tesztek megbízhatósága is elmarad a 100%-tól**.
+        1. A közfelfogással ellentétben még **a helyesen alkalmazott PCR tesztek megbízhatósága is elmarad a 100%-tól**. Egyes források szerint annak érzékenysége a legfertőzőképesebb időszakban – a tünetek megjelenését követő első héten – is csak 80% körül tetőzik. 
 
-           A [John Hopkins Egyetem átfogó kutatásának](https://www.acpjournals.org/doi/10.7326/M20-1495) eredményei a következőképpen foglalhatóak össze. A tünetek megjelenését megelőzően a PCR tesztek 0–33% eséllyel mutatták ki a vírust. A tünetek jelentkezésének első napján a PCR teszt 62% eséllyel jelez, majd az arány emelkedik, pár nap múlva eléri a 80%-ot. Ezt követően a PCR teszt megbízhatóság csökken, 2 héttel a tünetek megjelenését követően már ismét csak 33%.
-        2. A PCR tesztek **aránytalan terheket rónak az egészségügyi rendszerre**
-
-           A teszt elvégzéséhez szükséges PCR berendezés ára **mintegy 10 millió forintnál kezdődik**. Ezek hozzáférhetősége, és az **igen összetett vizsgálatot elvégezni képes szakemberek száma is korlátozza az elvégezhető PCR tesztek számát**. Ráadásul, a mintavételezéshez és a reakcióhoz szükséges **fogyóeszközök** (felszerelések, anyagok stb., amelyekből minden vizsgálathoz újabb adagot kell felhasználni) **is költségesek**. Ezekből következik, hogy a magyar állami és magán intézményrendszer **elérte a kapacitásai határait**.Sok helyen **napokat kell várni a tesztidőpontra**, majd az **eredményekre is**. Mindez **hatalmas veszélyeket rejt magában**, hiszen ez alatt az idő alatt, ha a tesztelendő személy továbbra is emberek közé jár, másoknak is továbbadja a fertőzést.
-        3. A PCR tesztek **költségesek**
-
-           Hiába hiába lett Magyarországon a PCR teszteknek hatóságilag megszabott ára, az **így is olyan magas**, hogy a lakosság jelentős része nem engedheti meg magának a teszt elvégeztetését. Az **intézmények, vállalatok túlnyomó többsége sem tudja megfizetni** az összes alkalmazott (akár többszöri) leteszteltetését. A lényegesen olcsóbb, vagy ingyenes tömeges tesztelés sem volna reális megoldás. Az ugyanis csak jelentős állami támogatással valósulhatna meg – a források viszont a világjárvány első hulláma miatt már most is szűkösek.
+        2. A PCR tesztek **aránytalan terheket rónak az egészségügyi rendszerre és a felhasználókra is.** A teszt elvégzéséhez szükséges PCR berendezés ára **mintegy 10 millió forintnál kezdődik**. Ezek hozzáférhetősége, és az **igen összetett vizsgálatot elvégezni képes szakemberek száma is korlátozza az elvégezhető PCR tesztek számát**. Ezért sok helyen **napokat kell várni a tesztidőpontra**, majd az **eredményekre is**. Mindez **hatalmas veszélyeket rejt magában**, hiszen ez alatt az idő alatt, ha a tesztelendő személy továbbra is emberek közé jár, másoknak is továbbadja a fertőzést. A mintavételezéshez és a reakcióhoz szükséges **további felszerelések, reagensek** és **maguk a tesztek is költségesek**. A hatóságilag megszabott ár ellenére sem a lakosság döntő hányada, sem **az intézmények, vállalatok többsége nem tudja megfizetni** a rendszeres tesztelést.
       anchor: pcr
   - object:
       question: A tömeges tesztelést gyorstesztek segítségével lehet megvalósítani
       answer: >-
         A **szerológiai gyorstesztekkel végzett előszűrés** segítségével
-        **tehermentesíteni lehet az egészségügyi rendszert**, mert
+        **tehermentesíteni lehet az egészségügyi rendszert és a cégek
+        erőforrásait is**, mert
 
 
         * a gyorstesztek ára **töredéke a PCR tesztekének**,
@@ -117,16 +154,13 @@ list:
         * az eredmény **már 15 perc után** leolvasható.
 
 
-        Továbbiakat a gyorstesztek előnyeiről, működéséről, használatáról [a termékeinket bemutató oldalon](/) lehet olvasni.
-      anchor: tomeges-teszteles
-  - object:
-      question: Az antigén gyorstesztek kiegészítik a szerológiai gyorsteszteket
-      answer: >-
-        Ideális esetben a gyorsteszt által kapott eredményt, ha azt a tünetek,
-        vagy a tesztalany előtörténete indokolja, PCR teszttel ajánlott
-        megerősíteni. A gyakorlatban azonban sokszor – a vázolt problémák miatt
-        – nincs mód arra, hogy ezt az ellenőrző vizsgálatot le lehessen
-        folytatni.
+        Továbbiakat a gyorstesztek előnyeiről, működéséről, használatáról <a href="/szerologiai-teszt">a terméket bemutató oldalon</a> lehet olvasni\*\*.
+
+
+        **Az antigén gyorstesztek kiegészítik a szerológiai gyorsteszteket**
+
+
+        Ideális esetben a gyorsteszt által kapott eredményt, ha azt a tünetek, vagy a tesztalany előtörténete indokolja, PCR teszttel ajánlott megerősíteni. A gyakorlatban azonban sokszor – a vázolt problémák miatt – nincs mód vagy forrás arra, hogy ezt az ellenőrző vizsgálatot le lehessen folytatni.
 
 
         Ilyenkor érdemes **antigén gyorstesztet alkalmazni**, mert
@@ -134,31 +168,26 @@ list:
 
         * az antigén teszt a fertőzés **azon korai szakaszában** mutatja ki a vírust, amikor még a gyorsteszt erre nem alkalmas,
 
-
         * az antigén teszt ára **töredéke a PCR tesztekének**, **érzékenysége** azonban – a tünetek megjelenését követő 7 napon belül – **nem sokkal marad el azokétól**
-
 
         * az antigén tesztet **bárhol el lehet végezni**, akár egy vállalat, iskola megfelelő helyiségében is,
 
-
         * az elvégzésükhöz **nincs szükség semmilyen berendezésre, sem további fogyóeszközökre**,
 
-
         * az eredmény **már 15 perc után** leolvasható.
-      anchor: gyorstesztek
+      anchor: tomeges-teszteles
   - object:
       question: Módszeres és rendszeres tesztelés gyorstesztek segítségével
       answer: >-
-        Az alábbi javaslatot követve **olcsón és kis időráfordítással**
-        valósítható meg **nagy mennyiségű ember előszűrése**, ezért e módszer
-        alkalmas **vállalatok, üzemek, intézmények dolgozóinak módszeres és
-        rendszeres tesztelésére**.
+        
+
+        Az alábbi javaslatot követve **olcsón és kis időráfordítással** valósítható meg **nagy mennyiségű ember előszűrése**, ezért e módszer alkalmas **vállalatok, üzemek, intézmények dolgozóinak módszeres és rendszeres tesztelésére**.
 
 
-        A hatékony módszer a következőképpen foglalható össze.
+        Az alábbiakban egy lehetséges, hatékony módszert mutatunk be. Annak gyakorlati alkalmazhatósága és hatékonysága nagyban függ a tesztelést végző intézmény sajátosságaitól (például a dolgozók létszámától és munkakörülményeitől). Jelen leírás nem minősül hivatalos egészségügyi protokollnak; a széles körű tesztelés megkezdése előtt konzultáljon az intézmény illetékes egészégügyi szakdolgozójával.
 
 
-        Az illetékes egészségügyi szakember – például üzemorvos – **szerológiai gyorsteszttel leteszteli az összes olyan dolgozót, akik között fennáll a COVID-19 terjedésének veszélye**. Ez akár munkakezdés előtt is elvégezhető.
+        Első lépésként az üzemorvos – vagy más egészségügyi szakdolgozó – **szerológiai gyorsteszttel leteszteli az összes olyan dolgozót, akik között fennáll a COVID-19 terjedésének veszélye**. Ez akár munkakezdés előtt is elvégezhető.
 
 
         A további teendők a kapott eredményektől függenek.
@@ -166,27 +195,32 @@ list:
 
         1. **Ha mindenki eredménye negatív, jó eséllyel feltételezhető, hogy az intézményben nincs jelen a vírus*.***
 
-           Egy-egy teszteredmény ugyan lehet téves (különösen a fertőzés korai szakaszában), ám, mivel **sok embert** tesztelnek egyszerre, **annak az esélye**, hogy az összes fertőzött személyre téves negatív eredményt ad a teszt, **elenyésző**. Nem zárható ki azonban, hogy a tesztelt emberek közt csak egyetlen, vagy nagyon kevés friss fertőzött van, akit még nem lehet a gyorsteszttel azonosítani. (Jóllehet, a megbetegedés nagyon korai szakaszában a PCR teszt sem mutatja ki a fertőzést.) Ezért érdemes a tesztelést **rendszeresen, például 7–10 naponta megismételni** – amivel minimalizálható annak a veszélye, hogy a vírus gyorsan szétterjedjen a közösségben.
-        2. **Ha van pozitív eredmény, további tesztekre van szükség.**
+           Egy-egy teszteredmény ugyan lehet téves (különösen a fertőzés korai szakaszában), ám, mivel **sok embert** tesztelnek egyszerre, **annak az esélye**, hogy az összes fertőzött személyre téves negatív eredményt ad a teszt, **elenyésző**. Nem zárható ki azonban, hogy a tesztelt emberek közt csak egyetlen, vagy nagyon kevés friss fertőzött van, akit még nem lehet a gyorsteszttel azonosítani. (Jóllehet, a megbetegedés nagyon korai szakaszában a PCR teszt sem mutatja ki a fertőzést.) Ezért érdemes a tesztelést **rendszeresen, például 7–10 naponta megismételni** – amivel minimalizálható annak a veszélye, hogy a vírus gyorsan szétterjedjen a közösségben. 
+
+        2. **Ha van pozitív eredmény, további tesztekre van szükség.** 
 
            Amennyiben azt az anyagi források és a munkavégzés körülményei lehetővé teszik, **az érintetteknél, és azok közvetlen kontaktjainál el kell végeztetni a PCR tesztet is**. Akiknél **ez utóbbi is pozitív**, azokat az érvényes járványügyi protokoll alapján **el kell különíteni**, illetve, a tünetek függvényében orvosi ellátásban kell részesíteni.
 
            Idő-, és költséghatékony megoldás, ha a **kontaktszemélyeknél antigén gyorstesztet végeznek**. Az ugyanis a fertőzés korai szakaszában kimutatja a vírus jelenlétét – pontosan abban az időszakban, amikor a szerológiai teszt még negatív eredményt ad. E módszerrel **rövid idő alatt kideríthető**, az érintett továbbadta-e már a fertőzést másoknak is. (Akiknél az antigén teszt pozitív, azokat el kell különíteni, és a lehetőségek függvényében a fertőzést PCR teszttel lehet igazolni.)
 
            Ha a PCR teszt elvégzésére nincs idő vagy lehetőség, a helyett az érintettnél is végezhető antigén gyorsteszt, feltéve, ha az illető csak IgG-re nézve volt pozitív, ami utalhat a múltban lezajlott fertőzésre is. (Az IgM pozitivitás az esetek túlnyomó részében fertőzőképes állapotra utal, azt mindenképp javasolt PCR teszttel megerősíteni.)
-        3. **Ha valaki a COVID-19 jellegzetes tüneteit mutatja, akkor is úgy kell rá tekinteni, mintha a teszteredménye pozitív lenne, ha az egyébként negatív volt.**
+
+        3. **Ha valaki a COVID-19 jellegzetes tüneteit mutatja, akkor is úgy kell rá tekinteni, mintha a teszteredménye pozitív lenne, ha az egyébként negatív volt.** 
 
            Ez esetben is az előző pontban írtakat javasolt követni.
 
-           Érdemes megemlíteni, ha fennállnak a tünetek, az elsődleges fontosságú teendő az érintett elkülönítése, illetve megfelelő orvosi ellátásban részesítése. Ilyen esetben célszerű minden negatív teszteredményt PCR (vagy annak hiányában antigén) teszt elvégzésével ellenőrizni – beleértve a negatív PCR eredményt is.
+           Érdemes megemlíteni, ha fennállnak a tünetek, az elsődleges fontosságú teendő az érintett elkülönítése, illetve megfelelő orvosi ellátásban részesítése. Ilyen esetben célszerű minden negatív teszteredményt PCR (vagy annak hiányában antigén) teszt elvégzésével ellenőrizni – beleértve magát a negatív PCR eredményt is.
+
         4. **Ha olyan csak IgG-re nézve pozitív személyek vannak, akik tünetmentesek, nagy az esélye, hogy ezek a személyek már korábban átestek a vírusfertőzésen.**
 
-           Ezt negatív PCR teszttel lehet igazolni – ebben az esetben e személyek folytathatják a munkát, mert (jelen tudásunk szerint) hosszabb időre védetté váltak a vírussal szemben.
+           Ezt negatív PCR teszttel, lehet igazolni – ebben az esetben e személyek folytathatják a munkát, mert (jelen tudásunk szerint) hosszabb időre védetté váltak a vírussal szemben.
+
+           Az IgG pozitív eredmény utalhat vakcina által szerzett immunitásra is, erről, illetve az oltottak, s a velük együtt dolgozó személyek teszteléséről a következő szakaszban lehet olvasni.
 
         **Több előnye is van az imént vázolt módszernek.**
 
 
-        * Az idő- és költségigényes **PCR teszteket csak a legszükségesebb helyzetekben** és esetekben **kell elvégeztetni**.
+        * Az idő-, és költségigényes **PCR teszteket csak a legszükségesebb helyzetekben** és esetekben **kell elvégeztetni**.
 
         * Ha sürget az idő, vagy szűkösek az anyagi lehetőségek, a PCR tesztek jelentős része **kiváltható olcsóbban és gyorsabban elvégezhető antigén tesztekkel**.
 
@@ -195,8 +229,33 @@ list:
         * **Rövid idő alatt reagálni lehet**, ha megjelenik a vírus, még akkor is, ha az érintettek tünetmentesek, vagy csak enyhe tüneteket mutatnak. Azok elkülönítésével a többiek biztonságosan folytathatják a munkát.
 
         * **Azonosítani lehet** azokat a személyeket is, **akik korábban már megfertőződtek** a vírussal.
-
-
-        Ez az összefoglaló csupán tájékoztató jellegű; nem minősül sem orvosi, sem járványügyi tanácsadásnak. Amennyiben Önnél, vagy alkalmazottainál fennáll a COVID-19 fertőzés gyanúja vagy igazolódik, a további teendők tekintetében kérje ki üzemorvosa vagy más egészségügyi szakember véleményét, illetve forduljon az illetékes járványügyi hatósághoz.
       anchor: hatekony-modszer
+  - object:
+      question: Beoltottakat, velük dolgozókat tesztelni? Igen!
+      answer: >-
+        Mindenképpen hangsúlyozni kell: bár a végső fegyvert valóban a vakcina
+        jelenti a világjárvány ellen, **nem szabad, hogy az hamis
+        biztonságérzetet adjon!** Ennek három oka is van.
+
+
+        1. A védettség **nem rögtön, az első dózis beadása után alakul ki**, hanem csak jóval később, **a második dózist követően**. (Maga az időpont az alkalmazott oltóanyagtól is függ; az egyelőre forgalomban még nem lévő egydózisú vakcináknál is legalább 6 hét kell az immunitás kialakulásához.) Amíg ez az idő le nem telik, **az oltott személy ugyanúgy meg tud fertőződni, sőt akár súlyos tünetek is jelentkezhetnek**.
+
+
+        2. Bár kisebb eséllyel és rövidebb időintervallumon át, de **a már beoltottak is képesek másokat megfertőzni**, még akkor is, ha ők maguk nem tapasztalnak tüneteket. A vírus ugyanis az ő esetükben is megtapadhat az orrgarat- és szájgarat-nyálkahártyán, ahonnan a levegőbe jutva tovább terjedhet. 
+
+
+        3. Bár a jelenleg alkalmazott vakcinák közel 100% eséllyel megakadályozzák, hogy az oltottaknál súlyos lefolyású megbetegedés alakuljon ki, **nem jelentenek tökéletes védelmet a COVID-19 ellen**. (Ez nem az új koronavírus elleni oltások sajátossága: semmilyen vakcina, sőt, semmilyen gyógyszer nem 100%-os hatásosságú.) Emellett, jelenleg még ismeretlen, melyik oltóanyag mennyi ideig biztosít védelmet.
+
+
+        Az előzőekből következően, **ha valakinél fellépnek a COVID-19 jellegzetes tünetei**, **akkor is érdemes antigén vagy PCR tesztet végeztetni**, ha az illető már kapott védőoltást – erre különösen akkor kell figyelni, ha valaki még csak az első dózist kapta meg! E két teszttípus ugyanis kizárólag a fertőzést mutatja ki, a védőoltást nem.
+
+
+        A vakcina biztosította védelmet, amennyiben szükséges, egyes szerológiai tesztek – köztük a Clungene® gyorsteszt kazetta is – IgG pozitív eredmény formájában jelzik. Noha a tesztek ilyen alkalmazhatóságának hatásosságát még nem támasztja alá kellő mennyiségű klinikai adat, a tapasztalataink azt mutatják, a pozitív teszteredmény a második dózist követő 2. héten jelentkezik.
+
+
+        Ebből következően **a már beoltott személyeknél felesleges rendszeresen elvégezni a szerológiai tesztet** – az előző pontban írt javaslat alapján a legegyszerűbb úgy kezelni őket, mintha e tesztek automatikusan negatív eredményt adtak volna.
+
+
+        A többi dolgozónál viszont **továbbra is érdemes folytatni a módszeres tesztelést**. Érdemes a következőképp gondolkodni: ha például egy 20 fős cégnél 6 ember már megkapta a vakcina mindkét dózisát, 14 dolgozó továbbra is veszélyben van egészen addig, amíg nem oltják be őket. (Köszönhetően az új mutánsoknak, s annak, hogy a COVID-19-en már átesett személyeknél csak néhány hónapon át marad meg az immunitás, sajnos sokan többször is elkapják a vírust.) Ha a tesztelés során új fertőzötteket azonosítanak, a korábban írt módon a **már beoltottaknál is szükséges antigén vagy PCR tesztet végeztetni**, ha kapcsolatban álltak az érintettekkel. Noha őket a vírus már nem veszélyezteti, csak így lehet kiküszöbölni, hogy megfertőződve terjesszék a járványt.
+      anchor: beoltottak-tesztelese
 ---
