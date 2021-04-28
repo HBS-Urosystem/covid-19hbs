@@ -47,6 +47,22 @@ intro:
     une pandémie au premier semestre 2020. À l'automne, la deuxième vague s'est
     rompue, provoquant une situation encore plus désespérée dans de nombreux
     pays.
+info:
+  images:
+    - src: /uploads/bisnode-hbs-en.jpeg
+      alt: Certificat Bisnode A pour HBS Zrt.
+      text: HBS Zrt. a obtenu le certificat
+        **[Bisnode&nbsp;A](https://www.bisnode.hu/ceginformacio/5291630/hbs-urologia-zrt/)**.
+        Cela démontre que le risque financier lié à la coopération avec notre
+        entreprise est faible. Seulement 7,44% des entreprises hongroises ont
+        obtenu ce certificat.
+  text: Notre société, **[HBS Medical Kft.](https://hbs.hu)** est l'un des
+    principaux importateurs de tests rapides. Notre fournisseur, [Hangzhou
+    Clongene Biotech Co. Ltd.,](http://en.clongene.com/) fabrique plus de 1 000
+    types de matériaux et produits de test microbiologique. Nous avons vendu des
+    centaines de milliers de tests en Hongrie, fourni des institutions
+    publiques, des établissements de santé, des municipalités et des
+    entreprises.
 articles:
   - text: >-
       ##### La figure suivante montre dans quelle période le test d'antigène et
@@ -228,22 +244,6 @@ articles:
   - text: "#### Les informations fournies par les tests rapides COVID-19 servent à
       indiquer si les personnes sont ou ont été infectées ou non. Les tests sont
       réservés à un usage professionnel."
-info:
-  images:
-    - src: /uploads/bisnode-hbs-en.jpeg
-      alt: Certificat Bisnode A pour HBS Zrt.
-      text: HBS Zrt. a obtenu le certificat
-        **[Bisnode&nbsp;A](https://www.bisnode.hu/ceginformacio/5291630/hbs-urologia-zrt/)**.
-        Cela démontre que le risque financier lié à la coopération avec notre
-        entreprise est faible. Seulement 7,44% des entreprises hongroises ont
-        obtenu ce certificat.
-  text: Notre société, **[HBS Medical Kft.](https://hbs.hu)** est l'un des
-    principaux importateurs de tests rapides. Notre fournisseur, [Hangzhou
-    Clongene Biotech Co. Ltd.,](http://en.clongene.com/) fabrique plus de 1 000
-    types de matériaux et produits de test microbiologique. Nous avons vendu des
-    centaines de milliers de tests en Hongrie, fourni des institutions
-    publiques, des établissements de santé, des municipalités et des
-    entreprises.
 references:
   links:
     - url: https://www.affidea.hu/covid-19-szures

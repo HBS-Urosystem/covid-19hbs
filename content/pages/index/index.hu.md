@@ -37,11 +37,11 @@ intro:
       cta: Részletek
       link: /szerologiai-teszt
   text: >-
-    ## Az új koronavírus okozta megbetegedés, a COVID-19, 2021. április 15-éig
-    24&thinsp;500 halálos áldozatot követelt Magyarországon.
+    ## Az új koronavírus okozta megbetegedés, a COVID-19, 2021. április 27-éig
+    27&thinsp;100 halálos áldozatot követelt Magyarországon.
 
 
-    Az aktív esetek száma ekkor 270&thinsp;000 fő felett volt, a vírust e napig mintegy 730&thinsp;000 embernél mutatták ki.
+    Az aktív esetek száma ekkor 250&thinsp;000 fő felett volt, a vírust e napig mintegy 774&thinsp;000 embernél mutatták ki.
 
 
     Hogy a valóságban hányan fertőződtek már meg, csak találgatni lehet – feltehetőleg a regisztrált esetek többszöröséről van szó –, mivel **átfogó, rendszeres, módszeres tesztelésre Magyarországon nem került sor**. Holott abban, hogy a járvány terjedését lassítani, s az áldozatok számát csökkenteni lehessen, a tesztelés kiemelten fontos szerepet játszik.
@@ -83,6 +83,24 @@ news:
       például lázmérő, maszk, gumikesztyű, teszt, kézfertőtlenítő, egészségügyi
       védőruházat vásárlására vagy **egészségügyi vizsgálat** finanszírozására.
       (Forrás: [ado.hu](https://ado.hu/ado/adomodositasokat-fogadott-el-a-torvenyalkotasi-bizottsag/))
+info:
+  images:
+    - src: /uploads/bisnode-hbs-hu.jpeg
+      alt: 'Bisnode "A" tanúsítvány: HBS Zrt.'
+      text: A HBS Medical Kft.
+        **[Bisnode&nbsp;A](https://www.bisnode.hu/ceginformacio/5291630/hbs-urologia-zrt/)**
+        tanúsítvánnyal rendelkezik, amely azt jelzi, hogy a céggel való üzleti
+        kapcsolat kialakításának pénzügyi kockázata alacsony. E tanúsítvánnyal a
+        magyar cégeknek csak a 7,44%-a rendelkezik.
+  text: >-
+    Orvostechnikai cégünk, a **[HBS Medical Kft.](https://hbs.hu)**, az egyik
+    jelentős importőre a **COVID-19 szerológiai és antigén-gyorsteszteknek**.
+    Szállítónk, a [Hangzhou Clongene Biotech Co.,
+    Ltd.](http://en.clongene.com/), több mint 1000-féle mikrobiológiai
+    tesztanyagot és készterméket gyárt.
+
+
+    Cégünk a Clongene Co. exkluzív disztribútora Magyarország területén. Már több szállítmányunk érkezett az országba, melyek egy részét az Állami Egészségügyi Ellátó Központon (AEEK) keresztül a magyar államnak szállítottuk le. Jelentős mennyiségben vásároltak már egészségügyi intézmények, nagyvállalatok és egyes városok vezetőségei is.
 articles:
   - text: >-
       <figure>
@@ -317,24 +335,6 @@ articles:
       az így megvásárolt tesztek nem is a Hangzhou Clongene Biotech Co. Ltd.
       termékei.
     title: FIGYELMEZTETÉS!
-info:
-  images:
-    - src: /uploads/bisnode-hbs-hu.jpeg
-      alt: 'Bisnode "A" tanúsítvány: HBS Zrt.'
-      text: A HBS Medical Kft.
-        **[Bisnode&nbsp;A](https://www.bisnode.hu/ceginformacio/5291630/hbs-urologia-zrt/)**
-        tanúsítvánnyal rendelkezik, amely azt jelzi, hogy a céggel való üzleti
-        kapcsolat kialakításának pénzügyi kockázata alacsony. E tanúsítvánnyal a
-        magyar cégeknek csak a 7,44%-a rendelkezik.
-  text: >-
-    Orvostechnikai cégünk, a **[HBS Medical Kft.](https://hbs.hu)**, az egyik
-    jelentős importőre a **COVID-19 szerológiai és antigén-gyorsteszteknek**.
-    Szállítónk, a [Hangzhou Clongene Biotech Co.,
-    Ltd.](http://en.clongene.com/), több mint 1000-féle mikrobiológiai
-    tesztanyagot és készterméket gyárt.
-
-
-    Cégünk a Clungene Co. exkluzív disztribútora Magyarország területén. Már több szállítmányunk érkezett az országba, melyek egy részét az Állami Egészségügyi Ellátó Központon (AEEK) keresztül a magyar államnak szállítottuk le. Jelentős mennyiségben vásároltak már egészségügyi intézmények, nagyvállalatok és egyes városok vezetőségei is.
 references:
   links:
     - url: https://www.affidea.hu/covid-19-szures
