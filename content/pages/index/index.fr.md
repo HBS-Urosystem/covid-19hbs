@@ -48,14 +48,14 @@ intro:
     rompue, provoquant une situation encore plus désespérée dans de nombreux
     pays.
 info:
-  images:
-    - src: /uploads/bisnode-hbs-en.jpeg
-      alt: Certificat Bisnode A pour HBS Zrt.
-      text: HBS Zrt. a obtenu le certificat
-        **[Bisnode&nbsp;A](https://www.bisnode.hu/ceginformacio/5291630/hbs-urologia-zrt/)**.
-        Cela démontre que le risque financier lié à la coopération avec notre
-        entreprise est faible. Seulement 7,44% des entreprises hongroises ont
-        obtenu ce certificat.
+  #images:
+    #- src: /uploads/bisnode-hbs-en.jpeg
+      #alt: Certificat Bisnode A pour HBS Zrt.
+      #text: HBS Zrt. a obtenu le certificat
+        #**[Bisnode&nbsp;A](https://www.bisnode.hu/ceginformacio/5291630/hbs-urologia-zrt/)**.
+        #Cela démontre que le risque financier lié à la coopération avec notre
+        #entreprise est faible. Seulement 7,44% des entreprises hongroises ont
+        #obtenu ce certificat.
   text: Notre société, **[HBS Medical Kft.](https://hbs.hu)** est l'un des
     principaux importateurs de tests rapides. Notre fournisseur, [Hangzhou
     Clongene Biotech Co. Ltd.,](http://en.clongene.com/) fabrique plus de 1 000
