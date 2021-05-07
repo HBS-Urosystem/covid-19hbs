@@ -40,5 +40,5 @@ ig_items:
 
 Termékmenedzser
 
-E-mail: [csilla.keller@hbs.hu](mailto:csilla.keller@hbs.hu)
+E-mail: <a href="mailto:csilla.keller@hbs.hu" onclick="gtag_report_conversion('mailto:csilla.keller@hbs.hu')">csilla.keller@hbs.hu</a>
 Telefon: [+36 20 778 4899](tel:+36207784899)

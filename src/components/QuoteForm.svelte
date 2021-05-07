@@ -11,10 +11,28 @@
 	function _md(it) {
 		return converter.makeHtml(it)
 	}
+
 </script>
 
 <svelte:head>
+<!-- Event snippet for Ajánlatkérés conversion page
+In your html page, add the snippet and call gtag_report_conversion when someone clicks on the chosen link or button. -->	
+<script>
+function gtag_report_conversion(url) {
+  var callback = function () {
+    if (typeof(url) != 'undefined') {
+      window.location = url;
+    }
+  };
+  gtag('event', 'conversion', {
+      'send_to': 'AW-580313650/eWAaCPOAt4wCELLE25QC',
+      'event_callback': callback
+  });
+  return false;
+}
+</script>
 </svelte:head>
+
 <!--
 {#if $lang == 'hu'}
 	<aside class="temp">
