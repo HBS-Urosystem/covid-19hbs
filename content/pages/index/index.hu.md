@@ -104,7 +104,7 @@ info:
     az eredeti Clungene gyorstesztekhez!
 
 
-    Íme az új kedvezményes áraink:
+    Az új kedvezményes áraink:
 
 
     **Clungene COVID-19 IgG/IgM ellenanyag gyorsteszt (1 doboz 25 tesztet tartalmaz)**
