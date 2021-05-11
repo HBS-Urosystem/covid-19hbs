@@ -1,7 +1,7 @@
 ---
 type: index
 slug: hu
-title: Clungene® COVID-19 Gyorstesztek
+title: TESZTELJ, SZŰRJ, CSELEKEDJ!
 menutitle: Gyorstesztek
 hero: /uploads/33838-web.jpg
 intro:
@@ -15,7 +15,10 @@ intro:
         A vírusnak azt a fehérjéjét mutatja ki, amit az immunrendszerünk is felismer. A COVID-19 korai szakaszában jól azonosítja a fertőzést.
 
 
-        <small>Szenzitivitás: 92,0–98,0%. Specificitás: 99,7%.</small>
+        <small>Szenzitivitás: 92,0–98,0%. 
+
+
+        Specificitás: 99,7%.</small>
       link: /antigen-teszt
       cta: Részletek
     - src: /uploads/004v1.jpg
@@ -30,27 +33,39 @@ intro:
         Kimutathatja a védőoltás hatására termelődő IgG ellenanyagot is.
 
 
-        <!-- **ÚJ!** A 25 gyorsteszt kazettát tartalmazó doboz most már 25, egyedileg csomagolt puffer ampullát tartalmaz. -->
+        <small>Szenzitivitás: 86.6%, a tünetek megjelenését követő 8. naptól kezdve 90% feletti. 
 
 
-        <small>Szenzitivitás: 86.6%. Specificitás: 98.33% (IgG+IgM kombinált). A tünetek megjelenését követő 8. naptól kezdve a szenzitivitás 90% feletti.</small>
+        Specificitás: 98.33% (IgG+IgM kombinált).</small>
       cta: Részletek
       link: /szerologiai-teszt
   text: >-
-    ## Az új koronavírus okozta megbetegedés, a COVID-19, 2021. április 27-éig
-    27&thinsp;100 halálos áldozatot követelt Magyarországon.
+    ## CLUNGENE® COVID-19 GYORSTESZTEK
 
 
-    Az aktív esetek száma ekkor 250&thinsp;000 fő felett volt, a vírust e napig mintegy 774&thinsp;000 embernél mutatták ki.
+    ### Most közel 40%-kal olcsóbban!
 
 
-    Hogy a valóságban hányan fertőződtek már meg, csak találgatni lehet – feltehetőleg a regisztrált esetek többszöröséről van szó –, mivel **átfogó, rendszeres, módszeres tesztelésre Magyarországon nem került sor**. Holott abban, hogy a járvány terjedését lassítani, s az áldozatok számát csökkenteni lehessen, a tesztelés kiemelten fontos szerepet játszik.
+    Az új koronavírus okozta megbetegedés, a COVID-19, a mai napig egy kisvárosnyi halálos áldozatot követelt Magyarországon. A védőoltások jelentik a vírus elleni védekezés első vonalát, de ezzel párhuzamosan a vírus terjedésének lassításában továbbra is kiemelt szerepe van a folyamatos tesztelésnek.
 
 
-    Cégünk, a **HBS Medical Kft.**, a **Clungene® COVID-19 szerológiai és antigén gyorsteszt kazetták kizárólagos forgalmazója** ebben kíván segítséget nyújtani. E két teszt együttes alkalmazásával **a COVID-19 korai**, illetve **késői fázisa**, valamint **a múltban**, akár tünetmentesen **lezajlott fertőzés is azonosítható**.
+    A HBS Medical Kft. a Clungene® COVID-19 szerológiai és antigén gyorstesztek **kizárólagos forgalmazójaként** közvetlenül a gyárból szerzi be a teszteket és ezért költséghatékonyan tudja kiszolgálni magyarországi partnereit. 
 
 
-    Gyorstesztekkel **rövid idő alatt, költséghatékonyan** lehet szűrést végezni egy cég, üzem, hivatal vagy más intézmény dolgozói között. A módszeres tesztelés **nemcsak egészségügyi, hanem gazdasági szempontból is kulcsfontosságú**. A pozitív esetek elkülönítésével megakadályozható a járványgócok kialakulása, a tömeges megfertőződésből következő kényszerű leállás, és az azzal járó anyagi veszteségek.
+    **Az antigén gyorsteszt a friss fertőzés kimutatására, a szerológiai teszt pedig a folyamatban lévő, vagy a múltban, akár tünetmentesen lezajlott fertőzés kimutatására szolgál.**
+
+
+    * Ha Ön még nincs beoltva, ellenőrizze a vírus esetleges megjelenését a szervezetében az antigén gyorsteszttel!
+
+    * Ha már megkapta a COVID-19 elleni egy vagy két oltását, ellenőrizze a szervezete által termelt antitestek megjelenését a szervezetében!
+
+    * A jelenleg ismert szakirodalmi adatok alapján a beoltottak bizonyos hányadának újrafertőződése, a vírus tünetmentes továbbadása nem zárható ki. Ezért a nem beoltottak, illetve a már beoltottak antigén gyorsteszttel végzett ellenőrzése tovább csökkentheti egy helyi járványgóc kialakulásának esélyét.
+
+
+    **Mindezekre hatékony és költségkímélő megoldást nyújtanak a HBS Medical Kft. által értékesített, közvetlen gyári beszállítású Clungene® COVID-19 antigén és szerológiai gyorstesztek.**
+
+
+    A Clungene COVID-19 antigén gyorsteszt szerepel az Európai Bizottság Egészségügyi és Élelmiszerbiztonsági Főigazgatósága által elfogadott, és az Európai Unióban ajánlott <a href="https://ec.europa.eu/health/sites/default/files/preparedness_response/docs/covid-19_rat_common-list_en.pdf" rel="noopener" target="_blank">antigén gyorstesztek listáján</a>.
   highlight: ""
 news:
   - title: Hírek, aktualitások
@@ -84,23 +99,52 @@ news:
       védőruházat vásárlására vagy **egészségügyi vizsgálat** finanszírozására.
       (Forrás: [ado.hu](https://ado.hu/ado/adomodositasokat-fogadott-el-a-torvenyalkotasi-bizottsag/))
 info:
-  #images:
-    #- src: /uploads/bisnode-hbs-hu.jpeg
-      #alt: 'Bisnode "A" tanúsítvány: HBS Zrt.'
-      #text: A HBS Medical Kft.
-        #**[Bisnode&nbsp;A](https://www.bisnode.hu/ceginformacio/5291630/hbs-urologia-zrt/)**
-        #tanúsítvánnyal rendelkezik, amely azt jelzi, hogy a céggel való üzleti
-        #kapcsolat kialakításának pénzügyi kockázata alacsony. E tanúsítvánnyal a
-        #magyar cégeknek csak a 7,44%-a rendelkezik.
   text: >-
-    Orvostechnikai cégünk, a **[HBS Medical Kft.](https://hbs.hu)**, az egyik
-    jelentős importőre a **COVID-19 szerológiai és antigén-gyorsteszteknek**.
-    Szállítónk, a [Hangzhou Clongene Biotech Co.,
-    Ltd.](http://en.clongene.com/), több mint 1000-féle mikrobiológiai
-    tesztanyagot és készterméket gyárt.
+    ## Az árainkat jelentősen csökkentettük: most közel 40%-kal olcsóbban juthat
+    az eredeti Clungene gyorstesztekhez!
 
 
-    Cégünk a Clongene Co. exkluzív disztribútora Magyarország területén. Már több szállítmányunk érkezett az országba, melyek egy részét az Állami Egészségügyi Ellátó Központon (AEEK) keresztül a magyar államnak szállítottuk le. Jelentős mennyiségben vásároltak már egészségügyi intézmények, nagyvállalatok és egyes városok vezetőségei is.
+    Íme az új kedvezményes áraink:
+
+
+    **Clungene COVID-19 IgG/IgM ellenanyag gyorsteszt (1 doboz 25 tesztet tartalmaz)**
+
+
+    * egy vagy több karton vásárlása esetén (1 karton=50 doboz / 1250 db): **1 110 Ft** + 5% ÁFA / teszt;
+
+    * 225–1225 darab (9–49 doboz) között: **1 210 Ft** + 5% ÁFA / teszt.
+
+
+    **Clungene COVID-19 Antigén gyorsteszt**
+
+
+    * egy vagy több karton vásárlása esetén (1 karton=50 doboz / 1250 db): **1 325 Ft** + 5% ÁFA / teszt;
+
+    * 225–1225 darab (9–49 doboz) között: **1 425 Ft** + 5% ÁFA / teszt.
+
+
+    A 25–200 db (1–8 doboz) közötti megrendeléseket hivatalos partnerünk, a **medexim.hu** szolgálja ki. Hivatalos partnerünk árai:
+
+
+    * 1 doboz Clungene COVID-19 IgG/IgM ellenanyag gyorsteszt (25 db teszthez 1 pufferoldat): bruttó 37 900 Ft; 
+
+    * 1 doboz Clungene COVID-19 IgG/IgM ellenanyag gyorsteszt (25 db teszthez 25 pufferoldat): bruttó 38 900 Ft;
+
+    * 1 doboz Clungene COVID-19 Antigén gyorsteszt: (25 db teszt): bruttó 39 900 Ft.
+
+
+    A **medexim.hu** webáruházban már elérhető az új, egyedi kiszerelésű Clungene antigén gyorsteszt:
+
+
+    * 1x Clungene COVID-19 Antigén gyorsteszt 5x1 db: bruttó 13 450 Ft;
+
+    * 1x Clungene COVID-19 Antigén gyorsteszt 3x1 db: bruttó 8 070 Ft.
+
+
+    A szállítás a HBS Medical Kft-nél és hivatalos partnerénél egyaránt **ingyenes**. 
+
+
+    1x Clungene COVID-19 Antigén gyorstesztek esetében a szállítás költség 990 Ft.
 articles:
   - text: >-
       <figure>
@@ -348,10 +392,10 @@ references:
     - url: https://robertkorhaz.hu/leiras/koronavirus-gyorstesz
       text: Róbert Magánkórház
   text: >-
-    ## Referenciák
+    ## Főbb referenciáink
 
 
-    Már számos intézmény és vállalat alkalmazza az általunk forgalmazott **Clungene® COVID-19 Gyorsteszt** Kazettákat. Ezek közül közöljük – a teljesség igénye nélkül – néhány internetes elérhetőségét.
+    Számos intézmény és vállalat alkalmazza az általunk forgalmazott Clungene® COVID-19 Gyorsteszt Kazettákat. Ezek közül közöljük – a teljesség igénye nélkül – néhány internetes elérhetőségét.
 cards:
   - src: /uploads/pixabay-social-distancing-5044615_640.jpg
     link: /modszeres-teszteles
@@ -366,6 +410,10 @@ documents:
 
     Cégünk már több önkormányzatnak és intézménynek adományozott az általa forgalmazott gyorstesztekből tudományos kutatási, szociális és népegészségügyi célokra.
 ---
+Orvostechnikai cégünk, a **[HBS Medical Kft.](https://hbs.hu)**, az egyik jelentős importőre a **COVID-19 szerológiai és antigén-gyorsteszteknek**. Szállítónk, a [Hangzhou Clongene Biotech Co., Ltd.](http://en.clongene.com/), több mint 1000-féle mikrobiológiai tesztanyagot és készterméket gyárt.
+
+Cégünk a Clongene Co. exkluzív disztribútora Magyarország területén. Már több szállítmányunk érkezett az országba, melyek egy részét az Állami Egészségügyi Ellátó Központon (AEEK) keresztül a magyar államnak szállítottuk le. Jelentős mennyiségben vásároltak már egészségügyi intézmények, nagyvállalatok és egyes városok vezetőségei is.
+
 <h3>Páramentes védőszemüveg</h3>
 <aside>
 <section>

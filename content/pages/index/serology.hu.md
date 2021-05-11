@@ -20,6 +20,9 @@ intro:
 
 
     Hogy melyik ellenanyag pontosan mikor válik kimutathatóvá, számos tényezőtől függ; ezek közé tartozik a tünetek súlyossága, illetve a vírus lappangási ideje is.
+
+
+    A Clungene COVID-19 IgM/IgG szerológiai gyorsteszt segítségével a védőoltások után a szervezetben a SARS-CoV-2 vírus ellen termelt IgG antitest is kimutatható. Ebben az esetben figyelembe kell venni, hogy a termelt IgG antitest mennyisége nem minden esetben érheti el a teszt kimutatási alsó határát, vagy a teszt alkalmazásakor még nem telt el az adott védőoltás alkalmazási előiratában szereplő, az adott védőoltás által létrehozott védettségi szintet jelentő idő.
   images:
     - src: /uploads/002v1.jpg
       alt: Clungene® COVID-19 IgG/IgM gyorsteszt
@@ -60,6 +63,8 @@ articles:
       * akik külföldön, vagy más szempontból véve fokozottan fertőzésveszélynek kitett helyen jártak,
 
       * akik az elmúlt időszakban tapasztalt tüneteik alapján úgy vélik, már átestek a fertőzésen - ők ugyanis lehet, hogy már védetté váltak a vírussal szemben.
+
+      * akik a védőoltás megkapása után, az adott védőoltás alkalmazási előiratában jelzett időszak letelte után ellenőrizni szeretnék a szervezetükben a vírus ellen termelt antitest jelenlétét.
 
 
       **Nem ajánlott a vizsgálat** azoknak, akiknél jelenleg, vagy az elmúlt 7 nap során magas láz, heves köhögés vagy rosszullét jelentkezett. Ilyenkor a gyógyulás, illetve az esetleges fertőzés terjedésének megakadályozása érdekében az önkéntes, otthoni karantén, súlyosabb esetben pedig kórházi ápolás, illetve az intézmény keretei között végzett tesztek és vizsgálatok javasoltak.
@@ -104,7 +109,7 @@ articles:
       A vizsgált személy nagy valószínűséggel fertőzött. A megfertőződés óta nagyjából 5–21 nap telt el, mivel ez az antitest rendszerint ebben az időtartományban mutatható ki.
 
 
-      Megfigyelhetőek a COVID-19 jellegzetes tünetei, de azok később is kialakulhatnak. Az új koronavírus nem minden esetben okoz tüneteket \[húzás!!!], ám aki tünetmentes, ugyanúgy képes megfertőzni a többi embert, mint akinek tünetei vannak. Az érintett elkülönítése okvetlenül szükséges.
+      Megfigyelhetőek a COVID-19 jellegzetes tünetei, de azok később is kialakulhatnak. Az új koronavírus nem minden esetben okoz tüneteket, ám aki tünetmentes, ugyanúgy képes megfertőzni a többi embert, mint akinek tünetei vannak. Az érintett elkülönítése okvetlenül szükséges.
 
 
       #### 3. A mintában mind az IgM, mind az IgG megtalálható. (IgM és IgG pozitív.)
@@ -126,6 +131,9 @@ articles:
 
 
       A szervezet azonban e szakaszban, sőt, egy darabig a fertőzés után is képes üríteni a vírust. A kórokozó jelenlétét PCR vagy antigén teszttel lehet igazolni. Ha a SARS-CoV-2 még megtalálható a szervezetben, az érintett elkülönítése elkerülhetetlen. Ha azonban már nem, a vizsgált személy munkaképesnek tekinthető: sem ő nem képes megfertőzni a többi embert, és jelenleg ő maga sincs kitéve az új koronavírus okozta (súlyos) megbetegedésnek.
+
+
+      Amennyiben valaki már kapott védőoltást, a szervezetében a SARS-CoV-2 vírus ellen termelt IgG antitest jelenik meg – ilyen esetben az IgG pozitív eredmény tehát a vakcina által szerzett védettségre is utalhat.
     subtitle: A szerológiai gyorstesztnek négy lehetséges eredménye van.
   - title: Az eredmények értelmezésének egyszerűsített összefoglaló táblázata
     text: >
@@ -313,19 +321,20 @@ references:
 
     **Phoenix Pharma és Hungaropharma partnereinken keresztül a tesztek elérhetőek az ország összes gyógyszertárában.**
 documents:
-  text: "## További információk, dokumentumok"
+  text: >-
+    ## További információk, dokumentumok
+
+
+    A Clungene® COVID-19 szerológiai gyorsteszt rendelkezik EU megfelelőségi nyilatkozattal, a termék az Európai Unióban regisztrálva van.
+
+
+    DIMDI regisztrációs száma: DE/CA05/IvD-238321-1330-00
+
+
+    OGYÉI nyilvántartási száma: HU/CA01/20308/21
   links:
     - text: Használati útmutató
       file: /uploads/covid-19_igg-igm-4212-hu-v5.pdf
-      src: /uploads/bxs-file-pdf.svg
-    - text: OGYÉI hatósági bizonyítvány HU
-      file: /uploads/ogyei_hatosagi_bizonyitvany_orvostech-17106-3-2020-szghbv_alairt-1.pdf
-      src: /uploads/bxs-file-pdf.svg
-    - text: EU megfelelőségi nyilatkozat
-      file: /uploads/ek_megfelelosegi_nyilatkozat.pdf
-      src: /uploads/bxs-file-pdf.svg
-    - text: A termék bizonyítványai
-      file: /uploads/certificates-clongene-covid-2019-igm.igg_1-7.pdf
       src: /uploads/bxs-file-pdf.svg
     - text: A SmartBioma diagnosztikai protokollja
       file: /uploads/sars-cov-2-covid-19-szures-_-kimutatas.pdf

@@ -1,10 +1,8 @@
 ---
 title: quotation
-button: Ajánlatkérés
+button: Megrendelés
 link: /ajanlatkeres
 ---
-### Kedves Érdeklődő!
-
 ###### 200 db (8 doboz) feletti megrendelés esetén kérje árajánlatunkat.
 
 * COVID-19 Antigén gyorsteszt: Raktárról

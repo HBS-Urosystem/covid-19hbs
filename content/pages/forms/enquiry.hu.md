@@ -1,7 +1,7 @@
 ---
 type: enquiry
 slug: ajanlatkeres
-title: Kérjen ajánlatot!
+title: MEGRENDELÉS
 heading: Segítse Ön is a COVID-19 elleni védekezést!
 name: Kapcsolattartó neve
 company: Cég neve
@@ -36,7 +36,9 @@ ig_items:
   - item: 25 db egyedileg csomagolt puffer,
   - item: használati útmutató.
 ---
-#### Keller Csilla
+**Kérdés esetén forduljon bizalommal termékmenedzserünkhöz:**
+
+#### **Bognárné** Keller Csilla
 
 Termékmenedzser
 

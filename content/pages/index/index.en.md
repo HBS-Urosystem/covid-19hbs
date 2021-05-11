@@ -46,14 +46,6 @@ intro:
     pandemic in the first half of 2020. In the fall the second wave broke up,
     causing an even more desperate situation in many countries.
 info:
-  #images:
-    #- src: /uploads/bisnode-hbs-en.jpeg
-      #alt: Bisnode A certificate for HBS Zrt.
-      #text: HBS Medical Kft. has obtained
-        #**[Bisnode&nbsp;A](https://www.bisnode.hu/ceginformacio/5291630/hbs-urologia-zrt/)**
-        #certificate. This testifies that the financial risk of co-operating with
-        #our company is low. Only the 7.44% of the Hungarian companies have
-        #obtained this certificate.
   text: Our company, **[HBS Medical Kft.](https://hbs.hu)**, is one of the major
     importers of rapid tests. Our supplier, [Hangzhou Clongene Biotech Co.
     Ltd.](http://en.clongene.com/) has been manufacturing more than 1,000 types

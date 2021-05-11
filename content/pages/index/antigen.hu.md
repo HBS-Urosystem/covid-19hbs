@@ -228,7 +228,7 @@ documents:
     DIMDI regisztrációs száma: DE/CA05/IvD-238321-1547-00
 
 
-    OGYÉI nyilvántartási száma: HU/CA01/55505/20
+    OGYÉI nyilvántartási száma: HU/CA01/20308/21
   links:
     - text: A termék használatát ismertető brosúra
       file: /uploads/antigen_gyorsteszt_brosura_v2.pdf
@@ -236,7 +236,7 @@ documents:
     - text: Magyar nyelvű használati útmutató
       file: /uploads/v4_hasznalati_utmutato_covid-19_antigen-5002-hun-ce-4_0-109155104.pdf
       src: /uploads/bxs-file-pdf.svg
-    - text: Common list of COVID-19 Rapid antigen test by EU Health Security Committe
+    - text: Common list of COVID-19 Rapid antigen test by EU Health Security Committee
       file: https://ec.europa.eu/health/sites/health/files/preparedness_response/docs/covid-19_rat_common-list_en.pdf
       src: /uploads/bxs-file-pdf.svg
 ---

@@ -63,7 +63,7 @@
 		flex-direction: column;
 		flex-wrap: wrap;
 		/* justify-content: space-around; */
-    align-items: center;
+    /*align-items: center;*/
 		text-shadow: 1px 1px 2px var(--dark);
 		background-color: var(--dark50);
 		padding: var(--gutter);

@@ -50,6 +50,12 @@ function gtag_report_conversion(url) {
 {/if}
 -->
 <article>
+	<center>
+	{@html post.html}
+	</center>
+</article>
+
+<article>
 
 	<h2>{post.heading}</h2>
 
@@ -142,11 +148,6 @@ function gtag_report_conversion(url) {
 			</ul>
 		</div>
 	</aside>
-</article>
-<article>
-	<center>
-	{@html post.html}
-	</center>
 </article>
 <style>
 	aside.temp {
