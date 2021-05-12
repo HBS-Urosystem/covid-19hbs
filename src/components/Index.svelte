@@ -16,17 +16,6 @@
 <svelte:head>
 </svelte:head>
 
-{#if post.references}
-<article>
-	{@html _md(post.references.text)}
-	<ul>
-		{#each post.references.links as ref}
-		<li><a href="{ref.url}" rel="noopener" target="_blank">{ref.text}</a></li>
-		{/each}
-	</ul>
-</article>
-{/if}
-
 <CTA />
 
 {#if post.info}
@@ -51,6 +40,17 @@
 		{/each}
 		{/if}
 	</aside>
+</article>
+{/if}
+
+{#if post.references}
+<article>
+	{@html _md(post.references.text)}
+	<ul>
+		{#each post.references.links as ref}
+		<li><a href="{ref.url}" rel="noopener" target="_blank">{ref.text}</a></li>
+		{/each}
+	</ul>
 </article>
 {/if}
 
@@ -81,9 +81,9 @@
 
 {#if post.articles}
 {#each post.articles as article, i}
-{#if (i+1) / 4 == Math.floor((i+1) / 4)}
+<!--{#if (i+1) / 4 == Math.floor((i+1) / 4)}
 <CTA/>
-{/if}
+{/if}-->
 <article>
 {#if article.title}
 <h3>{article.title}</h3>

@@ -25,7 +25,7 @@
 </script>
 
 {#each post.list as q, i}
-{#if (i+1) / 4 == Math.floor((i+1) / 4)}
+{#if (i+1) / 5 == Math.floor((i+1) / 5)}
 <CTA/>
 {/if}
 

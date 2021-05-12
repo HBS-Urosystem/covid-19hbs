@@ -43,7 +43,7 @@ intro:
     ## CLUNGENE® COVID-19 GYORSTESZTEK
 
 
-    ### Most közel 40%-kal olcsóbban!
+    ### Most 36-37-38%-kal olcsóbban!
 
 
     Az új koronavírus okozta megbetegedés, a COVID-19, a mai napig egy kisvárosnyi halálos áldozatot követelt Magyarországon. A védőoltások jelentik a vírus elleni védekezés első vonalát, de ezzel párhuzamosan a vírus terjedésének lassításában továbbra is kiemelt szerepe van a folyamatos tesztelésnek.
@@ -100,51 +100,10 @@ news:
       (Forrás: [ado.hu](https://ado.hu/ado/adomodositasokat-fogadott-el-a-torvenyalkotasi-bizottsag/))
 info:
   text: >-
-    ## Az árainkat jelentősen csökkentettük: most közel 40%-kal olcsóbban juthat
-    az eredeti Clungene gyorstesztekhez!
+    Orvostechnikai cégünk, a **[HBS Medical Kft.](https://hbs.hu)**, az egyik jelentős importőre a **COVID-19 szerológiai és antigén-gyorsteszteknek**. Szállítónk, a [Hangzhou Clongene Biotech Co., Ltd.](http://en.clongene.com/), több mint 1000-féle mikrobiológiai tesztanyagot és készterméket gyárt.
 
+    Cégünk a Clongene Co. exkluzív disztribútora Magyarország területén. Már több szállítmányunk érkezett az országba, melyek egy részét az Állami Egészségügyi Ellátó Központon (AEEK) keresztül a magyar államnak szállítottuk le. Jelentős mennyiségben vásároltak már egészségügyi intézmények, nagyvállalatok és egyes városok vezetőségei is.
 
-    Az új kedvezményes áraink:
-
-
-    **Clungene COVID-19 IgG/IgM ellenanyag gyorsteszt (1 doboz 25 tesztet tartalmaz)**
-
-
-    * egy vagy több karton vásárlása esetén (1 karton=50 doboz / 1250 db): **1 110 Ft** + 5% ÁFA / teszt;
-
-    * 225–1225 darab (9–49 doboz) között: **1 210 Ft** + 5% ÁFA / teszt.
-
-
-    **Clungene COVID-19 Antigén gyorsteszt**
-
-
-    * egy vagy több karton vásárlása esetén (1 karton=50 doboz / 1250 db): **1 325 Ft** + 5% ÁFA / teszt;
-
-    * 225–1225 darab (9–49 doboz) között: **1 425 Ft** + 5% ÁFA / teszt.
-
-
-    A 25–200 db (1–8 doboz) közötti megrendeléseket hivatalos partnerünk, a **medexim.hu** szolgálja ki. Hivatalos partnerünk árai:
-
-
-    * 1 doboz Clungene COVID-19 IgG/IgM ellenanyag gyorsteszt (25 db teszthez 1 pufferoldat): bruttó 37 900 Ft; 
-
-    * 1 doboz Clungene COVID-19 IgG/IgM ellenanyag gyorsteszt (25 db teszthez 25 pufferoldat): bruttó 38 900 Ft;
-
-    * 1 doboz Clungene COVID-19 Antigén gyorsteszt: (25 db teszt): bruttó 39 900 Ft.
-
-
-    A **medexim.hu** webáruházban már elérhető az új, egyedi kiszerelésű Clungene antigén gyorsteszt:
-
-
-    * 1x Clungene COVID-19 Antigén gyorsteszt 5x1 db: bruttó 13 450 Ft;
-
-    * 1x Clungene COVID-19 Antigén gyorsteszt 3x1 db: bruttó 8 070 Ft.
-
-
-    A szállítás a HBS Medical Kft-nél és hivatalos partnerénél egyaránt **ingyenes**. 
-
-
-    1x Clungene COVID-19 Antigén gyorstesztek esetében a szállítás költség 990 Ft.
 articles:
   - text: >-
       <figure>
@@ -410,10 +369,6 @@ documents:
 
     Cégünk már több önkormányzatnak és intézménynek adományozott az általa forgalmazott gyorstesztekből tudományos kutatási, szociális és népegészségügyi célokra.
 ---
-Orvostechnikai cégünk, a **[HBS Medical Kft.](https://hbs.hu)**, az egyik jelentős importőre a **COVID-19 szerológiai és antigén-gyorsteszteknek**. Szállítónk, a [Hangzhou Clongene Biotech Co., Ltd.](http://en.clongene.com/), több mint 1000-féle mikrobiológiai tesztanyagot és készterméket gyárt.
-
-Cégünk a Clongene Co. exkluzív disztribútora Magyarország területén. Már több szállítmányunk érkezett az országba, melyek egy részét az Állami Egészségügyi Ellátó Központon (AEEK) keresztül a magyar államnak szállítottuk le. Jelentős mennyiségben vásároltak már egészségügyi intézmények, nagyvállalatok és egyes városok vezetőségei is.
-
 <h3>Páramentes védőszemüveg</h3>
 <aside>
 <section>
