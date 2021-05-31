@@ -54,7 +54,7 @@ list:
         Az antigén és PCR tesztek nem, mivel azok magát a vírust detektálják. 
 
 
-        A szerológiai tesztek közül sem mindegyik, mivel azok némelyike nem azt azon antigén (az ún. spike protein, vagyis tüskefehérje) ellen termelődő antitestet mutatja ki, melyre a védőoltások „épülnek”. Vannak azonban olyan termékek is – A Clungene® szerológiai gyorsteszt is ilyen –, amelyek elvileg alkalmasak a vakcina nyújtotta védelem kimutatására is. 
+        A szerológiai tesztek közül sem mindegyik, mivel azok némelyike nem azon antigén (ún. spike protein, vagyis tüskefehérje) ellen termelődő antitestet mutatja ki, melyre a védőoltások „épülnek”. Vannak azonban olyan termékek is – A Clungene® szerológiai gyorsteszt is ilyen –, amelyek elvileg alkalmasak a vakcina nyújtotta védelem kimutatására is. 
 
 
         Meg kell azonban jegyezni, hogy a szerológiai teszteket eredetileg nem a védőoltások okozta hatás, hanem a SARS-CoV-2 vírus ellen termelt antitestek kimutatására fejlesztették ki. Hogy pontosan melyik teszt melyik vakcina hatását milyen eséllyel mutatja ki, arról egyelőre nem állnak rendelkezésre bizonyító erejű adatok; az ehhez szükséges klinikai vizsgálatok lefolytatására még nem került sor. Ebből következően írják sok helyen, hogy e tesztek nem alkalmasak a védőoltás hatásosságának igazolására.
