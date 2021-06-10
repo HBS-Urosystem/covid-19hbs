@@ -315,7 +315,7 @@
 	}
   header img {
     width: 200px;
-		margin: var(--spacer) auto 0;
+		margin: var(--spacer2) auto 0;
 		filter: drop-shadow(2px 2px 0 white);
   }
 	/* header::before, nav::before {
