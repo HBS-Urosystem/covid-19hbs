@@ -177,6 +177,14 @@
 <Index {post}/>
 {/if}
 
+{#if post.type == 'vacs'}
+<Index {post}/>
+{/if}
+
+{#if post.type == 'about'}
+<Index {post}/>
+{/if}
+
 {#if post.type == 'goggles'}
 <Index {post}/>
 {/if}

@@ -75,6 +75,14 @@
 			</li>
 			{/if}
 
+			{#if pages.about[$lang]}
+			<li>
+				<a rel="prefetch" aria-current="{$type == 'about' ? 'page' : undefined}" href="{pages.about[$lang].slug}#content">
+					<span>{pages.about[$lang].menutitle}</span>
+				</a>
+			</li>
+			{/if}
+
 			<!-- for the news link, we're using rel=prefetch so that Sapper prefetches the blog data when we hover over the link or tap it on a touchscreen -->
 			<!-- {#if pages['news'][$lang]}
 			<li>
@@ -157,9 +165,6 @@
 	nav div {
 		max-width: 100ch;
     margin: 0 auto;
-		display: flex;
-    flex-wrap: nowrap;
-		/*justify-content: space-between;*/
 		overflow-x: auto;
 	}
 
@@ -174,10 +179,12 @@
 		display: flex;
 		flex-wrap: nowrap;
 		flex-shrink: 0;
+		justify-content: space-between;
+		width: 100%;
 	}
-	ul:first-of-type {
+	/*ul:first-of-type {
 		margin-right: 6ch;
-	}
+	}*/
 	/*ul:last-of-type {
 		margin-left: auto;
 		margin-right: 4ch;
