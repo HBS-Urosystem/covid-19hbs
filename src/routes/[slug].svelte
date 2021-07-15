@@ -173,7 +173,7 @@
 <Index {post}/>
 {/if}
 
-{#if post.type == 'background'}
+{#if post.type == 'gyorstesztek'}
 <Index {post}/>
 {/if}
 

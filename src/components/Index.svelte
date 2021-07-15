@@ -136,7 +136,7 @@
 </article>
 {/if}
 
-<CTA />
+<!--<CTA />-->
 
 <style>
 	/* section ~ figure img {

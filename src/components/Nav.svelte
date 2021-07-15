@@ -43,6 +43,14 @@
 			</li>
 
 			<!-- segment === pages.business[$lang].slug -->
+			{#if pages.gyorstesztek[$lang]}
+			<li>
+				<a rel="prefetch" aria-current="{$type == 'gyorstesztek' ? 'page' : undefined}" href="{pages.gyorstesztek[$lang].slug}#content">
+					<span>{pages.gyorstesztek[$lang].menutitle}</span>
+				</a>
+			</li>
+			{/if}
+
 			{#if pages.vacs[$lang]}
 			<li>
 				<a rel="prefetch" aria-current="{$type == 'vacs' ? 'page' : undefined}" href="{pages.vacs[$lang].slug}#content">
@@ -51,13 +59,13 @@
 			</li>
 			{/if}
 
-			{#if pages.business[$lang]}
+			<!--{#if pages.business[$lang]}
 			<li>
 				<a rel="prefetch" aria-current="{$type == 'business' ? 'page' : undefined}" href="{pages.business[$lang].slug}#content">
 					<span>{pages.business[$lang].menutitle}</span>
 				</a>
 			</li>
-			{/if}
+			{/if}-->
 
 			{#if pages.faq[$lang]}
 			<li>
@@ -80,26 +88,24 @@
 		<!-- slide me <-|-> icon -->
 		<!-- css: sticky, left: 0; right: 0, width: 2rem -->
 
-		<ul>
+		<!--<ul>
 			<li>{@html svgs['Langs']}</li>
 			<li>{#if $type && pages[$type].en && pages[$type].en.slug}
 				<a rel="external" sapper-noscroll aria-current="{'en' == [$lang] ? 'page' : undefined}" href="{pages[$type].en.slug}" hreflang="en"><small>en</small></a>
 			{:else}
 				<a rel="external" aria-expanded="false" href="{pages.index.en.slug}" hreflang="en"><small>en</small></a>
 			{/if}</li>
-      <!-- <li>/</li> -->
 			<li>{#if $type && pages[$type].fr && pages[$type].fr.slug}
 				<a rel="external" sapper-noscroll aria-current="{'fr' == [$lang] ? 'page' : undefined}" href="{pages[$type].fr.slug}" hreflang="fr"><small>fr</small></a>
 			{:else}
 				<a rel="external" aria-expanded="false" href="{pages.index.fr.slug}" hreflang="fr"><small>fr</small></a>
 			{/if}</li>
-			<!-- <li>/</li> -->
 			<li>{#if $type && pages[$type].hu && pages[$type].hu.slug}
 				<a rel="external" sapper-noscroll aria-current="{'hu' == [$lang] ? 'page' : undefined}" href="{$type == 'index' ? '/' : pages[$type].hu.slug}" hreflang="hu"><small>hu</small></a>
 			{:else}
 				<a rel="external" aria-expanded="false" href="/" hreflang="hu"><small>hu</small></a>
       {/if}</li>
-		</ul>
+		</ul>-->
 	</div>
 	<h5>
 		<a href="{cta[$lang].link}" target="{cta[$lang].link.startsWith('http') ? '_blank' : ''}" rel="{cta[$lang].link.startsWith('http') ? 'noopener external' : 'prefetch'}">
@@ -172,7 +178,7 @@
 	ul:first-of-type {
 		margin-right: 6ch;
 	}
-	ul:last-of-type {
+	/*ul:last-of-type {
 		margin-left: auto;
 		margin-right: 4ch;
     box-shadow: -8px -16px 16px black;
@@ -184,7 +190,7 @@
 	}
 	ul:last-of-type:hover {
 		right: 0;
-	}
+	}*/
 
 	li {
 		vertical-align: middle;
