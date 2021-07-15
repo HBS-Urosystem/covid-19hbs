@@ -28,7 +28,7 @@
 	</ul>-->
 
 	<div>
-		<button><a href="https://medexim.hu/" rel="external noopener" target="_blank">Vásárlás a <u>medexim.hu</u> oldalon</a></button>
+		<!--<button><a href="https://medexim.hu/" rel="external noopener" target="_blank">Vásárlás a <u>medexim.hu</u> oldalon</a></button>-->
 		<button><a href="{cta[$lang].link}">{cta[$lang].button}</a></button>
 	</div>
 	<!--<button on:click="{() => showModal = true}">{cta[$lang].button}</button>-->
@@ -51,7 +51,7 @@
 		</ul>
 
 		<div slot="buttons">
-			<button><a href="https://medexim.hu/" rel="external noopener" target="_blank">Vásárlás a <u>medexim.hu</u> oldalon</a></button>
+			<!--<button><a href="https://medexim.hu/" rel="external noopener" target="_blank">Vásárlás a <u>medexim.hu</u> oldalon</a></button>-->
 			<button><a href="{cta[$lang].link}">{cta[$lang].button}</a></button>
 		</div>
 	</Modal>

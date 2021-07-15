@@ -6,10 +6,7 @@ subtitle: Amit a SARS-CoV-2 (új koronavírus) rapid tesztekről tudni érdemes
 menutitle: Gyakori kérdések
 intro:
   text: ""
-  highlight: Célunk, hogy az olvasókat mindig naprakész információkkal lássuk el.
-    Időről időre egyre újabb, a COVID-19-cel, illetve annak kimutatásával
-    kapcsolatos tudományos információk jelennek meg. Hogy ezeket is elérhetővé
-    tegyük, ezt az oldalt rendszeresen frissítjük.
+  highlight: ""
 list:
   - object:
       question: Ki lehet mutatni, ha valakit megfertőzött az új koronavírus?
@@ -22,7 +19,7 @@ list:
 
         * Ki lehet mutatni a vírust úgy is, hogy annak valamely olyan, rá jellemző fehérjéjét azonosítják, amelyet az emberi immunrendszer is felismer. Ezt hívják antigén-tesztnek (Ag-tesztnek) – ugyanis antigénnek hívják az immunválaszt kiváltó „idegen” anyagokat.
 
-        * Ki lehet mutatni az emberi szervezet a vírus ellen termelt ellenanyagait, az úgynevezett antitesteket. Ezt nevezik szerológiai, immunkromatográfiás vagy immunoglobulin-tesztnek
+        * Ki lehet mutatni az emberi szervezet a vírus ellen termelt ellenanyagait, az úgynevezett antitesteket. Ezt nevezik szerológiai, antitest, ellenanyag, immunkromatográfiás vagy immunoglobulin-tesztnek
 
 
         Gyorsteszt vagy rapid teszt alatt általában az utóbbi kettő valamelyikét értik; az elnevezés arra utal, hogy ezeket nagyon rövid idő (akár 15 perc) alatt is el lehet végezni. (A régebbi források a gyorsteszt kifejezést a szerológiai teszt szinonimájaként használták – az új koronavírust kimutató antigén tesztek ugyanis csak később terjedtek el.)
@@ -42,26 +39,25 @@ list:
         Az antigénteszt azt az antigént azonosítja (a SARS-CoV-2 egyik fehérjéjét), amelyiket a szervezet immunrendszere is; ily módon mutatja ki a vírus jelenlétét. Az ellenanyag teszt (vagy szerológiai teszt) a szervezet által termelt, kifejezetten egy-egy bizonyos típusú kórokozó (esetünkben a SARS-CoV-2) hatására megjelenő és elszaporodó antitesteket mutatja ki.
       anchor: elmeleti-hatter
   - object:
-      question: Kik végezhetik el a rapid tesztet?
+      question: Kik végezhetik el a gyorsteszteket?
       answer: >-
         **Arra képesített orvosok és ápolók.**
 
 
-        A professzionális (egészségügyi szakdolgozók által történő) használatra szánt tesztekre más szabályozás vonatkozik, mint az otthoni használatra, illetve önellenőrzésre szolgáló hasonló eszközökre. Mindennek a jogi hátteréről [itt lehet bővebben olvasni](/otthoni-hasznalat).
+        A professzionális (egészségügyi szakdolgozók által történő) használatra szánt tesztekre más szabályozás vonatkozik, mint az otthoni használatra, illetve önellenőrzésre szolgáló hasonló eszközökre.
 
 
         Megjelentek már a piacon olyan gyorstesztek is, amelyeket laikusok is használhatnak. Ezek alkalmazásánál – azon túl, hogy lényegesen drágább termékekről van szó – érdemes néhány dolgot szem előtt tartani. 
 
 
-        * Annak ellenére, hogy egy tesztet bárki használhat, az elvégzése némi gyakorlatot igényel. Különösen igaz ez a mintavételre; ha ezt a felhasználó rosszul csinálja, a teszt eredménye is helytelen lesz. 
+        * Annak ellenére, hogy egy tesztet bárki használhat, az elvégzése némi **gyakorlatot igényel**. A legkényesebb művelet maga a mintavétel; ha ezt a felhasználó rosszul csinálja, a teszt eredménye is **helytelen lesz**. 
 
         * A teszt elvégzésekor figyelni kell nemcsak az alapvető higiéniára, hanem a járvánnyal kapcsolatos ajánlásokra, előírásokra is. Különösen igaz ez akkor, ha valaki a tesztet egy másik személyen végzi el – **a gondatlan használat könnyen vezethet egymás megfertőzéséhez**!
 
         * A teszt során használt eszközök, illetve maga a minta is biológiai szempontból véve **veszélyes hulladéknak minősülnek**. A fertőzött személytől levett orrgarat-, vagy szájgarat-nyálkahártya minta maga is tartalmazza a vírust, ezért **a fertőzés lehetséges forrásának tekinthető**! Mivel a SARS-CoV-2 nem vérrel terjed, az ilyen mintától a COVID-19-et nem lehet elkapni – ugyanez azonban nem mondható el számos más, vérrel (is) terjedő fertőző betegségről.
       anchor: kik-vegezhetik
   - object:
-      question: Sok helyen olvasni, hogy a gyorstesztek teljesen megbízhatatlanok.
-        Miért mondják ezt?
+      question: Azt hallottam, a gyorstesztek megbízhatatlanok. Miért mondják ezt?
       answer: >-
         Sajnos, ahogy az új koronavírussal kapcsolatos pánikkeltő írások, a
         veszélyt lekicsinylő vélemények, úgy a tévhitek, a féligazságok, és az
@@ -83,7 +79,7 @@ list:
         Az antigén tesztek a tünetek megjelenését követő első héten a legmegbízhatóbbak, a gyorstesztek általában a második héttől kezdve mutatják ki nagy biztonsággal az ellenanyagokat. Éppen ezért, ha a fertőzöttség kockázata jelentős, érdemes a tesztet – az eltelt idő és a lehetőségek függvényében – még negatív eredmény esetén is megismételni, illetve a másik gyorsteszttel vagy PCR teszttel leellenőrizni. Sosem szabad azonban elfelejteni, hogy az észszerű óvintézkedéseket negatív teszteredmény esetében is mindenképpen be kell tartani, illetve, ha a tünetek azt indokolttá teszik, az elsődleges feladat a beteg megfelelő orvosi ellátásban való részesítése.
 
 
-        * **A tesztet csak akkor érdemes elvégeztetni, ha valaki lázas, illetve influenzaszerű tünetei vannak.**
+        * **A tesztet csak akkor érdemes elvégeztetni, ha valaki lázas, illetve más COVID-19 fertőzésre utaló tünetei vannak.**
 
 
         Nem így van. A részletes ajánlásokat az antigén gyorsteszt, illetve az ellenanyag gyorsteszt megfelelő szakaszai tartalmazzák.
@@ -122,7 +118,7 @@ list:
         Azonban mindenképpen tudni kell, hogy hivatalosan forgalomba csakis olyan termékek kerülhetnek, amelyek megfelelő tanúsítványokkal rendelkeznek, és amelyek hatásosságát klinikai adatok is alátámasztják – gyártási helytől függetlenül.
 
 
-        A cégünk által importált szerológiai és antigén gyorsteszt is rendelkezik EU megfelelőségi nyilatkozattal, regisztrált az Európai Unió-ban (regisztrációs száma: DE/CA05/IvD-238321-1330-00, illetve DE/CA05/IvD-238321-1547-00), valamint azt az OGYÉI is nyilvántartásba vette (Nyilvántartási szám: HU/CA01/17106/20, illetve HU/CA01/55505/20).
+        A cégünk által importált szerológiai és antigén gyorsteszt is rendelkezik EU megfelelőségi nyilatkozattal, regisztrált az Európai Unió-ban, azokat az OGYÉI is nyilvántartásba vette.
       anchor: tevhitek
   - object:
       question: A PCR tesztek tényleg jobbak, mint a gyorstesztek?
@@ -133,7 +129,7 @@ list:
         mennyiségű ellenanyag.
 
 
-        Abból a szempontból, hogy a PCR teszt érzékenyebb, mint a legtöbb antigén teszt, valóban jobb, mint az utóbbi.
+        Abból a szempontból, hogy a PCR teszt némiképp érzékenyebb, mint az antigén teszt, valóban jobb, mint az utóbbi.
 
 
         Ugyanakkor, több oka is van, ami miatt a PCR tesztek nem képesek kiváltani a gyorsteszteket.
@@ -141,9 +137,9 @@ list:
 
         * A PCR tesztek elvégzéséhez több millió forint értékű berendezés szükséges. Maga a teszt, illetve a további hozzávalók (például a vírus örökítőanyagának izolációját lehetővé tevő termék) is nagyon költségesek.
 
-        * Részint ezen anyagi okok miatt, részint a vizsgálathoz szükséges további eszközök és engedélyek miatt kevesebb intézmény alkalmas a PCR tesztek elvégzésére.
+        * Részint ezen anyagi okok miatt, részint a vizsgálathoz szükséges további eszközök és engedélyek miatt kevés intézmény alkalmas a PCR tesztek elvégzésére.
 
-        * A gyorstesztekhez képest adott idő alatt lényegesen kevesebb PCR tesztet lehet elvégezni. Az ellenanyag teszt elvégzéséhez szükséges előkészületek pár percig tartanak, az eredmény 15 perc múlva megkapható. Az antigén teszt elvégzéséhez – mintavétellel együtt – is legfeljebb 30 perc szükséges. A PCR teszt esetében azonban mind az előkészületek, mind maga a reakció hosszú időt igényelnek, még ha nem számoljuk a várakozási időt is órákról van szó.
+        * A gyorstesztekhez képest adott idő alatt lényegesen kevesebb PCR tesztet lehet elvégezni. A szerológiai teszt elvégzéséhez szükséges előkészületek pár percig tartanak, az eredmény 15 perc múlva megkapható. Az antigén teszt elvégzéséhez – mintavétellel együtt – is legfeljebb 30 perc szükséges. A PCR teszt esetében azonban mind az előkészületek, mind maga a reakció hosszú időt igényelnek, még ha nem számoljuk a várakozási időt, akkor is órákról van szó. 
 
         * Szakképzett személyzet számára az antitest teszt elvégzése nem okoz különösebb nehézséget. Az antigén teszt némiképp bonyolultabb (különösen a mintavétel igényel nagy figyelmet), ám, akárcsak az ellenanyag teszt, ez is bárhol elvégezhető. A PCR reakció előkészítése és lefolytatása azonban olyan speciális szakértelmet kíván, amellyel kevés egészségügyi dolgozó rendelkezik – a műveletek során pedig rengeteg a hibalehetőség. Helyszíni elvégzése nem lehetséges: vagy a páciensnek kell a megfelelő eszközökkel rendelkező helyszínre utaznia, vagy a szakszemélyzetnek kell a pácienshez kiszállnia. A mintavételezés – az antigén teszthez hasonlóan – nagy figyelmet kíván, és könnyedén előfordulhat, hogy egyetlen olyan sejt sem kerül a mintába, melyből a vírus kimutatható – ezért a PCR teszt esetében is születnek téves negatív eredmények.
 
@@ -174,10 +170,13 @@ list:
         A John Hopkins Egyetem kutatói úgy vélik, „mivel az antitestek a betegség lefolyása során később jelennek meg, ha már sok idő telt el a megfertőződés óta, a páciensek számára a leghasznosabb eljárás az ellenanyag- és az RT-PCR teszt együttes elvégzése lehet.”
 
 
-        A két tesztelési módszer úgy tűnik, kiegészíti egymást: a betegség korai fázisában az RT-PCR teszt megbízhatóbb, nagyjából 2 héttel a tünetek megjelenése után mindkét tesztet érdemes elvégezni, a késői szakaszban, illetve a fertőzés lefolyását követően pedig a gyorsteszteké lehet a főszerep. Ám, amennyiben lehetséges, mindaddig, amíg fennállnak a tünetek, **érdemes mindkét tesztet alkalmazni**, hogy a betegséget a lehető legnagyobb biztonsággal azonosítani lehessen. Ha a betegség korai fázisában, vagy annak gyanúja esetén elengedhetetlen, hogy gyorsan meg lehessen tudni a teszt eredményét, a PCR teszt kiváltható antigén teszttel; és akkor is ez a helyzet, ha olyan mennyiségű tesztet kell elvégezni, ami túl nagy anyagi terhet jelentene – vagy, ami meghaladná a rendelkezésre álló PCR tesztelési kapacitást.
+        A két tesztelési módszer úgy tűnik, kiegészíti egymást: a betegség korai fázisában az RT-PCR teszt megbízhatóbb, nagyjából 2 héttel a tünetek megjelenése után mindkét tesztet érdemes elvégezni, a késői szakaszban, illetve a fertőzés lefolyását követően pedig a szerológiai teszteké lehet a főszerep. Ám, amennyiben lehetséges, mindaddig, amíg fennállnak a tünetek, **érdemes mindkét tesztet alkalmazni**, hogy a betegséget a lehető legnagyobb biztonsággal azonosítani lehessen. Ha a betegség korai fázisában, vagy annak gyanúja esetén elengedhetetlen, hogy gyorsan meg lehessen tudni a teszt eredményét, a PCR teszt kiváltható antigén teszttel; és akkor is ez a helyzet, ha olyan mennyiségű tesztet kell elvégezni, ami túl nagy anyagi terhet jelentene – vagy, ami meghaladná a rendelkezésre álló PCR tesztelési kapacitást.
+
+
+        Végezetül megemlítendő, hogy anyagi megfontolásokból **egyre több országban alkalmaznak gyorsteszteket, ha nagy mennyiségű ember szűréséről van szó**.
       anchor: melyik-jobb
   - object:
-      question: Hogyan lehet összevetni a szerológiai tesztek és a PCR-tesztek
+      question: Hogyan lehet összevetni a szerológiai tesztek és a PCR tesztek
         eredményeit?
       answer: >-
         A lehetséges eredményeket és azok interpretációját a következő táblázat
@@ -415,7 +414,10 @@ list:
         Első ránézésre lesújtónak tűnik, hogy ebben az esetben 84,48% annak az esélye, hogy a teszt tévesen jelzett fertőzöttséget. **A jelenség hátterében azonban nem a tesztek használhatatlansága, hanem a statisztika áll. Alacsony átfertőzöttség esetén kevéssé érvényesül a teszt *szenzitivitása* és *specificitása***, mivel a mindössze 10%-nyi „specificitási hibához” hatalmas mennyiségű adat tartozik (a rengeteg nem fertőzött ember), míg a 90%-nyi szenzitivitáshoz nagyon kevés (a néhány fertőzött).
 
 
-        A részletes levezetés ismertetése nélkül érdemes megemlíteni a következőket is:
+        A pandémia elején ezek a szerológiai tesztekkel kapcsolatos aggályok valóban jogosnak tűntek. Sajnos azonban a COVID-19 járvány már a 2020. őszi második hullám idején olyan méreteket öltött, hogy hatalmas hiba volna 2%-nak tekinteni az átfertőzöttséget.
+
+
+        Ennek tükrében – a részletes levezetést immáron mellőzve – érdemes megszemlélni a következő adatokat is: 
 
 
         * Ha a teszt specificitás és szenzitivitás értékét 95%-ra emeljük, változatlan átfertőzöttség mellett a pozitív prediktív érték továbbra is csupán 27,94%, a negatív prediktív érték pedig 99,89%.
@@ -427,10 +429,10 @@ list:
         * Ha viszont 10%-os átfertőzöttséggel számolunk 90–90%-os specificitás és szenzitivitás mellett, a pozitív prediktív érték 50,00%, míg a negatív prediktív érték 98,78% – 95–95%-os specificitás és szenzitivitás esetén pedig 67,86%, illetve 99,42%.
 
 
-        Mindebből kitűnik, hogy a pozitív prediktív értékre az átfertőzöttség legalább olyan nagy hatást gyakorol, mint a kérdéses teszt specificitás és szenzitivitás adatai, míg a negatív prediktív érték (feltéve, hogy alacsony átfertőzöttséggel számolunk) alig mutat változást. (Közel ugyanannyit változott a pozitív prediktív érték azzal, hogy az átfertőzöttséget 2%-ról 4%-ra emeltük, mint azzal, hogy a teszt szenzitivitását és specificitását emeltük 90%-ról 95%-re!)
+        Mindebből kitűnik, hogy a pozitív prediktív értékre **az átfertőzöttség legalább olyan nagy hatást gyakorol, mint a kérdéses teszt specificitás és szenzitivitás adatai**. 
 
 
-        Könnyű belátni, hogy az imént bemutatott levezetés teljesen független a COVID-19-től; **bármilyen szerológiai gyorstesztnél** **ugyanúgy tapasztalható a prediktív értékeket „sújtó” jelenség.** (Matematikailag ez minden tesztről elmondható – a PCR teszt és az antigén teszt esetében viszont a pozitív eredmény az esetek túlnyomó többségében tényleg fertőzöttségre utal, ezért a gyakorlatban, különösen ha figyelembe vesszük az alább részletezett okfejtést is, ezek pozitív prediktív értéke lényegesen jobb lesz.)
+        Azt is könnyű belátni, hogy az imént bemutatott levezetés teljesen független a COVID-19-től; **bármilyen szerológiai gyorstesztnél** **ugyanúgy tapasztalható a prediktív értékeket „sújtó” jelenség.** (Matematikailag ez minden tesztről elmondható – a PCR teszt és az antigén teszt esetében viszont a pozitív eredmény az esetek túlnyomó többségében tényleg fertőzöttségre utal, ezért a gyakorlatban, különösen ha figyelembe vesszük az alább részletezett okfejtést is, ezek pozitív prediktív értéke lényegesen jobb lesz.)
 
 
         **Mindez azonban nem azt jelenti, hogy a gyorstesztek használhatatlanok!**
@@ -443,9 +445,12 @@ list:
 
         2. **A gyorsteszttel végzett előszűrés még alacsony pozitív prediktív érték mellett is jelentősen leszűkíti azok halmazát, akiknél további vizsgátok szükségesek.** Mivel az eljárás gyors és olcsó, könnyedén el lehet végezni nagy mennyiségű embernél is, ezért csak azok szorulnak további vizsgálatokra, akiknél **fennáll az érintettség gyanúja**. Így lényegesen kevesebb esetben kell elvégezni például az egyébként megbízhatóbb PCR-tesztet, amely lassabb, drágább, és az eszközigénye is nagyobb. Azt sem szabad elfelejteni, hogy fertőzésgyanús embereknél a diagnózis legbiztosabb eszköze az orvosi kivizsgálás, illetve a páciens előtörténetének felderítése. Akiről tudni, hogy az elmúlt időszakban járt fertőzött ember közelében, és jelentkeznek nála a COVID-19 tipikus tünetei, sokkal valószínűbb, hogy maga is fertőzött, mint egy olyan személy, akinek „csak” a pozitív tesztje utal az érintettségre. Nyilván a leghatékonyabb az lenne, ha minden embert ki lehetne vizsgálni… ám, az egészségügyi kapacitások erre nem elegendőek – sem Magyarországon, sem másutt.
 
-        3. **Egy járványos megbetegedés esetében az átfertőzöttség pusztán elméleti adat.** Maradva a 2%-os átfertőzöttség adatnál, ha véletlenszerűen kiválasztunk 100 embert, azok között valóban átlagosan 2 lesz fertőzött. Ám ha arra vagyunk kíváncsiak, hogy **egy 100 fős intézményben** (például egy idősotthonban) **mennyi a fertőzöttek aránya, már nem igaz, hogy véletlenszerűen választottuk ki a 100 embert!** Ha már megjelent a vírus a kérdéses intézményben, valószínűleg nem 2 ember lesz érintett, hanem jóval több, ha nem, a hely átfertőzöttsége pontosan 0%.  Ha az intézmény 100 személyén gyorsteszt vizsgálatot végzünk, a **pozitív eredmények száma akkor is jó eséllyel felfedi a vírus jelenlétét vagy hiányát**, ha az eredmények között hamis pozitívok és hamis negatívok is vannak. Amennyiben a gyorstesztek 25%-a pozitív, mindenképp érdemes a többi embert is megfigyelés alatt tartani, illetve az érintettséget más módszerekkel is igazolni. Ha viszont mindössze 1–2 ember eredménye lett pozitív, elképzelhető, hogy hamis eredményekről van szó; különösen akkor, ha sem a teszt elvégzésekor, sem azt követően nem jelentkeznek senkinél a betegség tünetei.
+        3. **Egy járványos megbetegedés esetében az átfertőzöttség pusztán elméleti adat.** Egy adott közösség – például egy 100 fős intézmény – módszeres tesztelésekor már nem fog érvényesülni globális átfertőzöttség mértéke, hiszen **nem egymástól független** mintákról van szó. (Másképp megfogalmazva: a vírus vagy megjelent már az adott közösségben, vagy nem – függetlenül attól, hogy általánosságban véve mennyi a fertőzöttek aránya.)
 
+           **Sok oldal szerint csak reklámfogás, hogy a szerológiai teszt kimutatja a védőoltás által szerzett védettséget, hiszen e teszteket nem erre találták ki!**
 
-        Végezetül, megemlítendő, hogy **100%-ban megbízható teszt nem létezik**. Lehetetlen azonosítani az összes fertőzött embert, mint ahogy kizárólag a fertőzöttek kiszűrése sem lehetséges. A kockázatokat azonban mindenképp érdemes elfogadható szintre csökkenteni, és a gyorsteszttel végzett szűrés pontosan ezt a célt szolgálja.
+           E teszteket valóban nem erre találták ki, és nem is mindegyik szerológiai teszt jelzi a vakcina hatására termelődő ellenanyagot.
+
+           Sok szakértő azonban pusztán azért vonja kétségbe, hogy e tesztek alkalmasak volnának a védőoltás utáni használatra, mert erre vonatkozóan még nem publikáltak elég adatot, hogy e kijelentést igazoltnak lehessen tekinteni. A tapasztalatok azonban azt mutatják, a vakcina révén szerzett védettség kimutatása a szerológiai gyorstesztek (pontosabban, azok egyes fajtáinak) egyik lehetséges alkalmazhatósága. Bővebben minderről [ezen az oldalon](/oltas) lehet olvasni.
       anchor: megbizhatosag
 ---

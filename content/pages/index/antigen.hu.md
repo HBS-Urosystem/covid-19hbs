@@ -23,36 +23,38 @@ intro:
       text: Clungene® COVID-19 antigén gyorsteszt
 articles:
   - text: >-
-      * Lényegesen olcsóbb, mint a PCR teszt
+      * Lényegesen olcsóbb, mint a PCR teszt.
 
-      * Bárhol el lehet végezni, akár egy vállalat vagy intézmény megfelelő helyiségében is
+      * Bárhol el lehet végezni, akár egy vállalat vagy intézmény megfelelő helyiségében is.
 
-      * Az elvégzéséhez nincs szükség semmilyen berendezésre, sem további fogyóeszközökre
+      * Az elvégzéséhez nincs szükség semmilyen berendezésre, sem további fogyóeszközökre.
 
-      * Nincs várólista: a tesztet üzemorvos vagy más egészségügyi dolgozó azonnal elvégezheti
+      * A tesztet üzemorvos, vagy más egészségügyi dolgozó azonnal elvégezheti.
 
-      * Az eredmény már 15–30 perc után leolvasható
+      * Az eredmény már 15–30 perc után leolvasható.
 
 
       Bár némiképp kevésbé érzékenyek, mint a PCR tesztek (azok a tünetek megjelenését követően hosszabb ideig mutatják ki a vírust), különösen alkalmasak arra, hogy **a szerológiai gyorstesztekkel kombinálva** használják őket. Ugyanis pontosan **abban az időintervallumban jelzik a fertőzöttséget, amikor az ellenanyag tesztek még nem mutatják azt ki**.
     title: Mik az antigén-gyorsteszt legfontosabb előnyei?
   - text: >-
-      Amennyiben egy intézményben rendszeresen szűrik a dolgozókat ellenanyag
-      teszttel, az antigén-teszt jelentheti a szűrés következő szintjét<!--
-      olyan esetekben, amikor a PCR teszt – idő, lehetőség, vagy anyagi forrás
-      hiányában – nem elérhető-->.
+      Általánosságban véve, az aktuálisan fennálló fertőzöttség kimutatására az
+      antigén teszt elvégzése a legjobb módszer, ha kiemelt fontosságú, hogy
+      **az eredmény a lehető leghamarabb ismert legyen**. Ilyen eset, ha egy
+      munkatárs üzleti út előtt áll, illetve, egészségügyi intézményekben, ha a
+      páciensen végrehajtandó beavatkozás nem halasztható, viszont a PCR teszt
+      elvégzésére és kiértékelésére nincs elég idő.
 
 
-      Ha valamely dolgozó ellenanyag tesztje pozitív, **antigén-tesztel meg lehet erősíteni, aktív fertőzésről van-e szó**. Ez a teszt arra is alkalmas, hogy azon munkatársakat megvizsgálják vele, akik **közvetlen kapcsolatban álltak a fertőzöttel**, és fennáll a veszélye, hogy már elkapták a vírust, ám a fertőzés annyira korai szakaszában járnak, hogy azt az ellenanyag teszt még nem mutatja ki.
+      Szintén az antigén gyorsteszt a legjobb választás, ha **sok ember gyors és költséghatékony tesztelésére van szükség**.
 
 
-      Emellett, azon személyeknél is érdemes az antigén-tesztet elvégezni, **akik ellenanyag tesztje ugyan negatív lett, ám a COVID-19 fertőzés** (enyhe) **tüneteit mutatják**, vagy akikről tudni, hogy a közelmúltban **igazolt COVID-19 fertőzöttel érintkeztek**.
+      Ha egy intézményben szerológiai teszttel szűrik rendszeresen a dolgozókat, a tesztelést érdemes antigén gyorstesztekkel is kiegészíteni. A pozitív szerológiai tesztet követő antigén teszt **megerősítheti az aktív fertőzés gyanúját**.
 
 
-      Végezetül, az aktuálisan fennálló fertőzöttség kimutatására **az antigén-teszt elvégzése a legjobb módszer**, hiszen **kiemelt fontosságú, hogy az eredmény a lehető leghamarabb ismert legyen**. Ilyen eset, ha egy munkatárs üzleti út előtt áll, illetve, egészségügyi intézményekben, ha **a páciensen végrehajtandó beavatkozás nem halasztható**, viszont a PCR teszt elvégzésére és kiértékelésére **nincs elég idő**.
+      Azon személyeknél is ajánlott az antigén-tesztet elvégezni (akár negatív szerológiai tesztet követően is) akik **a COVID-19 fertőzés** (enyhe) **tüneteit mutatják**, vagy akikről tudni, hogy a közelmúltban **igazolt COVID-19 fertőzöttel érintkeztek**.
 
 
-      **Nem ajánlott az antigén-gyorsteszt használata**, ha a tünetek már régóta fennállnak – ilyenkor a teszt már kevésbé megbízható –, és régebben lezajlott COVID-19 fertőzést sem lehet igazolni vele. Ilyen esetekben a szerológiai gyorsteszt alkalmazása javasolt.
+      Nem ajánlott az antigén-gyorsteszt használata, ha a tünetek már régóta fennállnak – ilyenkor a teszt már kevésbé megbízható –, és régebben lezajlott COVID-19 fertőzést sem lehet igazolni vele. Ilyen esetekben a szerológiai gyorsteszt alkalmazása javasolt.
     title: Kik számára ajánlott az antigén-gyorsteszt elvégzése?
   - text: >-
       A teszt elvégzéséhez – a PCR módszerhez hasonlóan – a vizsgált személy
@@ -112,13 +114,13 @@ articles:
 
       <th>
 
-      <img style="height:128px;width:auto" alt="Ag-test: positive" src="/uploads/ag-image1.jpg" />
+      <img style="height:128px;width:auto" alt="Ag-test: positive" src="/uploads/ag-image2.jpg" />
 
       </th>
 
       <th>
 
-      <img style="height:128px;width:auto" alt="Ag-test: invalid" src="/uploads/ag-image1.jpg" />
+      <img style="height:128px;width:auto" alt="Ag-test: invalid" src="/uploads/ag-image3.jpg" />
 
       </th>
 
@@ -215,7 +217,7 @@ articles:
       módszerrel, például molekuláris teszt elvégzésével meg kell erősíteni.
 
 
-      A tesztet kizárólag orvosi szakdolgozók használhatják! Otthoni használatra, valamint önellenőrzési célra történő értékesítése tilos! <a href="/otthoni-hasznalat" rel="prefetch">A vonatkozó jogi háttérről itt tájékozódhat.</a>
+      A tesztet kizárólag orvosi szakdolgozók használhatják! Otthoni használatra, valamint önellenőrzési célra történő értékesítése tilos!
     title: Figyelmeztetés
 documents:
   text: >-
@@ -228,7 +230,7 @@ documents:
     DIMDI regisztrációs száma: DE/CA05/IvD-238321-1547-00
 
 
-    OGYÉI nyilvántartási száma: HU/CA01/20308/21
+    OGYÉI nyilvántartási száma: HU/CA01/39527/21
   links:
     - text: A termék használatát ismertető brosúra
       file: /uploads/antigen_gyorsteszt_brosura_v2.pdf

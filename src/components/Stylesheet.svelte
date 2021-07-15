@@ -312,6 +312,17 @@
     margin-top: 0;
 	}
 
+	dl {
+		text-align: start;
+	}
+	dt {
+		font-weight: bolder;
+	}
+	dd {
+		/*font-size: 80%;*/
+		margin: 1rem 0;
+	}
+
 	details[open] {
 		padding-bottom: var(--gutterx);
 	}

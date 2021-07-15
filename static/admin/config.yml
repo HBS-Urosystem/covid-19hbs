@@ -384,6 +384,7 @@ collections:
     - label: Subtitle
       name: subtitle
       widget: string
+      required: false
       i18n: true
     - label: URL alias (slug)
       name: slug
@@ -394,10 +395,19 @@ collections:
       name: date
       widget: datetime
       i18n: duplicate
+    - label: Active
+      name: active
+      widget: boolean
+      required: false
+      i18n: duplicate
     - label: Body
       name: body
       widget: markdown
       i18n: true
+    - label: Link to Page
+      name: link
+      required: false
+      widget: string
 
   - name: ctas
     label: CTAs
@@ -457,6 +467,12 @@ collections:
       - label: Heading
         name: heading
         widget: string
+        required: false
+        i18n: true
+      - label: Intro text
+        name: text
+        widget: markdown
+        required: false
         i18n: true
       - label: Name
         name: name

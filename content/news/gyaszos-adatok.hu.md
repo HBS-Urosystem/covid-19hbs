@@ -1,12 +1,13 @@
 ---
 type: news
-menutitle: Gyászos adatok
 title: Gyászosan alakultak az elmúlt hét (Október 5–11.) magyarországi adatai
+menutitle: Gyászos adatok
 subtitle: "A regisztrált új esetek száma a hét első felében még 800–1000 fő
   között mozgott, később azonban átlépte az 1000-es határt, 10-én pedig, 1374
   esettel új rekordot döntött. "
 slug: "{{menutitle}}"
 date: 2020-10-11T17:26:13.115Z
+link: ""
 ---
 Nem kevésbé aggasztó, hogy ez alatt a kórházban kezelt COVID-19 betegek száma is megduplázódott, 12-ére elérve az 1400 főt, a lélegeztető gépen lévők száma pedig ugyanerre a napra 40 főről 154-re emelkedett. Hétfő reggel az azonosított aktív fertőzöttek száma a 27000 embert közelítette. Az új koronavírus hazánkban eddig 968 életet követelt. (*<http://pandemia.hu/koronavirus-magyarorszag/>*)
 

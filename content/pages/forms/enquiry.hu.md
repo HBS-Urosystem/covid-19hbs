@@ -1,8 +1,52 @@
 ---
 type: enquiry
 slug: ajanlatkeres
-title: MEGRENDELÉS
-heading: Segítse Ön is a COVID-19 elleni védekezést!
+title: Vásárlás
+heading: Árak
+text: >-
+  **Clungene COVID-19 IgG/IgM ellenanyag gyorsteszt** (1 doboz 25 tesztet
+  tartalmaz)
+
+
+  * egy vagy több karton vásárlása esetén (1 karton = 50 doboz = 1250 db): **1110 Ft** + 5% ÁFA / teszt;
+
+  * 225–1225 darab (9–49 doboz) között: **1210 Ft** + 5% ÁFA / teszt;
+
+
+  **Clungene COVID-19 Antigén gyorsteszt** (1 doboz 25 tesztet tartalmaz)
+
+
+  * egy vagy több karton vásárlása esetén (1 karton = 50 doboz = 1250 db): **1325 Ft** + 5% ÁFA / teszt;
+
+  * 225–1225 darab (9–49 doboz) között: **1425 Ft** + 5% ÁFA / teszt;   
+
+
+  A szállítás **ingyenes**.
+
+
+  A 25–200 db (1–8 doboz) közötti megrendeléseket hivatalos partnerünk, a **[medexim.hu](https://medexim.hu/)** webshop szolgálja ki. Hivatalos partnerünk árai:
+
+
+  * 1 doboz Clungene COVID-19 IgG/IgM ellenanyag gyorsteszt (25 db teszthez 1 pufferoldat) teszt: bruttó 37 900 Ft; 
+
+  * 1 doboz Clungene COVID-19 IgG/IgM ellenanyag gyorsteszt (25 db teszthez 25 pufferoldat) teszt: bruttó 38 900 Ft;
+
+  * 1 doboz Clungene COVID-19 Antigén gyorsteszt: (25 db teszt) teszt: bruttó 39 900 Ft;
+
+
+  A **medexim.hu** webáruházban már elérhető az új egyedi kiszerelésű Clungene antigén gyorsteszt:
+
+
+  * Clungene COVID-19 Antigén gyorsteszt 5x1 db: bruttó 13 450 Ft;
+
+  * Clungene COVID-19 Antigén gyorsteszt 3x1 db: bruttó 8 070 Ft; 
+
+
+  <div>
+
+  <button><a href="https://medexim.hu/" rel="external noopener" target="_blank">Vásárlás a <u>medexim.hu</u> oldalon</a></button>
+
+  </div>
 name: Kapcsolattartó neve
 company: Cég neve
 email: Email cím
@@ -38,9 +82,13 @@ ig_items:
 ---
 **Kérdés esetén forduljon bizalommal termékmenedzserünkhöz:**
 
-#### **Bognárné** Keller Csilla
+#### Bognárné Keller Csilla
 
 Termékmenedzser
 
 E-mail: <a href="mailto:csilla.keller@hbs.hu" onclick="gtag_report_conversion('mailto:csilla.keller@hbs.hu')">csilla.keller@hbs.hu</a>
 Telefon: [+36 20 778 4899](tel:+36207784899)
+
+<br>
+
+**A COVID-19 gyorstesztek tájékoztató jellegű információval szolgálnak** az esetleges fertőzöttségről. A teszt elvégzését szakorvos, üzemorvos, vagy ilyen szolgáltatást nyújtó szolgáltató (üzemegészségügyi szolgálat) szakemberei végezhetik. Időtartama kb. 15–30 perc.

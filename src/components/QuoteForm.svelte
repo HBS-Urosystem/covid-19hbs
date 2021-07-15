@@ -50,14 +50,11 @@ function gtag_report_conversion(url) {
 {/if}
 -->
 <article>
-	<center>
-	{@html post.html}
-	</center>
+	<h2><center>{post.heading}</center></h2>
+	{@html _md(post.text)}
 </article>
 
 <article>
-
-	<h2>{post.heading}</h2>
 
 	<form name="quoteform" method="POST" action="/thankyou#content">
 		<!-- <fieldset> -->
@@ -149,6 +146,13 @@ function gtag_report_conversion(url) {
 		</div>
 	</aside>
 </article>
+
+<article>
+	<center>
+	{@html post.html}
+	</center>
+</article>
+
 <style>
 	aside.temp {
 		background-color: var(--dark75);

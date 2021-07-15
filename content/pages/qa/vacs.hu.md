@@ -5,8 +5,8 @@ title: A tesztelésről a COVID-19 védőoltások tükrében
 keywords: COVID-19 szerológiai és antigén-gyorsteszt, covid teszt, covid-19,
   clungene, sars-cov-2, igg/igm, antigén, szerológiai, gyorsteszt, oltás,
   védőoltás, vakcina, védett, védettség, oltottak tesztelése
-description: Szerencsére egyre több ember kapja meg a COVID-19 vakcinát, amely
-  hosszabb időre védettséget nyújt a vírus ellen. Ezért érdemes néhány a
+description: Szerencsére egyre több ember kapja meg a COVID-19 vakcinát, ami
+  hosszú időre védettséget nyújt a vírus ellen. Ezért érdemes néhány a
   védőoltásokkal kapcsolatos, a tesztelést érintő kérdést röviden tisztázni.
 menutitle: A védőoltásról
 intro:
@@ -39,14 +39,15 @@ list:
   - object:
       question: Érdemes tesztet végeztetni a vakcina beadatása előtt? Ha igen, milyent?
       answer: >-
-        Akkor is megfontolandó a védőoltás előtt az antigén vagy PCR teszt
-        elvégeztetése, ha valakinek nincsenek tünetei, e tesztek ilyenkor is
-        kimutatják a vírus jelenlétét. Az antigén teszt a fertőzés korai
-        szakaszában megbízható, 15–30 perc alatt bárhol elvégezhető. A PCR
-        hosszabb ideig megbízható, ám drágább és több időt igényel.
+        Amennyiben az oltás beadatása előtt fellépnek a betegség jellemző
+        tünetei, okvetlenül érdemes antigén vagy PCR tesztet végeztetni; pozitív
+        eredmény esetén a vakcinációt el kell halasztani. Ha a tünetek már 2
+        hete, vagy régebben jelentkeztek, szerológiai tesztet célszerű használni
+        – annak pozitivitása esetében pedig PCR teszttel lehet leellenőrizni,
+        fennáll-e még a fertőzőképesség.
 
 
-        Amennyiben az oltás beadatása előtt fellépnek a betegség jellemző tünetei, okvetlenül érdemes antigén vagy PCR tesztet végeztetni; pozitív eredmény esetén a vakcinációt el kell halasztani. Ha a tünetek már 2 hete, vagy régebben jelentkeztek, szerológiai tesztet célszerű használni – annak pozitivitása esetében pedig PCR teszttel lehet leellenőrizni, fennáll-e még a fertőzőképesség.
+        Tájékoztató céllal akkor is érdemes e két teszt valamelyikének az elvégeztetése, ha valaki ugyan tünetmentes, viszont fennáll a kockázata, hogy a közelmúltban megfertőződött.
       anchor: teszteles
   - object:
       question: Kimutatják a tesztek a védőoltás által szerzett immunitást is?
@@ -54,7 +55,7 @@ list:
         Az antigén és PCR tesztek nem, mivel azok magát a vírust detektálják. 
 
 
-        A szerológiai tesztek közül sem mindegyik, mivel azok némelyike nem azon antigén (ún. spike protein, vagyis tüskefehérje) ellen termelődő antitestet mutatja ki, melyre a védőoltások „épülnek”. Vannak azonban olyan termékek is – A Clungene® szerológiai gyorsteszt is ilyen –, amelyek elvileg alkalmasak a vakcina nyújtotta védelem kimutatására is. 
+        A szerológiai tesztek közül sem mindegyik, mivel azok némelyike nem azon antigén (ún. spike protein, vagyis tüskefehérje) ellen termelődő antitestet mutatja ki, melyre a védőoltások „épülnek”. Vannak azonban olyan termékek is – A Clungene® szerológiai gyorsteszt is ilyen –, amelyek alkalmasak a vakcina nyújtotta védelem kimutatására is. 
 
 
         Meg kell azonban jegyezni, hogy a szerológiai teszteket eredetileg nem a védőoltások okozta hatás, hanem a SARS-CoV-2 vírus ellen termelt antitestek kimutatására fejlesztették ki. Hogy pontosan melyik teszt melyik vakcina hatását milyen eséllyel mutatja ki, arról egyelőre nem állnak rendelkezésre bizonyító erejű adatok; az ehhez szükséges klinikai vizsgálatok lefolytatására még nem került sor. Ebből következően írják sok helyen, hogy e tesztek nem alkalmasak a védőoltás hatásosságának igazolására.

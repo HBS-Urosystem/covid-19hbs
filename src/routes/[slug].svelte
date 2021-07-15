@@ -149,7 +149,7 @@
 	{/if}
 {:else}
 	{#if post.subtitle}
-<h2>{post.subtitle}</h2>
+	<h2>{post.subtitle}</h2>
 	{/if}
 {/if}
 
