@@ -308,7 +308,7 @@
 	header#home {
 		background-repeat: no-repeat;
 		background-size: cover;
-    background-position: 50% 70%;
+    background-position: 50% 40%;
   }
   header#home h1 {
 		border-bottom-color: var(--light);
