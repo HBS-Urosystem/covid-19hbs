@@ -42,7 +42,7 @@ references:
     - url: https://robertkorhaz.hu/leiras/koronavirus-gyorstesz
       text: Róbert Magánkórház
   text: >-
-    ## Főbb referenciáink
+    ### Főbb referenciáink
 
 
     Számos intézmény és vállalat alkalmazza az általunk forgalmazott Clungene® COVID-19 Gyorsteszt Kazettákat. Ezek közül közöljük – a teljesség igénye nélkül – néhány internetes elérhetőségét.
