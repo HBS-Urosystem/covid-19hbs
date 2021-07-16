@@ -46,8 +46,9 @@
 		padding-right: var(--gutterx);
 	}
 
-	div:target+details, details:focus, details:focus-within {
-    background-color: var(--toolbg);
+	div:target+details, details:hover, details:focus, details:focus-within {
+    /*background-color: var(--toolbg);*/
+		background-color: var(--dark);
 	}
 	summary {
 		padding: var(--gutterx) 0;
