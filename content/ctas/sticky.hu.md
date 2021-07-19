@@ -1,6 +1,6 @@
 ---
 title: sticky
-button: /&thinsp;tesztelj&thinsp;
-svg: FBicon
-link: https://www.facebook.com/tesztelj
+button: "&thinsp;Vásárlás&thinsp;"
+svg: null
+link: /vasarlas
 ---

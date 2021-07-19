@@ -1,15 +1,16 @@
 import _ from 'lodash'
-import all from '../content/ctas/*.hu.md'
+import all from '../content/collections/*.hu.md'
 
-export const ctas = _.chain(all)
+export const collections = _.chain(all)
 	.map(transform)
 	//.orderBy('date', 'desc')
 	.value()
 
-export function findCTA(title) {
-	let temp = _.merge(...ctas)
+const merged = _.merge(...collections)
+
+export function findCollection(title) {
 	//console.log('_cta:', temp[type])
-	return temp[title]
+	return merged[title]
 }
 
 function transform({ filename, metadata, html }) {

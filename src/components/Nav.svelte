@@ -2,6 +2,7 @@
 	import { type, lang, hero, tagline } from '../stores.js'
 	import { fade } from 'svelte/transition'
 	import { mergePages } from '../content.js'
+	//import { findCollection } from '../collections.js'
 	export const pages = mergePages()
 	import * as svgs from "./SVGs.svelte"
 	import { findCTA } from '../cta.js'
@@ -10,8 +11,9 @@
 <script>
 	/* export let svgs = { FBicon, Link } */
 	export let segment
-	export let cta = findCTA('sticky')
-	//export const pages = mergePages()
+	export let sticky = findCTA('sticky')
+	//export let news = findCollection('news')
+	//console.log(news)
 </script>
 
 <svelte:head>
@@ -51,13 +53,19 @@
 			</li>
 			{/if}
 
-			{#if pages.vacs[$lang]}
+			<li>
+				<a rel="prefetch" aria-current="{$type == 'news' ? 'page' : undefined}" href="{pages.news[$lang].slug}">
+					<span>{pages.news[$lang].menutitle}</span>
+				</a>
+			</li>
+
+			<!--{#if pages.vacs[$lang]}
 			<li>
 				<a rel="prefetch" aria-current="{$type == 'vacs' ? 'page' : undefined}" href="{pages.vacs[$lang].slug}#content">
 					<span>{pages.vacs[$lang].menutitle}</span>
 				</a>
 			</li>
-			{/if}
+			{/if}-->
 
 			<!--{#if pages.business[$lang]}
 			<li>
@@ -82,6 +90,12 @@
 				</a>
 			</li>
 			{/if}
+
+			<li>
+				<a rel="noopener" href="https://www.facebook.com/tesztelj">
+					<span>{@html svgs['FBicon']}</span>
+				</a>
+			</li>
 
 			<!-- for the news link, we're using rel=prefetch so that Sapper prefetches the blog data when we hover over the link or tap it on a touchscreen -->
 			<!-- {#if pages['news'][$lang]}
@@ -116,11 +130,11 @@
 		</ul>-->
 	</div>
 	<h5>
-		<a href="{cta[$lang].link}" target="{cta[$lang].link.startsWith('http') ? '_blank' : ''}" rel="{cta[$lang].link.startsWith('http') ? 'noopener external' : 'prefetch'}">
-			{#if cta[$lang].svg}
-			{@html svgs[cta[$lang].svg]}
+		<a href="{sticky[$lang].link}" target="{sticky[$lang].link.startsWith('http') ? '_blank' : ''}" rel="{sticky[$lang].link.startsWith('http') ? 'noopener external' : 'prefetch'}">
+			{#if sticky[$lang].svg}
+			{@html svgs[sticky[$lang].svg]}
 			{/if}
-			{@html cta[$lang].button}
+			{@html sticky[$lang].button}
 		</a>
 	</h5>
 </nav>
@@ -219,13 +233,21 @@
 	ul:first-of-type li a {
 		padding: var(--gutter);
 	}
-	ul:last-of-type li a {
+	/*ul:last-of-type li a {
 		padding: var(--gutter) var(--gutterx);
+	}*/
+	ul li:last-of-type span {
+		border-width: 2px 4px;
+    border-radius: 8px;
+    display: block;
 	}
-	ul:last-of-type li :global(svg) {
+	ul li:last-of-type :global(svg) {
+		max-width: max-content;
+	}
+	/*ul:last-of-type li :global(svg) {
 		margin: var(--gutter) var(--gutterx);
 		height: 100%;
-	}
+	}*/
 	div ul:first-child li:first-child {
 		line-height: .5;
 	}
@@ -247,9 +269,9 @@
 	ul:first-child [aria-current]::after {
 		width: calc(100% - var(--gutter2));
 	}
-	ul:last-child [aria-current]::after {
+	/*ul:last-child [aria-current]::after {
 		width: calc(100% - var(--gutter));
-	}
+	}*/
 	ul:nth-child(odd) [aria-current]::after {
 		top: 0;
 	}

@@ -3,6 +3,7 @@
 	import List from "../components/List.svelte"
 	//import CTA from "../components/CTA.svelte"
 	import Index from "../components/Index.svelte"
+	import News from "../components/News.svelte"
 	import QuoteForm from "../components/QuoteForm.svelte"
 	import Distributor from "../components/Distributor.svelte"
 	import { findPost } from '../content.js'
@@ -156,6 +157,10 @@
 {/if}
 
 
+{#if post.type == 'news'}
+<News {post}/>
+{/if}
+
 {#if post.type == 'distributor'}
 <Distributor {post}/>
 {/if}
@@ -204,7 +209,7 @@
 </article>
 {/if}
 
-{#if post.list}
+{#if post.list && post.type != 'news'}
 <List {post}/>
 {/if}
 <!-- 

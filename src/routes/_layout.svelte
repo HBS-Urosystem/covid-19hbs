@@ -101,5 +101,6 @@
 		display: block;
 		color: black;
 		filter: drop-shadow(1px 1px 0 white);
+		font-weight: bolder;
 	}
 </style>

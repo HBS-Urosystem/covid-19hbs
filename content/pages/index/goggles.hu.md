@@ -3,7 +3,7 @@ type: goggles
 slug: vedoszemuveg
 title: Páramentes védőszemüveg
 menutitle: Védőszemüveg
-hero: /uploads/glasses3.png
+hero: /uploads/glasses-hero.png
 intro:
   highlight: A COVID-19 tesztekkel való vizsgálat végzéséhez ajánlott termék,
     amelyet raktárról tudunk szállítani.

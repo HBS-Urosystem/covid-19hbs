@@ -1,7 +1,7 @@
 ---
 type: enquiry
 slug: vasarlas
-title: Vásárlás
+title: Vásároljon közvetlenül az importőrtől!
 heading: Árak
 text: >-
   **Clungene COVID-19 IgG/IgM ellenanyag gyorsteszt** (1 doboz 25 tesztet

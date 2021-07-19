@@ -577,3 +577,66 @@ collections:
         widget: markdown
         required: false
         i18n: true
+
+  - name: collections
+    label: Collections
+    label_singular: Collection
+    folder: content/pages/collections
+    create: true
+    i18n: true
+    summary: "{{title}}"
+    fields:
+      - label: ID
+        name: title
+        widget: string
+        i18n: duplicate
+      - label: URL alias
+        name: slug
+        widget: string
+        i18n: true
+      - label: Meta keywords
+        name: keywords
+        widget: string
+        required: false
+        i18n: true
+      - label: Meta description
+        name: description
+        widget: string
+        required: false
+        i18n: true
+      - label: Menutitle (short)
+        name: menutitle
+        widget: string
+        i18n: true
+      - label: Hero Image
+        name: hero
+        widget: image
+        i18n: true
+        required: false
+      - label: Posts
+        label_singular: Post
+        name: list
+        i18n: true
+        create: true
+        #sortable_fields: ['question']
+        summary: "/{{link}} – {{title}}"
+        widget: list
+        fields:
+          - label: Title
+            name: title
+            widget: string
+            i18n: true
+          - label: Hightlight text
+            name: text
+            widget: markdown
+            i18n: true
+          - label: Last updated
+            name: date
+            widget: datetime
+            i18n: duplicate
+          - label: Link To
+            name: link
+            widget: string
+            required: false
+            i18n: duplicate
+
