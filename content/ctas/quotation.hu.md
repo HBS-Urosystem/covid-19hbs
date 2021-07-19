@@ -1,5 +1,5 @@
 ---
 title: quotation
 button: Vásárlás
-link: /ajanlatkeres
+link: /vasarlas
 ---

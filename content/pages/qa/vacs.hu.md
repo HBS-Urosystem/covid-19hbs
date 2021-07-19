@@ -10,7 +10,7 @@ description: Szerencsére egyre több ember kapja meg a COVID-19 vakcinát, ami
   védőoltásokkal kapcsolatos, a tesztelést érintő kérdést röviden tisztázni.
 menutitle: A védőoltásról
 intro:
-  text: Szerencsére egyre több ember kapja meg a COVID-19 vakcinát, amely hosszabb
+  text: Szerencsére egyre több ember kapja meg a COVID-19 vakcinát, ami hosszú
     időre védettséget nyújt a vírus ellen. Ezért érdemes néhány a védőoltásokkal
     kapcsolatos, a tesztelést érintő kérdést röviden tisztázni.
 list:

@@ -147,6 +147,25 @@ function gtag_report_conversion(url) {
 	</aside>
 </article>
 
+{#if post.articles}
+	{#each post.articles as article, i}
+		<!--{#if (i+1) / 4 == Math.floor((i+1) / 4)}
+		<CTA/>
+		{/if}-->
+		<article>
+			{#if article.title}
+				<h3>{article.title}</h3>
+			{/if}
+			{#if article.subtitle}
+				<h4>{article.subtitle}</h4>
+			{/if}
+			{#if article.text}
+				{@html _md(article.text)}
+			{/if}
+		</article>
+	{/each}
+{/if}
+
 <article>
 	<center>
 	{@html post.html}

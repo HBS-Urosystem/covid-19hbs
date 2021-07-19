@@ -47,18 +47,18 @@
 	<slot />
 	{#if $lang == 'hu'}
 	<footer>
-		<a name="logo" sapper-noscroll href="https://hbs.hu" rel="noopener" target="_blank">
+		<a name="logo" href="https://www.hbs.hu" target="_blank">
 			<img loading="lazy" src="uploads/hbs-logo-medical.png" alt="hbs logo">
 			<h6>HBS Medical Kft.</h6>
 		</a>
 		<small>Székhely: 1137 Budapest, Szent István park 26. fszt. 2.</small>
 		<small>Adószám: 28947882-2-41</small>
 		<small>EU TAX ID: HU28947882</small>
-		<small>Web: <a href="https://covid-19.hbs.hu" rel="noopener" target="_blank">https://covid-19.hbs.hu</a></small>
+		<small>Web: <a href="https://www.hbs.hu" target="_blank">www.hbs.hu</a></small>
 	</footer>
 	{:else}
 	<footer>
-		<a name="logo" sapper-noscroll href="https://hbs.hu" rel="noopener" target="_blank">
+		<a name="logo" href="https://www.hbs.hu" target="_blank">
 			<img loading="lazy" src="uploads/hbs-logo-medical.png" alt="hbs logo">
 			<h6>HBS Medical Ltd.</h6>
 		</a>

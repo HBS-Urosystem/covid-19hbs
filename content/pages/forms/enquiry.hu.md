@@ -1,6 +1,6 @@
 ---
 type: enquiry
-slug: ajanlatkeres
+slug: vasarlas
 title: Vásárlás
 heading: Árak
 text: >-
@@ -79,6 +79,11 @@ ig_items:
   - item: 25 db egyedileg csomagolt fertőtlenítő lapocska,
   - item: 25 db egyedileg csomagolt puffer,
   - item: használati útmutató.
+articles:
+  - text: "**A COVID-19 gyorstesztek tájékoztató jellegű információval szolgálnak**
+      az esetleges fertőzöttségről. A teszt elvégzését szakorvos, üzemorvos,
+      vagy ilyen szolgáltatást nyújtó szolgáltató (üzemegészségügyi szolgálat)
+      szakemberei végezhetik. Időtartama kb. 15–30 perc."
 ---
 **Kérdés esetén forduljon bizalommal termékmenedzserünkhöz:**
 
@@ -88,7 +93,3 @@ Termékmenedzser
 
 E-mail: <a href="mailto:csilla.keller@hbs.hu" onclick="gtag_report_conversion('mailto:csilla.keller@hbs.hu')">csilla.keller@hbs.hu</a>
 Telefon: [+36 20 778 4899](tel:+36207784899)
-
-<br>
-
-**A COVID-19 gyorstesztek tájékoztató jellegű információval szolgálnak** az esetleges fertőzöttségről. A teszt elvégzését szakorvos, üzemorvos, vagy ilyen szolgáltatást nyújtó szolgáltató (üzemegészségügyi szolgálat) szakemberei végezhetik. Időtartama kb. 15–30 perc.

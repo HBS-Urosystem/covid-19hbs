@@ -446,11 +446,16 @@ list:
         2. **A gyorsteszttel végzett előszűrés még alacsony pozitív prediktív érték mellett is jelentősen leszűkíti azok halmazát, akiknél további vizsgátok szükségesek.** Mivel az eljárás gyors és olcsó, könnyedén el lehet végezni nagy mennyiségű embernél is, ezért csak azok szorulnak további vizsgálatokra, akiknél **fennáll az érintettség gyanúja**. Így lényegesen kevesebb esetben kell elvégezni például az egyébként megbízhatóbb PCR-tesztet, amely lassabb, drágább, és az eszközigénye is nagyobb. Azt sem szabad elfelejteni, hogy fertőzésgyanús embereknél a diagnózis legbiztosabb eszköze az orvosi kivizsgálás, illetve a páciens előtörténetének felderítése. Akiről tudni, hogy az elmúlt időszakban járt fertőzött ember közelében, és jelentkeznek nála a COVID-19 tipikus tünetei, sokkal valószínűbb, hogy maga is fertőzött, mint egy olyan személy, akinek „csak” a pozitív tesztje utal az érintettségre. Nyilván a leghatékonyabb az lenne, ha minden embert ki lehetne vizsgálni… ám, az egészségügyi kapacitások erre nem elegendőek – sem Magyarországon, sem másutt.
 
         3. **Egy járványos megbetegedés esetében az átfertőzöttség pusztán elméleti adat.** Egy adott közösség – például egy 100 fős intézmény – módszeres tesztelésekor már nem fog érvényesülni globális átfertőzöttség mértéke, hiszen **nem egymástól független** mintákról van szó. (Másképp megfogalmazva: a vírus vagy megjelent már az adott közösségben, vagy nem – függetlenül attól, hogy általánosságban véve mennyi a fertőzöttek aránya.)
-
-           **Sok oldal szerint csak reklámfogás, hogy a szerológiai teszt kimutatja a védőoltás által szerzett védettséget, hiszen e teszteket nem erre találták ki!**
-
-           E teszteket valóban nem erre találták ki, és nem is mindegyik szerológiai teszt jelzi a vakcina hatására termelődő ellenanyagot.
-
-           Sok szakértő azonban pusztán azért vonja kétségbe, hogy e tesztek alkalmasak volnának a védőoltás utáni használatra, mert erre vonatkozóan még nem publikáltak elég adatot, hogy e kijelentést igazoltnak lehessen tekinteni. A tapasztalatok azonban azt mutatják, a vakcina révén szerzett védettség kimutatása a szerológiai gyorstesztek (pontosabban, azok egyes fajtáinak) egyik lehetséges alkalmazhatósága. Bővebben minderről [ezen az oldalon](/oltas) lehet olvasni.
       anchor: megbizhatosag
+  - object:
+      question: Sok oldal szerint csak reklámfogás, hogy a szerológiai teszt kimutatja
+        a védőoltás által szerzett védettséget, hiszen e teszteket nem erre
+        találták ki!
+      answer: >-
+        E teszteket valóban nem erre találták ki, és nem is mindegyik
+        szerológiai teszt jelzi a vakcina hatására termelődő ellenanyagot.
+
+
+        Sok szakértő azonban pusztán azért vonja kétségbe, hogy e tesztek alkalmasak volnának a védőoltás utáni használatra, mert erre vonatkozóan még nem publikáltak elég adatot, hogy e kijelentést igazoltnak lehessen tekinteni. A tapasztalatok azonban azt mutatják, a vakcina révén szerzett védettség kimutatása a szerológiai gyorstesztek (pontosabban, azok egyes fajtáinak) egyik lehetséges alkalmazhatósága. Bővebben minderről [ezen az oldalon](/oltas) lehet olvasni.
+      anchor: reklamfogas
 ---

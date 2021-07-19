@@ -11,24 +11,35 @@ intro:
     Az érintettek azonosításával és elkülönítésével lassítható a vírus
     terjedése, valamint megakadályozható a járvány miatt bekövetkező kényszerű
     leállás, és az azzal járó anyagi veszteségek.
+news: []
+info:
+  text: >-
+    **Az antigén gyorsteszt a friss fertőzés kimutatására, míg a szerológiai
+    teszt a folyamatban lévő, vagy a múltban – akár tünetmentesen – lezajlott
+    fertőzés kimutatására szolgál.** A szerológiai teszt lehetőséget nyújt a
+    védőoltások után a szervezet által a SARS-CoV-2 vírus ellen a szervezet
+    által termelt antitestek kimutatására is.
+
+
+    * Ha Ön még nincs beoltva, ellenőrizze a vírus esetleges megjelenését a szervezetében az antigén gyorsteszttel!
+
+    * Ha már megkapta a COVID-19 elleni, védőoltás típusától függően egy vagy két oltását, ellenőrizze, megjelentek-e az antitestek a szervezetében!
+
+    * A jelenleg ismert szakirodalmi adatok alapján a beoltottak bizonyos hányadának újrafertőződése, illetve a beoltottak esetében a vírus tünetmentes továbbadása nem zárható ki. Ezért a nem beoltottak, illetve a már beoltottak antigén gyorsteszttel végzett ellenőrzése tovább csökkentheti egy helyi járványgóc kialakulásának esélyét.
 articles:
-  - text: >-
-      **Az antigén gyorsteszt a friss fertőzés kimutatására, míg a szerológiai
-      teszt a folyamatban lévő, vagy a múltban – akár tünetmentesen – lezajlott
-      fertőzés kimutatására szolgál.** A szerológiai teszt lehetőséget nyújt a
-      védőoltások után a szervezet által a SARS-CoV-2 vírus ellen a szervezet
-      által termelt antitestek kimutatására is.
-
-
-      * Ha Ön még nincs beoltva, ellenőrizze a vírus esetleges megjelenését a szervezetében az antigén gyorsteszttel!
-
-      * Ha már megkapta a COVID-19 elleni, védőoltás típusától függően egy vagy két oltását, ellenőrizze, megjelentek-e az antitestek a szervezetében!
-
-      * A jelenleg ismert szakirodalmi adatok alapján a beoltottak bizonyos hányadának újrafertőződése, illetve a beoltottak esetében a vírus tünetmentes továbbadása nem zárható ki. Ezért a nem beoltottak, illetve a már beoltottak antigén gyorsteszttel végzett ellenőrzése tovább csökkentheti egy helyi járványgóc kialakulásának esélyét.
   - text: >-
       <figure>
         <img src="/uploads/124096424_145784927297864_7338944986351090301_o.jpg" alt="antigen test vs serology test" />
       </figure>
+
+      <aside>
+        <div>
+          <button><a href="/antigen-teszt">Antigén gyorsteszt</a></button>
+        </div>
+        <div>
+          <button><a href="/szerologiai-teszt">Szerológiai gyorsteszt</a></button>
+        </div>
+      </aside>
     subtitle: ""
     title: Az antigén és a szerológiai gyorsteszt használata
   - subtitle: ""
@@ -240,8 +251,8 @@ articles:
       </table>
 
       </div>
-  - text: "##### A COVID-19 gyorstesztek tájékoztató jellegű információval
-      szolgálnak az esetleges fertőzöttségről. A teszt elvégzését szakorvos,
+  - text: "##### **A COVID-19 gyorstesztek tájékoztató jellegű információval
+      szolgálnak** az esetleges fertőzöttségről. A teszt elvégzését szakorvos,
       üzemorvos, vagy ilyen szolgáltatást nyújtó szolgáltató (üzemegészségügyi
       szolgálat) szakemberei végezhetik. Időtartama kb. 15–30 perc."
   - text: Amennyiben további kérdései vannak, tekintse meg [ezt az oldalt](/gyik),

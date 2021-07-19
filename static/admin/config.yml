@@ -354,7 +354,6 @@ collections:
     folder: content/news
     create: true
     label_singular: Post
-    #summary: "{{menutitle}}"
     identifier_field: menutitle
     i18n: true
     fields: 
@@ -552,6 +551,27 @@ collections:
         fields:
           - label: Item
             name: item
+      - label: Article blocks
+        label_singular: Block
+        name: articles
+        widget: list
+        i18n: true
+        fields: 
+          - label: Title
+            name: title
+            widget: string
+            required: false
+            i18n: true
+          - label: Subtitle
+            name: subtitle
+            widget: string
+            required: false
+            i18n: true
+          - label: Article content
+            name: text
+            widget: markdown
+            required: false
+            i18n: true
       - label: HTML
         name: body
         widget: markdown

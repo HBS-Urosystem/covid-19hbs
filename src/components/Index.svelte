@@ -16,8 +16,6 @@
 <svelte:head>
 </svelte:head>
 
-<CTA />
-
 {#if post.info}
 <article>
 	<aside>
@@ -41,9 +39,10 @@
 		{/if}
 	</aside>
 </article>
+<CTA />
 {/if}
 
-{#if post.references}
+{#if post.references && post.references.length}
 <article>
 	{@html _md(post.references.text)}
 	<ul>
@@ -52,49 +51,52 @@
 		{/each}
 	</ul>
 </article>
+<CTA />
 {/if}
 
-{#if post.news}
+{#if post.news && post.news.length}
 <article>
 {#each post.news as article, i}
 <!--{#if (i+1) / 4 == Math.floor((i+1) / 4)}
 <CTA/>
 {/if}-->
 {#if article.title}
-<h3>{article.title}</h3>
+<h2>{article.title}</h2>
 {/if}
 {#if article.subtitle}
-<h4>{article.subtitle}</h4>
+<h3>{article.subtitle}</h3>
 {/if}
 {#if article.text}
 {@html _md(article.text)}
 {/if}
 {/each}
 </article>
+<CTA />
 {/if}
 
 {#if post.html}
 <article>
 	{@html post.html}
 </article>
+<CTA />
 {/if}
 
 {#if post.articles}
 {#each post.articles as article, i}
-<!--{#if (i+1) / 4 == Math.floor((i+1) / 4)}
-<CTA/>
-{/if}-->
 <article>
 {#if article.title}
-<h3>{article.title}</h3>
+<h2>{article.title}</h2>
 {/if}
 {#if article.subtitle}
-<h4>{article.subtitle}</h4>
+<h3>{article.subtitle}</h3>
 {/if}
 {#if article.text}
 {@html _md(article.text)}
 {/if}
 </article>
+{#if (i+1) / 4 == Math.floor((i+1) / 4)}
+<CTA/>
+{/if}
 {/each}
 {/if}
 
@@ -113,6 +115,7 @@
 		{/each}
 	</aside>
 </article>
+<CTA/>
 {/if}
 
 {#if post.documents}
@@ -134,6 +137,7 @@
 	</ul>
 	{/if}
 </article>
+<CTA/>
 {/if}
 
 <!--<CTA />-->

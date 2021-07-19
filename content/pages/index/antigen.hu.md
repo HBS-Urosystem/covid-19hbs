@@ -70,7 +70,7 @@ articles:
       A vizsgálat elvégzése a tesztalany részéről semmilyen különleges előkészületet nem igényel.
     title: Hogyan zajlik a vizsgálat?
   - text: >-
-      #### 1. A kazettán egy csík (a kontrollcsík) látható – negatív.
+      #### 1. A kazettán egy csík (a kontrollcsík) látható: negatív
 
 
       Ez esetben a vizsgált személy valószínűleg „negatív”, szervezetében nincsen jelen az új koronavírus.
@@ -84,7 +84,7 @@ articles:
       * Amennyiben a mintavételt nem kellő gondossággal kivitelezik, megtörténhet, hogy abban nem lesz kimutatható mennyiségű vírus, és a teszt eredménye ezért lesz negatív.
 
 
-      #### 2. A kazettán két csík látható – pozitív.
+      #### 2. A kazettán két csík látható: pozitív
 
 
       Ebben az esetben a vizsgált személy szinte biztosan COVID-19 fertőzött. Mivel a teszt által kimutatott antigén (a vírus egy ún. nukleokapszid fehérjéje) kifejezetten a SARS-CoV-2 vírusra jellemző, annak az esélye, hogy a pozitív teszteredmény nem COVID-19 fertőzésre utal, igen kicsiny.
@@ -192,7 +192,7 @@ articles:
 
       </div>
 
-      <small>Magyarázat: C = kontroll; Ag = antigén (a kazetta egyes változatainál T-vel jelölve). Az Ag (T) csík megjelenése annak intenzitásától függetlenül a vírus jelenlétére utal és pozitív eredményként értelmezendő. A csík intenzitásából nem lehet sem a betegség stádiumára, sem annak súlyosságára következtetni. A táblázat nem helyettesíti a termék használati útmutatóját és nem tekinthető orvosi diagnosztikai irányelvnek.</small>
+      <small>Magyarázat. C = kontroll; T = antigén. A T csík megjelenése annak intenzitásától függetlenül a vírus jelenlétére utal és pozitív eredményként értelmezendő. A csík intenzitásából nem lehet sem a betegség stádiumára, sem annak súlyosságára következtetni. A táblázat nem helyettesíti a termék használati útmutatóját és nem tekinthető orvosi diagnosztikai irányelvnek.</small>
     title: Az eredmények értelmezésének egyszerűsített összefoglaló táblázata
   - text: >-
       <!-- <iframe width="560" height="315"

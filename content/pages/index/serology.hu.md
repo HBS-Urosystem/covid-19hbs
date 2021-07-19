@@ -150,31 +150,31 @@ articles:
 
       <th>
 
-      <img style="max-height:128px;width:auto" alt="IgG/IgM-teszt: negatív" src="/uploads/ig-image1.jpg">
+      <img style="max-height:96px;width:auto" alt="IgG/IgM-teszt: negatív" src="/uploads/ig-image1.jpg">
 
       </th>
 
       <th>
 
-      <img style="height:128px;width:auto" alt="IgM-teszt: pozitív" src="/uploads/ig-image2.jpg">
+      <img style="height:96px;width:auto" alt="IgM-teszt: pozitív" src="/uploads/ig-image2.jpg">
 
       </th>
 
       <th>
 
-      <img style="height:128px;width:auto" alt="IgG/IgM-teszt: pozitív" src="/uploads/ig-image3.jpg">
+      <img style="height:96px;width:auto" alt="IgG/IgM-teszt: pozitív" src="/uploads/ig-image3.jpg">
 
       </th>
 
       <th>
 
-      <img style="height:128px;width:auto" alt="IgG-teszt: pozitív" src="/uploads/ig-image4.jpg">
+      <img style="height:96px;width:auto" alt="IgG-teszt: pozitív" src="/uploads/ig-image4.jpg">
 
       </th>
 
       <th>
 
-      <img style="height:128px;width:auto" alt="IgG/IgM-teszt: érvénytelen" src="/uploads/ig-image5.jpg">
+      <img style="height:96px;width:auto" alt="IgG/IgM-teszt: érvénytelen" src="/uploads/ig-image5.jpg">
 
       </th>
 
@@ -286,25 +286,8 @@ articles:
       A tesztet kizárólag orvosi szakdolgozók használhatják! Annak otthoni használatra, illetve önellenőrzési célra történő értékesítése tilos!
     title: Figyelmeztetés
 references:
-  links:
-    - url: https://www.affidea.hu/covid-19-szures
-      text: Affidea Magyarország Kft.
-    - url: https://kelen.hu/szolgaltatasaink/koronavirus-gyorsteszt-ellenanyag-vizsgalat/
-      text: Kelen Kórház
-    - url: http://mammutegeszsegkozpont.hu/allasfoglalas/
-      text: Medical Service Budapest Mammut Egészségközpont
-    - url: http://arkadegeszsegkozpont.hu/covid-19-szures/
-      text: Medical Service Budapest Árkád Egészségközpont
-    - url: https://robertkorhaz.hu/leiras/koronavirus-gyorstesz
-      text: Róbert Magánkórház
-  text: >-
-    ## Referenciák
-
-
-    Már számos intézmény és vállalat alkalmazza az általunk forgalmazott **Clungene® COVID-19 Gyorsteszt** Kazettákat. Ezek közül közöljük – a teljesség igénye nélkül – néhány internetes elérhetőségét.
-
-
-    **Phoenix Pharma és Hungaropharma partnereinken keresztül a tesztek elérhetőek az ország összes gyógyszertárában.**
+  links: []
+  text: ""
 documents:
   text: >-
     ## További információk, dokumentumok

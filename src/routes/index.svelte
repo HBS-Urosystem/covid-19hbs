@@ -129,44 +129,45 @@
 	</aside>
 {/if}
 -->
-
 {#if post.intro}
-<article>
-	{#if post.subtitle}
-	<h2>{post.subtitle}</h2>
-	{/if}
-	{#if post.intro.highlight}
-	<h4>{post.intro.highlight}</h4>
-	{/if}
-	{#if post.intro.text}
-	{@html _md(post.intro.text)}
-	{/if}
-</article>
+	<article>
+		{#if post.subtitle}
+			<h2>{post.subtitle}</h2>
+			{#if post.intro.highlight}
+				<h2>{post.intro.highlight}</h2>
+			{/if}
+		{:else}
+			{#if post.intro.highlight}
+				<h2>{post.intro.highlight}</h2>
+			{/if}
+		{/if}
+		{#if post.intro.text}
+			{@html _md(post.intro.text)}
+		{/if}
 
-	{#if post.intro.images}
-<article>
-	<aside>
-		{#each post.intro.images as image}
-		<figure>
-			{#if image.link}
-			<a href="{image.link}"><img loading="lazy" src="{image.src}" style="background-image: url('{image.src}');" alt="{image.alt}"/></a>
-			{:else}
-			<img loading="lazy" src="{image.src}" style="background-image: url('{image.src}');" alt="{image.alt}" />
-			{/if}
-			{#if image.text}
-			<figcaption>{@html _md(image.text)}</figcaption>
-			{/if}
-			{#if image.cta}
-			<button><a href="{image.link}">{image.cta}</a></button>
-			{/if}
-		</figure>
-		{/each}
-	</aside>
-</article>
-	{/if}
+		{#if post.intro.images}
+			<aside>
+				{#each post.intro.images as image}
+				<figure>
+					{#if image.link}
+					<a href="{image.link}"><img loading="lazy" src="{image.src}" style="background-image: url('{image.src}');" alt="{image.alt}"/></a>
+					{:else}
+					<img loading="lazy" src="{image.src}" style="background-image: url('{image.src}');" alt="{image.alt}" />
+					{/if}
+					{#if image.text}
+					<figcaption>{@html _md(image.text)}</figcaption>
+					{/if}
+					{#if image.cta}
+					<button><a href="{image.link}">{image.cta}</a></button>
+					{/if}
+				</figure>
+				{/each}
+			</aside>
+		{/if}
+	</article>
 {:else}
 	{#if post.subtitle}
-<h2>{post.subtitle}</h2>
+		<h2>{post.subtitle}</h2>
 	{/if}
 {/if}
 
