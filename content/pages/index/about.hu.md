@@ -29,6 +29,12 @@ articles:
       az így megvásárolt tesztek nem is a Hangzhou Clongene Biotech Co. Ltd.
       termékei.
     title: FIGYELMEZTETÉS!
+  - text: Cégünk már több önkormányzatnak és intézménynek adományozott az általa
+      forgalmazott gyorstesztekből tudományos kutatási, szociális és
+      népegészségügyi célokra.
+    subtitle: Társadalmi felelősségvállalásunk
+  - subtitle: További Információk a HBS Medical Kft-ről
+    text: <a href="https://www.hbs.hu" target="_blank" rel="noopener">www.hbs.hu</a>
 references:
   links:
     - url: https://www.affidea.hu/covid-19-szures
@@ -47,9 +53,5 @@ references:
 
     Számos intézmény és vállalat alkalmazza az általunk forgalmazott Clungene® COVID-19 Gyorsteszt Kazettákat. Ezek közül közöljük – a teljesség igénye nélkül – néhány internetes elérhetőségét.
 documents:
-  text: >-
-    ### Társadalmi felelősségvállalásunk
-
-
-    Cégünk már több önkormányzatnak és intézménynek adományozott az általa forgalmazott gyorstesztekből tudományos kutatási, szociális és népegészségügyi célokra.
+  text: ""
 ---

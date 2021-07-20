@@ -7,11 +7,9 @@
 		metadata: false,
 		noHeaderId: true,
 	})
-	/*export async function preload(page) {
-		//console.log('_slug-post',findPost(page.params.slug))
-		//console.log(page.params.slug)
-		return { news: findCollection('news') }
-	}*/
+	function _md(it) {
+		return converter.makeHtml(it)
+	}
 </script>
 
 <script>
@@ -19,9 +17,6 @@
 	/*console.log('type:',$type)
 	console.log('lang:',$lang)
 	console.log('post:',post)*/
-	function _md(it) {
-		return converter.makeHtml(it)
-	}
 </script>
 
 {#each post.list as item, i}

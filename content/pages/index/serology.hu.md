@@ -85,7 +85,7 @@ articles:
       A vizsgálat elvégzése a tesztalany részéről semmilyen különleges előkészületet nem igényel.
   - title: Hogyan kell a kapott eredményt értelmezni?
     text: >-
-      #### 1. Sem IgM, sem IgG nem található a mintában. (IgM és IgG negatív.)
+      #### 1. Sem IgM, sem IgG nem található a mintában: IgM és IgG negatív
 
 
       Ez utalhat arra, hogy a vizsgált személy „negatív”, vagyis egyáltalán nem fertőződött meg az új koronavírus által.
@@ -102,7 +102,7 @@ articles:
       Éppen ezért, amennyiben a vizsgált személynek a COVID-19-re jellemző tünetei vannak, illetve a megfertőződés veszélye magas (volt), érdemes a tesztet a későbbiekben megismételni, vagy a negatív eredményt más módon is megerősíteni.
 
 
-      #### 2. A mintában az IgM megtalálható. (IgM pozitív.)
+      #### 2. A mintában az IgM megtalálható: IgM pozitív
 
 
       A vizsgált személy nagy valószínűséggel fertőzött. A megfertőződés óta nagyjából 7–21 nap telt el, mivel ez az antitest rendszerint ebben az időtartományban mutatható ki.
@@ -111,7 +111,7 @@ articles:
       Megfigyelhetőek a COVID-19 jellegzetes tünetei, de azok később is kialakulhatnak. Az új koronavírus nem minden esetben okoz tüneteket, ám aki tünetmentes, ugyanúgy képes megfertőzni a többi embert, mint akinek tünetei vannak. Az érintett elkülönítése okvetlenül szükséges.
 
 
-      #### 3. A mintában mind az IgM, mind az IgG megtalálható. (IgM és IgG pozitív.)
+      #### 3. A mintában mind az IgM, mind az IgG megtalálható: IgM és IgG pozitív
 
 
       A vizsgált személy nagy valószínűséggel fertőzött. A megfertőződés óta nagyjából 14–28 nap telt el, mivel erre az időtartományra jellemző, hogy mindkét antitest kimutatható. (Esetenként ez az időszak hosszabb is lehet.)
@@ -123,7 +123,7 @@ articles:
       Hasonlóan az előző esethez, az IgM és IgG pozitív ember is képes megfertőzni a többi embert, elkülönítése okvetlenül szükséges.
 
 
-      #### 4. A mintában az IgG megtalálható. (IgG pozitív.)
+      #### 4. A mintában az IgG megtalálható: IgG pozitív
 
 
       A vizsgált személy – tünetekkel vagy azok nélkül – már átesett a fertőzésen, vagy a COVID-19 fertőzés késői szakaszában van.
@@ -133,7 +133,7 @@ articles:
 
 
       Amennyiben valaki már kapott védőoltást, a szervezetében megjelenik a vírus ellen termelt IgG antitest – ilyen esetben a pozitív eredmény utalhat a vakcina révén szerzett védettségre is.
-    subtitle: A szerológiai gyorstesztnek négy lehetséges eredménye van.
+    subtitle: A szerológiai gyorstesztnek négy érvényes eredménye lehet.
   - title: Az eredmények értelmezésének egyszerűsített összefoglaló táblázata
     text: >
       <div>

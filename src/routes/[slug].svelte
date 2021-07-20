@@ -1,7 +1,7 @@
 <script context="module">
 	import { onMount } from 'svelte'
 	import List from "../components/List.svelte"
-	//import CTA from "../components/CTA.svelte"
+	import CTA from "../components/CTA.svelte"
 	import Index from "../components/Index.svelte"
 	import News from "../components/News.svelte"
 	import QuoteForm from "../components/QuoteForm.svelte"
@@ -191,6 +191,7 @@
 
 {#if post.type == 'about'}
 <Index {post}/>
+<CTA/>
 {/if}
 
 {#if post.type == 'goggles'}

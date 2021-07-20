@@ -34,14 +34,10 @@
 		--spacer-: calc(-4 * var(--gutter));
 
 		--base-font-size: 16px;
-		--fluid-typography-ratio: 0.25;
+		--fluid-typography-ratio: 0.16;
 
 		--rem: calc(var(--base-font-size) + var(--fluid-typography-ratio) * 1vw);
 
-		font-size: var(--rem);
-
-	}
-	html {
 		--bgcolor: var(--light25);
 		--txtcolor: var(--light);
 		--txt25: var(--dark25);
@@ -56,6 +52,7 @@
 		--navbg: #0f2537f0;
 	}
 	html {
+		font-size: var(--rem);
 		height: -webkit-fill-available;
 		hyphens: auto;
 	}
@@ -65,7 +62,7 @@
 		/* background-color: #0093E9; */
 		background-image: url('/uploads/tesztelj.png');
 		background-attachment: fixed;
-    background-size: 110ch;
+    background-size: 120ch;
     background-position: center;
 		color: var(--txtcolor);
 	}
@@ -87,7 +84,7 @@
 	
 	main {
 		/* max-width: 64em; */
-		max-width: 80ch;
+		max-width: 96ch;
 		margin: 0 auto;
 		/* padding: var(--spacer) var(--gutter); */
 		padding: var(--spacer2) var(--gutter) var(--spacer);

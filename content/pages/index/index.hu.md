@@ -49,17 +49,13 @@ intro:
         <dd>Azoknak, akik mert igazolt fertőzöttel találkoztak, illetve mert tüneteket tapasztalnak, fennáll a COVID-19 fertőzés veszélye. Antigén gyorsteszttel nagyobb közösségek idő- és költséghatékony rendszeres szűrése is megvalósítható. Emellett, minden olyan esetben alkalmazható, ha az eredmény ismerete sürgős.</dd>
 
 
-        <small>
+        <dd><small><b>Szenzitivitás: </b>
 
-        <dd><b>Szenzitivitás: </b>
+        92,0–98%. </small></dd>
 
-        92,0–98%. </dd>
+        <dd><small><b>Specificitás: </b>
 
-        <dd><b>Specificitás: </b>
-
-        99,7%.</dd>
-
-        </small>
+        99,7%.</small></dd>
 
         </dl>
       link: /antigen-teszt
@@ -110,17 +106,13 @@ intro:
         <dd>Azoknak, akiknél a COVID-19 tünetei 7 napja vagy régebben jelentkeztek, illetve akik 10–14 nappal korábban igazolt fertőzöttel találkoztak, hogy megtudják, elkapták-e a vírust. Azoknak, akik kíváncsiak rá, kialakult-e a vakcina hatására a védettségük. Szerológiai gyorsteszttel nagyobb közösségek idő- és költséghatékony rendszeres szűrése is megvalósítható.</dd>
 
 
-        <small>
+        <dd><small><b>Szenzitivitás: </b>
 
-        <dd><b>Szenzitivitás: </b>
+        86.6%; a tünetek megjelenését követő 8. naptól kezdve 90% feletti. </small></dd>
 
-        86.6%; a tünetek megjelenését követő 8. naptól kezdve 90% feletti. </dd>
+        <dd><small><b>Specificitás: </b>
 
-        <dd><b>Specificitás: </b>
-
-        98.33% (IgG+IgM kombinált).</dd>
-
-        </small>
+        98.33% (IgG+IgM kombinált).</small></dd>
 
         </dl>
       cta: Részletek

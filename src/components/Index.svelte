@@ -118,7 +118,7 @@
 <CTA/>
 {/if}
 
-{#if post.documents}
+{#if post.documents && post.documents.length}
 <article>
 	{@html _md(post.documents.text)}
 	{#if post.documents.links}

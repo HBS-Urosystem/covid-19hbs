@@ -4,11 +4,11 @@
 		this.redirect(301, '/hu')
 	}*/
 	import { onMount } from 'svelte'
-	import List from "../components/List.svelte"
+	//import List from "../components/List.svelte"
 	//import CTA from "../components/CTA.svelte"
 	import Index from "../components/Index.svelte"
-	import QuoteForm from "../components/QuoteForm.svelte"
-	import Distributor from "../components/Distributor.svelte"
+	//import QuoteForm from "../components/QuoteForm.svelte"
+	//import Distributor from "../components/Distributor.svelte"
 	import { findPost } from '../content.js'
 	import { lang, type, hero, tagline, cookies } from '../stores.js'
 	import showdown from 'showdown'
@@ -112,23 +112,7 @@
 	<!-- End Facebook Pixel Code -->
 	{/if}
 </svelte:head>
-<!--
-{#if $lang == 'hu'}
-	<aside class="temp">
-		<h2>
-			Kedves érdeklődő!
-		</h2>
-		<ul>
-			<li>A 25–200 db (1 doboz=25db) közötti megrendeléseket hivatalos partnerünk, a <a href="https://medexim.hu/" rel="external noopener" target="_blank"><b>medexim.hu</b></a> szolgálja ki.</li>
-			<li>200 db (8 doboz) feletti megrendelés esetén kérje árajánlatunkat.</li>
-		</ul>
-		<div class="buttons">
-			<button><a href="https://medexim.hu/" rel="external noopener" target="_blank">Vásárlás a <u>medexim.hu</u> oldalon</a></button>
-			<button><a href="/ajanlatkeres">Ajánlatkérés</a></button>
-		</div>
-	</aside>
-{/if}
--->
+
 {#if post.intro}
 	<article>
 		{#if post.subtitle}
@@ -171,19 +155,19 @@
 	{/if}
 {/if}
 
-{#if post.type == 'distributor'}
+<!--{#if post.type == 'distributor'}
 <Distributor {post}/>
 {/if}
 
 {#if post.type == 'enquiry'}
 <QuoteForm {post}/>
-{/if}
+{/if}-->
 
 {#if post.type == 'index'}
 <Index {post}/>
 {/if}
 
-{#if post.type == 'product1'}
+<!--{#if post.type == 'product1'}
 <Index {post}/>
 {/if}
 
@@ -215,7 +199,8 @@
 
 {#if post.list}
 <List {post}/>
-{/if}
+{/if}-->
+
 <!-- 
 <CTA/>
  -->
@@ -225,7 +210,8 @@
 	<figcaption><em><span lang="{$lang}">{post.image.caption[$lang]}</span></em></figcaption>
 	{/if}
 </figure> -->
-<style>
+
+<!--<style>
 	aside.temp {
 		background-color: var(--dark75);
     background-image: linear-gradient(315deg, var(--light50) 0%, var(--txt50));
@@ -248,6 +234,4 @@
     white-space: nowrap;
     margin: var(--gutter) auto;
 	}
-
-
-</style>
+</style>-->
