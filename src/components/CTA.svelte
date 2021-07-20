@@ -10,7 +10,7 @@
 	$: {
 		//console.log(type)
 		cta = findCTA(title)
-		console.log(title)
+		//console.log(title)
 		ext = !!cta[$lang].link.startsWith('http')
 	}
 	//let showModal = false;
