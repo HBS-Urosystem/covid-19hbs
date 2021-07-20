@@ -237,9 +237,12 @@
 		padding: var(--gutter) var(--gutterx);
 	}*/
 	ul li:last-of-type span {
-		border-width: 2px 4px;
-    border-radius: 8px;
     display: block;
+		/*border-width: 2px 4px;*/
+    border-radius: 50%;
+		color: var(--bgcolor);
+		background-color: var(--midtone);
+    padding: 0.2rem;
 	}
 	ul li:last-of-type :global(svg) {
 		max-width: max-content;
@@ -280,10 +283,9 @@
 		top: auto;
 		bottom: 0;
 	}
-	[aria-expanded='false'] {
-		/* color: var(--txt75); */
+	/*[aria-expanded='false'] {
 		color: inherit;
-	}
+	}*/
 
 	/* @keyframes pulse {
 		0% {
