@@ -3,8 +3,8 @@
 
 	:root {
 		line-height: 1.75;
-		--orange: tomato;
-		--green: #c0ff55;
+		/*--orange: tomato;*/
+		/*--green: #c0ff55;*/
 		--light: #e9f6f8;
 		--light25: #1f46673f;
 		--light50: #1f46677f;
@@ -43,13 +43,15 @@
 		--txt25: var(--dark25);
 		--txt50: var(--dark50);
 		--txt75: var(--dark75);
-		--maincolor: var(--orange);
-		--extcolor: var(--green);
+		/*--maincolor: var(--orange);*/
+		/*--extcolor: var(--green);*/
 		--toolbg: var(--midtone);
 		--tooltxt: var(--light);
 		--infobg: var(--dark);
 		--infotxt: var(--toolbg);
 		--navbg: #0f2537f0;
+		/*--midlight: #37b2c1;*/
+		--midlight: #239eaa;
 	}
 	html {
 		font-size: var(--rem);

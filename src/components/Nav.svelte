@@ -129,14 +129,14 @@
       {/if}</li>
 		</ul>-->
 	</div>
-	<h5>
+	<button>
 		<a href="{sticky[$lang].link}" target="{sticky[$lang].link.startsWith('http') ? '_blank' : ''}" rel="{sticky[$lang].link.startsWith('http') ? 'noopener external' : 'prefetch'}">
 			{#if sticky[$lang].svg}
 			{@html svgs[sticky[$lang].svg]}
 			{/if}
 			{@html sticky[$lang].button}
 		</a>
-	</h5>
+	</button>
 </nav>
 {/if}
 
@@ -298,21 +298,32 @@
 			background-color: var(--extcolor);
 		}
 	} */
+	nav {
+		display: flex;
+    flex-direction: column;
+	}
+	nav div {
+		width: inherit;
+	}
 	h5, button {
 		position: absolute;
+		top: 84.78px;
 		/* bottom: .5rem; */
-		margin-left: 50%;
+		/*margin-left: 50%;*/
 		color: var(--light);
-		font-size: larger;
+		/*font-size: larger;*/
+		background-color: var(--dark);
 	}
 	h5 a, button a {
-		margin-left: -50%;
-		border-width: 2px 4px;
-    border-radius: 8px;
-    padding: .25rem .5rem;
-		font-weight: bolder;
+		/*margin-left: -50%;
 		background-color: var(--dark);
+		border-width: 2px 4px;
+    border-radius: 8px;*/
+    /*padding: .25rem .5rem;
+    padding: 0 var(--gutter);*/
+		/*font-weight: bolder;*/
 		white-space: nowrap;
+		margin: 0 -2px;
 	}
 	h5 :global(svg), button :global(svg) {
 		display: inline;

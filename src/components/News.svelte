@@ -42,7 +42,7 @@
 	button {
     white-space: nowrap;
     margin: var(--gutter) auto;
-		background-color: var(--bgcolor);
+		background-color: var(--midtone);
 	}
 
 </style>
