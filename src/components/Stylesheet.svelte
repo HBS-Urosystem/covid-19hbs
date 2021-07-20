@@ -320,6 +320,9 @@
 	dd {
 		/*font-size: 80%;*/
 		margin: 1rem 0;
+		text-align: justify;
+		text-shadow: none;
+		font-weight: 200;
 	}
 
 	details[open] {
