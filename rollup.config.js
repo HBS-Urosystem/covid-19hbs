@@ -32,7 +32,7 @@ const preprocess = getPreprocessor({
 });
 
 export default {
-	client: {
+	/*client: {
 		input: config.client.input(),
 		output: config.client.output(),
 		plugins: [
@@ -87,7 +87,7 @@ export default {
 
 		preserveEntrySignatures: false,
 		onwarn,
-	},
+	},*/
 
 	server: {
 		input: config.server.input(),
