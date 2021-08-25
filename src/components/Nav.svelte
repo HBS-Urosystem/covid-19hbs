@@ -177,7 +177,7 @@
 		}
 	}
 	nav div {
-		max-width: 100ch;
+		max-width: 102ch;
     margin: 0 auto;
 		overflow-x: auto;
 	}
