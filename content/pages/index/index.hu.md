@@ -121,19 +121,54 @@ intro:
     ## CLUNGENE® COVID-19 GYORSTESZTEK
 
 
-    ### Most 36-37-38%-kal olcsóbban!
+    ### A legjobb választás cégek, egészségügyi intézmények számára
 
 
-    Végre a nyár tombol és nem a vírus! Könnyű elfelejteni a korlátozásokról és az áldozatokról szóló hosszú-hosszú hónapokat! 
+    **Itt a COVID, itt van újra…**
 
 
-    Ám az Indiában felfedezett delta variáns már Európában is elkezdett terjedni. Egyre több országban már ez a változat felelős a legtöbb esetért: sok helyen – a nyár ellenére! – ismét szigorítanak. Magyarországon most még kevés az új fertőzött, idehaza még lazítunk – ám csak idő kérdése, és kopogtatni fog itthon is a delta mutáns.
+    Ahogy azt már nyáron is sejteni lehetett, a delta variáns elhozta a világjárvány negyedik hullámát. Szeptember elején hazánkban ismét átlépte az új esetek száma a 200-at, más országokban pedig ennél is jóval több fertőzöttet regisztráltak. Az oltási program megtorpant; a nyájimmunitás nem fog megvalósulni.
 
 
-    **Addig kell elkezdeni a módszeres tesztelést, amíg még nincs sok új fertőzött.** Ha ugyanis idejében sikerül azonosítani az érintetteket, azok elkülönítésével megakadályozható a járványgócok kialakulása és az olyan magas esetszám, hogy a vírust ismét csak kemény korlátozásokkal lehet megakadályozni.
+    **Kezdődik minden elölről?** Újra jönnek a hosszú hónapokig tartó korlátozások?
 
 
-    **Tesztelés és elkülönítés vagy korlátozások és halálozások? Lehet választani!**
+    **Nem – ha még idejében elkezdjük a módszeres tesztelést!** Ha még viszonylag alacsony esetszám mellett sikerül azonosítani az érintetteket, azok elkülönítésével megakadályozható a járványgócok kialakulása és az olyan magas esetszám, hogy a vírust ismét csak kemény korlátozásokkal lehet megakadályozni.
+
+
+    ### Cégek, intézmények számára a Clungene gyorstesztek jelentik az olcsó és hatékony megoldást a módszeres és rendszeres teszteléshez!
+
+
+    <details>
+
+    <summary>Mennyibe kerül?</summary>
+
+
+    Az egyedi csomagolású, otthoni használatra szánt antigén gyorstesztek ára jellemzően 6000–8000 Ft-között mozog. Partnerünk, a medexim.hu 25 db antigén tesztet kínál bruttó 39 900 Ft-ért. Ez elegendő arra, hogy egy 5 fős cég 5 héten át heti egyszer le tudja teszteltetni a dolgozóit. Ugyanez az előbbi teszteket használva 150–200 ezer Ft-ba kerülne.
+
+
+    Egy 50 fős intézmény, ha 9 doboz (225 db) Clungene antigén tesztet vásárol, annak darabja csupán 1496 Ft-ba kerül. Ezzel 1 hónapon át az összes dolgozó heti tesztelése megvalósítható. Miért fizetne bármely cég 4–5-ször annyit ugyanezért?
+
+
+    Ugyanez a helyzet a szerológiai tesztek esetében is: a nagyobb kiszerelés sokkal gazdaságosabb választás a rendszeres teszteléshez.
+
+    </details>
+
+
+    <details>
+
+    <summary>Miért a Clungene?</summary>
+
+
+    * Az egyik első Európában és Magyarországon forgalomba hozott márkáról van szó – a Clungene tesztek beváltották a hozzájuk fűzött reményeket.
+
+    * E teszteket már állami közbeszerzések keretében is értékesítettük.
+
+    * A Clungene gyorsteszteket számos más európai országban is rendszeresen használják.
+
+    * A legnagyobb hazai gyógyszertár-hálózatok és kórházak is az állandó vevőink közt vannak.
+
+    </details>
   highlight: ""
 news:
   - subtitle: ""

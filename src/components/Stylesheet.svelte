@@ -230,7 +230,7 @@
 	}
 
 	article aside {
-		margin: var(--gutter) var(--gutter2-) 0;
+		margin: var(--gutter2) var(--gutter2-) 0;
 		display: grid;
 		grid-gap: var(--gutter2);
 		grid-template-columns: repeat(auto-fit, minmax(33ch, 1fr));
@@ -327,6 +327,9 @@
 
 	details[open] {
 		padding-bottom: var(--gutterx);
+	}
+	summary {
+		font-weight: bolder;
 	}
 
 	/* :global(aside) figcaption {
