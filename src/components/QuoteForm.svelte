@@ -51,11 +51,14 @@ function gtag_report_conversion(url) {
 -->
 <article>
 	<h2><center>{post.heading}</center></h2>
+	<p><b><center>{post.subhead}</center></b></p>
 	{@html _md(post.text)}
 </article>
 
 <article>
-
+	<h2><center>{post.formtitle}</center></h2>
+	<p><b><center>{post.formdesc}</center></b></p>
+	
 	<form name="quoteform" method="POST" action="/thankyou#content">
 		<!-- <fieldset> -->
 		<input type='hidden' name='form-name' value='quoteform' />
