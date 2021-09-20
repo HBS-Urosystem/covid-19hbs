@@ -305,7 +305,7 @@
 	nav div {
 		width: inherit;
 	}
-	h5, button {
+	/*h5, */button {
 		position: absolute;
 		top: 84.78px;
 		/* bottom: .5rem; */
@@ -314,7 +314,7 @@
 		/*font-size: larger;*/
 		background-color: var(--dark);
 	}
-	h5 a, button a {
+	/*h5 a, */button a {
 		/*margin-left: -50%;
 		background-color: var(--dark);
 		border-width: 2px 4px;
@@ -325,7 +325,7 @@
 		white-space: nowrap;
 		margin: 0 -2px;
 	}
-	h5 :global(svg), button :global(svg) {
+	/*h5 :global(svg), */button :global(svg) {
 		display: inline;
 		fill: var(--light);
     vertical-align: text-bottom;
