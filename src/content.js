@@ -2,7 +2,7 @@
 import _ from 'lodash'
 //import index from '../content/pages/*/index.md'
 import all from '../content/pages/*/*.hu.md'
-import collections from '../content/collections/*.hu.md'
+//import collections from '../content/collections/*.hu.md'
 //import all from '../content/*/*/*.md'
 export const posts = _.chain(all)
 	.map(transform)

@@ -54,8 +54,8 @@
 			{/if}
 
 			<li>
-				<a rel="prefetch" aria-current="{$type == 'news' ? 'page' : undefined}" href="{pages.news[$lang].slug}">
-					<span>{pages.news[$lang].menutitle}</span>
+				<a rel="prefetch" aria-current="{$type == 'newslist' ? 'page' : undefined}" href="{pages.newslist[$lang].slug}">
+					<span>{pages.newslist[$lang].menutitle}</span>
 				</a>
 			</li>
 

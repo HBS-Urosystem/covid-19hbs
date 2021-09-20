@@ -1,6 +1,6 @@
 ---
 type: news
-title: Támadnak a mutánsok?
+title: Támadnak aaa mutánsok?
 menutitle: Támadnak a mutánsok?
 subtitle: ""
 slug: "{{menutitle}}"

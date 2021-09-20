@@ -157,8 +157,12 @@
 {/if}
 
 
-{#if post.type == 'news'}
+{#if post.type == 'newslist'}
 <News {post}/>
+{/if}
+
+{#if post.type == 'news'}
+<Index {post}/>
 {/if}
 
 {#if post.type == 'distributor'}
@@ -210,7 +214,7 @@
 </article>
 {/if}
 
-{#if post.list && post.type != 'news'}
+{#if post.list && post.type != 'newslist'}
 <List {post}/>
 {/if}
 <!-- 
