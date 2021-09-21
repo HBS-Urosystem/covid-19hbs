@@ -15,12 +15,6 @@ list:
       a vírus visszatért és ismét terjed. Érdemes azonban részletesebben is
       megvizsgálni: tényleg ugyanaz történik-e, mint 2020-ban, vagy vannak
       lényeges különbségek?"
-  - title: Támadnak a mutánsok?
-    text: Miben mások a vírus alfa, delta és más variánsai? Mekkora fenyegetést
-      jelentenek ezek az emberekre nézve? Ebben az írásban összefoglaltuk a
-      legfontosabb tudnivalókat.
-    link: mutansok
-    date: 2021-07-19T16:04:43.902Z
   - title: Páramentes védőszemüveg
     text: >
       A COVID-19 tesztekkel való vizsgálat végzéséhez ajánlott termék, amelyet
@@ -29,6 +23,12 @@ list:
       CE tanúsítvánnyal rendelkezik, a jogszabályokban foglalt előírásoknak megfelel.
     link: vedoszemuveg
     date: 2021-07-19T16:04:43.917Z
+  - title: Támadnak a mutánsok?
+    text: Miben mások a vírus alfa, delta és más variánsai? Mekkora fenyegetést
+      jelentenek ezek az emberekre nézve? Ebben az írásban összefoglaltuk a
+      legfontosabb tudnivalókat.
+    link: mutansok
+    date: 2021-07-19T16:04:43.902Z
   - date: 2021-07-19T16:49:07.243Z
     text: Szerencsére egyre több ember kapja meg a COVID-19 vakcinát, amely hosszabb
       időre védettséget nyújt a vírus ellen. Ezért érdemes néhány a

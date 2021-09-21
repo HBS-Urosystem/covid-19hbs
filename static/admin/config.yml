@@ -351,7 +351,7 @@ collections:
 
   - label: News
     name: news
-    folder: content/news
+    folder: content/pages/news
     create: true
     label_singular: Post
     identifier_field: menutitle

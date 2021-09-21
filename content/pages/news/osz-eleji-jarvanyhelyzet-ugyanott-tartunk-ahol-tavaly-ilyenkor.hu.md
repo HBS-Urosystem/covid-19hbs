@@ -1,9 +1,10 @@
 ---
 type: news
-slug: osz-eleji-jarvanyhelyzet-2021
 title: "Ősz eleji járványhelyzet: ugyanott tartunk, ahol tavaly ilyenkor? "
 menutitle: "Ősz eleji járványhelyzet: ugyanott tartunk, ahol tavaly ilyenkor? "
+slug: osz-eleji-jarvanyhelyzet-2021
 date: 2021-09-20T16:55:29.372Z
+active: true
 link: osz-eleji-jarvanyhelyzet-2021
 ---
 **Bár voltak szakemberek, akik korábban azt nyilatkozták, Magyarországon nem lesz a COVID-19-nek negyedik hulláma, a jelenlegi adatok e jóslatokat egyértelműen megcáfolják. Az új megbetegedések száma ismét rendszeresen meghaladja a napi 300 főt – erre utoljára május végén volt példa. Úgy tűnik, hasonló a helyzet, mint egy évvel ezelőtt: a „nyári szabadság” után a vírus visszatért és ismét terjed. Érdemes azonban részletesebben is megvizsgálni: tényleg ugyanaz történik-e, mint 2020-ban, vagy vannak lényeges különbségek?**
