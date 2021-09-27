@@ -35,20 +35,21 @@
 		</ol>
 	</li>
 </ul>
-<p>A tesztelésben segítünk.</p>
+<h2>A tesztelésben segítünk.</h2>
 <button><a href="/" rel="external">Hogyan?</a></button>
 </aside>
 <style>
 	aside {
 		background-color: var(--light50);
     background-image: linear-gradient(315deg, var(--light50) 0%, var(--txt50));
-		padding-bottom: var(--gutter);
+		padding-bottom: var(--gutter2);
 		display: flex;
     flex-direction: column;
     margin: 0 auto;
     width: fit-content;
 	}
 	h1,
+	h2,
 	p {
 		text-align: center;
 	}
@@ -61,7 +62,7 @@
 	h1 {
 		font-size: 2.8em;
 		font-weight: 700;
-		margin: 0 0 0.5em 0;
+		margin: 1em 0 0.5em 0;
 	}
 
 	p {
