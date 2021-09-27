@@ -330,6 +330,7 @@
 	}
 	summary {
 		font-weight: bolder;
+		cursor: pointer;
 	}
 
 	/* :global(aside) figcaption {
