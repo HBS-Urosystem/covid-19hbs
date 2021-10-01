@@ -53,6 +53,14 @@
 			</li>
 			{/if}
 
+			{#if pages.utmutato[$lang]}
+			<li>
+				<a rel="prefetch" aria-current="{$type == 'utmutato' ? 'page' : undefined}" href="{pages.utmutato[$lang].slug}">
+					<span>{pages.utmutato[$lang].menutitle}</span>
+				</a>
+			</li>
+			{/if}
+
 			<li>
 				<a rel="prefetch" aria-current="{$type == 'newslist' ? 'page' : undefined}" href="{pages.newslist[$lang].slug}">
 					<span>{pages.newslist[$lang].menutitle}</span>
