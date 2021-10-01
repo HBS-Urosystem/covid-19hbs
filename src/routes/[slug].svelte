@@ -177,6 +177,10 @@
 <Index {post}/>
 {/if}
 
+{#if post.type == 'utmutato'}
+<Index {post}/>
+{/if}
+
 {#if post.type == 'product1'}
 <Index {post}/>
 {/if}

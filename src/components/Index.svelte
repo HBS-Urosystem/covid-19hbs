@@ -83,7 +83,7 @@
 
 {#if post.articles}
 {#each post.articles as article, i}
-<article>
+<article id="{article.anchor}">
 {#if article.title}
 <h2>{article.title}</h2>
 {/if}

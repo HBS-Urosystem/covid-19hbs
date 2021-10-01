@@ -106,19 +106,20 @@
 		margin: 2rem 0;
 	}
 	h2 {
-		font-size: 2.0rem;
+		font-size: 2.25rem;
 		margin: 1.75rem 0;
 		font-weight: bolder;
 	}
 	h3 {
-		font-size: 1.75rem;
+		font-size: 1.85rem;
 		margin: 1.5rem 0;
 	}
 
 	h4 {
 		font-size: 1.5rem;
 		margin: 1.25rem 0;
-		font-weight: bolder;
+		/*font-weight: bolder;*/
+		font-style: italic;
 	}
 
 	h5 {
@@ -129,7 +130,8 @@
 	h6 {
 		font-size: 1.125rem;
 		margin: .75rem 0;
-		font-weight: bolder;
+		/*font-weight: bolder;*/
+		font-style: italic;
 	}
 
 	p {
