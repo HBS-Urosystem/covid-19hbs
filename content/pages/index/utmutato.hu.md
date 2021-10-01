@@ -7,7 +7,7 @@ intro:
   highlight: Ez a dokumentum tájékoztató jellegű ajánlás; nem minősül sem
     szakorvosi, sem járványügyi tanácsadásnak!
   text: |-
-    Tartalom
+    **Tartalom**
 
     1. [Alapfogalmak](utmutato#alapfogalmak)
     2. [A fertőzőképes időszak, expozíciós kockázat](utmutato#kockazat)
@@ -18,7 +18,7 @@ intro:
     7. [A kontaktkutatás alapjai](utmutato#kontakt)
 news: []
 articles:
-  - title: Alapfogalmak
+  - title: 1. Alapfogalmak
     text: >-
       **SARS-CoV-2** – más néven „új koronavírus”; ez a vírus okozza azt a
       betegséget, amelyet COVID-19-nek nevezünk.
@@ -41,7 +41,7 @@ articles:
 
       **Lappangási idő** – az az időszak, amikor valaki már megfertőződött a vírussal, a COVID-19 tünetei viszont még nem jelentkeztek. A lappangási idő átlagosan **5 nap**, többnyire 3–7 nap közé esik, de lehet 1, vagy 14 nap is – idősebb korban általában hosszabb. Az egyes variánsok lappangási ideje is eltérő lehet.
     anchor: alapfogalmak
-  - title: A fertőzőképes időszak, expozíciós kockázat
+  - title: 2. A fertőzőképes időszak, expozíciós kockázat
     text: >-
       A fertőzött az expozíciós nap és a –2. nap között **nagyon kis eséllyel
       fertőző**.
@@ -100,7 +100,7 @@ articles:
 
       A nyílt tér ezt az oldalt használva maximális magassággal és szellőzéssel modellezhető.
     anchor: kockazat
-  - title: Az onset nap és az expozíciós nap meghatározása
+  - title: 3. Az onset nap és az expozíciós nap meghatározása
     text: >-
       Sok esetben az onset nap meghatározása akadályokba ütközik, az expozíciós
       nap pedig ismeretlen. Ilyenkor a következő irányelveket érdemes követni.
@@ -153,7 +153,7 @@ articles:
 
       Mindez elvezet minket a **kontaktkutatás** szükségességéhez, és a járvány elleni védekezésben betöltött **hatalmas szerepéhez** (ld. később).
     subtitle: onset
-  - title: A COVID-19 tesztek típusai
+  - title: 4. A COVID-19 tesztek típusai
     text: >-
       Számtalan fajta teszt áll már rendelkezésre, s még most is látnak
       napvilágot egyre újabb tesztelési módszerek. Ezért csak a legelterjedtebb
@@ -268,7 +268,7 @@ articles:
 
       Bár léteznek laikusok által is használható gyorstesztek, a tesztelést ennek ellenére érdemes egészségügyi szakdolgozónak végeznie. A helytelenül végzett mintavétel ugyanis helytelen eredményre vezethet, a gondatlan mintakezelés fertőzések forrása lehet, az eredmény értelmezésénél pedig figyelembe kell venni a tesztalany előtörténetét, múltbeli, illetve aktuális tüneteit is.
     anchor: tipusok
-  - title: A gyorstesztek elvégzése, az eredmények értelmezése
+  - title: 5. A gyorstesztek elvégzése, az eredmények értelmezése
     text: >-
       A mintavételezést mindig **különös gondossággal kell elvégezni**.
 
@@ -331,7 +331,7 @@ articles:
 
       * **A vakcina révén szerzett védelmet** szerológiai gyorsteszttel a második dózist követő második héten lehet kimutatni; ám az első dózist követő 2. héttől kezdve, illetve a 2. dózist követő 1. hét második felében már születhet pozitív eredmény. (Egydózisú vakcina, illetve az AstraZeneca első dózisa után 4–6. héttel később szokott pozitívvá válni a teszt).
     anchor: eredmeny
-  - title: A módszeres tesztelés alapjai
+  - title: 6. A módszeres tesztelés alapjai
     text: >-
       ### Elméleti megfontolások
 
@@ -555,7 +555,7 @@ articles:
 
       9. A már oltott, illetve korábban megfertőződött személyeket csak a c. vagy d. pontban írtaknak megfelelően, ha kontaktszemélyekké váltak, kell tesztelni, ám esetükben valószínűleg csak a PCR vagy antigén teszt fog használható információt nyújtani.
     anchor: modszeres
-  - title: A kontaktkutatás alapjai
+  - title: 7. A kontaktkutatás alapjai
     text: >-
       Az intézményen („házon belül”) végzett kontaktkutatás legfontosabb
       előfeltétele, hogy **nagy biztonsággal meg lehessen határozni az
