@@ -361,6 +361,7 @@ collections:
     label_singular: Post
     identifier_field: menutitle
     i18n: true
+    slug: "{{menutitle}}"
     fields: 
     - label: Type
       name: type
@@ -381,10 +382,6 @@ collections:
       widget: string
       required: false
       i18n: true
-    - label: Menutitle (short)
-      name: menutitle
-      widget: string
-      i18n: true
     - label: Subtitle
       name: subtitle
       widget: string
@@ -393,16 +390,10 @@ collections:
     - label: URL alias (slug)
       name: slug
       widget: string
-      default: "{{menutitle}}"
       i18n: true
     - label: Publish date
       name: date
       widget: datetime
-      i18n: duplicate
-    - label: Active
-      name: active
-      widget: boolean
-      required: false
       i18n: duplicate
     - label: Body
       name: body

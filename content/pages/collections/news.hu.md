@@ -4,6 +4,21 @@ title: Hírek, aktualitások
 slug: hirek
 menutitle: Hírek
 list:
+  - date: 2021-10-04T08:50:18.476Z
+    title: Nem tesztelünk eleget!
+    text: A legtöbb szakember egyetért abban, hogy az elsősorban a delta variáns
+      okozta negyedik hullám nem szükségszerűen lesz enyhébb a korábbiaknál.
+      Jelenleg a **módszeres tesztelés az egyik legfontosabb eszköz, hogy
+      megakadályozzuk az újabb tragédiát**.
+    link: /nem-tesztelunk-eleget
+  - title: Páramentes védőszemüveg
+    text: >
+      A COVID-19 tesztekkel való vizsgálat végzéséhez ajánlott termék, amelyet
+      raktárról tudunk szállítani.
+
+      CE tanúsítvánnyal rendelkezik, a jogszabályokban foglalt előírásoknak megfelel.
+    link: vedoszemuveg
+    date: 2021-07-19T16:04:43.917Z
   - date: 2021-09-20T16:58:47.743Z
     link: osz-eleji-jarvanyhelyzet-2021
     title: "Ősz eleji járványhelyzet: ugyanott tartunk, ahol tavaly ilyenkor? "
@@ -15,14 +30,6 @@ list:
       a vírus visszatért és ismét terjed. Érdemes azonban részletesebben is
       megvizsgálni: tényleg ugyanaz történik-e, mint 2020-ban, vagy vannak
       lényeges különbségek?"
-  - title: Páramentes védőszemüveg
-    text: >
-      A COVID-19 tesztekkel való vizsgálat végzéséhez ajánlott termék, amelyet
-      raktárról tudunk szállítani.
-
-      CE tanúsítvánnyal rendelkezik, a jogszabályokban foglalt előírásoknak megfelel.
-    link: vedoszemuveg
-    date: 2021-07-19T16:04:43.917Z
   - title: Támadnak a mutánsok?
     text: Miben mások a vírus alfa, delta és más variánsai? Mekkora fenyegetést
       jelentenek ezek az emberekre nézve? Ebben az írásban összefoglaltuk a
