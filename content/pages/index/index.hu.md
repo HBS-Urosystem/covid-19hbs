@@ -37,7 +37,7 @@ intro:
         1425 Ft + 5% ÁFA / teszt</li>
 
 
-        <li>A 25–200 db (1–8 doboz) közötti megrendeléseket hivatalos partnerünk, a <a href="https://medexim.hu/product-category/covid19-gyors-teszt//" rel="external noopener" target="_blank">medexim.hu</a> szolgálja ki.</li>
+        <li>A 25–200 db (1–8 doboz) közötti megrendeléseket hivatalos partnerünk, a <a href="https://medexim.hu/product-category/covid19-gyors-teszt/" rel="external noopener" target="_blank">medexim.hu</a> szolgálja ki.</li>
 
         </ul>
 
@@ -94,7 +94,7 @@ intro:
         1210 Ft + 5% ÁFA / teszt</li>
 
 
-        <li>A 25–200 db (1–8 doboz) közötti megrendeléseket hivatalos partnerünk, a <a href="https://medexim.hu/product-category/covid19-gyors-teszt//" rel="external noopener" target="_blank">medexim.hu</a> szolgálja ki.</li>
+        <li>A 25–200 db (1–8 doboz) közötti megrendeléseket hivatalos partnerünk, a <a href="https://medexim.hu/product-category/covid19-gyors-teszt/" rel="external noopener" target="_blank">medexim.hu</a> szolgálja ki.</li>
 
         </ul>
 

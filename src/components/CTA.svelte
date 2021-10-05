@@ -36,12 +36,12 @@
 		</h2>
 
 		<ul>
-			<li>A 25–200 db (1 doboz=25db) közötti megrendeléseket hivatalos partnerünk, a <a href="https://medexim.hu/product-category/covid19-gyors-teszt//" rel="external noopener" target="_blank"><b>medexim.hu</b></a> szolgálja ki.</li>
+			<li>A 25–200 db (1 doboz=25db) közötti megrendeléseket hivatalos partnerünk, a <a href="https://medexim.hu/product-category/covid19-gyors-teszt/" rel="external noopener" target="_blank"><b>medexim.hu</b></a> szolgálja ki.</li>
 			<li>200 db (8 doboz) feletti megrendelés esetén kérje árajánlatunkat.</li>
 		</ul>
 
 		<div slot="buttons">
-			<button><a href="https://medexim.hu/product-category/covid19-gyors-teszt//" rel="external noopener" target="_blank">Vásárlás a <u>medexim.hu</u> oldalon</a></button>
+			<button><a href="https://medexim.hu/product-category/covid19-gyors-teszt/" rel="external noopener" target="_blank">Vásárlás a <u>medexim.hu</u> oldalon</a></button>
 			<button><a href="{cta[$lang].link}">{cta[$lang].button}</a></button>
 		</div>
 	</Modal>
