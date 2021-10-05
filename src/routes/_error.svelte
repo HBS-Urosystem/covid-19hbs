@@ -36,7 +36,7 @@
 	</li>
 </ul>
 <h2>A tesztelésben segítünk.</h2>
-<button><a href="/" rel="external">Hogyan?</a></button>
+<button><a href="/">Hogyan?</a></button>
 </aside>
 <style>
 	aside {
@@ -50,9 +50,10 @@
 	}
 	h1,
 	h2,
-	p {
+	/*p {
 		text-align: center;
-	}
+		margin: 1em auto;
+	}*/
 	button {
 		margin: var(--gutter2) auto 0;
 		padding: 0 .5rem;
@@ -63,10 +64,6 @@
 		font-size: 2.8em;
 		font-weight: 700;
 		margin: 1em 0 0.5em 0;
-	}
-
-	p {
-		margin: 1em auto;
 	}
 
 	ul {

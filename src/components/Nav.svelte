@@ -100,7 +100,7 @@
 			{/if}
 
 			<li>
-				<a rel="noopener" href="https://www.facebook.com/tesztelj">
+				<a rel="external noopener" href="https://www.facebook.com/tesztelj">
 					<span>{@html svgs['FBicon']}</span>
 				</a>
 			</li>
@@ -121,19 +121,19 @@
 		<!--<ul>
 			<li>{@html svgs['Langs']}</li>
 			<li>{#if $type && pages[$type].en && pages[$type].en.slug}
-				<a rel="external" sapper-noscroll aria-current="{'en' == [$lang] ? 'page' : undefined}" href="{pages[$type].en.slug}" hreflang="en"><small>en</small></a>
+				<a sapper-noscroll aria-current="{'en' == [$lang] ? 'page' : undefined}" href="{pages[$type].en.slug}" hreflang="en"><small>en</small></a>
 			{:else}
-				<a rel="external" aria-expanded="false" href="{pages.index.en.slug}" hreflang="en"><small>en</small></a>
+				<a aria-expanded="false" href="{pages.index.en.slug}" hreflang="en"><small>en</small></a>
 			{/if}</li>
 			<li>{#if $type && pages[$type].fr && pages[$type].fr.slug}
-				<a rel="external" sapper-noscroll aria-current="{'fr' == [$lang] ? 'page' : undefined}" href="{pages[$type].fr.slug}" hreflang="fr"><small>fr</small></a>
+				<a sapper-noscroll aria-current="{'fr' == [$lang] ? 'page' : undefined}" href="{pages[$type].fr.slug}" hreflang="fr"><small>fr</small></a>
 			{:else}
-				<a rel="external" aria-expanded="false" href="{pages.index.fr.slug}" hreflang="fr"><small>fr</small></a>
+				<a aria-expanded="false" href="{pages.index.fr.slug}" hreflang="fr"><small>fr</small></a>
 			{/if}</li>
 			<li>{#if $type && pages[$type].hu && pages[$type].hu.slug}
-				<a rel="external" sapper-noscroll aria-current="{'hu' == [$lang] ? 'page' : undefined}" href="{$type == 'index' ? '/' : pages[$type].hu.slug}" hreflang="hu"><small>hu</small></a>
+				<a sapper-noscroll aria-current="{'hu' == [$lang] ? 'page' : undefined}" href="{$type == 'index' ? '/' : pages[$type].hu.slug}" hreflang="hu"><small>hu</small></a>
 			{:else}
-				<a rel="external" aria-expanded="false" href="/" hreflang="hu"><small>hu</small></a>
+				<a aria-expanded="false" href="/" hreflang="hu"><small>hu</small></a>
       {/if}</li>
 		</ul>-->
 	</div>
