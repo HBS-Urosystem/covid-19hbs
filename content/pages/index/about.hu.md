@@ -34,7 +34,7 @@ articles:
       népegészségügyi célokra.
     subtitle: Társadalmi felelősségvállalásunk
   - subtitle: További Információk a HBS Medical Kft-ről
-    text: <a href="https://www.hbs.hu" target="_blank" rel="noopener">www.hbs.hu</a>
+    text: <a href="https://www.hbs.hu" target="_blank" rel="external noopener">www.hbs.hu</a>
 references:
   links:
     - url: https://www.affidea.hu/covid-19-szures

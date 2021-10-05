@@ -260,7 +260,7 @@ documents:
 
     Notre entreprise a fait plusieurs fois don de tests rapides à des municipalités et à d'autres institutions, à des fins de recherche scientifique, sociale et de santé publique.
 ---
-##### Clungene COVID-19 Antigen Rapid Test Cassette, whose exclusive Hungarian distributor is our company, is present on the <a href="https://ec.europa.eu/health/sites/health/files/preparedness_response/docs/covid-19_rat_common-list_en.pdf" target="_blank" rel="noopener">Common list of COVID-19 rapid antigen tests</a>, including those of which their test results are mutually recognized” in the European Union. This list has been compiled by the European Commission Directorate-General For Health And Food Safety. Only tests of excellent sensitivity and specificity, with proper documentation can be added to this list.
+##### Clungene COVID-19 Antigen Rapid Test Cassette, whose exclusive Hungarian distributor is our company, is present on the <a href="https://ec.europa.eu/health/sites/health/files/preparedness_response/docs/covid-19_rat_common-list_en.pdf" target="_blank" rel="external noopener">Common list of COVID-19 rapid antigen tests</a>, including those of which their test results are mutually recognized” in the European Union. This list has been compiled by the European Commission Directorate-General For Health And Food Safety. Only tests of excellent sensitivity and specificity, with proper documentation can be added to this list.
 
 - - -
 

@@ -36,7 +36,7 @@ list:
 
         A folytonos vonal az előző 7 nap adatainak átlagát mutatja be; ennek segítségével könnyebben áttekinthető az új esetek számának alakulása. Forrás: telex.hu (a koronavirus.gov.hu adatai alapján)<br><br>
 
-        Aki a COVID-19-cel kapcsolatos nemzetközi adatok után is érdeklődik, azokat többek között a https://ourworldindata.org/coronavirus/ oldalon tudja megtalálni. Bármelyik állam statisztikái megtekinthetőek, a magyar adatok ide kattintva nézhetőek meg: <a href="https://ourworldindata.org/coronavirus/country/hungary?country=~HUN" rel="noopener" target="_blank">link</a>
+        Aki a COVID-19-cel kapcsolatos nemzetközi adatok után is érdeklődik, azokat többek között a https://ourworldindata.org/coronavirus/ oldalon tudja megtalálni. Bármelyik állam statisztikái megtekinthetőek, a magyar adatok ide kattintva nézhetőek meg: <a href="https://ourworldindata.org/coronavirus/country/hungary?country=~HUN" rel="external noopener" target="_blank">link</a>
 
         </figcaption>
 
