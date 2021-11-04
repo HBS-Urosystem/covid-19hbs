@@ -124,16 +124,19 @@ intro:
     ### A legjobb választás cégek, egészségügyi intézmények számára
 
 
-    **Itt a COVID, itt van újra…**
+    **Úton a következő tragédia felé?**
 
 
-    Ahogy azt már nyáron is sejteni lehetett, a delta variáns elhozta a világjárvány negyedik hullámát. Szeptember elején hazánkban ismét átlépte az új esetek száma a 200-at, más országokban pedig ennél is jóval több fertőzöttet regisztráltak. Az oltási program megtorpant; a nyájimmunitás nem fog megvalósulni.
+    Október elején napi 500–600 új fertőzöttről szóltak a hírek. Egy hónappal később már naponta 2000–4000 új esetet regisztráltak. A kórházba kerülő fertőzöttek száma elérte a május első felében tapasztalt szintet. **A világjárvány negyedik hulláma már nem lehetőség, hanem keserű valóság.**
 
 
-    **Kezdődik minden elölről?** Újra jönnek a hosszú hónapokig tartó korlátozások?
+    A szakértők többsége egyet ért abban, hogy jelenleg **a vakcina a COVID-19 elleni védekezés legfontosabb eszköze**. Ezt támasztja alá az is, hogy a vírus mostani hulláma különösen azon országokban pusztító, ahol alacsony az átoltottság. A hazai oltási program tavasszal nagyon jól haladt – azonban az első két őszi hónap során 200 ezernél is kevesebben vették fel a vakcina első dózisát. Elképzelhető, hogy a jelenleg életben lévő és a későbbi intézkedések hatására ismét felgyorsul az oltási program, ám a védettek aránya valószínűleg **még ekkor sem fogja elérni a nyájimmunitáshoz szükséges szintet**.
 
 
-    **Nem – ha még idejében elkezdjük a módszeres tesztelést!** Ha még viszonylag alacsony esetszám mellett sikerül azonosítani az érintetteket, azok elkülönítésével megakadályozható a járványgócok kialakulása és az olyan magas esetszám, hogy a vírust ismét csak kemény korlátozásokkal lehet megakadályozni.
+    Ugyanakkor, a szakértők azt is hangsúlyozzák: **nem szabad a vakcinára, mint a védekezés egyetlen eszközére tekinteni**. Továbbra is **nélkülözhetetlen** volna a zárt helyeken való maszkviselés, illetve **a rendszeres és módszeres tesztelés**. Az érintettek azonosításával és elkülönítésével nemcsak a járvány terjedését lehet lelassítani, hanem annak az esélyét is meg lehet növelni, hogy a (még) oltatlan embereket meg lehessen védeni.
+
+
+    Kulcsfontosságú, hogy **a védekezés összes eszközét igénybe vegyük!** Ha ugyanis ismét hagyjuk a vírust elszabadulni, elképzelhető, hogy visszatérnek a hosszú hónapokig tartó kemény korlátozások – amelyek egy évvel ezelőtt is csak több tízezer áldozat árán fékezték meg a járványt.
 
 
     ### Cégek, intézmények számára a Clungene gyorstesztek jelentik az olcsó és hatékony megoldást a módszeres és rendszeres teszteléshez!
@@ -152,6 +155,7 @@ intro:
 
     Ugyanez a helyzet a szerológiai tesztek esetében is: a nagyobb kiszerelés sokkal gazdaságosabb választás a rendszeres teszteléshez.
 
+
     </details>
 
 
@@ -167,8 +171,6 @@ intro:
     * A Clungene gyorsteszteket számos más európai országban is rendszeresen használják.
 
     * A legnagyobb hazai gyógyszertár-hálózatok és kórházak is az állandó vevőink közt vannak.
-
-    </details>
   highlight: ""
 news:
   - subtitle: ""
