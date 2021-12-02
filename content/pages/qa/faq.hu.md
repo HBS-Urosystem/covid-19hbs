@@ -54,7 +54,7 @@ list:
 
         * A teszt elvégzésekor figyelni kell nemcsak az alapvető higiéniára, hanem a járvánnyal kapcsolatos ajánlásokra, előírásokra is. Különösen igaz ez akkor, ha valaki a tesztet egy másik személyen végzi el – **a gondatlan használat könnyen vezethet egymás megfertőzéséhez**!
 
-        * A teszt során használt eszközök, illetve maga a minta is biológiai szempontból véve **veszélyes hulladéknak minősülnek**. A fertőzött személytől levett orrnyálkahártya-, orrgarat-, vagy szájgaratnyálkahártya-minta maga is tartalmazza a vírust, ezért **a fertőzés lehetséges forrásának tekinthető**! Mivel a SARS-CoV-2 nem vérrel terjed, az ilyen mintától a COVID-19-et nem lehet elkapni – ugyanez azonban nem mondható el számos más, vérrel (is) terjedő fertőző betegségről.
+        * A teszt során használt eszközök, illetve maga a minta is biológiai szempontból véve **veszélyes hulladéknak minősülnek**. A fertőzött személytől levett orrnyálkahártya-, orrgarat- vagy szájgaratnyálkahártya-minta maga is tartalmazza a vírust, ezért **a fertőzés lehetséges forrásának tekinthető**! Mivel a SARS-CoV-2 nem vérrel terjed, az ilyen mintától a COVID-19-et nem lehet elkapni – ugyanez azonban nem mondható el számos más, vérrel (is) terjedő fertőző betegségről.
       anchor: kik-vegezhetik
   - object:
       question: Azt hallottam, a gyorstesztek megbízhatatlanok. Miért mondják ezt?
