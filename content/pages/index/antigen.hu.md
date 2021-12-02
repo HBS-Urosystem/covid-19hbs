@@ -25,7 +25,7 @@ articles:
   - text: >-
       * Lényegesen olcsóbb, mint a PCR teszt.
 
-      * A mintavétel orrnyálkahártyából is elvégezhető, nemcsak orrgarat- vagy szájgarat-nyálkahártyából
+      * A mintavétel orrnyálkahártyából is elvégezhető, nem csak orrgarat- vagy szájgarat-nyálkahártyából
 
       * Bárhol el lehet végezni, akár egy vállalat vagy intézmény megfelelő helyiségében is.
 
