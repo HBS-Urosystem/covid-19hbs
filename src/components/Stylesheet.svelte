@@ -167,6 +167,7 @@
     min-width: 100%;
 		max-width: 100%;
 		line-height: normal;
+		margin: 0 0 .75rem;
 	}
 	tr {
     vertical-align: top;

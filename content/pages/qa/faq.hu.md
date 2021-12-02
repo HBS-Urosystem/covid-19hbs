@@ -54,7 +54,7 @@ list:
 
         * A teszt elvégzésekor figyelni kell nemcsak az alapvető higiéniára, hanem a járvánnyal kapcsolatos ajánlásokra, előírásokra is. Különösen igaz ez akkor, ha valaki a tesztet egy másik személyen végzi el – **a gondatlan használat könnyen vezethet egymás megfertőzéséhez**!
 
-        * A teszt során használt eszközök, illetve maga a minta is biológiai szempontból véve **veszélyes hulladéknak minősülnek**. A fertőzött személytől levett orrgarat-, vagy szájgarat-nyálkahártya minta maga is tartalmazza a vírust, ezért **a fertőzés lehetséges forrásának tekinthető**! Mivel a SARS-CoV-2 nem vérrel terjed, az ilyen mintától a COVID-19-et nem lehet elkapni – ugyanez azonban nem mondható el számos más, vérrel (is) terjedő fertőző betegségről.
+        * A teszt során használt eszközök, illetve maga a minta is biológiai szempontból véve **veszélyes hulladéknak minősülnek**. A fertőzött személytől levett orr-, orrgarat-, vagy szájgaratnyálkahártya-minta maga is tartalmazza a vírust, ezért **a fertőzés lehetséges forrásának tekinthető**! Mivel a SARS-CoV-2 nem vérrel terjed, az ilyen mintától a COVID-19-et nem lehet elkapni – ugyanez azonban nem mondható el számos más, vérrel (is) terjedő fertőző betegségről.
       anchor: kik-vegezhetik
   - object:
       question: Azt hallottam, a gyorstesztek megbízhatatlanok. Miért mondják ezt?
@@ -414,10 +414,10 @@ list:
         Első ránézésre lesújtónak tűnik, hogy ebben az esetben 84,48% annak az esélye, hogy a teszt tévesen jelzett fertőzöttséget. **A jelenség hátterében azonban nem a tesztek használhatatlansága, hanem a statisztika áll. Alacsony átfertőzöttség esetén kevéssé érvényesül a teszt *szenzitivitása* és *specificitása***, mivel a mindössze 10%-nyi „specificitási hibához” hatalmas mennyiségű adat tartozik (a rengeteg nem fertőzött ember), míg a 90%-nyi szenzitivitáshoz nagyon kevés (a néhány fertőzött).
 
 
-        A pandémia elején ezek a szerológiai tesztekkel kapcsolatos aggályok valóban jogosnak tűntek. Sajnos azonban a COVID-19 járvány már a 2020. őszi második hullám idején olyan méreteket öltött, hogy hatalmas hiba volna 2%-nak tekinteni az átfertőzöttséget.
+        A pandémia elején ezek a szerológiai tesztekkel kapcsolatos aggályok valóban jogosnak tűntek. Sajnos azonban 2020 őszétől kezdve rengeteg olyan, hónapokig tartó időszak volt már, amikor az átfertőzöttség messze meghaladta a 2%-ot. 
 
 
-        Ennek tükrében – a részletes levezetést immáron mellőzve – érdemes megszemlélni a következő adatokat is: 
+        Az egyes vírushullámok részletes elemzése nélkül is érdemes megszemlélni, mennyire befolyásolja a szerológiai tesztek használhatóságát az átfertőzöttség mértéke. 
 
 
         * Ha a teszt specificitás és szenzitivitás értékét 95%-ra emeljük, változatlan átfertőzöttség mellett a pozitív prediktív érték továbbra is csupán 27,94%, a negatív prediktív érték pedig 99,89%.
@@ -427,6 +427,8 @@ list:
         * 4%-os átfertőzöttség és 95–95%-os szenzitivitás és specificitás mellett a prediktív értékek 44,19%, illetve 99,78%.
 
         * Ha viszont 10%-os átfertőzöttséggel számolunk 90–90%-os specificitás és szenzitivitás mellett, a pozitív prediktív érték 50,00%, míg a negatív prediktív érték 98,78% – 95–95%-os specificitás és szenzitivitás esetén pedig 67,86%, illetve 99,42%.
+
+        * Elérve a 20%-os átfertőzöttséget a pozitív prediktív érték már több mint 69% lesz, a negatív prediktív érték pedig még mindig 97% felett marad, még akkor is, ha 90%-os specificitással és szenzitivitással számolunk.
 
 
         Mindebből kitűnik, hogy a pozitív prediktív értékre **az átfertőzöttség legalább olyan nagy hatást gyakorol, mint a kérdéses teszt specificitás és szenzitivitás adatai**. 

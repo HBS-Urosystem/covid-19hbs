@@ -19,7 +19,8 @@
 		return { post: findPost(page.params.slug || 'hu') }
 	}
 	function _md(it) {
-		return converter.makeHtml(it)
+		//return converter.makeHtml(it)
+		return converter.makeHtml(it).replace('href="http', 'rel="external noopener" target="_blank" href="http')
 	}
 </script>
 

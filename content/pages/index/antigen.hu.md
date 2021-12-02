@@ -25,6 +25,8 @@ articles:
   - text: >-
       * Lényegesen olcsóbb, mint a PCR teszt.
 
+      * A mintavétel orrnyálkahártyából is elvégezhető, nemcsak orrgarat- vagy szájgarat-nyálkahártyából
+
       * Bárhol el lehet végezni, akár egy vállalat vagy intézmény megfelelő helyiségében is.
 
       * Az elvégzéséhez nincs szükség semmilyen berendezésre, sem további fogyóeszközökre.
@@ -57,11 +59,10 @@ articles:
       Nem ajánlott az antigén-gyorsteszt használata, ha a tünetek már régóta fennállnak – ilyenkor a teszt már kevésbé megbízható –, és régebben lezajlott COVID-19 fertőzést sem lehet igazolni vele. Ilyen esetekben a szerológiai gyorsteszt alkalmazása javasolt.
     title: Kik számára ajánlott az antigén-gyorsteszt elvégzése?
   - text: >-
-      A teszt elvégzéséhez – a PCR módszerhez hasonlóan – a vizsgált személy
-      **orrgarat-**, illetve **szájgarat-nyálkahártyájából kell mintát venni**.
-      A mintát néhány egyszerű, <!--a tesztet elvégző egészségügyi dolgozó által
-      elvégzett, -->előkészítő lépést követően a tesztkazettára helyezve az
-      eredmény 15 perc múlva látható.
+      A teszt elvégzéséhez a vizsgált személy **orrnyálkahártyájából
+      vagy orrgarat-**, illetve **szájgarat-nyálkahártyájából kell mintát
+      venni**. A mintát néhány egyszerű, előkészítő lépést követően a
+      tesztkazettára helyezve az eredmény 15 perc múlva látható.
 
 
       A tesztelést bárhol el lehet végezni, ahhoz további anyagokra és berendezésekre nincs szükség.

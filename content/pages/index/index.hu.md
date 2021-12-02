@@ -9,6 +9,9 @@ intro:
     - src: /uploads/003v1.jpg
       alt: Clungene® COVID-19 antigén gyorsteszt
       text: >-
+        ##### Fertőzött vagy sem?
+
+
         ### Clungene® COVID-19 antigén gyorsteszt
 
 
@@ -16,7 +19,7 @@ intro:
 
         <dt>Mire jó?</dt>
 
-        <dd>A COVID-19 fertőzés korai szakaszának kimutatására</dd>
+        <dd>A COVID-19 fertőzés korai szakaszának kimutatására, amikor a fertőzött maga is a legnagyobb eséllyel fertőzőképes</dd>
 
 
         <dt>Mennyibe kerül?</dt>
@@ -46,23 +49,31 @@ intro:
 
         <dt>Kiknek ajánljuk?</dt>
 
-        <dd>Azoknak, akik mert igazolt fertőzöttel találkoztak, illetve mert tüneteket tapasztalnak, fennáll a COVID-19 fertőzés veszélye. Antigén gyorsteszttel nagyobb közösségek idő- és költséghatékony rendszeres szűrése is megvalósítható. Emellett, minden olyan esetben alkalmazható, ha az eredmény ismerete sürgős.</dd>
+        <dd>Azoknak, akiknél fennáll a COVID-19 fertőzés veszélye, mert igazolt fertőzöttel találkoztak, illetve mert tüneteket tapasztalnak. Antigén gyorsteszttel nagyobb közösségek idő- és költséghatékony rendszeres szűrése is megvalósítható. Emellett minden olyan esetben alkalmazható, ha az eredmény ismerete sürgős.</dd>
 
 
         <dd><small><b>Szenzitivitás: </b>
 
-        92,0–98%. </small></dd>
+        91,4–98,0%. </small></dd>
 
         <dd><small><b>Specificitás: </b>
 
-        99,7%.</small></dd>
+        99,4–99,7%.</small></dd>
 
         </dl>
+
+
+        <h5>Újdonság!</h5>
+
+        <p>Az új Clungene® COVID-19 antigén gyorstesztet használva a mintavételezés már orrnyálkahártyából is elvégezhető (nem csak orrgarat-, vagy szájgarat-nyálkahártyából)!</p>
       link: /antigen-teszt
       cta: Részletek
     - src: /uploads/004v1.jpg
       alt: Clungene® COVID-19 IgG/IgM gyorsteszt
       text: >-
+        ##### Ellenanyag: van vagy nincs?
+
+
         ### Clungene® COVID-19 szerológiai (IgG/IgM) gyorsteszt
 
 
@@ -103,12 +114,12 @@ intro:
 
         <dt>Kiknek ajánljuk?</dt>
 
-        <dd>Azoknak, akiknél a COVID-19 tünetei 7 napja vagy régebben jelentkeztek, illetve akik 10–14 nappal korábban igazolt fertőzöttel találkoztak, hogy megtudják, elkapták-e a vírust. Azoknak, akik kíváncsiak rá, kialakult-e a vakcina hatására a védettségük. Szerológiai gyorsteszttel nagyobb közösségek idő- és költséghatékony rendszeres szűrése is megvalósítható.</dd>
+        <dd>Mindenkinek, aki tudni szeretné, van-e ellenanyaga a vírussal szemben, függetlenül attól, hogy az fertőzés, vagy vakcina hatására képződött. Az ellenanyag megléte utal a szervezet védettségére.  Szerológiai gyorsteszttel nagyobb közösségek idő- és költséghatékony rendszeres szűrése is megvalósítható.</dd>
 
 
         <dd><small><b>Szenzitivitás: </b>
 
-        86.6%; a tünetek megjelenését követő 8. naptól kezdve 90% feletti. </small></dd>
+        86.6%; a tünetek megjelenését követő 8. naptól 90% feletti. </small></dd>
 
         <dd><small><b>Specificitás: </b>
 
@@ -124,19 +135,22 @@ intro:
     ### A legjobb választás cégek, egészségügyi intézmények számára
 
 
-    **Úton a következő tragédia felé?**
+    **Kezdődik minden elölről?**
 
 
-    Október elején napi 500–600 új fertőzöttről szóltak a hírek. Egy hónappal később már naponta 2000–4000 új esetet regisztráltak. A kórházba kerülő fertőzöttek száma elérte a május első felében tapasztalt szintet. **A világjárvány negyedik hulláma már nem lehetőség, hanem keserű valóság.**
+    Negyedik hullám. 10 000-nél is több új fertőzött naponta. Delta variáns. Omikron variáns. Túl alacsony átoltottság. Múlik a vakcinák hatása. Európa ismét zár.
 
 
-    A szakértők többsége egyet ért abban, hogy jelenleg **a vakcina a COVID-19 elleni védekezés legfontosabb eszköze**. Ezt támasztja alá az is, hogy a vírus mostani hulláma különösen azon országokban pusztító, ahol alacsony az átoltottság. A hazai oltási program tavasszal nagyon jól haladt – azonban az első két őszi hónap során 200 ezernél is kevesebben vették fel a vakcina első dózisát. Elképzelhető, hogy a jelenleg életben lévő és a későbbi intézkedések hatására ismét felgyorsul az oltási program, ám a védettek aránya valószínűleg **még ekkor sem fogja elérni a nyájimmunitáshoz szükséges szintet**.
+    **Hát sosem lesz már ennek vége?**
 
 
-    Ugyanakkor, a szakértők azt is hangsúlyozzák: **nem szabad a vakcinára, mint a védekezés egyetlen eszközére tekinteni**. Továbbra is **nélkülözhetetlen** volna a zárt helyeken való maszkviselés, illetve **a rendszeres és módszeres tesztelés**. Az érintettek azonosításával és elkülönítésével nemcsak a járvány terjedését lehet lelassítani, hanem annak az esélyét is meg lehet növelni, hogy a (még) oltatlan embereket meg lehessen védeni.
+    Joggal vetődik fel sokakban az előbbi kérdés, hiszen lassan két éve nyomja rá a bélyegét a világjárvány az életünkre. 
 
 
-    Kulcsfontosságú, hogy **a védekezés összes eszközét igénybe vegyük!** Ha ugyanis ismét hagyjuk a vírust elszabadulni, elképzelhető, hogy visszatérnek a hosszú hónapokig tartó kemény korlátozások – amelyek egy évvel ezelőtt is csak több tízezer áldozat árán fékezték meg a járványt.
+    Néhány dolgot azonban ki kell emelni. Egyrészt, e hullám során az új fertőzöttek száma valóban kiugróan magas, ám **kórházi kezelésre lényegesen kevesebben szorulnak** – ami **pontosan a védőoltásnak köszönhető**. Másrészt viszont, még ha rövidebb ideig és kisebb eséllyel is, de az oltottak is fertőzőképesek lehetnek – még akkor is, ha ők maguk tünetmentesek, vagy csupán enyhe tüneteket tapasztalnak.
+
+
+    Ebből következően **a rendszeres tesztelés továbbra is kiemelkedő szerepet játszik a COVID-19 elleni védekezésben**. Minél több embert tesztelünk le, annál több fertőzöttet azonosítunk – s annál nagyobb eséllyel tudjuk megakadályozni a járványgócok kialakulását.
 
 
     ### Cégek, intézmények számára a Clungene gyorstesztek jelentik az olcsó és hatékony megoldást a módszeres és rendszeres teszteléshez!

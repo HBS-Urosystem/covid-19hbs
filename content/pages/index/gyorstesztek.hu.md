@@ -14,18 +14,19 @@ intro:
 news: []
 info:
   text: >-
-    **Az antigén gyorsteszt a friss fertőzés kimutatására, míg a szerológiai
-    teszt a folyamatban lévő, vagy a múltban – akár tünetmentesen – lezajlott
-    fertőzés kimutatására szolgál.** A szerológiai teszt lehetőséget nyújt a
-    védőoltások után a szervezet által a SARS-CoV-2 vírus ellen a szervezet
-    által termelt antitestek kimutatására is.
+    **Az antigén gyorsteszt a friss fertőzés kimutatására szolgál – abban az
+    időszakban, amikor a fertőzött maga is a legnagyobb eséllyel fertőzőképes
+    – , míg a szerológiai teszt a folyamatban lévő, vagy a múltban – akár
+    tünetmentesen – lezajlott fertőzés kimutatására alkalmas.** A szerológiai
+    teszt lehetőséget nyújt a védőoltások után a szervezet által termelt
+    antitestek kimutatására is.
 
 
     * Ha Ön még nincs beoltva, ellenőrizze a vírus esetleges megjelenését a szervezetében az antigén gyorsteszttel!
 
-    * Ha már megkapta a COVID-19 elleni, védőoltás típusától függően egy vagy két oltását, ellenőrizze, megjelentek-e az antitestek a szervezetében!
+    * Ha már megkapta a COVID-19 elleni oltás egy vagy több dózisát, ellenőrizze, megjelentek-e az antitestek a szervezetében!
 
-    * A jelenleg ismert szakirodalmi adatok alapján a beoltottak bizonyos hányadának újrafertőződése, illetve a beoltottak esetében a vírus tünetmentes továbbadása nem zárható ki. Ezért a nem beoltottak, illetve a már beoltottak antigén gyorsteszttel végzett ellenőrzése tovább csökkentheti egy helyi járványgóc kialakulásának esélyét.
+    * A jelenleg ismert szakirodalmi adatok alapján az oltottak bizonyos hányadának újrafertőződése, illetve a beoltottak esetében a vírus tünetmentes továbbadása nem zárható ki. Ezért a nem oltottak, illetve az oltottak antigén gyorsteszttel végzett ellenőrzése tovább csökkentheti egy helyi járványgóc kialakulásának esélyét.
 articles:
   - text: >-
       <figure>
@@ -64,6 +65,9 @@ articles:
 
 
       <p>A tünetek a megfertőződést követően 2–14 nap múlva, rendszerint 5–6 nap elteltével jelentkeznek. Az ezt megelőző, úgynevezett lappangási időszakot jelöli az időskála 0-t megelőző (negatív számokkal jelzett) része. Ekkor még teszt nem mutatja ki kellő biztonsággal a vírust, igaz, a lappangási időszak nagyobb hányadában a megfertőződött személy valószínűleg még nem terjeszti a COVID-19-et, mert még csak kevés vírus van a szervezetőben.</p>
+
+
+      <p><b>Figyelem!</b> A lappangási időszak, a fertőzőképes időintervallum, illetve a betegség lefolyásának hossza a vírus variánsától, az egyén életkorától és egészségi állapotától, illetve a tünetek súlyosságától is függ.</p>
 
 
       </details>
@@ -123,15 +127,15 @@ articles:
 
       </td>
 
-      <td>Orrgarat-, illetve szájgarat-nyálkahártyából
+      <td>Általában orrgarat-, illetve szájgarat-nyálkahártyából
 
       </td>
 
-      <td>Orrgarat-, illetve szájgarat-nyálkahártyából
+      <td>Orrgarat-/szájgarat-nyálkahártyából, orrnyálkahártyából, nyálból
 
       </td>
 
-      <td>Vérből (ujjbegyből vagy vénából)
+      <td>Vérből (ujjbegyből, vénából), plazmából, szérumból)
 
       </td>
 
@@ -250,11 +254,29 @@ articles:
 
       </table>
 
+
+      <p><b>Megjegyzés:</b> az utóbbi időben jelentek meg a védettséget kvantitatív (számszerűsített) módon is kimutató tesztek a piacon. Ezeket – mivel rengeteg különböző változat létezik – e táblázatban nem tüntettük fel. Közös vonásaik azonban, hogy lényegesen drágábbak, mint a gyorstesztek, rendszerint komoly laboratóriumi hátteret igényelnek – ugyanakkor sokkal pontosabbak és megbízhatóbbak.</p>
+
       </div>
   - text: "##### **A COVID-19 gyorstesztek tájékoztató jellegű információval
       szolgálnak** az esetleges fertőzöttségről. A teszt elvégzését szakorvos,
       üzemorvos, vagy ilyen szolgáltatást nyújtó szolgáltató (üzemegészségügyi
       szolgálat) szakemberei végezhetik. Időtartama kb. 15–30 perc."
-  - text: Amennyiben további kérdései vannak, tekintse meg [ezt az oldalt](/gyik),
-      illetve forduljon bizalommal munkatársainkhoz!
+  - text: >-
+      ### <center>Részletek</center>
+
+
+      <aside>
+        <div>
+          <button><a href="/antigen-teszt">Antigén gyorsteszt</a></button>
+        </div>
+        <div>
+          <button><a href="/szerologiai-teszt">Szerológiai gyorsteszt</a></button>
+        </div>
+      </aside>
+
+
+      Amennyiben további kérdései vannak, tekintse meg [Gyakori kérdések](/gyik) oldalunkat, illetve forduljon bizalommal [munkatársainkhoz](/vasarlas#termekmenedzser)!
+    subtitle: ""
+    title: ""
 ---
