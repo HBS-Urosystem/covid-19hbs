@@ -65,7 +65,7 @@ intro:
 
         <h5>Újdonság!</h5>
 
-        <p>Az új Clungene® COVID-19 antigén gyorstesztet használva a mintavételezés már orrnyálkahártyából is elvégezhető (nem csak orrgarat-, vagy szájgarat-nyálkahártyából)!</p>
+        <p>Az új Clungene® COVID-19 antigén gyorstesztet használva a mintavételezés már orrnyálkahártyából is elvégezhető (nem csak orrgarat- vagy szájgarat-nyálkahártyából)!</p>
       link: /antigen-teszt
       cta: Részletek
     - src: /uploads/004v1.jpg

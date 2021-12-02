@@ -127,7 +127,7 @@ articles:
 
       </td>
 
-      <td>Általában orrgarat-, illetve szájgarat-nyálkahártyából
+      <td>Általában orrgarat- vagy szájgarat-nyálkahártyából
 
       </td>
 
