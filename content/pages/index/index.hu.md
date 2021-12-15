@@ -128,10 +128,8 @@ intro:
         </dl>
       cta: Részletek
       link: /szerologiai-teszt
+  highlight: CLUNGENE® COVID-19 GYORSTESZTEK
   text: >-
-    ## CLUNGENE® COVID-19 GYORSTESZTEK
-
-
     ### A legjobb választás cégek, egészségügyi intézmények számára
 
 
@@ -185,7 +183,6 @@ intro:
     * A Clungene gyorsteszteket számos más európai országban is rendszeresen használják.
 
     * A legnagyobb hazai gyógyszertár-hálózatok és kórházak is az állandó vevőink közt vannak.
-  highlight: ""
 news:
   - subtitle: ""
     text: "##### Phoenix Pharma és Hungaropharma partnereinken keresztül a tesztek

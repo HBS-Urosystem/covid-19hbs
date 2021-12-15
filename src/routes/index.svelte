@@ -113,6 +113,12 @@
 	{/if}
 </svelte:head>
 
+<article>
+	<figure>
+		<img src="/uploads/image0.png" alt="new antigen test">
+	</figure>
+</article>
+
 {#if post.intro}
 	<article>
 		{#if post.subtitle}
