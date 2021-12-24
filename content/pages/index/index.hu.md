@@ -183,8 +183,4 @@ intro:
     * A Clungene gyorsteszteket számos más európai országban is rendszeresen használják.
 
     * A legnagyobb hazai gyógyszertár-hálózatok és kórházak is az állandó vevőink közt vannak.
-news:
-  - subtitle: ""
-    text: "##### Phoenix Pharma és Hungaropharma partnereinken keresztül a tesztek
-      elérhetőek az ország összes gyógyszertárában."
 ---
