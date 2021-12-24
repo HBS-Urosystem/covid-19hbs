@@ -9,8 +9,8 @@ intro:
   text: >-
     A szerológiai gyorsteszttel ellentétben az antigén-teszt **közvetlenül a
     vírus jelenlétét mutatja ki** – ebben tehát a PCR tesztre hasonlít. Azonban
-    nem a SARS-CoV-2 örökítőanyagát, hanem annak egy **kifejezetten rá jellemző
-    fehérjéjét észleli**.
+    nem a SARS-CoV-2 örökítőanyagát, hanem annak egy kifejezetten rá jellemző
+    fehérjéjét észleli. **A teszt az új, omikron variánst is kimutatja.**
 
 
     Antigénnek hívják azokat az anyagokat, amelyeket az immunrendszer felismer, és amelyek kiváltják annak reakcióját, az immunválaszt (antitesttermelést). Innen kapta a teszt a nevét is, mivel a vírus egy részét (egy fehérjéjét), mint antigént mutatja ki.

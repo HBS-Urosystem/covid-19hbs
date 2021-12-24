@@ -19,7 +19,7 @@ intro:
 
         <dt>Mire jó?</dt>
 
-        <dd>A COVID-19 fertőzés korai szakaszának kimutatására, amikor a fertőzött maga is a legnagyobb eséllyel fertőzőképes</dd>
+        <dd>A COVID-19 fertőzés korai szakaszának kimutatására, amikor a fertőzött maga is a legnagyobb eséllyel fertőzőképes. <b>A teszt az új, omikron variánst is kimutatja.</b></dd>
 
 
         <dt>Mennyibe kerül?</dt>
