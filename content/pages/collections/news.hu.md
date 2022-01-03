@@ -4,6 +4,14 @@ title: Hírek, aktualitások
 slug: hirek
 menutitle: Hírek
 list:
+  - date: 2022-01-03T19:20:20.793Z
+    title: A Clungene antigén gyorsteszt az omikron variánst is kimutatja
+    text: "2021 végén több hírportál is közölte az Amerikai Gyógyszerügynökség (FDA)
+      intelmét, amely szerint a SARS-CoV-2 legújabb változatát kisebb
+      hatékonysággal azonosítják az antigén gyorstesztek. Ez azonban egyrészt
+      nem mindegyik termékre igaz ugyanolyan mértékben, másrészt azt sem
+      jelenti, hogy felesleges volna gyorsteszteket alkalmazni. "
+    link: clungene-omikron
   - date: 2021-12-02T10:01:47.083Z
     link: omikron
     title: Reszkess világ, jön az omikron?
