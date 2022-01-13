@@ -359,9 +359,8 @@ collections:
     folder: content/pages/news
     create: true
     label_singular: Post
-    identifier_field: menutitle
+    identifier_field: title
     i18n: true
-    slug: "{{menutitle}}"
     fields: 
     - label: Type
       name: type

@@ -4,6 +4,31 @@ title: Hírek, aktualitások
 slug: hirek
 menutitle: Hírek
 list:
+  - date: 2022-01-13T09:29:41.320Z
+    title: Ismét az omikronról…
+    text: >-
+      Nem zárult jól a 2021-es év járványügyi szempontból. Még le sem csengett a
+      SARS-CoV-2 delta variánsa által okozott negyedik hullám, november végén új
+      variánst azonosítottak. Az omikron névre keresztelt változat villámgyorsan
+      dominánssá vált Európa legtöbb országában, s az Egyesült Államokban is.
+
+
+      Ellentmondásosak az adatok, hogy Magyarországon jelenleg a fertőzések mekkora hányadáért felelős az új variáns – 2022. kezdetekor egyes források alig több mint 10%-ot becsültek, ám akad olyan magánintézmény, amely 75%-nál is magasabb arányról számolt be –, ám csak idő kérdése, és az omikron hazánkban is elhozza a pandémia ötödik hullámát.
+
+
+      Amint azt [ebben a hírben](/omikron) megfogalmaztuk, alapvetően három dologtól függ, mekkora veszélyt jelent az új variáns. Nevezetesen:
+
+
+      * Milyen gyorsan terjed?
+
+      * Milyen súlyos tüneteket okoz?
+
+      * Mennyire hatásosak ellene a jelenleg alkalmazott vakcinák?
+
+
+
+      2021 decemberében még túl keveset tudtunk e kérdések megválaszolásához, most viszont már sokkal több adat áll a rendelkezésünkre.
+    link: ismet-az-omikronrol
   - date: 2022-01-03T19:20:20.793Z
     title: A Clungene antigén gyorsteszt az omikron variánst is kimutatja
     text: "2021 végén több hírportál is közölte az Amerikai Gyógyszerügynökség (FDA)
