@@ -16,11 +16,14 @@
 	export async function preload(page) {
 		//console.log('_slug-post',findPost(page.params.slug))
 		//console.log(page.params.slug)
-		return { post: findPost(page.params.slug || 'hu') }
+		//return { post: findPost(page.params.slug || 'hu') }
+    let post = findPost(page.params.slug || 'hu')
+    post.html = post.html.replace(/href="http/gi, 'rel="external noopener" target="_blank" href="http')
+		return { post }
 	}
 	function _md(it) {
 		//return converter.makeHtml(it)
-		return converter.makeHtml(it).replace('href="http', 'rel="external noopener" target="_blank" href="http')
+		return converter.makeHtml(it).replace(/href="http/gi, 'rel="external noopener" target="_blank" href="http')
 	}
 </script>
 

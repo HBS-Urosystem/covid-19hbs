@@ -4,6 +4,20 @@ title: Hírek, aktualitások
 slug: hirek
 menutitle: Hírek
 list:
+  - date: 2022-01-20T20:50:00.185Z
+    link: adatok
+    title: Hogyan olvassuk a magyar járványügyi adatokat?
+    text: >-
+      Berobbant. Tombol. Soha nem látott. Rekordot döntött.
+
+
+      Ha csak az online média cikkeinek szokásos címeit nézzük, azt érezhetjük, folyamatosan rettegnünk kell. Ám, annak ellenére, az omikron variáns okozta ötödik hullám január harmadik hetének derekán tagadhatatlanul felfutóban van, a népszerű hírportálok címlapjai már ritkán kezdődnek a járványügyi adatokkal – ami arra utal, nincs is akkora baj.
+
+
+      Mi hát az igazság? Katasztrofális a helyzet, csak a média és az emberek már „belefáradtak” a járványba? Vagy mégsem akkora a baj, mint ahogy azt a szalagcímek sugallják?
+
+
+      E rövid írásban megkísérlünk segítséget nyújtani a járványügyi adatok értelmezéséhez.
   - date: 2022-01-13T09:29:41.320Z
     title: Ismét az omikronról…
     text: >-

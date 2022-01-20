@@ -82,6 +82,7 @@
 
 	hr {
 		border-color: transparent;
+    margin-block: 1rem;
 	}
 	
 	main {
