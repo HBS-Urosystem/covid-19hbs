@@ -11,7 +11,7 @@ list:
       Berobbant. Tombol. Soha nem látott. Rekordot döntött.
 
 
-      Ha csak az online média cikkeinek szokásos címeit nézzük, azt érezhetjük, folyamatosan rettegnünk kell. Ám, annak ellenére, az omikron variáns okozta ötödik hullám január harmadik hetének derekán tagadhatatlanul felfutóban van, a népszerű hírportálok címlapjai már ritkán kezdődnek a járványügyi adatokkal – ami arra utal, nincs is akkora baj.
+      Ha csak az online média cikkeinek szokásos címeit nézzük, azt érezhetjük, folyamatosan rettegnünk kell. Ám, annak ellenére, az omikron variáns okozta ötödik hullám január végéhez közeledve tagadhatatlanul felfutóban van, a népszerű hírportálok címlapjai már ritkán kezdődnek a járványügyi adatokkal – ami arra utal, nincs is akkora baj.
 
 
       Mi hát az igazság? Katasztrofális a helyzet, csak a média és az emberek már „belefáradtak” a járványba? Vagy mégsem akkora a baj, mint ahogy azt a szalagcímek sugallják?
