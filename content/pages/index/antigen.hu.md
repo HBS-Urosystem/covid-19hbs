@@ -7,20 +7,19 @@ hero: ""
 intro:
   highlight: Mit mutat ki az antigén-gyorsteszt?
   text: >-
-    A szerológiai gyorsteszttel ellentétben az antigén-teszt **közvetlenül a
-    vírus jelenlétét mutatja ki** – ebben tehát a PCR tesztre hasonlít. Azonban
-    nem a SARS-CoV-2 örökítőanyagát, hanem annak egy kifejezetten rá jellemző
-    fehérjéjét észleli. **A teszt az új, omikron variánst is kimutatja.**
-
-
-    Antigénnek hívják azokat az anyagokat, amelyeket az immunrendszer felismer, és amelyek kiváltják annak reakcióját, az immunválaszt (antitesttermelést). Innen kapta a teszt a nevét is, mivel a vírus egy részét (egy fehérjéjét), mint antigént mutatja ki.
-
-
-    Fontos kiemelni, hogy az antigén a legtöbb esetben **a tünetek megjelenését követő 7 napban** van jelen kimutatható mértékben a fertőzött személyben, ezért **az antigén-gyorsteszt ebben az időintervallumban a legmegbízhatóbb**.
-  images:
-    - src: /uploads/001v1.jpg
-      alt: Clungene® COVID-19 antigén gyorsteszt
-      text: Clungene® COVID-19 antigén gyorsteszt
+    <aside>
+      <figcaption style="text-align: justify;">
+      <p>A szerológiai gyorsteszttel ellentétben az antigén-teszt <b>közvetlenül a
+      vírus jelenlétét mutatja ki</b> – ebben tehát a PCR tesztre hasonlít. Azonban
+      nem a SARS-CoV-2 örökítőanyagát, hanem annak egy kifejezetten rá jellemző
+      fehérjéjét észleli. <b>A teszt az új, omikron variánst is kimutatja.</b></p>
+      <p>Antigénnek hívják azokat az anyagokat, amelyeket az immunrendszer felismer, és amelyek kiváltják annak reakcióját, az immunválaszt (antitesttermelést). Innen kapta a teszt a nevét is, mivel a vírus egy részét (egy fehérjéjét), mint antigént mutatja ki.</p>
+      <p>Fontos kiemelni, hogy az antigén a legtöbb esetben **a tünetek megjelenését követő 7 napban** van jelen kimutatható mértékben a fertőzött személyben, ezért <b>az antigén-gyorsteszt ebben az időintervallumban a legmegbízhatóbb</b>.</p>
+      </figcaption>
+      <figure>
+        <img src="/uploads/Clungene_antigen_gyorsteszt_orrnyalkahartya_mintavetelezes.jpg" style="background-image: url('/uploads/Clungene_antigen_gyorsteszt_orrnyalkahartya_mintavetelezes.jpg');padding-bottom: 171%;" alt="" />
+      </figure>
+    </aside>
 articles:
   - text: >-
       * Lényegesen olcsóbb, mint a PCR teszt.

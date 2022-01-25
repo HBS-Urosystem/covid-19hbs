@@ -6,7 +6,7 @@ menutitle: Gyorstesztek
 hero: /uploads/33838-web.jpg
 intro:
   images:
-    - src: /uploads/003v1.jpg
+    - src: /uploads/Clungene_antigen_doboz_orrnyalkahartya_mintavetelezes.jpg
       alt: Clungene® COVID-19 antigén gyorsteszt
       text: >-
         ##### Fertőzött vagy sem?
@@ -153,28 +153,14 @@ intro:
 
     ### Cégek, intézmények számára a Clungene gyorstesztek jelentik az olcsó és hatékony megoldást a módszeres és rendszeres teszteléshez!
 
-
     <details>
-
     <summary>Mennyibe kerül?</summary>
-
-
-    Az egyedi csomagolású, otthoni használatra szánt antigén gyorstesztek ára jellemzően 6000–8000 Ft-között mozog. Partnerünk, a medexim.hu 25 db antigén tesztet kínál bruttó 39 900 Ft-ért. Ez elegendő arra, hogy egy 5 fős cég 5 héten át heti egyszer le tudja teszteltetni a dolgozóit. Ugyanez az előbbi teszteket használva 150–200 ezer Ft-ba kerülne.
-
-
-    Egy 50 fős intézmény, ha 9 doboz (225 db) Clungene antigén tesztet vásárol, annak darabja csupán 1496 Ft-ba kerül. Ezzel 1 hónapon át az összes dolgozó heti tesztelése megvalósítható. Miért fizetne bármely cég 4–5-ször annyit ugyanezért?
-
-
-    Ugyanez a helyzet a szerológiai tesztek esetében is: a nagyobb kiszerelés sokkal gazdaságosabb választás a rendszeres teszteléshez.
-
-
+    <p>Az egyedi csomagolású, otthoni használatra szánt antigén gyorstesztek ára jellemzően 6000–8000 Ft-között mozog. Partnerünk, a medexim.hu 25 db antigén tesztet kínál bruttó 39 900 Ft-ért. Ez elegendő arra, hogy egy 5 fős cég 5 héten át heti egyszer le tudja teszteltetni a dolgozóit. Ugyanez az előbbi teszteket használva 150–200 ezer Ft-ba kerülne.</p>
+    <p>Egy 50 fős intézmény, ha 9 doboz (225 db) Clungene antigén tesztet vásárol, annak darabja csupán 1496 Ft-ba kerül. Ezzel 1 hónapon át az összes dolgozó heti tesztelése megvalósítható. Miért fizetne bármely cég 4–5-ször annyit ugyanezért?</p>
+    <p>Ugyanez a helyzet a szerológiai tesztek esetében is: a nagyobb kiszerelés sokkal gazdaságosabb választás a rendszeres teszteléshez.</p>
     </details>
-
-
     <details>
-
     <summary>Miért a Clungene?</summary>
-
 
     * Az egyik első Európában és Magyarországon forgalomba hozott márkáról van szó – a Clungene tesztek beváltották a hozzájuk fűzött reményeket.
 
@@ -183,4 +169,5 @@ intro:
     * A Clungene gyorsteszteket számos más európai országban is rendszeresen használják.
 
     * A legnagyobb hazai gyógyszertár-hálózatok és kórházak is az állandó vevőink közt vannak.
+    </details>
 ---

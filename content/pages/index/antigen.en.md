@@ -10,7 +10,7 @@ intro:
   images:
     - alt: Clungene® COVID-19 Antigen Rapid Test
       text: Clungene® COVID-19 Antigen Rapid Test
-      src: /uploads/001v1.jpg
+      src: /uploads/Clungene_antigen_gyorsteszt_orrnyalkahartya_mintavetelezes.jpg
 articles:
   - text: >-
       The substances recognized by the immune system and trigger the immune

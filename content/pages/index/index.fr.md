@@ -6,7 +6,7 @@ menutitle: Tests rapides
 hero: /uploads/33838-web.jpg
 intro:
   images:
-    - src: /uploads/003v1.jpg
+    - src: /uploads/Clungene_antigen_doboz_orrnyalkahartya_mintavetelezes.jpg
       alt: Tests rapides antigène Clungene® COVID-19
       text: >-
         ### Tests rapides antigène Clungene® COVID-19

@@ -279,7 +279,7 @@
 
 	aside img {
 		height: 0;
-    padding-bottom: 66%;
+    padding-bottom: 61%;
     background-position: center 70%;
 		background-size: cover;
 		margin-bottom: 1.5rem;
@@ -289,9 +289,6 @@
 	}
 	figcaption {
 		text-align: center;
-	}
-	:not(aside) figcaption {
-		font-weight: 400;
 	}
 	figcaption > details {
 		text-align: left;
@@ -311,6 +308,12 @@
 		display: flex;
 		flex-direction: column;
 	}
+  aside figure figcaption {
+		font-weight: 400;
+  }
+	/*:not(aside) > figure > figcaption {
+		font-weight: 400;
+	}*/
 	figcaption > :first-child {
     margin-top: 0;
 	}

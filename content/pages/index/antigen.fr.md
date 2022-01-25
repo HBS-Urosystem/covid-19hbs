@@ -10,7 +10,7 @@ intro:
   images:
     - alt: Test rapide Clungene® COVID-19 Antigéniques
       text: Test rapide Clungene® COVID-19 Antigéniques
-      src: /uploads/001v1.jpg
+      src: /uploads/Clungene_antigen_gyorsteszt_orrnyalkahartya_mintavetelezes.jpg
 articles:
   - text: >-
       Les substances reconnues par le système immunitaire et déclenchant la
