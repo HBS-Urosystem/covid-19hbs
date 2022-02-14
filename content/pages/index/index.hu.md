@@ -19,7 +19,7 @@ intro:
 
         <dt>Mire jó?</dt>
 
-        <dd>A COVID-19 fertőzés korai szakaszának kimutatására, amikor a fertőzött maga is a legnagyobb eséllyel fertőzőképes. <b>A teszt az új, omikron variánst is kimutatja.</b></dd>
+        <dd>A COVID-19 fertőzés korai szakaszának kimutatására, amikor a fertőzött maga is a legnagyobb eséllyel fertőzőképes. <b>A teszt az új, omikron variánst és annak alváltozatait is kimutatja.</b></dd>
 
 
         <dt>Mennyibe kerül?</dt>
@@ -136,7 +136,7 @@ intro:
     **Kezdődik minden elölről?**
 
 
-    Negyedik hullám. 10 000-nél is több új fertőzött naponta. Delta variáns. Omikron variáns. Túl alacsony átoltottság. Múlik a vakcinák hatása. Európa ismét zár.
+    Negyedik hullám. 10 000-nél is több új fertőzött naponta. Delta variáns. Omikron variáns. Lopakodó alvariáns. Túl alacsony átoltottság. Múlik a vakcinák hatása. Európa ismét zár. Újra nyit. Jöhet még újabb, veszélyesebb variáns.
 
 
     **Hát sosem lesz már ennek vége?**
@@ -148,26 +148,19 @@ intro:
     Néhány dolgot azonban ki kell emelni. Egyrészt, e hullám során az új fertőzöttek száma valóban kiugróan magas, ám **kórházi kezelésre lényegesen kevesebben szorulnak** – ami **pontosan a védőoltásnak köszönhető**. Másrészt viszont, még ha rövidebb ideig és kisebb eséllyel is, de az oltottak is fertőzőképesek lehetnek – még akkor is, ha ők maguk tünetmentesek, vagy csupán enyhe tüneteket tapasztalnak.
 
 
-    Ebből következően **a rendszeres tesztelés továbbra is kiemelkedő szerepet játszik a COVID-19 elleni védekezésben**. Minél több embert tesztelünk le, annál több fertőzöttet azonosítunk – s annál nagyobb eséllyel tudjuk megakadályozni a járványgócok kialakulását.
+    Ebből következően **a rendszeres tesztelés továbbra is kiemelkedő szerepet játszik a COVID-19 elleni védekezésben**. Mennél több embert tesztelünk le, annál több fertőzöttet azonosítunk – s annál nagyobb eséllyel tudjuk megakadályozni a járványgócok kialakulását.
 
 
     ### Cégek, intézmények számára a Clungene gyorstesztek jelentik az olcsó és hatékony megoldást a módszeres és rendszeres teszteléshez!
 
-    <details>
-    <summary>Mennyibe kerül?</summary>
-    <p>Az egyedi csomagolású, otthoni használatra szánt antigén gyorstesztek ára jellemzően 6000–8000 Ft-között mozog. Partnerünk, a medexim.hu 25 db antigén tesztet kínál bruttó 39 900 Ft-ért. Ez elegendő arra, hogy egy 5 fős cég 5 héten át heti egyszer le tudja teszteltetni a dolgozóit. Ugyanez az előbbi teszteket használva 150–200 ezer Ft-ba kerülne.</p>
-    <p>Egy 50 fős intézmény, ha 9 doboz (225 db) Clungene antigén tesztet vásárol, annak darabja csupán 1496 Ft-ba kerül. Ezzel 1 hónapon át az összes dolgozó heti tesztelése megvalósítható. Miért fizetne bármely cég 4–5-ször annyit ugyanezért?</p>
-    <p>Ugyanez a helyzet a szerológiai tesztek esetében is: a nagyobb kiszerelés sokkal gazdaságosabb választás a rendszeres teszteléshez.</p>
-    </details>
-    <details>
-    <summary>Miért a Clungene?</summary>
 
-    * Az egyik első Európában és Magyarországon forgalomba hozott márkáról van szó – a Clungene tesztek beváltották a hozzájuk fűzött reményeket.
+    <details> <summary>Mennyibe kerül?</summary> <p>Az egyedi csomagolású, otthoni használatra szánt antigén gyorstesztek ára jellemzően 6000–8000 Ft-között mozog. Partnerünk, a medexim.hu 25 db antigén tesztet kínál bruttó 39 900 Ft-ért. Ez elegendő arra, hogy egy 5 fős cég 5 héten át heti egyszer le tudja teszteltetni a dolgozóit. Ugyanez az előbbi teszteket használva 150–200 ezer Ft-ba kerülne.</p> <p>Egy 50 fős intézmény, ha 9 doboz (225 db) Clungene antigén tesztet vásárol, annak darabja csupán 1496 Ft-ba kerül. Ezzel 1 hónapon át az összes dolgozó heti tesztelése megvalósítható. Miért fizetne bármely cég 4–5-ször annyit ugyanezért?</p> <p>Ugyanez a helyzet a szerológiai tesztek esetében is: a nagyobb kiszerelés sokkal gazdaságosabb választás a rendszeres teszteléshez.</p> </details> <details> <summary>Miért a Clungene?</summary>
 
-    * E teszteket már állami közbeszerzések keretében is értékesítettük.
+    \* Az egyik első Európában és Magyarországon forgalomba hozott márkáról van szó – a Clungene tesztek beváltották a hozzájuk fűzött reményeket.
 
-    * A Clungene gyorsteszteket számos más európai országban is rendszeresen használják.
+    \* E teszteket már állami közbeszerzések keretében is értékesítettük.
 
-    * A legnagyobb hazai gyógyszertár-hálózatok és kórházak is az állandó vevőink közt vannak.
-    </details>
+    \* A Clungene gyorsteszteket számos más európai országban is rendszeresen használják.
+
+    \* A legnagyobb hazai gyógyszertár-hálózatok és kórházak is az állandó vevőink közt vannak. </details>
 ---

@@ -12,9 +12,9 @@ intro:
       <p>A szerológiai gyorsteszttel ellentétben az antigén-teszt <b>közvetlenül a
       vírus jelenlétét mutatja ki</b> – ebben tehát a PCR tesztre hasonlít. Azonban
       nem a SARS-CoV-2 örökítőanyagát, hanem annak egy kifejezetten rá jellemző
-      fehérjéjét észleli. <b>A teszt az új, omikron variánst is kimutatja.</b></p>
+      fehérjéjét észleli. <b>A teszt az új, omikron variánst és annak alváltozatait is kimutatja.</b></p>
       <p>Antigénnek hívják azokat az anyagokat, amelyeket az immunrendszer felismer, és amelyek kiváltják annak reakcióját, az immunválaszt (antitesttermelést). Innen kapta a teszt a nevét is, mivel a vírus egy részét (egy fehérjéjét), mint antigént mutatja ki.</p>
-      <p>Fontos kiemelni, hogy az antigén a legtöbb esetben **a tünetek megjelenését követő 7 napban** van jelen kimutatható mértékben a fertőzött személyben, ezért <b>az antigén-gyorsteszt ebben az időintervallumban a legmegbízhatóbb</b>.</p>
+      <p>Fontos kiemelni, hogy az antigén a legtöbb esetben \*\*a tünetek megjelenését követő 7 napban\*\* van jelen kimutatható mértékben a fertőzött személyben, ezért <b>az antigén-gyorsteszt ebben az időintervallumban a legmegbízhatóbb</b>.</p>
       </figcaption>
       <figure>
         <img src="/uploads/Clungene_antigen_gyorsteszt_orrnyalkahartya_mintavetelezes.jpg" style="background-image: url('/uploads/Clungene_antigen_gyorsteszt_orrnyalkahartya_mintavetelezes.jpg');padding-bottom: 171%;" alt="" />

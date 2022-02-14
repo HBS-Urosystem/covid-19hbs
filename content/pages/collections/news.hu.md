@@ -4,6 +4,16 @@ title: Hírek, aktualitások
 slug: hirek
 menutitle: Hírek
 list:
+  - date: 2022-02-14T08:07:09.032Z
+    title: Az omikron alváltozatait is kimutatja
+    text: >-
+      [Ebben a hírben](/clungene-omikron) írtunk róla, mi az oka annak, hogy
+      egyes antigén gyorstesztek – ellentétben az általunk forgalmazott Clungene
+      teszttel – nem mutatják ki a SARS-CoV-2 omikron variánsát. 
+
+
+      A teszt gyártója, a Hangzhou Clongene Biotech Co. Ltd., rendelkezésünkre bocsátotta az igazolást, hogy a Clungene antigén gyorsteszt kazetta az omikron variáns alváltozatait is kimutatja.
+    link: ""
   - date: 2022-01-20T20:50:00.185Z
     link: adatok
     title: Hogyan olvassuk a magyar járványügyi adatokat?
