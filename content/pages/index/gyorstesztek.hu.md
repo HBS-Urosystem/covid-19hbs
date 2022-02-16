@@ -26,7 +26,9 @@ info:
 
     * Ha már megkapta a COVID-19 elleni oltás egy vagy több dózisát, ellenőrizze, megjelentek-e az antitestek a szervezetében!
 
-    * A jelenleg ismert szakirodalmi adatok alapján az oltottak bizonyos hányadának újrafertőződése, illetve a beoltottak esetében a vírus tünetmentes továbbadása nem zárható ki. Ezért a nem oltottak, illetve az oltottak antigén gyorsteszttel végzett ellenőrzése tovább csökkentheti egy helyi járványgóc kialakulásának esélyét.
+    * Az oltottak bizonyos hányadának újrafertőződése, illetve a beoltottak esetében a vírus tünetmentes továbbadása nem zárható ki. Az oltottak antigén gyorsteszttel végzett ellenőrzése is tovább csökkentheti egy helyi járványgóc kialakulásának esélyét.
+
+    * Tesztelni azokat is érdemes, akik már korábban átestek a COVID-19 fertőzésen. Szerológiai teszttel ki lehet mutatni, van-e még a szervezetben ellenanyag, ami utalhat a fennálló védettségre. Ugyanakkor, a fertőzés révén szerzett immunitás nem feltétlenül gátolja meg, hogy valaki elkaphassa a SARS-CoV-2 egy másik, új variánsát is. Ezért, ha fennáll a fertőzés gyanúja, ajánlott antigén gyorstesztet végezni.
 articles:
   - text: >-
       <figure>
@@ -258,10 +260,11 @@ articles:
       <p><b>Megjegyzés:</b> az utóbbi időben jelentek meg a védettséget kvantitatív (számszerűsített) módon is kimutató tesztek a piacon. Ezeket – mivel rengeteg különböző változat létezik – e táblázatban nem tüntettük fel. Közös vonásaik azonban, hogy lényegesen drágábbak, mint a gyorstesztek, rendszerint komoly laboratóriumi hátteret igényelnek – ugyanakkor sokkal pontosabbak és megbízhatóbbak.</p>
 
       </div>
-  - text: "##### **A COVID-19 gyorstesztek tájékoztató jellegű információval
-      szolgálnak** az esetleges fertőzöttségről. A teszt elvégzését szakorvos,
-      üzemorvos, vagy ilyen szolgáltatást nyújtó szolgáltató (üzemegészségügyi
-      szolgálat) szakemberei végezhetik. Időtartama kb. 15–30 perc."
+  - text: "**A COVID-19 gyorstesztek tájékoztató jellegű információval szolgálnak**
+      az esetleges fertőzöttségről. A professzionális használatra szánt
+      teszteket szakorvos, üzemorvos, vagy ilyen szolgáltatást nyújtó
+      szolgáltató (üzemegészségügyi szolgálat) szakemberei végezhetik el.
+      Időtartama kb. 15–30 perc."
   - text: >-
       ### <center>Részletek</center>
 

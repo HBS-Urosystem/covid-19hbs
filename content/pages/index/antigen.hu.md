@@ -9,12 +9,13 @@ intro:
   text: >-
     <aside>
       <figcaption style="text-align: justify;">
-      <p>A szerológiai gyorsteszttel ellentétben az antigén-teszt <b>közvetlenül a
+      <p>E teszt <b>közvetlenül a
       vírus jelenlétét mutatja ki</b> – ebben tehát a PCR tesztre hasonlít. Azonban
       nem a SARS-CoV-2 örökítőanyagát, hanem annak egy kifejezetten rá jellemző
-      fehérjéjét észleli. <b>A teszt az új, omikron variánst és annak alváltozatait is kimutatja.</b></p>
-      <p>Antigénnek hívják azokat az anyagokat, amelyeket az immunrendszer felismer, és amelyek kiváltják annak reakcióját, az immunválaszt (antitesttermelést). Innen kapta a teszt a nevét is, mivel a vírus egy részét (egy fehérjéjét), mint antigént mutatja ki.</p>
-      <p>Fontos kiemelni, hogy az antigén a legtöbb esetben \*\*a tünetek megjelenését követő 7 napban\*\* van jelen kimutatható mértékben a fertőzött személyben, ezért <b>az antigén-gyorsteszt ebben az időintervallumban a legmegbízhatóbb</b>.</p>
+      fehérjéjét észleli.</p>
+      <p>Antigénnek hívják azokat az anyagokat, amelyeket az immunrendszer felismer, és amelyek kiváltják annak reakcióját, az immunválaszt (antitesttermelést). Innen kapta a teszt a nevét is, mivel a vírus egy fehérjéjét, mint antigént mutatja ki.</p>
+      <p>Fontos kiemelni, hogy az antigén a legtöbb esetben <b>a tünetek megjelenését követő 7 napban</b> van jelen kimutatható mértékben a fertőzött személyben, ezért <b>az antigén-gyorsteszt ebben az időintervallumban a legmegbízhatóbb</b>.</p>
+    <p><b>A Clungene antigén gyorsteszt az új, omikron variánst, és annak alváltozatait is kimutatja.</b> E variánsoknál előfordulhat, hogy a teszt pozitív eredménye már a megfertőződést követő 2. napon megjelenik.</p>
       </figcaption>
       <figure>
         <img src="/uploads/Clungene_antigen_gyorsteszt_orrnyalkahartya_mintavetelezes.jpg" style="background-image: url('/uploads/Clungene_antigen_gyorsteszt_orrnyalkahartya_mintavetelezes.jpg');padding-bottom: 171%;" alt="" />
@@ -30,29 +31,24 @@ articles:
 
       * Az elvégzéséhez nincs szükség semmilyen berendezésre, sem további fogyóeszközökre.
 
-      * A tesztet üzemorvos, vagy más egészségügyi dolgozó azonnal elvégezheti.
-
       * Az eredmény már 15–30 perc után leolvasható.
 
 
-      Bár némiképp kevésbé érzékenyek, mint a PCR tesztek (azok a tünetek megjelenését követően hosszabb ideig mutatják ki a vírust), különösen alkalmasak arra, hogy **a szerológiai gyorstesztekkel kombinálva** használják őket. Ugyanis pontosan **abban az időintervallumban jelzik a fertőzöttséget, amikor az ellenanyag tesztek még nem mutatják azt ki**.
+      Emellett az antigén tesztek különösen alkalmasak arra, hogy **a szerológiai gyorstesztekkel kombinálva** használják őket. Ugyanis pontosan **abban az időintervallumban jelzik a fertőzöttséget, amikor az ellenanyag tesztek még nem mutatják azt ki**.
     title: Mik az antigén-gyorsteszt legfontosabb előnyei?
   - text: >-
-      Általánosságban véve, az aktuálisan fennálló fertőzöttség kimutatására az
-      antigén teszt elvégzése a legjobb módszer, ha kiemelt fontosságú, hogy
-      **az eredmény a lehető leghamarabb ismert legyen**. Ilyen eset, ha egy
-      munkatárs üzleti út előtt áll, illetve, egészségügyi intézményekben, ha a
-      páciensen végrehajtandó beavatkozás nem halasztható, viszont a PCR teszt
-      elvégzésére és kiértékelésére nincs elég idő.
+      Mindenképpen ajánlott az antigén-tesztet elvégezni olyan személyeknél,
+      akik **a COVID-19 fertőzés** (enyhe) **tüneteit mutatják**, vagy akikről
+      tudni, hogy a közelmúltban **igazolt COVID-19 fertőzöttel érintkeztek**.
 
 
-      Szintén az antigén gyorsteszt a legjobb választás, ha **sok ember gyors és költséghatékony tesztelésére van szükség**.
+      Ám, tünetekkel vagy azok nélkül, oltottaknál vagy oltatlanoknál általánosságban véve jó választás az antigén teszt minden olyan esetben, **ha felvetődik a COVID-19 fertőzés gyanúja**; e tesztekkel **nemcsak pénzt lehet megspórolni, hanem rengeteg időt is lehet nyerni**. Ha igazolódik a fertőzöttség, az elkülönülést – illetve, szükség szerint az orvosi kezelést – lényegesen hamarabb lehet megkezdeni, mint ha az egyébként pontosabb, ám drágább, lassabb, és speciális laboratóriumi hátteret igénylő PCR teszt eredményére kellene várni.
 
 
-      Ha egy intézményben szerológiai teszttel szűrik rendszeresen a dolgozókat, a tesztelést érdemes antigén gyorstesztekkel is kiegészíteni. A pozitív szerológiai tesztet követő antigén teszt **megerősítheti az aktív fertőzés gyanúját**.
+      Olyankor is az antigén teszt a jó megoldás, ha **PCR teszt elvégzésére már nincs idő**. Ilyen eset, ha egy munkahelyen a nagy létszámú személyes találkozó megrendezése nem elkerülhető, vagy ha egy egészségügyi intézményekben a páciensen végrehajtandó beavatkozás halaszthatatlan.
 
 
-      Azon személyeknél is ajánlott az antigén-tesztet elvégezni (akár negatív szerológiai tesztet követően is) akik **a COVID-19 fertőzés** (enyhe) **tüneteit mutatják**, vagy akikről tudni, hogy a közelmúltban **igazolt COVID-19 fertőzöttel érintkeztek**.
+      E teszt legjobb választás akkor is, ha **sok ember gyors és költséghatékony tesztelésére van szükség** – például egy oktatási intézményben, irodában, vagy üzemben zárt térben hosszú időt együtt töltő emberek esetében.
 
 
       Nem ajánlott az antigén-gyorsteszt használata, ha a tünetek már régóta fennállnak – ilyenkor a teszt már kevésbé megbízható –, és régebben lezajlott COVID-19 fertőzést sem lehet igazolni vele. Ilyen esetekben a szerológiai gyorsteszt alkalmazása javasolt.
@@ -217,7 +213,7 @@ articles:
       módszerrel, például molekuláris teszt elvégzésével meg kell erősíteni.
 
 
-      A tesztet kizárólag orvosi szakdolgozók használhatják! Otthoni használatra, valamint önellenőrzési célra történő értékesítése tilos!
+      A professzionális használatra szánt terméket kizárólag orvosi szakdolgozók használhatják, annak otthoni használatra, valamint önellenőrzési célra történő értékesítése tilos!
     title: Figyelmeztetés
 documents:
   text: >-
@@ -231,6 +227,13 @@ documents:
 
 
     OGYÉI nyilvántartási száma: HU/CA01/39527/21
+
+
+    * A termék használatát ismertető brosúra
+
+    * Magyar nyelvű használati útmutató
+
+    * Common list of COVID-19 Rapid antigen test by EU Health Security Committee
   links:
     - text: A termék használatát ismertető brosúra
       file: /uploads/antigen_gyorsteszt_brosura_v2.pdf

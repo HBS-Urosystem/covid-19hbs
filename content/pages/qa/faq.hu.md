@@ -44,17 +44,34 @@ list:
         **Arra képesített orvosok és ápolók.**
 
 
-        A professzionális (egészségügyi szakdolgozók által történő) használatra szánt tesztekre más szabályozás vonatkozik, mint az otthoni használatra, illetve önellenőrzésre szolgáló hasonló eszközökre.
+        E szempontból a teszteket két csoportba lehet sorolni.
 
 
-        Megjelentek már a piacon olyan gyorstesztek is, amelyeket laikusok is használhatnak. Ezek alkalmazásánál – azon túl, hogy lényegesen drágább termékekről van szó – érdemes néhány dolgot szem előtt tartani. 
+        A **professzionális használatra** szánt teszteket **arra képesített egészségügyi dolgozók** végezhetik el. Ezek forgalomba hozatalának szabályai lényegesen egyszerűbbek, mivel számos olyan dolgot nem kell elmagyarázni, ami a szakképzettek számára egyértelmű, és számos olyan kockázatot nem kell kiküszöbölni, ami laikusoknál felvetődhet. A teljesség igénye nélkül álljon itt néhány példa:
 
 
-        * Annak ellenére, hogy egy tesztet bárki használhat, az elvégzése némi **gyakorlatot igényel**. A legkényesebb művelet maga a mintavétel; ha ezt a felhasználó rosszul csinálja, a teszt eredménye is **helytelen lesz**. 
+        * A teszt némi **gyakorlatot igényel**. A legkényesebb művelet maga a mintavétel; ha ezt a felhasználó rosszul csinálja, a teszt eredménye is **helytelen lesz**. 
 
         * A teszt elvégzésekor figyelni kell nemcsak az alapvető higiéniára, hanem a járvánnyal kapcsolatos ajánlásokra, előírásokra is. Különösen igaz ez akkor, ha valaki a tesztet egy másik személyen végzi el – **a gondatlan használat könnyen vezethet egymás megfertőzéséhez**!
 
         * A teszt során használt eszközök, illetve maga a minta is biológiai szempontból véve **veszélyes hulladéknak minősülnek**. A fertőzött személytől levett orrnyálkahártya-, orrgarat- vagy szájgaratnyálkahártya-minta maga is tartalmazza a vírust, ezért **a fertőzés lehetséges forrásának tekinthető**! Mivel a SARS-CoV-2 nem vérrel terjed, az ilyen mintától a COVID-19-et nem lehet elkapni – ugyanez azonban nem mondható el számos más, vérrel (is) terjedő fertőző betegségről.
+
+
+        A **laikus használatra** – vagy öntesztelésre – szánt termékeket bármilyen felnőtt személy használhatja.
+
+
+        Ezeknek sokkal szigorúbb biztonságossági előírásoknak kell megfelelniük. Többek között:
+
+
+        * A használati útmutatóban részletesen el kell magyarázni a teszt elvégzésének összes lépését, még azokat is, amelyek egyértelműek, vagy más módon nem is hajthatóak végre.
+
+        * Minden egészségügyi intézményben vannak biológiai hulladék-gyűjtők, ám egy átlagos háztartásban nincs ilyen. Egy laikusoknak szánt tesztnél gondoskodni kell a keletkező hulladékról is, például egy légmentesen lezárható tasak formájában. 
+
+
+        E tesztek engedélyeztetése is lényegesen több időbe kerül – ezért jelentek meg később a piacon. 
+
+
+        Érdemes tudni, hogy a laikus használatra szánt tesztek csomagolásán nemcsak „CE” jelzés szerepel, hanem azt egy 4 jegyű szám is követi.
       anchor: kik-vegezhetik
   - object:
       question: Azt hallottam, a gyorstesztek megbízhatatlanok. Miért mondják ezt?
@@ -141,7 +158,7 @@ list:
 
         * A gyorstesztekhez képest adott idő alatt lényegesen kevesebb PCR tesztet lehet elvégezni. A szerológiai teszt elvégzéséhez szükséges előkészületek pár percig tartanak, az eredmény 15 perc múlva megkapható. Az antigén teszt elvégzéséhez – mintavétellel együtt – is legfeljebb 30 perc szükséges. A PCR teszt esetében azonban mind az előkészületek, mind maga a reakció hosszú időt igényelnek, még ha nem számoljuk a várakozási időt, akkor is órákról van szó. 
 
-        * Szakképzett személyzet számára az antitest teszt elvégzése nem okoz különösebb nehézséget. Az antigén teszt némiképp bonyolultabb (különösen a mintavétel igényel nagy figyelmet), ám, akárcsak az ellenanyag teszt, ez is bárhol elvégezhető. A PCR reakció előkészítése és lefolytatása azonban olyan speciális szakértelmet kíván, amellyel kevés egészségügyi dolgozó rendelkezik – a műveletek során pedig rengeteg a hibalehetőség. Helyszíni elvégzése nem lehetséges: vagy a páciensnek kell a megfelelő eszközökkel rendelkező helyszínre utaznia, vagy a szakszemélyzetnek kell a pácienshez kiszállnia. A mintavételezés – az antigén teszthez hasonlóan – nagy figyelmet kíván, és könnyedén előfordulhat, hogy egyetlen olyan sejt sem kerül a mintába, melyből a vírus kimutatható – ezért a PCR teszt esetében is születnek téves negatív eredmények.
+        * A PCR reakció előkészítése és lefolytatása olyan speciális szakértelmet kíván, amellyel kevés egészségügyi dolgozó rendelkezik – a műveletek során pedig rengeteg a hibalehetőség. Helyszíni elvégzése nem lehetséges: vagy a páciensnek kell a megfelelő eszközökkel rendelkező helyszínre utaznia, vagy a szakszemélyzetnek kell a pácienshez kiszállnia. A mintavételezés rendkívül nagy figyelmet kíván, és könnyedén előfordulhat, hogy egyetlen olyan sejt sem kerül a mintába, melyből a vírus kimutatható – ezért a PCR teszt esetében is születnek téves negatív eredmények.
 
 
         Az utóbbi időben megjelent szakcikkek alapján azonban a PCR tesztek megbízhatósága is megkérdőjelezhetőnek tűnik. Több kutatás is foglalkozott a PCR tesztek vizsgálatával (például: [1](https://asm.org/Articles/2020/April/False-Negatives-and-Reinfections-the-Challenges-of), [2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7189409/)), a legátfogóbb összegzést pedig az Egyesült Államok egyik legrangosabb intézménye, a baltimore-i John Hopkins Egyetem nyújtotta. [Cikkük](https://www.acpjournals.org/doi/10.7326/M20-1495) hét kutatást, illetve 1330 PCR teszteredményt dolgozott fel, az eredmények pedig meglepőek lettek.
@@ -458,6 +475,6 @@ list:
         szerológiai teszt jelzi a vakcina hatására termelődő ellenanyagot.
 
 
-        Sok szakértő azonban pusztán azért vonja kétségbe, hogy e tesztek alkalmasak volnának a védőoltás utáni használatra, mert erre vonatkozóan még nem publikáltak elég adatot, hogy e kijelentést igazoltnak lehessen tekinteni. A tapasztalatok azonban azt mutatják, a vakcina révén szerzett védettség kimutatása a szerológiai gyorstesztek (pontosabban, azok egyes fajtáinak) egyik lehetséges alkalmazhatósága. Bővebben minderről [ezen az oldalon](/oltas) lehet olvasni.
+        A tapasztalatok azonban azt mutatják, a vakcina révén szerzett védettség kimutatása a szerológiai gyorstesztek (pontosabban, azok egyes fajtáinak) egyik lehetséges alkalmazhatósága. Bővebben minderről [ezen az oldalon](/oltas) lehet olvasni.
       anchor: reklamfogas
 ---
