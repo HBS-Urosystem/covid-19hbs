@@ -33,7 +33,7 @@ intro:
         <li>225 darab (9 doboz) vagy nagyobb mennyiség vásárlása esetén az ár <s>1425 Ft + 5% ÁFA</s> helyett csak 952 Ft + 5% ÁFA!</li>
 
 
-        <li>A 25–200 db (1–8 doboz) közötti megrendeléseket hivatalos partnerünk, a <a href="https://medexim.hu/product-category/covid19-gyors-teszt/" rel="external noopener" target="_blank">medexim.hu</a> szolgálja ki.</li>
+        <li>A 25–200 db (1–8 doboz) közötti megrendeléseket hivatalos partnerünk, a <a href="https://medexim.hu/product/clungene-covid-19-antigen-gyorsteszt-25db-kozvetlenul-a-virus-jelenletet-mutatja-ki/" rel="external noopener" target="_blank">medexim.hu</a> szolgálja ki.</li>
 
         </ul>
 
@@ -81,7 +81,7 @@ intro:
         <li>225 darab (9 doboz) vagy nagyobb mennyiség vásárlása esetén az ár <s>1210 Ft + 5% ÁFA</s> helyett csak 880 Ft + 5% ÁFA!</li>
 
 
-        <li>A 25–200 db (1–8 doboz) közötti megrendeléseket hivatalos partnerünk, a <a href="https://medexim.hu/product-category/covid19-gyors-teszt/" rel="external noopener" target="_blank">medexim.hu</a> szolgálja ki.</li>
+        <li>A 25–200 db (1–8 doboz) közötti megrendeléseket hivatalos partnerünk, a <a href="https://medexim.hu/product/clungene-covid-19-igg-igm-gyorsteszt-25-x-1-db-a-szervezetunk-altal-termelt-igm-es-igg-ellenanyagok-kimutatasara-alkalmas-gyorsteszt-masolat/" rel="external noopener" target="_blank">medexim.hu</a> szolgálja ki.</li>
 
         </ul>
 
