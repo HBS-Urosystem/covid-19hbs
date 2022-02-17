@@ -16,7 +16,7 @@
 <svelte:head>
 </svelte:head>
 
-{#if post.info}
+{#if post.info && (post.info.text || post.info.images.length)}
 <article>
 	<aside>
 		{#if post.info.text}

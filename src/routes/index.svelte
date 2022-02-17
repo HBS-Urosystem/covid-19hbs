@@ -113,12 +113,6 @@
 	{/if}
 </svelte:head>
 
-<article>
-	<figure>
-		<img src="/uploads/image0.png" alt="new antigen test">
-	</figure>
-</article>
-
 {#if post.intro}
 	<article>
 		{#if post.subtitle}
@@ -160,6 +154,12 @@
 		<h2>{post.subtitle}</h2>
 	{/if}
 {/if}
+
+<article>
+	<figure>
+		<img src="/uploads/image0.png" alt="new antigen test">
+	</figure>
+</article>
 
 <!--{#if post.type == 'distributor'}
 <Distributor {post}/>

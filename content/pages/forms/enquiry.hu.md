@@ -73,9 +73,9 @@ ig_items:
   - item: használati útmutató.
 articles:
   - text: "**A COVID-19 gyorstesztek tájékoztató jellegű információval szolgálnak**
-      az esetleges fertőzöttségről. A teszt elvégzését szakorvos, üzemorvos,
-      vagy ilyen szolgáltatást nyújtó szolgáltató (üzemegészségügyi szolgálat)
-      szakemberei végezhetik. Időtartama kb. 15–30 perc."
+      az esetleges fertőzöttségről. A tesztet szakorvos, üzemorvos, vagy ilyen
+      szolgáltatást nyújtó szolgáltató (üzemegészségügyi szolgálat) szakemberei
+      végezhetik el. Időtartama kb. 15–30 perc."
 ---
 <div id="termekmenedzser"></div>
 **Kérdés esetén forduljon bizalommal termékmenedzserünkhöz:**

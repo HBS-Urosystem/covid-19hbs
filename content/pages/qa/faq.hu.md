@@ -41,9 +41,6 @@ list:
   - object:
       question: Kik végezhetik el a gyorsteszteket?
       answer: >-
-        **Arra képesített orvosok és ápolók.**
-
-
         E szempontból a teszteket két csoportba lehet sorolni.
 
 
