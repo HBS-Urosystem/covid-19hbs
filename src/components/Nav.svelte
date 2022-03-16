@@ -39,6 +39,7 @@
 					<span>{pages.index[$lang].menutitle}</span><!-- <img loading="lazy" src="uploads/hbs-logo-medical.png" alt="hbs logo"> -->
 				</a>
 				<small>
+					<a aria-current="{segment == pages.product3[$lang].slug ? 'page' : undefined}" href="{pages.product3[$lang].slug}#content">{pages.product3[$lang].menutitle}</a>
 					<a aria-current="{segment == pages.product1[$lang].slug ? 'page' : undefined}" href="{pages.product1[$lang].slug}#content">{pages.product1[$lang].menutitle}</a>
 					<a aria-current="{segment == pages.product2[$lang].slug ? 'page' : undefined}" href="{pages.product2[$lang].slug}#content">{pages.product2[$lang].menutitle}</a>
 				</small>
