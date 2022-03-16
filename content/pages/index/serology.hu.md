@@ -285,9 +285,6 @@ articles:
 
       A tesztet kizárólag orvosi szakdolgozók használhatják! Annak otthoni használatra, illetve önellenőrzési célra történő értékesítése tilos!
     title: Figyelmeztetés
-references:
-  links: []
-  text: ""
 documents:
   text: >-
     ## További információk, dokumentumok

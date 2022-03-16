@@ -9,13 +9,10 @@ intro:
   text: >-
     <aside>
       <figcaption style="text-align: justify;">
-      <p>E teszt <b>közvetlenül a
-      vírus jelenlétét mutatja ki</b> – ebben tehát a PCR tesztre hasonlít. Azonban
-      nem a SARS-CoV-2 örökítőanyagát, hanem annak egy kifejezetten rá jellemző
-      fehérjéjét észleli.</p>
-      <p>Antigénnek hívják azokat az anyagokat, amelyeket az immunrendszer felismer, és amelyek kiváltják annak reakcióját, az immunválaszt (antitesttermelést). Innen kapta a teszt a nevét is, mivel a vírus egy fehérjéjét, mint antigént mutatja ki.</p>
-      <p>Fontos kiemelni, hogy az antigén a legtöbb esetben <b>a tünetek megjelenését követő 7 napban</b> van jelen kimutatható mértékben a fertőzött személyben, ezért <b>az antigén-gyorsteszt ebben az időintervallumban a legmegbízhatóbb</b>.</p>
-    <p><b>A Clungene antigén gyorsteszt az új, omikron variánst, és annak alváltozatait is kimutatja.</b> E variánsoknál előfordulhat, hogy a teszt pozitív eredménye már a megfertőződést követő 2. napon megjelenik.</p>
+        <p>E teszt <b>közvetlenül a vírus jelenlétét mutatja ki</b> – ebben tehát a PCR tesztre hasonlít. Azonban nem a SARS-CoV-2 örökítőanyagát, hanem annak egy kifejezetten rá jellemző fehérjéjét észleli.</p>
+        <p>Antigénnek hívják azokat az anyagokat, amelyeket az immunrendszer felismer, és amelyek kiváltják annak reakcióját, az immunválaszt (antitesttermelést). Innen kapta a teszt a nevét is, mivel a vírus egy fehérjéjét, mint antigént mutatja ki.</p>
+        <p>Fontos kiemelni, hogy az antigén a legtöbb esetben <b>a tünetek megjelenését követő 7 napban</b> van jelen kimutatható mértékben a fertőzött személyben, ezért <b>az antigén-gyorsteszt ebben az időintervallumban a legmegbízhatóbb</b>.</p>
+        <p><b>A Clungene antigén gyorsteszt az új, omikron variánst, és annak alváltozatait is kimutatja.</b> E variánsoknál előfordulhat, hogy a teszt pozitív eredménye már a megfertőződést követő 2. napon megjelenik.</p>
       </figcaption>
       <figure>
         <img src="/uploads/Clungene_antigen_gyorsteszt_orrnyalkahartya_mintavetelezes.jpg" style="background-image: url('/uploads/Clungene_antigen_gyorsteszt_orrnyalkahartya_mintavetelezes.jpg');padding-bottom: 171%;" alt="" />

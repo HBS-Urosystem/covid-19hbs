@@ -42,7 +42,7 @@
 <CTA />
 {/if}
 
-{#if post.references && post.references.length}
+{#if post.references && (post.references.text || post.references.links)}
 <article>
 	{@html _md(post.references.text)}
 	<ul>
@@ -118,7 +118,7 @@
 <CTA/>
 {/if}
 
-{#if post.documents && post.documents.length}
+{#if post.documents && (post.documents.text || post.documents.links)}
 <article>
 	{@html _md(post.documents.text)}
 	{#if post.documents.links}

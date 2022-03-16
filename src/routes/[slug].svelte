@@ -193,6 +193,10 @@
 <Index {post}/>
 {/if}
 
+{#if post.type == 'product3'}
+<Index {post}/>
+{/if}
+
 {#if post.type == 'gyorstesztek'}
 <Index {post}/>
 {/if}
