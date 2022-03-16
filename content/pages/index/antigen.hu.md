@@ -224,13 +224,6 @@ documents:
 
 
     OGYÉI nyilvántartási száma: HU/CA01/39527/21
-
-
-    * A termék használatát ismertető brosúra
-
-    * Magyar nyelvű használati útmutató
-
-    * Common list of COVID-19 Rapid antigen test by EU Health Security Committee
   links:
     - text: A termék használatát ismertető brosúra
       file: /uploads/antigen_gyorsteszt_brosura_v2.pdf
