@@ -74,6 +74,14 @@ function gtag_report_conversion(url) {
 		<label>{post.phone}
 		<input name="phone" type="tel" required placeholder="*" />
 		</label>
+		<label>{post.on1_qty}
+			<input name="on1-qty" type="number" min="{post.on1_min}" />
+			<small>{post.on1_note}</small>
+		</label>
+		<label>{post.on5_qty}
+			<input name="on5-qty" type="number" min="{post.on5_min}" />
+			<small>{post.on5_note}</small>
+		</label>
 		<label>{post.ag_qty}
 			<input name="ag-qty" type="number" min="{post.ag_min}" />
 			<small>{post.ag_note}</small>
@@ -128,6 +136,33 @@ function gtag_report_conversion(url) {
 		<h3>{post.composition}</h3>
 		<p>
 			<b>{post.boxing}</b>
+		</p>
+	</div>
+	<aside>
+		<div>
+			<h4>{post.on1_comp}</h4>
+			<ul>
+				{#each post.on1_items as item}
+				<li>{item.item}</li>
+				{/each}
+			</ul>
+		</div>
+		<div>
+			<h4>{post.on5_comp}</h4>
+			<ul>
+				{#each post.on5_items as item}
+				<li>{item.item}</li>
+				{/each}
+			</ul>
+		</div>
+	</aside>
+</article>
+
+<article>
+	<div>
+		<h3>{post.composition_pro}</h3>
+		<p>
+			<b>{post.boxing_pro}</b>
 		</p>
 	</div>
 	<aside>
@@ -257,11 +292,15 @@ function gtag_report_conversion(url) {
 	article > div, aside h4 {
 		text-align: center;
 	}
-
-	aside div {
-		padding-left: var(--gutter2);
-		padding-right: var(--gutter2);
-		/* text-shadow: 1px 1px 2px rgb(94, 93, 93); */
+  @media (min-width: 600px) {
+    aside div:first-child {
+      padding-left: var(--gutter2);
+      /* text-shadow: 1px 1px 2px rgb(94, 93, 93); */
+    }
+    aside div:last-child {
+      padding-right: var(--gutter2);
+      /* text-shadow: 1px 1px 2px rgb(94, 93, 93); */
+    }
 	}
 
 	form > label:last-of-type {

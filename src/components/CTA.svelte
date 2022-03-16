@@ -18,7 +18,6 @@
 
 <aside>
 	{@html cta[$lang].html}
-	<div>
 		<button>
 			{#if ext}
 			<a href="{cta[$lang].link}" target="_blank" rel="external noopener">{cta[$lang].button}</a>
@@ -26,7 +25,6 @@
 			<a href="{cta[$lang].link}">{cta[$lang].button}</a>
 			{/if}
 		</button>
-	</div>
 </aside>
 
 <!--{#if showModal}

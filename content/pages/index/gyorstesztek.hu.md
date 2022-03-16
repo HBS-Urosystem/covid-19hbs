@@ -4,13 +4,16 @@ slug: gyorstesztek
 title: Amit a gyorstesztekről tudni érdemes
 menutitle: A gyorstesztekről
 intro:
-  text: Az új koronavírus okozta megbetegedés, a COVID-19, a mai napig egy
+  text: "Az új koronavírus okozta megbetegedés, a COVID-19, a mai napig egy
     kisvárosnyi halálos áldozatot követelt Magyarországon. **Clungene®**
     **COVID-19 gyorsteszteket használva rövid idő alatt, költséghatékonyan lehet
     szűrést végezni** egy cég, üzem, hivatal vagy más intézmény dolgozói között.
     Az érintettek azonosításával és elkülönítésével lassítható a vírus
     terjedése, valamint megakadályozható a járvány miatt bekövetkező kényszerű
-    leállás, és az azzal járó anyagi veszteségek.
+    leállás, és az azzal járó anyagi veszteségek. **A laikusok által is
+    használható tesztek jelentősége is hatalmas**: ezek segítségével bárki
+    otthon is letesztelheti saját magát, családtagjait, ami már önmagában is
+    hatalmas lépés a járvány elleni védekezésben."
 news: []
 info:
   text: >-
@@ -36,12 +39,9 @@ articles:
       </figure>
 
       <aside>
-        <div>
+          <button><a href="/onteszt">Otthoni önteszt</a></button>
           <button><a href="/antigen-teszt">Antigén gyorsteszt</a></button>
-        </div>
-        <div>
           <button><a href="/szerologiai-teszt">Szerológiai gyorsteszt</a></button>
-        </div>
       </aside>
     subtitle: ""
     title: Az antigén és a szerológiai gyorsteszt használata
@@ -270,12 +270,9 @@ articles:
 
 
       <aside>
-        <div>
+          <button><a href="/onteszt">Otthoni önteszt</a></button>
           <button><a href="/antigen-teszt">Antigén gyorsteszt</a></button>
-        </div>
-        <div>
           <button><a href="/szerologiai-teszt">Szerológiai gyorsteszt</a></button>
-        </div>
       </aside>
 
 
