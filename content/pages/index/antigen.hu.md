@@ -5,8 +5,12 @@ title: Clungene® COVID-19 antigén gyorsteszt kazetta
 menutitle: Antigén
 hero: ""
 intro:
-  highlight: Mit mutat ki az antigén-gyorsteszt?
+  highlight: Az otthoni, illetve professzionális használatra szánt változatok
+    bővebb ismertetése
   text: >-
+    ### Mit mutat ki az antigén-gyorsteszt?
+
+
     <aside>
       <figcaption style="text-align: justify;">
         <p>E teszt <b>közvetlenül a vírus jelenlétét mutatja ki</b> – ebben tehát a PCR tesztre hasonlít. Azonban nem a SARS-CoV-2 örökítőanyagát, hanem annak egy kifejezetten rá jellemző fehérjéjét észleli.</p>
@@ -20,18 +24,20 @@ intro:
     </aside>
 articles:
   - text: >-
-      * Lényegesen olcsóbb, mint a PCR teszt.
+      * Lényegesen olcsóbb, mint a PCR teszt
 
-      * A mintavétel orrnyálkahártyából is elvégezhető, nem csak orrgarat- vagy szájgarat-nyálkahártyából
+      * A mintavétel orrnyálkahártyából is elvégezhető, nemcsak orrgarat- vagy szájgarat-nyálkahártyából
 
-      * Bárhol el lehet végezni, akár egy vállalat vagy intézmény megfelelő helyiségében is.
+      * Az öntesztelésre is alkalmas változatot bárki akár otthon, egyedül is elvégezheti – vagy a teszttel ellenőrizheti, gyermekei, idős családtagjai megfertőződtek-e
 
-      * Az elvégzéséhez nincs szükség semmilyen berendezésre, sem további fogyóeszközökre.
+      * A professzionális használatra szánt változatot bárhol el lehet végezni, akár egy vállalat vagy intézmény megfelelő helyiségében is
+
+      * Az elvégzéséhez nincs szükség semmilyen berendezésre, sem további fogyóeszközökre
 
       * Az eredmény már 15–30 perc után leolvasható.
 
 
-      Emellett az antigén tesztek különösen alkalmasak arra, hogy **a szerológiai gyorstesztekkel kombinálva** használják őket. Ugyanis pontosan **abban az időintervallumban jelzik a fertőzöttséget, amikor az ellenanyag tesztek még nem mutatják azt ki**.
+      Emellett az antigén tesztek különösen alkalmasak arra, hogy a **szerológiai gyorstesztekkel kombinálva** használják őket. Ugyanis pontosan **abban az időintervallumban jelzik a fertőzöttséget, amikor az ellenanyag tesztek még nem mutatják azt ki**.
     title: Mik az antigén-gyorsteszt legfontosabb előnyei?
   - text: >-
       Mindenképpen ajánlott az antigén-tesztet elvégezni olyan személyeknél,
@@ -42,10 +48,10 @@ articles:
       Ám, tünetekkel vagy azok nélkül, oltottaknál vagy oltatlanoknál általánosságban véve jó választás az antigén teszt minden olyan esetben, **ha felvetődik a COVID-19 fertőzés gyanúja**; e tesztekkel **nemcsak pénzt lehet megspórolni, hanem rengeteg időt is lehet nyerni**. Ha igazolódik a fertőzöttség, az elkülönülést – illetve, szükség szerint az orvosi kezelést – lényegesen hamarabb lehet megkezdeni, mint ha az egyébként pontosabb, ám drágább, lassabb, és speciális laboratóriumi hátteret igénylő PCR teszt eredményére kellene várni.
 
 
-      Olyankor is az antigén teszt a jó megoldás, ha **PCR teszt elvégzésére már nincs idő**. Ilyen eset, ha egy munkahelyen a nagy létszámú személyes találkozó megrendezése nem elkerülhető, vagy ha egy egészségügyi intézményekben a páciensen végrehajtandó beavatkozás halaszthatatlan.
+      A **laikus használatra** – otthoni, illetve öntesztelésre – szánt termékkel **bármikor ellenőrizhető, valaki megfertőződött-e**. Az 5 db-os kiszerelés a legtöbb esetben az egész család letesztelésére elegendő.
 
 
-      E teszt legjobb választás akkor is, ha **sok ember gyors és költséghatékony tesztelésére van szükség** – például egy oktatási intézményben, irodában, vagy üzemben zárt térben hosszú időt együtt töltő emberek esetében.
+      A **professzionális használatra szánt** változat a legjobb választás, ha **sok ember gyors és költséghatékony tesztelésére van szükség** – például egy oktatási intézményben, irodában, vagy üzemben zárt térben hosszú időt együtt töltő emberek esetében.
 
 
       Nem ajánlott az antigén-gyorsteszt használata, ha a tünetek már régóta fennállnak – ilyenkor a teszt már kevésbé megbízható –, és régebben lezajlott COVID-19 fertőzést sem lehet igazolni vele. Ilyen esetekben a szerológiai gyorsteszt alkalmazása javasolt.
@@ -61,7 +67,16 @@ articles:
 
 
       A vizsgálat elvégzése a tesztalany részéről semmilyen különleges előkészületet nem igényel.
-    title: Hogyan zajlik a vizsgálat?
+    title: Hogyan használják a professzionális használatra szánt antigén gyorstesztet?
+  - text: A laikus használatra szánt termék használati útmutatója részletesen
+      elmagyarázza és ábrák segítségével be is mutatja, miként kell a tesztet
+      használni. A legfontosabb lépés – ahogy az a leírásban is szerepel – maga
+      a mintavétel. Mindig meg kell róla győződni, hogy elegendő minta került
+      bele a mellékelt oldatba (reagensbe); a helyes mintavétel és mintakezelés
+      egyik jele, hogy a folyadék a teszt kazettára cseppentés előtt zavaros,
+      opálos megjelenésű.
+    title: Hogyan kell az öntesztelést elvégezni, illetve más személyeket tesztelni?
+    anchor: onteszteles
   - text: >-
       #### 1. A kazettán egy csík (a kontrollcsík) látható: negatív
 
@@ -210,7 +225,7 @@ articles:
       módszerrel, például molekuláris teszt elvégzésével meg kell erősíteni.
 
 
-      A professzionális használatra szánt terméket kizárólag orvosi szakdolgozók használhatják, annak otthoni használatra, valamint önellenőrzési célra történő értékesítése tilos!
+      A professzionális alkalmazásra szánt terméket kizárólag orvosi szakdolgozók használhatják, annak otthoni használatra, valamint önellenőrzésre történő értékesítése tilos – ez utóbbi célokra a laikus használatra szánt termékek alkalmasak. Cégünk 2022. márciusától ilyen termékeket is forgalmaz.
     title: Figyelmeztetés
 documents:
   text: >-
@@ -225,9 +240,6 @@ documents:
 
     OGYÉI nyilvántartási száma: HU/CA01/39527/21
   links:
-    - text: A termék használatát ismertető brosúra
-      file: /uploads/antigen_gyorsteszt_brosura_v2.pdf
-      src: /uploads/bxs-file-pdf.svg
     - text: Magyar nyelvű használati útmutató
       file: /uploads/v4_hasznalati_utmutato_covid-19_antigen-5002-hun-ce-4_0-109155104.pdf
       src: /uploads/bxs-file-pdf.svg

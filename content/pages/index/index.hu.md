@@ -15,25 +15,57 @@ intro:
         ### Clungene® COVID-19 antigén&nbsp;gyorsteszt
 
 
+        **Új! Már otthoni használatra, öntesztelésre szánt változatban is!**
+
+
         <dl>
 
         <dt>Mire jó?</dt>
 
         <dd>A COVID-19 fertőzés korai szakaszának kimutatására, amikor a fertőzött maga is a legnagyobb eséllyel fertőzőképes. <b>A teszt az új, omikron variánst és annak alváltozatait is kimutatja.</b></dd>
 
-        <dd>A mintavételezés orrnyálkahártyából is elvégezhető (nemcsak orr-, vagy száj-garatnyálkahártyából)!</dd>
+        <dd>A mintavételezés a laikusoknak szánt változatban <b>orrnyálkahártyából</b>, a professzionális változatban orr-, orrgarat-, vagy szájgaratnyálkahártyából történik.</dd>
+
+        </dl>
 
 
-        <dt>ÁRCSÖKKENÉS!</dt>
+        **ÁRAK**
+
+
+        <dl>
+
+        <dt>Otthoni használatra, öntesztelésre alkalmas termék:</dt>
+
+        <dd>400 darab vagy nagyobb mennyiség vásárlása esetén az ár
+
+        <ul>
+
+        <li>1 db-os kiszerelés: 1 238 Ft + 5% ÁFA</li>
+
+        <li>5 db-os kiszerelés: 5 240 Ft + 5% ÁFA (1048 Ft + 5% ÁFA darabár)</li>
+
+        </ul>
+
+        </dd>
+
+        </dl>
+
+
+        A 400 darab alatti megrendeléseket hivatalos partnerünk, a <a href="https://medexim.hu/product-category/covid19-gyors-teszt/" rel="external noopener" target="_blank">medexim.hu</a> szolgálja ki.
+
+
+        <dl>
+
+        <dt>Professzionális termék:</dt>
 
         <dd>
 
         <ul>
 
-        <li>225 darab (9 doboz) vagy nagyobb mennyiség vásárlása esetén az ár <s>1425 Ft + 5% ÁFA</s> helyett csak 952 Ft + 5% ÁFA!</li>
+        <li>225 darab (9 doboz) vagy nagyobb mennyiség vásárlása esetén az ár  csak 952 Ft + 5% ÁFA / darab!</li>
 
 
-        <li>A 25–200 db (1–8 doboz) közötti megrendeléseket hivatalos partnerünk, a <a href="https://medexim.hu/product/clungene-covid-19-antigen-gyorsteszt-25db-kozvetlenul-a-virus-jelenletet-mutatja-ki/" rel="external noopener" target="_blank">medexim.hu</a> szolgálja ki.</li>
+        <li>A 25–200 db (1–8 doboz) közötti megrendeléseket hivatalos partnerünk, a <a href="https://medexim.hu/product-category/covid19-gyors-teszt/" rel="external noopener" target="_blank">medexim.hu</a> szolgálja ki.</li>
 
         </ul>
 
@@ -42,16 +74,13 @@ intro:
 
         <dt>Kiknek ajánljuk?</dt>
 
-        <dd>Azoknak, akiknél fennáll a COVID-19 fertőzés veszélye, mert igazolt fertőzöttel találkoztak, illetve mert tüneteket tapasztalnak. Antigén gyorsteszttel nagyobb közösségek idő- és költséghatékony rendszeres szűrése is megvalósítható. Emellett minden olyan esetben alkalmazható, ha az eredmény ismerete sürgős.</dd>
+        <dd>Azoknak, akiknél fennáll a COVID-19 fertőzés veszélye, mert igazolt fertőzöttel találkoztak, illetve mert tüneteket tapasztalnak. A laikus változattal a családtagok, gyermekek is tesztelhetőek. A professzionális változattal nagyobb közösségek idő- és költséghatékony rendszeres szűrése is megvalósítható. </dd>
 
 
-        <dd><small><b>Szenzitivitás: </b>
+        <dd><small><b>Otthoni használatra, öntesztelésre alkalmas termék: szenzitivitás:</b> 93,3–95,5%, <b>specificitás:</b> 99% felett</small></dd>
 
-        91,4–98,0%. </small></dd>
 
-        <dd><small><b>Specificitás: </b>
-
-        99,4–99,7%.</small></dd>
+        <dd><small><b>Professzionális termék: szenzitivitás:</b> 91,4–98%, <b>specificitás:</b> 99,4–99,7%.</small></dd>
 
         </dl>
       link: /antigen-teszt
@@ -78,10 +107,10 @@ intro:
 
         <ul>
 
-        <li>225 darab (9 doboz) vagy nagyobb mennyiség vásárlása esetén az ár <s>1210 Ft + 5% ÁFA</s> helyett csak 880 Ft + 5% ÁFA!</li>
+        <li>225 darab (9 doboz) vagy nagyobb mennyiség vásárlása esetén az ár csak 880 Ft + 5% ÁFA / darab!</li>
 
 
-        <li>A 25–200 db (1–8 doboz) közötti megrendeléseket hivatalos partnerünk, a <a href="https://medexim.hu/product/clungene-covid-19-igg-igm-gyorsteszt-25-x-1-db-a-szervezetunk-altal-termelt-igm-es-igg-ellenanyagok-kimutatasara-alkalmas-gyorsteszt-masolat/" rel="external noopener" target="_blank">medexim.hu</a> szolgálja ki.</li>
+        <li>A 25–200 db (1–8 doboz) közötti megrendeléseket hivatalos partnerünk, a <a href="https://medexim.hu/product-category/covid19-gyors-teszt/" rel="external noopener" target="_blank">medexim.hu</a> szolgálja ki.</li>
 
         </ul>
 
@@ -106,13 +135,20 @@ intro:
       link: /szerologiai-teszt
   highlight: CLUNGENE® COVID-19 GYORSTESZTEK
   text: >-
-    #### 27–33% árcsökkenés!
+    ### Újdonság! Megérkeztek az otthoni használatra, öntesztelésre is alkalmas
+    antigén gyorstesztek!
 
 
-    ### Antigén tesztek 952 Ft+ÁFA, szerológiai tesztek 880 Ft+ÁFA darabártól
+    **Régebbi, professzionális használatra szánt termékeink árát jelentősen csökkentettük:**
 
 
-    **Fellélgezhetünk?**
+    **Antigén tesztek 952 Ft+ÁFA, szerológiai tesztek 880 Ft+ÁFA darabártól kaphatóak**
+
+
+    ### Fellélegezhetünk?
+
+
+    Az omikron variáns okozta ötödik hullám lecsengőben van. A legtöbb országban feloldják a járványügyi korlátozásokat.
 
 
     Ismét csillapodni látszik a járvány. Talán sikerült a SARS-CoV-2 omikron variánsa által okozott újabb hullámot átvészelnünk a nélkül, hogy az egészségügy túlterhelődött volna, s hogy szigorú korlátozásokat kellett volna bevezetni.
@@ -127,7 +163,7 @@ intro:
     A **módszeres és rendszeres tesztelést** azonban az oltásoktól függetlenül sem szabad abbahagyni! **Minél több embert tesztelünk le, annál több fertőzöttet azonosítunk** – s annál nagyobb eséllyel tudjuk megakadályozni a járványgócok kialakulását. Ha pedig ezt megtesszük, a jövőben talán már nem követel annyi áldozatot a COVID-19, mint amennyit az eddigi hullámok alatt követelt.
 
 
-    ### Cégek, intézmények számára a Clungene gyorstesztek jelentik az olcsó és hatékony megoldást a módszeres és rendszeres teszteléshez!
+    ### Cégek, intézmények számára a hatékony megoldást nyújtanak a Clungene gyorstesztek, amelyek árát jelentősen csökkentettük!
 
 
     <details>
@@ -144,6 +180,20 @@ intro:
 
     * A legnagyobb hazai gyógyszertár-hálózatok és kórházak is az állandó vevőink közt vannak.
 
+    * Az új, laikus használatra szánt antigén gyorstesztek lényegesen olcsóbbak, mint a piacon lévő hasonló termékek.
+
 
     </details>
+news:
+  - text: A gyorstesztek esetében figyelni kell a használat során keletkező
+      biológiai veszélyt jelentő hulladékra is! Az általunk forgalmazott otthoni
+      használatra szánt Clungene COVID **tesztek tartalmaznak egy hulladékgyűjtő
+      zsákot**, amelybe a teszt összes elemét és a levett mintát is bele lehet
+      helyezni. Ezt követően **a zsák már közönséges háztartási hulladékként
+      kezelhető**.
+    title: Tudatos hulladékkezelés
+  - text: ""
+    title: ""
+    subtitle: Phoenix Pharma és Hungaropharma partnereinken keresztül a tesztek
+      elérhetőek az ország összes gyógyszertárában.
 ---

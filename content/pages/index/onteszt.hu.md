@@ -56,6 +56,9 @@ documents:
 
 
     OGYÉI nyilvántartási száma: OGYÉI/10656-3/2022
+
+
+    EU regisztráció: CE-1234
   links:
     - text: Letölthető magyar nyelvű használati útmutató
       file: /uploads/hu_clungene_covid_19_ag_onteszt_v1.pdf

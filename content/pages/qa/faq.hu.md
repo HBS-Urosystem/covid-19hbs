@@ -47,14 +47,14 @@ list:
         A **professzionális használatra** szánt teszteket **arra képesített egészségügyi dolgozók** végezhetik el. Ezek forgalomba hozatalának szabályai lényegesen egyszerűbbek, mivel számos olyan dolgot nem kell elmagyarázni, ami a szakképzettek számára egyértelmű, és számos olyan kockázatot nem kell kiküszöbölni, ami laikusoknál felvetődhet. A teljesség igénye nélkül álljon itt néhány példa:
 
 
-        * A teszt némi **gyakorlatot igényel**. A legkényesebb művelet maga a mintavétel; ha ezt a felhasználó rosszul csinálja, a teszt eredménye is **helytelen lesz**. 
+        * A teszt némi **gyakorlatot igényel**.
 
-        * A teszt elvégzésekor figyelni kell nemcsak az alapvető higiéniára, hanem a járvánnyal kapcsolatos ajánlásokra, előírásokra is. Különösen igaz ez akkor, ha valaki a tesztet egy másik személyen végzi el – **a gondatlan használat könnyen vezethet egymás megfertőzéséhez**!
+        * A teszt elvégzésekor figyelni kell nemcsak az alapvető higiéniára, hanem a járvánnyal kapcsolatos ajánlásokra, előírásokra is.
 
-        * A teszt során használt eszközök, illetve maga a minta is biológiai szempontból véve **veszélyes hulladéknak minősülnek**. A fertőzött személytől levett orrnyálkahártya-, orrgarat- vagy szájgaratnyálkahártya-minta maga is tartalmazza a vírust, ezért **a fertőzés lehetséges forrásának tekinthető**! Mivel a SARS-CoV-2 nem vérrel terjed, az ilyen mintától a COVID-19-et nem lehet elkapni – ugyanez azonban nem mondható el számos más, vérrel (is) terjedő fertőző betegségről.
+        * A teszt során használt eszközök, illetve maga a minta is biológiai szempontból véve **veszélyes hulladéknak minősülnek**. A fertőzött személytől levett orrnyálkahártya-, orrgarat- vagy szájgaratnyálkahártya-minta maga is tartalmazza a vírust, ezért **a fertőzés lehetséges forrásának tekinthető**!
 
 
-        A **laikus használatra** – vagy öntesztelésre – szánt termékeket bármilyen felnőtt személy használhatja.
+        A **laikus használatra** – vagy öntesztelésre – szánt termékeket bárki, aki betöltött egy bizonyos életkort, használhatja.
 
 
         Ezeknek sokkal szigorúbb biztonságossági előírásoknak kell megfelelniük. Többek között:
@@ -62,13 +62,16 @@ list:
 
         * A használati útmutatóban részletesen el kell magyarázni a teszt elvégzésének összes lépését, még azokat is, amelyek egyértelműek, vagy más módon nem is hajthatóak végre.
 
-        * Minden egészségügyi intézményben vannak biológiai hulladék-gyűjtők, ám egy átlagos háztartásban nincs ilyen. Egy laikusoknak szánt tesztnél gondoskodni kell a keletkező hulladékról is, például egy légmentesen lezárható tasak formájában. 
+        * Minden egészségügyi intézményben vannak biológiai hulladék-gyűjtők, ám egy átlagos háztartásban nincs ilyen. Egy laikusoknak szánt tesztnél gondoskodni kell a keletkező hulladék elhelyezéséről is, például egy légmentesen lezárható tasak formájában. 
 
 
         E tesztek engedélyeztetése is lényegesen több időbe kerül – ezért jelentek meg később a piacon. 
 
 
         Érdemes tudni, hogy a laikus használatra szánt tesztek csomagolásán nemcsak „CE” jelzés szerepel, hanem azt egy 4 jegyű szám is követi.
+
+
+        **Cégünk mind laikus, mind professzionális használatra szánt antigén gyorsteszteket forgalmaz.**
       anchor: kik-vegezhetik
   - object:
       question: Azt hallottam, a gyorstesztek megbízhatatlanok. Miért mondják ezt?
