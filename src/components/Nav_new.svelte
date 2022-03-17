@@ -29,7 +29,7 @@
       console.log(wnav, wdiv, wul, hamburger, nwidth);
   });*/
   $: hamburger = (nwidth > wnav);
-  $: console.log(wnav, wdiv, hamburger, nwidth);
+  //$: console.log(wnav, wdiv, hamburger, nwidth);
 </script>
 
 <svelte:head>
