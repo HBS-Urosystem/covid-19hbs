@@ -53,6 +53,7 @@ intro:
 
         A 400 darab alatti megrendeléseket hivatalos partnerünk, a <a href="https://medexim.hu/product-category/covid19-gyors-teszt/" rel="external noopener" target="_blank">medexim.hu</a> szolgálja ki.
 
+        <button><a href="/onteszt">Részletek</a></button>
 
         <dl>
 
@@ -169,7 +170,7 @@ intro:
     <details>
 
 
-    <summary>Miért a Clungene?</summary>
+    <summary>Miért a Clungene®?</summary>
 
 
     * Az egyik első Európában és Magyarországon forgalomba hozott márkáról van szó – a Clungene tesztek beváltották a hozzájuk fűzött reményeket.
