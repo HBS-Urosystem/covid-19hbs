@@ -2,7 +2,7 @@
 	import { lang, hero, type, tagline } from '../stores.js'
 	//import { mergePages } from '../content.js'
 	//export const pages = mergePages()
- 	import Nav from "../components/Nav.svelte"
+ 	import Nav from "../components/Nav_new.svelte"
  	import Cookies from "../components/Cookies.svelte"
 	import Stylesheet from "../components/Stylesheet.svelte"
 </script>
