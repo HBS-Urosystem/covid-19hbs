@@ -15,7 +15,7 @@
 	export let sticky = findCTA('sticky')
 	//export let news = findCollection('news')
 	//console.log(news)
-  let wnav, wdiv, hamburger = false, nwidth
+  let wnav, wdiv, hamburger = false, nwidth, mini
 
   /*onMount(() => {
     if (!!wul && !hamburger && !nwidth) {
@@ -29,6 +29,7 @@
       console.log(wnav, wdiv, wul, hamburger, nwidth);
   });*/
   $: hamburger = (nwidth > wnav);
+  $: mini = (wnav < 520)
   //$: console.log(wnav, wdiv, hamburger, nwidth);
 </script>
 
@@ -49,9 +50,21 @@
         <div>
           <span tabindex="0">{@html svgs['Menu']}</span>
         </div>
-
+        <small>
         <ul>
 
+          {#if mini}
+          <li>
+            <a aria-current="{segment == pages.product3[$lang].slug ? 'page' : undefined}" href="{pages.product3[$lang].slug}#content">{pages.product3[$lang].menutitle}</a>
+          </li>
+          <li>
+            <a aria-current="{segment == pages.product1[$lang].slug ? 'page' : undefined}" href="{pages.product1[$lang].slug}#content">{pages.product1[$lang].menutitle}</a>
+          </li>
+          <li>
+            <a aria-current="{segment == pages.product2[$lang].slug ? 'page' : undefined}" href="{pages.product2[$lang].slug}#content">{pages.product2[$lang].menutitle}</a>
+          </li>
+          {/if}
+  
           {#if pages.gyorstesztek[$lang]}
           <li>
             <a rel="prefetch" aria-current="{$type == 'gyorstesztek' ? 'page' : undefined}" href="{pages.gyorstesztek[$lang].slug}#content">
@@ -91,20 +104,23 @@
           {/if}
 
         </ul>
+        </small>
       </aside>
       {/if}
 
-      <ul>
+      <ul class:mini>
         <li>
-				<a rel="prefetch" aria-current="{$type == 'index' ? 'page' : undefined}" href="{$lang == 'hu' ? '/' : pages.index[$lang].slug}#content">
-					<span>Clungene® {pages.index[$lang].menutitle}</span><!-- <img loading="lazy" src="uploads/hbs-logo-medical.png" alt="hbs logo"> -->
-				</a>
-				<small>
-					<a aria-current="{segment == pages.product3[$lang].slug ? 'page' : undefined}" href="{pages.product3[$lang].slug}#content">{pages.product3[$lang].menutitle}</a>
-					<a aria-current="{segment == pages.product1[$lang].slug ? 'page' : undefined}" href="{pages.product1[$lang].slug}#content">{pages.product1[$lang].menutitle}</a>
-					<a aria-current="{segment == pages.product2[$lang].slug ? 'page' : undefined}" href="{pages.product2[$lang].slug}#content">{pages.product2[$lang].menutitle}</a>
-				</small>
-			</li>
+          <a rel="prefetch" aria-current="{$type == 'index' ? 'page' : undefined}" href="{$lang == 'hu' ? '/' : pages.index[$lang].slug}#content">
+            <span>Clungene® {pages.index[$lang].menutitle}</span><!-- <img loading="lazy" src="uploads/hbs-logo-medical.png" alt="hbs logo"> -->
+          </a>
+          {#if !mini}
+          <small>
+            <a aria-current="{segment == pages.product3[$lang].slug ? 'page' : undefined}" href="{pages.product3[$lang].slug}#content">{pages.product3[$lang].menutitle}</a>
+            <a aria-current="{segment == pages.product1[$lang].slug ? 'page' : undefined}" href="{pages.product1[$lang].slug}#content">{pages.product1[$lang].menutitle}</a>
+            <a aria-current="{segment == pages.product2[$lang].slug ? 'page' : undefined}" href="{pages.product2[$lang].slug}#content">{pages.product2[$lang].menutitle}</a>
+          </small>
+          {/if}
+        </li>
 
       {#if !hamburger}
 
@@ -238,6 +254,9 @@
     justify-content: center;*/
     /*margin-inline: auto;*/
 	}
+div > ul.mini {
+  align-items: center;
+}
 	div > ul, aside {
 		white-space: nowrap;
 		font-weight: bolder;
@@ -248,12 +267,13 @@
   aside {
     position: relative;
     flex-shrink: 0;
+    z-index: 1;
   }
-  aside > ul {
+  aside ul {
     display: none;
     position: absolute;
 		background-color: var(--midtone);
-    top: 2.5rem;
+    top: .5rem;
     left: .5rem;
     padding: .5rem;
     border-radius: .5rem;
