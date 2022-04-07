@@ -46,9 +46,9 @@
 	<div bind:offsetWidth={wdiv} class:hamburger>
 
       {#if hamburger}
-      <aside>
+      <aside tabindex="0">
         <div>
-          <span tabindex="0">{@html svgs['Menu']}</span>
+          <span>{@html svgs['Menu']}</span>
         </div>
         <small>
         <ul>
