@@ -51,7 +51,7 @@ intro:
         </dl>
 
 
-        A 400 darab alatti megrendeléseket hivatalos partnerünk, a <a href="https://medexim.hu/product-category/covid19-gyors-teszt/" rel="external noopener" target="_blank">medexim.hu</a> szolgálja ki.
+        A 400 darab alatti megrendeléseket hivatalos partnerünk, a <a href="https://medexim.hu/product-category/gyorstesztek/" rel="external noopener" target="_blank">medexim.hu</a> szolgálja ki.
 
         <button><a href="/onteszt">Részletek</a></button>
 
@@ -66,7 +66,7 @@ intro:
         <li>225 darab (9 doboz) vagy nagyobb mennyiség vásárlása esetén az ár  csak 952 Ft + 5% ÁFA / darab!</li>
 
 
-        <li>A 25–200 db (1–8 doboz) közötti megrendeléseket hivatalos partnerünk, a <a href="https://medexim.hu/product-category/covid19-gyors-teszt/" rel="external noopener" target="_blank">medexim.hu</a> szolgálja ki.</li>
+        <li>A 25–200 db (1–8 doboz) közötti megrendeléseket hivatalos partnerünk, a <a href="https://medexim.hu/product-category/gyorstesztek/" rel="external noopener" target="_blank">medexim.hu</a> szolgálja ki.</li>
 
         </ul>
 
@@ -111,7 +111,7 @@ intro:
         <li>225 darab (9 doboz) vagy nagyobb mennyiség vásárlása esetén az ár csak 880 Ft + 5% ÁFA / darab!</li>
 
 
-        <li>A 25–200 db (1–8 doboz) közötti megrendeléseket hivatalos partnerünk, a <a href="https://medexim.hu/product-category/covid19-gyors-teszt/" rel="external noopener" target="_blank">medexim.hu</a> szolgálja ki.</li>
+        <li>A 25–200 db (1–8 doboz) közötti megrendeléseket hivatalos partnerünk, a <a href="https://medexim.hu/product-category/gyorstesztek/" rel="external noopener" target="_blank">medexim.hu</a> szolgálja ki.</li>
 
         </ul>
 
