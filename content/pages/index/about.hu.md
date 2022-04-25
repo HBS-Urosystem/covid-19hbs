@@ -33,8 +33,17 @@ articles:
       forgalmazott gyorstesztekből tudományos kutatási, szociális és
       népegészségügyi célokra.
     subtitle: Társadalmi felelősségvállalásunk
+  - text: >-
+      Cégünk, a HBS Medical Kft. 500 darab Clungene antigén gyorstesztet
+      adományozott az ukrán menekültek ellenőrzésére, így kívánva segítséget
+      nyújtani azoknak, akik a példátlan méretű borzalmak elől Magyarországra
+      menekültek.
+
+
+      ![](/uploads/275132263_455948992948121_3653573676082149742_n_optim.jpg)
   - subtitle: További Információk a HBS Medical Kft-ről
-    text: <a href="https://www.hbs.hu" target="_blank" rel="external noopener">www.hbs.hu</a>
+    text: <a href="https://www.hbs.hu" target="_blank" rel="external
+      noopener">www.hbs.hu</a>
 references:
   links:
     - url: https://www.affidea.hu/covid-19-szures
