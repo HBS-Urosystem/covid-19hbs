@@ -39,7 +39,7 @@
 		{/if}
 	</aside>
 </article>
-<CTA />
+<!--<CTA />-->
 {/if}
 
 {#if post.references && (post.references.text || post.references.links)}

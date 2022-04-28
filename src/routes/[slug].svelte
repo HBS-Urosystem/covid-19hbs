@@ -207,7 +207,6 @@
 
 {#if post.type == 'about'}
 <Index {post}/>
-<CTA/>
 {/if}
 
 {#if post.type == 'goggles'}
