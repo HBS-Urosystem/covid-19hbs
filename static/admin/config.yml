@@ -1,3 +1,5 @@
+# npx netlify-cms-proxy-server
+
 site_url: https://covid-19.hbs.hu
 
 backend:
@@ -116,6 +118,7 @@ collections:
         name: news
         widget: list
         i18n: true
+        add_to_top: true
         fields: 
           - label: Title
             name: title

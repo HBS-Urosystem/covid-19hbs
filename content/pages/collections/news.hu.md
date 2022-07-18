@@ -13,6 +13,9 @@ list:
 
 
       A teszt gyártója, a Hangzhou Clongene Biotech Co. Ltd., rendelkezésünkre bocsátotta az igazolást, hogy a Clungene antigén gyorsteszt kazetta az omikron variáns alváltozatait is kimutatja.
+
+
+      **Frissítés, 2022. július:** a gyártó legfrissebb igazolása alapján az antigén gyorsteszt az omikron variáns újabb, jelenleg Európában domináns alváltozatait is kimutatja.
     link: ""
   - date: 2022-01-20T20:50:00.185Z
     link: adatok
