@@ -55,18 +55,21 @@ intro:
 
         <button><a href="/onteszt">Részletek</a></button>
 
+
         <dl>
 
         <dt>Professzionális termék:</dt>
+
+        <dt>ÁRCSÖKKENÉS!</dt>
 
         <dd>
 
         <ul>
 
-        <li>225 darab (9 doboz) vagy nagyobb mennyiség vásárlása esetén az ár  csak 952 Ft + 5% ÁFA / darab!</li>
+        <li>250 darab (10 doboz) vagy nagyobb mennyiség vásárlása esetén az ár  csak 880 Ft + 5% ÁFA / darab!<br>Minden 10 doboz antigén teszthez **2 doboz szerológiai tesztet** adunk ajándékba!</li>
 
 
-        <li>A 25–200 db (1–8 doboz) közötti megrendeléseket hivatalos partnerünk, a <a href="https://medexim.hu/product-category/gyorstesztek/" rel="external noopener" target="_blank">medexim.hu</a> szolgálja ki.</li>
+        <li>A 25–225 db (1–9 doboz) közötti megrendeléseket hivatalos partnerünk, a <a href="https://medexim.hu/product-category/gyorstesztek/" rel="external noopener" target="_blank">medexim.hu</a> szolgálja ki.</li>
 
         </ul>
 
@@ -108,10 +111,10 @@ intro:
 
         <ul>
 
-        <li>225 darab (9 doboz) vagy nagyobb mennyiség vásárlása esetén az ár csak 880 Ft + 5% ÁFA / darab!</li>
+        <li>250 darab (10 doboz) vagy nagyobb mennyiség vásárlása esetén az ár csak 560 Ft + 5% ÁFA / darab!</li>
 
 
-        <li>A 25–200 db (1–8 doboz) közötti megrendeléseket hivatalos partnerünk, a <a href="https://medexim.hu/product-category/gyorstesztek/" rel="external noopener" target="_blank">medexim.hu</a> szolgálja ki.</li>
+        <li>A 25–225 db (1–9 doboz) közötti megrendeléseket hivatalos partnerünk, a <a href="https://medexim.hu/product-category/gyorstesztek/" rel="external noopener" target="_blank">medexim.hu</a> szolgálja ki.</li>
 
         </ul>
 
@@ -136,32 +139,31 @@ intro:
       link: /szerologiai-teszt
   highlight: CLUNGENE® COVID-19 GYORSTESZTEK
   text: >-
-    ### Újdonság! Megérkeztek az otthoni használatra, öntesztelésre is alkalmas
-    antigén gyorstesztek!
+    ### Újdonság! 
 
 
     **Régebbi, professzionális használatra szánt termékeink árát jelentősen csökkentettük:**
 
 
-    **Antigén tesztek 952 Ft+ÁFA, szerológiai tesztek 880 Ft+ÁFA darabártól kaphatóak**
+    **Antigén tesztek 880 Ft+ÁFA, szerológiai tesztek 560 Ft+ÁFA darabárért kaphatóak!**
 
 
-    ### Fellélegezhetünk?
+    Minden **10 doboz** antigén teszthez **2 doboz** szerológiai tesztet adunk **ajándékba!**
 
 
-    Az omikron variáns okozta ötödik hullám lecsengőben van. A legtöbb országban feloldják a járványügyi korlátozásokat.
+    Továbbra is megvásárolhatóak az otthoni használatra, öntesztelésre alkalmas antigén gyorstesztek is!
 
 
-    Ismét csillapodni látszik a járvány. Talán sikerült a SARS-CoV-2 omikron variánsa által okozott újabb hullámot átvészelnünk a nélkül, hogy az egészségügy túlterhelődött volna, s hogy szigorú korlátozásokat kellett volna bevezetni.
+    ### **Itt az új hullám?**
 
 
-    **Nem tudhatjuk** azonban, mikor jelenik meg egy új omikron alvariáns, vagy egy teljesen új változat, amely ismét nagy pusztítást végez. 
+    Úgy tűnik, igen. Európa számos országában ismét egyre több fertőzöttet azonosítanak – egyes helyeken pedig már újra különféle korlátozások bevezetését latolgatják. 
 
 
-    Jelenleg nincs egységes álláspont a szakértők között, szükség lesz-e a meglévő vakcinák további dózisaira, és azt sem tudhatjuk, mikor lesznek hozzáférhetőek a jelenlegieknél korszerűbb, tartósabb hatású oltóanyagok. 
+    Idehaza jelenleg csak heti bontásban közlik a járványügyi adatokat, de azok sajnos hasonló tendenciát mutatnak.
 
 
-    A **módszeres és rendszeres tesztelést** azonban az oltásoktól függetlenül sem szabad abbahagyni! **Minél több embert tesztelünk le, annál több fertőzöttet azonosítunk** – s annál nagyobb eséllyel tudjuk megakadályozni a járványgócok kialakulását. Ha pedig ezt megtesszük, a jövőben talán már nem követel annyi áldozatot a COVID-19, mint amennyit az eddigi hullámok alatt követelt.
+    A **módszeres és rendszeres tesztelésnek** már most hatalmas a jelentősége: **minél több embert tesztelünk le, annál több fertőzöttet azonosítunk** – s annál nagyobb eséllyel tudjuk megakadályozni a járványgócok kialakulását. Ha pedig ezt megtesszük, még idejében elfojthatjuk a COVID-19 következő hullámát.
 
 
     ### Cégek, intézmények számára a hatékony megoldást nyújtanak a Clungene gyorstesztek, amelyek árát jelentősen csökkentettük!
