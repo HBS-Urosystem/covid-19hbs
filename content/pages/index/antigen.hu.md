@@ -225,7 +225,7 @@ articles:
       módszerrel, például molekuláris teszt elvégzésével meg kell erősíteni.
 
 
-      A professzionális alkalmazásra szánt terméket kizárólag orvosi szakdolgozók használhatják, annak otthoni használatra, valamint önellenőrzésre történő értékesítése tilos – ez utóbbi célokra a laikus használatra szánt termékek alkalmasak. Cégünk 2022. márciusától ilyen termékeket is forgalmaz.
+      A professzionális alkalmazásra szánt terméket kizárólag orvosi szakdolgozók használhatják, annak otthoni használatra, valamint önellenőrzésre történő értékesítése tilos – ez utóbbi célokra a [laikus használatra](/onteszt) szánt termékek alkalmasak. Cégünk 2022. márciusától ilyen termékeket is forgalmaz.
     title: Figyelmeztetés
 documents:
   text: >-

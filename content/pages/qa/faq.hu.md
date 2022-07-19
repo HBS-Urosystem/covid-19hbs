@@ -475,6 +475,6 @@ list:
         szerológiai teszt jelzi a vakcina hatására termelődő ellenanyagot.
 
 
-        A tapasztalatok azonban azt mutatják, a vakcina révén szerzett védettség kimutatása a szerológiai gyorstesztek (pontosabban, azok egyes fajtáinak) egyik lehetséges alkalmazhatósága. Bővebben minderről [ezen az oldalon](/oltas) lehet olvasni.
+        A tapasztalatok azonban azt mutatják, a vakcina révén szerzett védettség kimutatása a szerológiai gyorstesztek (pontosabban, azok egyes fajtáinak) egyik lehetséges alkalmazhatósága. Jóllehet, a pozitív IgG eredmény csupán utal a védettségre, a gyorstesztek olcsó ára és egyszerű elvégezhetősége sok esetben indokolttá teheti azok használatát. Bővebben minderről [ezen az oldalon](/oltas) lehet olvasni.
       anchor: reklamfogas
 ---

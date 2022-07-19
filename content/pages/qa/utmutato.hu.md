@@ -29,7 +29,7 @@ list:
         **Onset nap** – a tünetek megjelenésének a napja. A fertőzés lefutásának vizsgálatakor **az onset napot tekintik 0. napnak**. (A tünetek megjelenését megelőző nap tehát a –1. nap.)
 
 
-        **Lappangási idő** – az az időszak, amikor valaki már megfertőződött a vírussal, a COVID-19 tünetei viszont még nem jelentkeztek. A lappangási idő átlagosan **5 nap**, többnyire 3–7 nap közé esik, de lehet 1, vagy 14 nap is – idősebb korban általában hosszabb. Az egyes variánsok lappangási ideje is eltérő lehet.
+        **Lappangási idő** – az az időszak, amikor valaki már megfertőződött a vírussal, a COVID-19 tünetei viszont még nem jelentkeztek. A lappangási idő átlagosan **5 nap**, többnyire 3–7 nap közé esik, de lehet 1, vagy 14 nap is – idősebb korban általában hosszabb. Az egyes variánsok lappangási ideje is eltérő lehet, az omikron esetében rendszerint 2–3 napról van szó.
       anchor: alapfogalmak
   - object:
       question: A fertőzőképes időszak, expozíciós kockázat
@@ -38,10 +38,10 @@ list:
         fertőző**.
 
 
-        A **legfertőzőképesebb időszak a –2… 7. nap.** Súlyos tünetek esetében a **fertőzőképes időszak is hosszabb, akár 14 nap is lehet.** 
+        A **legfertőzőképesebb időszak a –2. és a 7. nap között** (az omikron változatnál ez az időszak rövidebb). Súlyos tünetek esetén a **fertőzőképes időszak is hosszabb, akár 14 nap is lehet.** 
 
 
-        Kórházi kezelést nem igénylő fertőzötteknél joggal feltételezhető, hogy a tünetek elmúlását követően az érintett már nem fertőző. Ennek ellenére, ha lehetséges, erről a tényről teszt alkalmazásával is meg kell győződni! Amennyiben erre nincs mód, az érintett a 14. napig, illetve a tünetek elmúlásáig (amelyik hosszabb) fertőzőnek tekintendő.
+        Kórházi kezelést nem igénylő fertőzötteknél joggal feltételezhető, hogy a tünetek elmúlását követően az érintett már nem fertőző. Ennek ellenére, ha lehetséges, erről a tényről teszt alkalmazásával is meg kell győződni! Ugyanakkor egyes tünetek igen hosszú ideig is fennmaradhatnak – függetlenül attól, hogy az érintett már rég nem fertőzőképes. Ezért, ha a tesztelés nem megvalósítható, „ökölszabályként” 5 egymást követő, nem gyógyszeres kezelés hatására megvalósuló lázmentes nap után már feltételezhető a fertőzőképesség elmúlása.
 
 
         Kórházi kezelést igénylőknél a **gyógyultság és a fertőzőképesség elmúlásának megállapítása a kezelőorvos feladata**.
@@ -86,7 +86,7 @@ list:
         * Az együtt töltött idő során beszéddel töltött idő, illetve a beszéd hangereje
 
 
-        Az alábbi oldal segítségével modellezni lehet, mekkora a fertőzés terjedésének esélye: <https://www.zeit.de/wissen/gesundheit/2020-11/coronavirus-aerosols-infection-risk-hotspot-interiors> (német nyelvű, de angolul is használható).
+        Az alábbi oldal segítségével modellezni lehet, mekkora a fertőzés terjedésének esélye: <a href="https://www.zeit.de/wissen/gesundheit/2020-11/coronavirus-aerosols-infection-risk-hotspot-interiors" rel="external noopener" target="_blank">https://www.zeit.de/wissen/gesundheit/2020-11/coronavirus-aerosols-infection-risk-hotspot-interiors</a> (német nyelvű, de angolul is használható).
 
 
         A nyílt tér ezt az oldalt használva maximális magassággal és szellőzéssel modellezhető.
@@ -101,35 +101,42 @@ list:
 
         <ol type="a">
 
-        <li>**Tünetmentes** fertőzöttnél az **onset nap az első pozitív**, a vírust közvetlenül kimutató **teszt napja**. </li>
+        <li><b>Tünetmentes</b> fertőzöttnél az <b>onset nap az első pozitív</b>, a vírust közvetlenül kimutató <b>teszt napja</b>.</li>
 
-        <li>Ha a tünetek az első pozitív teszt eredmény után jelentkeznek, **a tünetek megjelenésének napja az** (új) **onset nap**.</li>
 
-        <li>**Pozitív** teszteredmény mellett, ha **nem lehet eldönteni**, hogy a tünetek a COVID-19-nek köszönhetőek-e, az **onset nap** a teszteredményt megelőző 5. nap, vagy a tünetek megjelenésének napja; amelyik rövidebb. (Ilyen eset lehet pl. a más tünetek nélkül jelentkező orrfolyás, amely oka akár allergia is lehet.)</li>
+        <li>Ha a tünetek az első pozitív teszt eredmény után jelentkeznek, <b>a tünetek megjelenésének napja az</b> (új) <b>onset nap</b>.</li>
 
-        <li>**Ismert** – tünetes, és/vagy teszttel igazolt – fertőzöttnél **az expozíciós nap** **az onset napot megelőző 5. nap** (ez a –5. nap), amennyiben a következő – e., f., g. h. – esetek egyike sem áll fenn.</li>
 
-        <li>Ha az azonosított fertőzött **korábban már igazolt fertőzöttel találkozott** az elmúlt 14 napban, **ez a nap az expozíciós nap**.</li>
+        <li><b>Pozitív</b> teszteredmény mellett, ha <b>nem lehet eldönteni</b>, hogy a tünetek a COVID-19-nek köszönhetőek-e, az <b>onset nap</b> a teszteredményt megelőző 5. nap, vagy a tünetek megjelenésének napja; amelyik rövidebb. (Ilyen eset lehet pl. a más tünetek nélkül jelentkező orrfolyás, amely oka akár allergia is lehet.)</li>
 
-        <li>Ha az azonosított fertőzött **több ízben** találkozott korábban már igazolt fertőzöttel, az **expozíciós nap az a nap, amely az onset napot megelőző 5. naphoz közelebb esik**.</li>
 
-        <li>Ha az azonosított fertőzött korábban már igazolt fertőzöttel **állt napi szintű kapcsolatban** az elmúlt 14 nap során (közös háztartás, egy légtérben folyó munka), az **expozíciós nap az onset napot megelőző 5. nap**. </li>
+        <li><b>Ismert</b> – tünetes, és/vagy teszttel igazolt – fertőzöttnél <b>az expozíciós nap az onset napot megelőző 5. nap</b> (ez a –5. nap), amennyiben a következő – e., f., g. h. – esetek egyike sem áll fenn. <b>Omikron variáns esetében</b> érdemesebb az onset napot megelőző 3. vagy 2. napot tekinteni expozíciós napnak.</li>
 
-        <li>Ha az azonosított fertőzöttnek kevés napi szintű kontaktja van – pl. a családját és a közvetlen munkatársait kivéve nem találkozik másokkal –, azok között nincs igazolt fertőzött, ám az elmúlt 14 nap során **a szokásos kapcsolatait kivéve másokkal is találkozott** (pl. baráti összejövetel, szerető felkeresése, tömegrendezvény), **ez a nap lesz az expozíciós nap**. (Több ilyen nap esetén a legvalószínűbb a –5. naphoz legközelebb eső nap.)</li>
+
+        <li>Ha az azonosított fertőzött <b>korábban már igazolt fertőzöttel találkozott</b> az elmúlt 14 napban, <b>ez a nap az expozíciós nap</b>.</li>
+
+
+        <li>Ha az azonosított fertőzött <b>több ízben</b> találkozott korábban már igazolt fertőzöttel, az <b>expozíciós nap az a nap, amely az onset napot megelőző 5. naphoz közelebb esik</b> (omikron: 2–3. naphoz).</li>
+
+
+        <li>Ha az azonosított fertőzött korábban már igazolt fertőzöttel <b>állt napi szintű kapcsolatban</b> az elmúlt 7 nap során (közös háztartás, egy légtérben folyó munka), az <b>expozíciós nap az onset napot megelőző 5. nap</b> (omikron: 2–3. nap).</li>
+
+
+        <li>Ha az azonosított fertőzöttnek kevés napi szintű kontaktja van – pl. a családját és a közvetlen munkatársait kivéve nem találkozik másokkal –, azok között nincs igazolt fertőzött, ám az elmúlt 14 nap során <b>a szokásos kapcsolatait kivéve másokkal is találkozott</b> (pl. baráti összejövetel, szerető felkeresése, tömegrendezvény), <b>ez a nap lesz az expozíciós nap</b>. (Több ilyen nap esetén a legvalószínűbb a –5. naphoz legközelebb eső nap.)</li>
 
         </ol>
 
 
-        Példák.
+        Példák (a következőkben átlagosan 5 nap lappangási időt feltételeztünk):
 
 
         <ol type="a">
 
-        <li>Aladár és Béla szerdán találkoztak. Bélánálszombaton jelentkeztek a tünetek, a tesztje pozitív lett. *Következtetés:* Aladár expozíciós napja szerda, várható onset napja a következő hétfő. (Béla expozíciós napja korábban volt, mint szerda.)</li>
+        <li>Aladár és Béla szerdán találkoztak. Bélánál szombaton jelentkeztek a tünetek, a tesztje pozitív lett. \*Következtetés:\* Aladár expozíciós napja szerda, várható onset napja a következő hétfő. (Béla expozíciós napja korábban volt, mint szerda.)</li>
 
-        <li>Clotilde, Dani és Elemér egy irodában dolgoznak. Hétfőn Clotilde-nál jelentkeznek a COVID-19 tipikus tünetei, a vírus jelenlétét másnap teszt is igazolja. Sem Dani, sem Elemér nem találkozott másokkal (a családjukon kívül), tüneteik sincsenek. Clotilde azonban szombaton együtt bulizott egy ismerősével, Fruzsinával – a hét során más, a szokottaktól eltérő kontaktja nem volt. *Következtetés:* Clotilde onset napja hétfő, expozíciós napja (előző) szombat.</li>
+        <li>Clotilde, Dani és Elemér egy irodában dolgoznak. Hétfőn Clotilde-nál jelentkeznek a COVID-19 tipikus tünetei, a vírus jelenlétét másnap teszt is igazolja. Sem Dani, sem Elemér nem találkozott másokkal (a családjukon kívül), tüneteik sincsenek. Clotilde azonban szombaton együtt bulizott egy ismerősével, Fruzsinával – a hét során más, a szokottaktól eltérő kontaktja nem volt. \*Következtetés:\* Clotilde onset napja hétfő, expozíciós napja (előző) szombat.</li>
 
-        <li>Clotilde szól Fruzsinának, hogy elkapta a vírust. Fruzsina Gertrúddal és Hubával dolgozik együtt. Mindhármukat még aznap tesztelik: Gertrúd és Huba tesztje negatív, Fruzsináé azonban pozitív. Mindhármukat hazaküldik. Huba péntekre belázasodik és az orra is folyik, következő hétfőn pozitív teszteredményt kap. Gertrúd semmit sem tapasztal, a jövő héten nála is elvégzik a tesztet, ami negatív. *Következtetés:* Huba onset napja péntek, expozíciós napja az azt megelőző hétfő. (Szóba jöhet még az előző péntek is.) Gertrúd valószínűleg nem kapta el a vírust. Fruzsina tünetmentes fertőzött; nála is a hétfő tekinthető onset napnak. Az expozíciós napja valamikorra az előző hétre, talán még korábbra tehető. Szombaton már jó eséllyel fertőző volt (ha Clotilde tőle kapta el), de talán már pénteken is (ha Hubát akkor fertőzte meg). Ha feltesszük, hogy Hubánál nem volt szokatlanul hosszú a lappangási idő, Fruzsina az előző hét első felében még nem volt fertőzőképes.</li>
+        <li>Clotilde szól Fruzsinának, hogy elkapta a vírust. Fruzsina Gertrúddal és Hubával dolgozik együtt. Mindhármukat még aznap tesztelik: Gertrúd és Huba tesztje negatív, Fruzsináé azonban pozitív. Mindhármukat hazaküldik. Huba péntekre belázasodik és az orra is folyik, következő hétfőn pozitív teszteredményt kap. Gertrúd semmit sem tapasztal, a jövő héten nála is elvégzik a tesztet, ami negatív. \*Következtetés:\* Huba onset napja péntek, expozíciós napja az azt megelőző hétfő. (Szóba jöhet még az előző péntek is.) Gertrúd valószínűleg nem kapta el a vírust. Fruzsina tünetmentes fertőzött; nála is a hétfő tekinthető onset napnak. Az expozíciós napja valamikorra az előző hétre, talán még korábbra tehető. Szombaton már jó eséllyel fertőző volt (ha Clotilde tőle kapta el), de talán már pénteken is (ha Hubát akkor fertőzte meg). Ha feltesszük, hogy Hubánál nem volt szokatlanul hosszú a lappangási idő, Fruzsina az előző hét első felében még nem volt fertőzőképes.</li>
 
         </ol> 
 
@@ -137,14 +144,14 @@ list:
         E példák több fontos tényre is rávilágítanak.
 
 
-        * A vírus terjedéséért **nagyban felelősek a tünetmentes fertőzöttek** (a példánkban Fruzsina), ezért **kiemelt fontosságú ezek tesztelése is**. (Ha Fruzsina – lelkiismeretlenül – nem tesztelteti magát, miután Clotilde szólt neki, sosem derül ki, Hubát ki fertőzte meg.)
+        * A vírus terjedéséért <b>nagyban felelősek a tünetmentes fertőzöttek</b> (a példánkban Fruzsina), ezért <b>kiemelt fontosságú ezek tesztelése is</b>. (Ha Fruzsina – lelkiismeretlenül – nem tesztelteti magát, miután Clotilde szólt neki, sosem derül ki, Hubát ki fertőzte meg.)
 
-        * A védekezés **lényeges eszköze nemcsak a betegek, hanem a fertőzöttek elkülönítése is**. Ha Fruzsina és Huba nem kerül házi karanténba, még több embert megfertőztek volna. Gertrúd természetesen az ismételt negatív teszteredmény után visszamehet dolgozni. (Történetesen, a példánál maradva Clotilde, Dani és Elemér is elkülönítendő.)
+        * A védekezés <b>lényeges eszköze nemcsak a betegek, hanem a fertőzöttek elkülönítése is</b>. Ha Fruzsina és Huba nem kerül házi karanténba, még több embert megfertőztek volna. Gertrúd természetesen az ismételt negatív teszteredmény után visszamehet dolgozni. (Történetesen, a példánál maradva Clotilde, Dani és Elemér is elkülönítendő.)
 
-        * Mennél több tényt ismerünk, **annál jobban lehet pontosítani az események menetét**, és annál jobban meg lehet határozni, miként terjedt az emberek közt a vírus. (Így derült ki a példákban, hogy Clotilde lappangási ideje jóval kevesebb volt, mint 5 nap, Hubáé 4, de 7–8 nap is lehetett, illetve, hogy mindkét közösséget Fruzsina fertőzte meg – tudtán kívül.)
+        * Mennél több tényt ismerünk, <b>annál jobban lehet pontosítani az események menetét</b>, és annál jobban meg lehet határozni, miként terjedt az emberek közt a vírus. (Így derült ki a példákban, hogy Clotilde lappangási ideje jóval kevesebb volt, mint 5 nap, Hubáé 4, de 7–8 nap is lehetett, illetve, hogy mindkét közösséget Fruzsina fertőzte meg – tudtán kívül.)
 
 
-        Mindez elvezet minket a **kontaktkutatás** szükségességéhez, és a járvány elleni védekezésben betöltött **hatalmas szerepéhez** (ld. később).
+        Mindez elvezet minket a <b>kontaktkutatás</b> szükségességéhez, és a járvány elleni védekezésben betöltött <b>hatalmas szerepéhez</b> (ld. később).
       anchor: onset
   - object:
       question: A COVID-19 tesztek típusai
@@ -255,12 +262,6 @@ list:
 
 
         Önmagukban természetesen csupán tájékoztató jellegű eredményt adnak, ám az is elegendő ahhoz, hogy a drágább, idő- és eszközigényesebb tesztelési módokat csak akkor kelljen igénybe venni, amikor a gyorstesztek eredményei megerősítésre szorulnak. Használatukkal tehát **időt és pénzt lehet megtakarítani**.
-
-
-        **Megjegyzés**
-
-
-        Bár léteznek laikusok által is használható gyorstesztek, a tesztelést ennek ellenére érdemes egészségügyi szakdolgozónak végeznie. A helytelenül végzett mintavétel ugyanis helytelen eredményre vezethet, a gondatlan mintakezelés fertőzések forrása lehet, az eredmény értelmezésénél pedig figyelembe kell venni a tesztalany előtörténetét, múltbeli, illetve aktuális tüneteit is.
       anchor: tipusok
   - object:
       question: A gyorstesztek elvégzése, az eredmények értelmezése
@@ -347,6 +348,13 @@ list:
   - object:
       question: A módszeres tesztelés alapjai
       answer: >-
+        *Az itt közölt információk értelmezése és alkalmazása során mindenképpen
+        figyelembe kell venni az aktuális járványügyi helyzetet, az éppen
+        elterjedt vírusvariánsok természetét (tünetek, lappangási idő stb.),
+        illetve a konkrét intézmény sajátosságait (alapterület, munkavégzés
+        rendje stb.) is!*
+
+
         ### Elméleti megfontolások
 
 
@@ -361,9 +369,9 @@ list:
 
         <li><b>Pozitív antigén, PCR teszt vagy IgM pozitív szerológiai teszt esetén követni kell a járványügyi előírásokat</b> – elkülönítés, házi karantén – még akkor is, ha a tesztelt személy tünetmentes, mivel az eredmény fennálló fertőzésre utal.</li>
 
-        <li><b>Ha a szerológiai teszt IgG pozitív</b>, és a tesztelt személy sem védőoltást nem kapott, sem korábban nem volt COVID-19 fertőzött, <b>fertőzöttnek tekintendő</b>. Az eredményt PCR teszttel le kell ellenőrizni, annak negativitása esetén az érintett már nem fertőző (azt megelőzően elkülönítés szükséges).</li>
+        <li><b>Ha a szerológiai teszt IgG pozitív</b>, és a tesztelt személy sem védőoltást nem kapott, sem korábban nem volt COVID-19 fertőzött, <b>fertőzöttnek tekintendő</b>. Az eredményt PCR teszttel (annak hiányában antigén teszttel) le kell ellenőrizni, annak negativitása esetén az érintett már nem fertőző (azt megelőzően elkülönítés szükséges).</li>
 
-        <li><b>A járványügyi előírások szempontjából az, akinél jelentkeznek a COVID-19 jellegzetes tünetei még negatív teszteredmény esetében is fertőzöttnek tekintendő</b>. </li>
+        <li><b>A járványügyi előírások szempontjából az, akinél jelentkeznek a COVID-19 jellegzetes tünetei még negatív teszteredmény esetében is fertőzöttnek tekintendő</b> – e tünetek azonban variánsonként eltérőek lehetnek, ezért a döntő szót minden esetben az illetékes egészségügyi szakdolgozó kell, hogy kimondja!</li>
 
         </ol>
 
@@ -380,30 +388,30 @@ list:
         <ol type="a">
 
 
-        <li>Ha a tünetek megjelenése óta 1–7 nap telt el, <b>PCR vagy antigén teszt</b></li>
+        <li>Ha a tünetek megjelenése óta 1–7 nap telt el, <b>PCR vagy antigén teszt</b>.</li>
 
-        <li>Ha a tünetek megjelenése óta 8–14 nap telt el, <b>PCR vagy szerológiai teszt</b> (az időszak elején az előbbi, a végén az utóbbi megbízhatóbb; ha a PCR teszt nem áll rendelkezésre, akkor szerológiai teszt)</li>
+        <li>Ha a tünetek megjelenése óta 8–14 nap telt el, <b>PCR vagy szerológiai teszt</b> (az időszak elején az előbbi, a végén az utóbbi megbízhatóbb; ha a PCR teszt nem áll rendelkezésre, akkor szerológiai teszt).</li>
 
-        <li>Ha a tünetek megjelenése óta 15 vagy több nap telt el, <b>szerológiai teszt</b> </li>
+        <li>Ha a tünetek megjelenése óta 15 vagy több nap telt el, <b>szerológiai teszt</b>.</li>
 
-        <li>Ha valaki igazolt COVID-19 fertőzött szoros kontaktja volt, vagy más szempontból magas nála a megfertőződés kockázata (pl. külföldi út járványveszélyes országban), <b>meg kell határozni az onset napot</b>
+        <li>Ha valaki igazolt COVID-19 fertőzött szoros kontaktja volt, vagy más szempontból magas nála a megfertőződés kockázata (pl. külföldi út járványveszélyes országban), <b>meg kell határozni az onset napot</b>.
 
         <ul>
 
-        <li>Ha már <b>jelentkeztek a tünetek</b>, az onset nap ismert, és az a–c. pontokban írtak szerint kell eljárni
+        <li>Ha már <b>jelentkeztek a tünetek</b>, az onset nap ismert, és az a–c. pontokban írtak szerint kell eljárni.</li>
 
-        <li>Ha még nem, az <b>utolsó</b> ismert közös nap a szoros kontakttal lesz az expozíciós nap, az onset napnak azt ezt követő 5. napot kell tekinteni. Ezt követően az a–c. pontokban írtak szerint kell eljárni. Ha még nem érkezett el az onset nap, addig elkülönítés szükséges, a (PCR vagy antigén) tesztelést ezt követően haladéktalanul el kell végezni
+        <li>Ha még nem, az <b>utolsó</b> ismert közös nap a szoros kontakttal lesz az expozíciós nap, az onset napnak azt ezt követő 5. napot kell tekinteni. Ezt követően az a–c. pontokban írtak szerint kell eljárni. Ha még nem érkezett el az onset nap, addig elkülönítés szükséges, a (PCR vagy antigén) tesztelést ezt követően haladéktalanul el kell végezni.</li>
 
         </ul></li>
 
 
-        <li>Ha a tünetek megléte, vagy a megfertőződés magas kockázata miatt fennáll a COVID-19 gyanúja, de nincs idő vagy lehetőség PCR tesztre (pl. halaszthatatlan utazás), <b>antigén teszt</b> </li>
+        <li>Ha a tünetek megléte, vagy a megfertőződés magas kockázata miatt fennáll a COVID-19 gyanúja, de nincs idő vagy lehetőség PCR tesztre (pl. halaszthatatlan utazás), <b>antigén teszt</b>.</li>
 
-        <li>Járóbeteg ellátás pácienseinek esetében (a fogászati kezelést is beleértve) <b>antigén és szerológiai teszt</b>, bármelyik pozitivitása esetén a kezelést csak akkor lehet – a későbbiekben! – megkezdeni, ha a páciens <b>PCR tesztje</b> már <b>negatív</b> lesz</li>
+        <li>Járóbeteg ellátás pácienseinek esetében (a fogászati kezelést is beleértve) <b>antigén és szerológiai teszt</b>, bármelyik pozitivitása esetén a kezelést csak akkor lehet – a későbbiekben! – megkezdeni, ha a páciens <b>PCR tesztje</b> már <b>negatív</b> lesz.</li>
 
-        <li>Fekvőbeteg felvételekor (pl. tervezett műtétek) <b>PCR teszt</b> (sürgősségi esetben, ha a PCR teszt eredményét már nem lehet megvárni, antigén és szerológiai teszt)</li>
+        <li>Fekvőbeteg felvételekor (pl. tervezett műtétek) <b>PCR teszt</b> (sürgősségi esetben, ha a PCR teszt eredményét már nem lehet megvárni, antigén és szerológiai teszt).</li>
 
-        <li>Múltban lezajlott fertőzést <b>szerológiai teszttel lehet kimutatni</b>, ennek negativitása esetén <b>mennyiségi védettségi vizsgálat</b> végzendő, ha a védettség megléte vagy hiánya nélkülözhetetlen információ</li>
+        <li>Múltban lezajlott fertőzést <b>szerológiai teszttel lehet kimutatni</b>, ennek negativitása esetén <b>mennyiségi védettségi vizsgálat</b> végzendő, ha a védettség megléte vagy hiánya nélkülözhetetlen információ.</li>
 
         </ol>
 
@@ -414,17 +422,17 @@ list:
         Bár a már vakcinával védettek esetében alacsony a tünetek megjelenésének a valószínűsége, nem zárható ki, hogy hordozzák a vírust – ezért másokat is megfertőzhetnek.
 
 
-        1. **Tünetek jelentkezésekor** az onset nap utáni 1–7. napon, amennyiben lehetséges, a lehető leghamarabb **PCR vagy antigén teszt** elvégzése javasolt (8. naptól kezdve már csak a PCR teszt ad megbízható eredményt)
+        1. **Tünetek jelentkezésekor** az onset nap utáni 1–7. napon, amennyiben lehetséges, a lehető leghamarabb **PCR vagy antigén teszt** elvégzése javasolt (8. naptól kezdve már csak a PCR teszt ad megbízható eredményt).
 
         2. Tünetmentes esetben, ha magas a vírus hordozásának kockázata (pl. szoros kontakt igazolt fertőzöttje), az oltatlanoknál írt d. pont függvényében kell kiszámolni az expozíciós napot és az onset napot, a PCR vagy antigén tesztet pedig az onset nap utáni 1–7. napon (lehetőleg az 1–4. nap során) kell elvégezni.
 
-        3. A nem oltottaknál írt e., f. és g. pontok esetében hasonlóképp kell eljárni azzal a különbséggel, hogy a szerológiai teszt elvégzése felesleges, mivel az nem ad információt a fertőzésről
+        3. A nem oltottaknál írt e., f. és g. pontok esetében hasonlóképp kell eljárni azzal a különbséggel, hogy a szerológiai teszt elvégzése felesleges, mivel az nem ad információt a fertőzésről.
 
-        4. Amennyiben az oltott személy a vakcina nyújtotta védettség meglétére kíváncsi, azt **szerológiai teszttel** lehet ellenőrizni, az 5. pont utolsó francia bekezdésben írtaknak megfelelő időpontban
+        4. Amennyiben az oltott személy a vakcina nyújtotta védettség meglétére kíváncsi, azt **szerológiai teszttel** lehet ellenőrizni, az 5. pont utolsó francia bekezdésben írtaknak megfelelő időpontban – a pozitív eredmény azonban csak utal a védettség fennálltára.
 
-        5. Ha az oltott személy szerológiai tesztje **negatív lett**, **mennyiségi védettségi vizsgálat** elvégzése indokolt – ez utóbbi ugyanis érzékenyebb, és olyan esetekben is kimutatja a védettséget, amikor a gyorsteszt azt nem jelzi (vagy még nem jelzi)
+        5. Ha az oltott személy szerológiai tesztje **negatív lett**, **mennyiségi védettségi vizsgálat** elvégzése indokolt – ez utóbbi ugyanis érzékenyebb, és olyan esetekben is kimutatja a védettséget, amikor a gyorsteszt azt nem jelzi (vagy még nem jelzi).
 
-        6. Mivel a korábbi COVID-19 fertőzés által szerzett védettség rendszerint csak 3–6 hónapig marad meg, s mert a vírus különböző változatai ugyanúgy megfertőzhetik azt is, aki már egyszer átesett a fertőzésen, **a múltban COVID-19-cel megfertőződöttek esetében nem alkalmazhatóak az oltottakra vonatkozóan írtak!**
+        6. Mivel a korábbi COVID-19 fertőzés által szerzett védettség rendszerint csak 3–6 hónapig marad meg, s mert a vírus különböző változatai ugyanúgy megfertőzhetik azt is, aki már egyszer átesett a fertőzésen, **a múltban COVID-19-cel megfertőződöttek esetében nem alkalmazhatóak az oltottakra vonatkozóan írtak!**.
 
 
         ### Közösségek rendszeres tesztelése (screening)
@@ -445,13 +453,13 @@ list:
         A rendszeres tesztelés menetét érdemes az egészségügyi szakdolgozónak (pl. üzemorvosnak) az **intézmény sajátosságaihoz igazítania**; ebben a 2. és 3. fejezetek nyújtanak segítséget. Néhány szempont a tesztelési rend kidolgozásához:
 
 
-        * Figyelni kell a helyiségek méretére és jellegére. Egy többszáz négyzetméteres gyártócsarnok 8 méteres belmagassággal, egész napos átszellőztetéssel kisebb járványügyi kockázatot jelent, mint egy 4 fős, 20 négyzetméteres iroda (az utóbbi esetben a dolgozók egymás szoros kontaktjának minősülnek, míg az előbbi esetben legfeljebb csak az egész nap egy gyártósornál dolgozók)
+        * Figyelni kell a helyiségek méretére és jellegére. Egy többszáz négyzetméteres gyártócsarnok 8 méteres belmagassággal, egész napos átszellőztetéssel kisebb járványügyi kockázatot jelent, mint egy 4 fős, 20 négyzetméteres iroda (az utóbbi esetben a dolgozók egymás szoros kontaktjának minősülnek, míg az előbbi esetben legfeljebb csak az egész nap egy gyártósornál dolgozók).
 
-        * Azokat, akik pl. munkakörükből kifolyólag több emberrel érintkeznek, érdemes lehet gyakrabban tesztelni, mint azokat, akik kevesekkel találkoznak (az üzemi konyha szakácsa, illetve a cég recepciósa pl. ha rövid időn át ugyan, de szinte mindenkivel találkozik, ezért könnyedén terjesztheti a fertőzést)
+        * Azokat, akik pl. munkakörükből kifolyólag több emberrel érintkeznek, érdemes lehet gyakrabban tesztelni, mint azokat, akik kevesekkel találkoznak (az üzemi konyha szakácsa, illetve a cég recepciósa pl. ha rövid időn át ugyan, de szinte mindenkivel találkozik, ezért könnyedén terjesztheti a fertőzést).
 
-        * Akik többet beszélnek (pl. tanárok), illetve rendszeresen adnak át tárgyakat a többieknek (pl. a kávét főző titkárnők), nagyobb eséllyel terjesztik a vírust a többieknél
+        * Akik többet beszélnek (pl. tanárok), illetve rendszeresen adnak át tárgyakat a többieknek (pl. a kávét főző titkárnők), nagyobb eséllyel terjesztik a vírust a többieknél.
 
-        * Az egymással kapcsolatot nem tartó dolgozócsoportokat nem okvetlenül szükséges ugyanabban az időpontban tesztelni (nem is érdemes: ha a tesztelést nem egyszerre, s egy helyen végzik, nem fordulhat elő, hogy éppen annak során adják tovább e csoportok egymás között a vírust)
+        * Az egymással kapcsolatot nem tartó dolgozócsoportokat nem okvetlenül szükséges ugyanabban az időpontban tesztelni (nem is érdemes: ha a tesztelést nem egyszerre, s egy helyen végzik, nem fordulhat elő, hogy éppen annak során adják tovább e csoportok egymás között a vírust).
 
 
         Jelen ajánlás **nem helyettesíti a higiéniai és járványügyi előírásokat** (fertőtlenítés, kézmosás, maszkviselet stb.), hanem azok betartására épül!
@@ -460,33 +468,36 @@ list:
         #### Kezdeti lépések
 
 
-        1. A tesztelés megkezdése előtt meg kell tudni, kik azok, akik – igazoltan vagy sem, de – már **átestek a COVID-19 fertőzésen**, illetve kik azok, akik **már kaptak védőoltást**.
-
-        2. Szerológiai teszt **egyszeri** elvégzésével felderíthető, hogy e két csoportnál fennáll-e a védettség – ezt IgG pozitív eredmény jelzi.
+        A tesztelés megkezdése előtt meg kell tudni, kik azok, akik – igazoltan vagy sem, de – már **átestek a COVID-19 fertőzésen**, illetve kik azok, akik **már kaptak védőoltást**.
 
 
-        * Az e két csoportba tartozó IgG pozitív személyek nem kell, hogy részt vegyenek a további tesztelésben, **kivéve**, ha náluk tünetek jelentkeznek, vagy ha igazolt fertőzöttek szoros kontaktjai 
-
-        * A múltbeli fertőzöttek esetében érdemes a szerológiai tesztet **havi rendszerességgel** megismételni, hogy meg lehessen róla győződni, fennáll-e még a védettség
-
-        * A védőoltás összes szükséges dózisát követően a védettség jelen tudásunk szerint mintegy 6 hónapon keresztül áll fent. Ezt követően e személyeket is érdemes havi rendszerességgel tesztelni. Idősebbeknél a védettség időtartama rövidebb is lehet, náluk már 4–5 hónap után célszerű elkezdeni a tesztelést
-
-        * Az e két csoportba tartozó **IgG negatív** személyek nem tekinthetőek védettnek, ezért a továbbiakban tesztelendőek
-
-        * A védőoltást kapott IgG negatív személyek esetében **mennyiségi védettségi vizsgálat javasolt**, ennek pozitivitása esetén fennáll a védettség
+        Szerológiai teszt **egyszeri** elvégzésével felderíthető, hogy e két csoportnál fennáll-e a védettség – ezt IgG pozitív eredmény jelzi.
 
 
-        1. Az olyan személyek IgG pozitivitása, akik nem kaptak vakcinát, illetve tudomásuk szerint nem voltak még fertőzöttek, **aktuálisan fertőzöttek lehetnek** – ezeket el kell különíteni, és az eredményt PCR teszttel meg kell erősíteni
+        * Az e két csoportba tartozó IgG pozitív személyek nem kell, hogy részt vegyenek a további tesztelésben, **kivéve**, ha náluk tünetek jelentkeznek, vagy ha igazolt fertőzöttek szoros kontaktjai.
 
-        2. Ugyanúgy elkülönítés és PCR teszt szükséges, ha valaki teszteredménye IgM pozitív volt (akkor is, ha az illető már kapott védőoltást, vagy korábban már átesett a fertőzésen!)
+        * A múltbeli fertőzöttek esetében érdemes a szerológiai tesztet **havi rendszerességgel** megismételni, hogy meg lehessen róla győződni, fennáll-e még a védettség.
+
+        * A védőoltás összes szükséges dózisát követően a védettség jelen tudásunk szerint mintegy 6 hónapon keresztül áll fent. Ezt követően e személyeket is érdemes havi rendszerességgel tesztelni. Idősebbeknél a védettség időtartama rövidebb is lehet, náluk már 4–5 hónap után célszerű elkezdeni a tesztelést.
+
+        * Az e két csoportba tartozó **IgG negatív** személyek nem tekinthetőek védettnek, ezért a továbbiakban tesztelendőek.
+
+        * A védőoltást kapott IgG negatív személyek esetében **mennyiségi védettségi vizsgálat javasolt**, ennek pozitivitása esetén fennáll a védettség.
+
+
+        Az olyan személyek IgG pozitivitása, akik nem kaptak vakcinát, illetve tudomásuk szerint nem voltak még fertőzöttek, **aktuálisan fertőzöttek lehetnek** – őket el kell különíteni, és az eredményt PCR teszttel meg kell erősíteni.
+
+
+        Ugyanúgy elkülönítés és PCR teszt szükséges, ha valaki teszteredménye IgM pozitív volt (akkor is, ha az illető már kapott védőoltást, vagy korábban már átesett a fertőzésen!).
 
 
         #### További megfontolások
 
 
-        1. Az alkalmazott módszertől függetlenül, **akinél jelentkeznek a COVID-19 tünetei**, annál haladéktalanul antigén vagy PCR tesztet kell végezni, annak eredményéig el kell különíteni! (Ha egyik sem megoldható, az elkülönítés, és a tünetek megjelenését követő 2. héten elvégzett szerológiai teszt szükséges.)
+        Az alkalmazott módszertől függetlenül, **akinél jelentkeznek a COVID-19 tünetei**, annál haladéktalanul antigén vagy PCR tesztet kell végezni, annak eredményéig el kell különíteni! (Ha egyik sem megoldható, az elkülönítés, és a tünetek megjelenését követő 2. héten elvégzett szerológiai teszt szükséges.)
 
-        2. Amennyiben a tünetek ellenére a teszteredmény negatív lett, ám néhány napon belül másoknál is jelentkeznek a COVID-19 tünetei, az **összes** érintettnél – s ha megoldható, azok kontaktjainál is – azonnal antigén vagy PCR tesztet kell végezni. Ha az eredmények **bármelyike pozitív**, az érintettek **fertőzöttnek tekintendőek**!
+
+        Amennyiben a tünetek ellenére a teszteredmény negatív lett, ám néhány napon belül másoknál is jelentkeznek a COVID-19 tünetei, az **összes** érintettnél – s ha megoldható, azok kontaktjainál is – azonnal antigén vagy PCR tesztet kell végezni. Ha az eredmények **bármelyike pozitív**, az érintettek **fertőzöttnek tekintendőek**!
 
 
         A rendszeres tesztelés **alapját** egyaránt képezhetik **az antigén vagy a szerológiai gyorstesztek, illetve azok együttes használata is**. Amennyiben megoldható, érdemes az utóbbi megoldást választani. Költségcsökkentő módszer csak egyik, vagy csak másik típus alkalmazása, ám, ahogy a leírások is mutatják, ebben az esetben is érdemes mindkét fajta tesztet beszerezni. Bár a leírások igyekeznek minimalizálni a lassú és költséges PCR teszt alkalmazását, az teljesen nem hagyható el, ezért okvetlenül tájékozódni kell annak elvégeztetési lehetőségeiről is.
@@ -498,11 +509,13 @@ list:
         E módszerrel lehet a legbiztonságosabban azonosítani a fertőzötteket, és elejét venni a járvány terjedésének. 
 
 
-        1. **A közösség tagjait heti** (vagy 10 napos) **rendszerességgel antigén és szerológiai gyorsteszttel is letesztelik**.
+        **A közösség tagjait heti** (vagy 10 napos) **rendszerességgel antigén és szerológiai gyorsteszttel is letesztelik**.
 
-        2. Ha mindenki tesztje **negatív**, a következő tesztelési alkalomig nincs teendő. (Kivéve, ha valakinél tünetek jelentkeznek.)
 
-        3. Akinek **pozitív** az **antigén tesztje**, fertőzöttnek tekintendő és elkülönítendő. (Ha megoldható, az eredményt érdemes PCR teszttel is leellenőrizni, ám tudni kell, hogy az antigén tesztek nagyon ritkán adnak fals pozitív eredményt.)
+        Ha mindenki tesztje **negatív**, a következő tesztelési alkalomig nincs teendő. (Kivéve, ha valakinél tünetek jelentkeznek.)
+
+
+        Akinek **pozitív** az **antigén tesztje**, fertőzöttnek tekintendő és elkülönítendő. (Ha megoldható, az eredményt érdemes PCR teszttel is leellenőrizni, ám tudni kell, hogy az antigén tesztek nagyon ritkán adnak fals pozitív eredményt.)
 
 
         * A pozitív személy szoros kontaktjait (pl. akikkel egy irodában dolgozik) **szintén el kell különíteni**. Náluk az **antigén tesztet** **5 nap múlva meg kell ismételni**.
@@ -512,11 +525,13 @@ list:
         * Ha a kontaktok közt nincs pozitív eredmény (sem tünetek), 3 nappal később **szerológiai tesztet** kell végezni. Ha az is negatív, nem fertőzöttek, nincs további teendő. (Ha ez utóbbi pozitív, úgy kell eljárni, mint ha az antigén teszt lett volna pozitív.)
 
 
-        1. Ha valakinek a **szerológiai tesztje IgM pozitív** (vagy IgM és IgG pozitív), **valószínűleg fertőzött** – a c. pontban írtaknak megfelelően kell eljárni azzal a különbséggel, hogy ezt az eredményt érdemes PCR teszttel (ha nem megoldható, akkor az antigén teszt megismétlésével) megerősíteni. Szerológiai teszteknél gyakoribb a fals pozitív eredmény.
+        Ha valakinek a **szerológiai tesztje IgM pozitív** (vagy IgM és IgG pozitív), **valószínűleg fertőzött** – a c. pontban írtaknak megfelelően kell eljárni azzal a különbséggel, hogy ezt az eredményt érdemes PCR teszttel (ha nem megoldható, akkor az antigén teszt megismétlésével) megerősíteni. Szerológiai teszteknél gyakoribb a fals pozitív eredmény.
 
-        2. Ha valakinek a **szerológiai tesztje IgG pozitív** (de IgM negatív), vagy fertőzött, vagy a múltban esett át (tudtán kívül) a COVID-19-en (és a legelső szerológiai tesztje volt fals negatív). Ezt az eredményt PCR teszttel lehet leellenőrizni: ha az pozitív, a c. pontnak megfelelően kell eljárni (az eredményt már nem kell ellenőrizni), ha negatív, nincs további teendő. Az illetőre úgy kell tekinteni, mint aki már átesett a fertőzésen (ld. a Kezdeti lépések részt).
 
-        3. A már oltott, illetve korábban megfertőződött személyek tesztelése és elkülönítése csak akkor indokolt, ha a c. vagy d. pontban írtaknak megfelelően kontaktszemélyekké váltak. 
+        Ha valakinek a **szerológiai tesztje IgG pozitív** (de IgM negatív), vagy fertőzött, vagy a múltban esett át (tudtán kívül) a COVID-19-en (és a legelső szerológiai tesztje volt fals negatív). Ezt az eredményt PCR teszttel lehet leellenőrizni: ha az pozitív, a c. pontnak megfelelően kell eljárni (az eredményt már nem kell ellenőrizni), ha negatív, nincs további teendő. Az illetőre úgy kell tekinteni, mint aki már átesett a fertőzésen (ld. a Kezdeti lépések részt).
+
+
+        A már oltott, illetve korábban megfertőződött személyek tesztelése és elkülönítése csak akkor indokolt, ha a c. vagy d. pontban írtaknak megfelelően kontaktszemélyekké váltak.
 
 
         #### Rendszeres antigén gyorstesztek
@@ -525,11 +540,13 @@ list:
         E módszer némiképp költségkímélőbb az előbb bemutatottnál, ám közel olyan hatékony. 
 
 
-        1. **A közösség tagjait heti** (vagy 10 napos) **rendszerességgel antigén gyorsteszttel tesztelik le**.
+        **A közösség tagjait heti** (vagy 10 napos) **rendszerességgel antigén gyorsteszttel tesztelik le**.
 
-        2. Ha mindenki tesztje **negatív**, a következő tesztelési alkalomig nincs teendő. (Kivéve, ha valakinél tünetek jelentkeznek.)
 
-        3. Akinek **pozitív** az **antigén tesztje**, fertőzöttnek tekintendő és elkülönítendő. (Ha megoldható, az eredményt érdemes PCR teszttel is leellenőrizni.)
+        Ha mindenki tesztje **negatív**, a következő tesztelési alkalomig nincs teendő. (Kivéve, ha valakinél tünetek jelentkeznek.)
+
+
+        Akinek **pozitív** az **antigén tesztje**, fertőzöttnek tekintendő és elkülönítendő. (Ha megoldható, az eredményt érdemes PCR teszttel is leellenőrizni.)
 
 
         * A pozitív személy szoros kontaktjait (pl. akikkel egy irodában dolgozik) **szintén el kell különíteni**. Náluk az **antigén tesztet** **5 nap múlva meg kell ismételni**.
@@ -539,7 +556,7 @@ list:
         * Ha a kontaktok közt nincs pozitív eredmény (sem tünetek), 3 nappal később **szerológiai tesztet** kell végezni. Ha az is negatív, nem fertőzöttek, nincs további teendő. (Ha ez utóbbi pozitív, úgy kell eljárni, mint ha az antigén teszt lett volna pozitív.)
 
 
-        1. A már oltott, illetve korábban megfertőződött személyek tesztelése és elkülönítése csak akkor indokolt, ha a c. pontban írtaknak megfelelően kontaktszemélyekké váltak. 
+        A már oltott, illetve korábban megfertőződött személyek tesztelése és elkülönítése csak akkor indokolt, ha a c. pontban írtaknak megfelelően kontaktszemélyekké váltak.
 
 
         #### Rendszeres szerológiai gyorstesztek

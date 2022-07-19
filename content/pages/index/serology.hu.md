@@ -19,7 +19,7 @@ intro:
     Az IgG később, leggyakrabban a megfertőződés után 2 héttel kezd el termelődni, mennyisége az első hónap vége felé tetőzik, majd némiképp lecsökken. Az IgM-mel ellentétben azonban az IgG még hónapokon át kimutatható a szervezetben.
 
 
-    Hogy melyik ellenanyag pontosan mikor válik kimutathatóvá, számos tényezőtől függ; ezek közé tartozik a tünetek súlyossága, illetve a vírus lappangási ideje is.
+    Hogy melyik ellenanyag pontosan mikor válik kimutathatóvá, számos tényezőtől függ; ezek közé tartozik a tünetek súlyossága, illetve a vírus lappangási ideje is. Az omikron variáns esetében általában hamarabb jelennek meg az ellenanyagok, és az írt időintervallumok is lerövidülhetnek.
 
 
     **A Clungene COVID-19 IgM/IgG szerológiai gyorsteszt segítségével a védőoltások után a szervezetben a SARS-CoV-2 vírus ellen termelt IgG antitest is kimutatható.** A pozitív eredményre rendszerint a második dózist követő második héttől (egydózisú vakcina esetében az oltást követő 4. héttől) kezdve lehet számítani, bár az hamarabb is jelentkezhet. A negatív eredmény nem feltétlenül utal a védettség hiányára: elképzelhető ugyanis, hogy a termelődő IgG antitest mennyisége nem (vagy még nem) éri el a gyorsteszt által is kimutatható mennyiséget. Az esetek többségében azonban e tájékoztató adat is elég információt nyújt: a hosszadalmas és költséges mennyiségi vizsgálatokra az esetleges negatív eredményt követően lehet szükség.
@@ -204,7 +204,7 @@ articles:
 
       <td>Mit jelent az eredmény?</td>
 
-      <td>Az illető valószínűleg még nem találkozott a vírussal</td>
+      <td>Az illető vagy még nem, vagy már nagyon régen találkozott a vírussal. Amennyiben oltottról van szó, elképzelhető (de nem szükségszerű!), hogy a vakcina hatása már nem érvényesül.</td>
 
       <td>Az illető a fertőzés korai-, vagy közép-szakaszában van</td>
 
@@ -248,13 +248,13 @@ articles:
 
       <td>Mi a teendő?</td>
 
-      <td>Nincs teendő</td>
+      <td>Nincs teendő – amennyiben azonban fennállnak a COVID-19 jellegzetes tünetei, az eredményt más diagnosztikai módszerrel is meg kell erősíteni; illetve, ha az nem lehetséges, a tesztet egy nappal később meg kell ismételni.</td>
 
       <td>Az érintett elkülönítése; ha lehetséges, az eredmény megerősítése</td>
 
       <td>Az érintett elkülönítése; ha lehetséges, az eredmény megerősítése</td>
 
-      <td>Az eredmény megerősítése (RT-PCR), annak függvényében elkülönítés vagy nincs teendő</td>
+      <td>Ha vannak tünetek, az eredmény más diagnosztikai módszerrel való megerősítése, pozitív eredmény esetében elkülönítés.<br>Tünetmentesség, vagy legalább 5 napja tartó lázmentes állapot esetében nincs teendő.</td>
 
       </tr>
 
@@ -264,7 +264,7 @@ articles:
 
       </div>
 
-      <small>Magyarázat. C = kontroll; IgM = immunglobulin M; IgG = immunglobulin G. Az IgG vagy IgM csíkok megjelenése azok intenzitásától függetlenül a kérdéses immunglobulin jelenlétére utal és pozitív eredményként értelmezendő. A csíkok intenzitásából nem lehet sem a betegség stádiumára, sem annak súlyosságára következtetni. A táblázat nem helyettesíti a termék használati útmutatóját és nem tekinthető orvosi diagnosztikai irányelvnek.</small>
+      <small>Magyarázat. C = kontroll; IgM = immunglobulin M; IgG = immunglobulin G. Az IgG vagy IgM csíkok megjelenése azok intenzitásától függetlenül a kérdéses immunglobulin jelenlétére utal és pozitív eredményként értelmezendő. A csíkok intenzitásából nem lehet sem a betegség stádiumára, sem annak súlyosságára következtetni. Az IgG pozitív eredmény vakcina révén szerzett védettségre is utalhat.</small>
   - text: >-
       <video controls>
          <source src="uploads/iggigm_video.mp4" type="video/mp4">

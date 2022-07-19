@@ -6,7 +6,8 @@ title: Otthoni használatra, öntesztelésre is alkalmas Clungene® Covid-19 Ant
   Gyorsteszt
 menutitle: Önteszt
 intro:
-  highlight: Megérkezett!
+  highlight: Otthoni használatra, öntesztelésre is alkalmas Clungene® Covid-19
+    Antigén Gyorsteszt
   images:
     - src: /uploads/1-darabos-terme-kfoto-optim.jpg
       alt: Lakossági önteszt 1 darabos
