@@ -51,7 +51,7 @@ intro:
         </dl>
 
 
-        A 400 darab alatti megrendeléseket hivatalos partnerünk, a <a href="https://medexim.hu/product-category/gyorstesztek/" rel="external noopener" target="_blank">medexim.hu</a> szolgálja ki.
+        A 400 darab alatti megrendeléseket hivatalos partnerünk, a <a href="https://covidteszt.medexim.hu" rel="external noopener" target="_blank">medexim.hu</a> szolgálja ki.
 
         <button><a href="/onteszt">Részletek</a></button>
 
@@ -69,7 +69,7 @@ intro:
         <li>250 darab (10 doboz) vagy nagyobb mennyiség vásárlása esetén az ár  csak 880 Ft + 5% ÁFA / darab!<br>Minden 10 doboz antigén teszthez **2 doboz szerológiai tesztet** adunk ajándékba!</li>
 
 
-        <li>A 25–225 db (1–9 doboz) közötti megrendeléseket hivatalos partnerünk, a <a href="https://medexim.hu/product-category/gyorstesztek/" rel="external noopener" target="_blank">medexim.hu</a> szolgálja ki.</li>
+        <li>A 25–225 db (1–9 doboz) közötti megrendeléseket hivatalos partnerünk, a <a href="https://covidteszt.medexim.hu" rel="external noopener" target="_blank">medexim.hu</a> szolgálja ki.</li>
 
         </ul>
 
@@ -114,7 +114,7 @@ intro:
         <li>250 darab (10 doboz) vagy nagyobb mennyiség vásárlása esetén az ár csak 560 Ft + 5% ÁFA / darab!</li>
 
 
-        <li>A 25–225 db (1–9 doboz) közötti megrendeléseket hivatalos partnerünk, a <a href="https://medexim.hu/product-category/gyorstesztek/" rel="external noopener" target="_blank">medexim.hu</a> szolgálja ki.</li>
+        <li>A 25–225 db (1–9 doboz) közötti megrendeléseket hivatalos partnerünk, a <a href="https://covidteszt.medexim.hu" rel="external noopener" target="_blank">medexim.hu</a> szolgálja ki.</li>
 
         </ul>
 
@@ -139,7 +139,7 @@ intro:
       link: /szerologiai-teszt
   highlight: CLUNGENE® COVID-19 GYORSTESZTEK
   text: >-
-    ### Újdonság! 
+    ### Újdonság!
 
 
     **Régebbi, professzionális használatra szánt termékeink árát jelentősen csökkentettük:**
@@ -157,13 +157,10 @@ intro:
     ### **Itt az új hullám?**
 
 
-    Úgy tűnik, igen. Európa számos országában ismét egyre több fertőzöttet azonosítanak – egyes helyeken pedig már újra különféle korlátozások bevezetését latolgatják. 
+    Sajnos igen. Július második hetében közel **3 millió új fertőzöttet** azonosítottak Európában – ez a Föld összes új esetszámának majdnem felét tette ki. Idehaza jelenleg csak heti bontásban közlik a járványügyi adatokat, de azok is azt mutatják, a fertőzöttek száma ismét rohamosan emelkedik. A megbetegedésekért az omikron variáns BA.5 jelölésű alváltozata a felelős. <a href="https://www.reuters.com/world/europe/act-now-europe-or-risk-stricter-covid-measures-later-who-official-2022-07-19/" rel="external noopener" target="_blank">Az Egészségügyi Világszervezet (WHO) regionális igazgatója szerint</a> Európának azonnal cselekednie kell, ha el akarja kerülni, hogy ősszel visszatérjenek a szigorú korlátozások. 
 
 
-    Idehaza jelenleg csak heti bontásban közlik a járványügyi adatokat, de azok sajnos hasonló tendenciát mutatnak.
-
-
-    A **módszeres és rendszeres tesztelésnek** már most hatalmas a jelentősége: **minél több embert tesztelünk le, annál több fertőzöttet azonosítunk** – s annál nagyobb eséllyel tudjuk megakadályozni a járványgócok kialakulását. Ha pedig ezt megtesszük, még idejében elfojthatjuk a COVID-19 következő hullámát.
+    Az oltási program felpörgetése és a maszkviselet mellett hatalmas a jelentősége a **módszeres és rendszeres tesztelésnek is: minél több embert tesztelünk le, annál több fertőzöttet azonosítunk** – s annál nagyobb eséllyel tudjuk megakadályozni a járványgócok kialakulását. Ha meghozzuk ezeket az intézkedéseket, még idejében lelassíthatjuk a COVID-19 terjedését – s ha ezt tesszük, nem lesz szükség újra az élet szinte minden területét megnyomorító korlátozásokra. 
 
 
     ### Cégek, intézmények számára a hatékony megoldást nyújtanak a Clungene gyorstesztek, amelyek árát jelentősen csökkentettük!

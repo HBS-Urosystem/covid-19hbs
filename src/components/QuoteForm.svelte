@@ -40,11 +40,11 @@ function gtag_report_conversion(url) {
 			Kedves érdeklődő!
 		</h2>
 		<ul>
-			<li>A 25–200 db (1 doboz=25db) közötti megrendeléseket hivatalos partnerünk, a <a href="https://medexim.hu/product-category/gyorstesztek/" rel="external noopener" target="_blank"><b>medexim.hu</b></a> szolgálja ki.</li>
+			<li>A 25–200 db (1 doboz=25db) közötti megrendeléseket hivatalos partnerünk, a <a href="https://covidteszt.medexim.hu" rel="external noopener" target="_blank"><b>medexim.hu</b></a> szolgálja ki.</li>
 			<li>200 db (8 doboz) feletti megrendelés esetén kérje árajánlatunkat.</li>
 		</ul>
 		<div class="buttons">
-			<button><a href="https://medexim.hu/product-category/gyorstesztek/" rel="external noopener" target="_blank">Vásárlás a <u>medexim.hu</u> oldalon</a></button>
+			<button><a href="https://covidteszt.medexim.hu" rel="external noopener" target="_blank">Vásárlás a <u>medexim.hu</u> oldalon</a></button>
 		</div>
 	</aside>
 {/if}
