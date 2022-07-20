@@ -21,7 +21,7 @@ text: >-
   * 5 darabos kiszerelés: 5 240 Ft + 5% ÁFA (1 048 Ft + 5% ÁFA darabár)
 
 
-  A 400 darab alatti megrendeléseket hivatalos partnerünk, a [medexim.hu](https://covidteszt.medexim.hu) szolgálja ki. A Medexim árai: 
+  A 400 darab alatti megrendeléseket hivatalos partnerünk, a <a href="https://covidteszt.medexim.hu" rel="external noopener" target="_blank">medexim.hu</a> szolgálja ki. A Medexim árai: 
 
 
   * 1 darabos kiszerelés: 1429 Ft + 5% ÁFA
