@@ -4,6 +4,18 @@ title: Hírek, aktualitások
 slug: hirek
 menutitle: Hírek
 list:
+  - date: 2022-07-20T11:56:08.339Z
+    text: >-
+      Az új koronavírus omikron variánsa 2021. végén jelent meg, és fél év
+      leforgása alatt lényegében kiszorította a korábbi változatokat. Szerencsés
+      fejlemény volt, hogy bár az omikron sokkal gyorsabban terjedt, mint a
+      korábbi variánsok, kevésbé súlyos tüneteket okozott, ezért végül nem
+      okozott akkora katasztrófát, mint amekkorától tartottak. 
+
+
+      Mostanra azonban az omikronnak több alvariánsa is kialakult – ezek pedig a példátlanul meleg idő ellenére is terjednek. Mi fog történni? A kánikula közepén köszönt be a következő kijárási korlátozás?
+    title: BA.4, BA.5 és a többiek – kell aggódnunk?
+    link: ba4-ba5
   - date: 2022-02-14T08:07:09.032Z
     title: Az omikron alváltozatait is kimutatja
     text: >-
