@@ -77,9 +77,9 @@ email: Email cím
 phone: Telefonszám
 ag_qty: Antigén gyorsteszt mennyisége (doboz)
 ag_min: 9
-ag_note: "Min. megrendelési egység: 9 doboz (225 db)"
+ag_note: "Min. megrendelési egység: 10 doboz (250 db)"
 ig_qty: Szerológiai gyorsteszt mennyisége (doboz)
-ig_note: "Min. megrendelési egység: 9 doboz (225 db)"
+ig_note: "Min. megrendelési egység: 10 doboz (250 db)"
 message: Üzenet, kérdés
 ag_comp: Antigén gyorsteszt
 ag_items:
