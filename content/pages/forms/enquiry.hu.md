@@ -35,7 +35,7 @@ text: >-
   #### **Clungene COVID-19 Antigén gyorsteszt**
 
 
-  250 darab (10 doboz) vagy több teszt vásárlása esetén: 880Ft + 5% ÁFA / teszt (1 doboz 25 tesztet tartalmaz).
+  250 darab (10 doboz) vagy több teszt vásárlása esetén: 800Ft + 5% ÁFA / teszt (1 doboz 25 tesztet tartalmaz).
 
 
   Minden 10 doboz antigén teszthez **2 doboz szerológiai tesztet** adunk ajándékba!
@@ -132,9 +132,9 @@ on1_note: "Min. megrendelési egység: 400 db"
 <div id="termekmenedzser"></div>
 **Kérdés esetén forduljon bizalommal termékmenedzserünkhöz:**
 
-#### Bognárné Keller Csilla
+#### Hanzlik Erika
 
 Termékmenedzser
 
-E-mail: <a href="mailto:csilla.keller@hbs.hu" onclick="gtag_report_conversion('mailto:csilla.keller@hbs.hu')">csilla.keller@hbs.hu</a>
-Telefon: <a href="tel:+36207784899" onclick="gtag_report_conversion('tel:+36207784899')">+36 20 778 4899</a>
+E-mail: <a href="mailto:erika.hanzlik@hbs.hu" onclick="gtag_report_conversion('mailto:erika.hanzlik@hbs.hu')">erika.hanzlik@hbs.hu</a>
+Telefon: <a href="tel:+36205977454" onclick="gtag_report_conversion('tel:+36205977454')">+36 20 597 7454</a>

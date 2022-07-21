@@ -38,9 +38,9 @@ ig_items:
   - item: 25 Ampoules of Buffer
   - item: 1 Package Insert
 ---
-#### Csilla Keller
+#### Erika Hanzlik
 
 Sales Representative
 
-E-mail: [csilla.keller@hbs.hu](mailto:csilla.keller@hbs.hu)
-Phone: [+36 20 778 4899](tel:+36207784899)
+E-mail: [erika.hanzlik@hbs.hu](mailto:erika.hanzlik@hbs.hu)
+Phone: [+36 20 597 7454](tel:+36205977454)

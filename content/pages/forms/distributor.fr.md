@@ -12,9 +12,9 @@ message: Commentaire
 consent: J'ai lu et accepté la&nbsp;<a href="/confidentialité" target="_blank">politique de confidentialité</a>.
 button: Envoyer
 ---
-#### Csilla Keller
+#### Erika Hanzlik
 
 Sales Representative
 
-E-mail: [csilla.keller@hbs.hu](mailto:csilla.keller@hbs.hu)
-Phone: [+36 20 778 4899](tel:+36207784899)
+E-mail: [erika.hanzlik@hbs.hu](mailto:erika.hanzlik@hbs.hu)
+Phone: [+36 20 597 7454](tel:+36205977454)
