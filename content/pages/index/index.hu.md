@@ -66,7 +66,7 @@ intro:
 
         <ul>
 
-        <li>250 darab (10 doboz) vagy nagyobb mennyiség vásárlása esetén az ár  csak 800 Ft + 5% ÁFA / darab!<br>Minden 10 doboz antigén teszthez **2 doboz szerológiai tesztet** adunk ajándékba!</li>
+        <li>250 darab (10 doboz) vagy nagyobb mennyiség vásárlása esetén az ár  csak 800 Ft + 5% ÁFA / darab!<br>Minden 10 doboz antigén teszthez <b>2 doboz szerológiai tesztet</b> adunk ajándékba!</li>
 
 
         <li>A 25–225 db (1–9 doboz) közötti megrendeléseket hivatalos partnerünk, a <a href="https://covidteszt.medexim.hu" rel="external noopener" target="_blank">medexim.hu</a> szolgálja ki.</li>
