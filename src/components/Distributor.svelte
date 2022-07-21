@@ -55,7 +55,7 @@
 </article>
 <!-- 
 <figure>
-  <img src="/uploads/mhpheefgfkjkmobn-web.png" alt="antigen test vs serology test" />
+  <img loading="lazy" src="/uploads/mhpheefgfkjkmobn-web.png" alt="antigen test vs serology test" />
 </figure>
  -->
 <article>

@@ -289,7 +289,7 @@ list:
 
         <section></section>
 
-        <figure><img src="/uploads/0e1972827a0648aa971a979938e5c905_2.png"></figure>
+        <figure><img loading="lazy" src="/uploads/0e1972827a0648aa971a979938e5c905_2.png"></figure>
 
 
         </li>
@@ -300,7 +300,7 @@ list:
 
         <section></section>
 
-        <figure><img src="/uploads/D669A5A9D91C4BA7925B364279512909_2.png"></figure>
+        <figure><img loading="lazy" src="/uploads/D669A5A9D91C4BA7925B364279512909_2.png"></figure>
 
 
         <ul><li>Tipp: ha kétséges a csík(ok) jelenléte, érdemes a tesztkazettát továbbra is vízszintesen tartva alulról, például egy mobiltelefon lámpájával megvilágítani. Így könnyedén azonosítható a csík megléte vagy hiánya.</li></ul></li>
@@ -314,7 +314,7 @@ list:
 
         <section></section>
 
-        <figure><img src="/uploads/8A066B61F6BA4647B9C70573F45C47E3_2.png"></figure>
+        <figure><img loading="lazy" src="/uploads/8A066B61F6BA4647B9C70573F45C47E3_2.png"></figure>
 
 
         <li>A teszt eredményét <b>az útmutatóban írt várakozási idő alatt nyomon kell követni</b>, nem elegendő a kazettát annak leteltével megnézni. Előfordulhat ugyanis, hogy a pozitív csík a várakozási idő végére eltűnik. Ha letelt a várakozási idő, a teszt maximum 5 percen belül értelmezendő – az azon ezt követően (vagyis 20 perc eltelte után) megjelenő csíkokat nem szabad figyelembe venni.</li>
@@ -606,7 +606,7 @@ list:
 
         <section></section>
 
-        <figure><img src="/uploads/DBE6C0870FFF4064976A7E4337B54E3D_2.png"></figure>
+        <figure><img loading="lazy" src="/uploads/DBE6C0870FFF4064976A7E4337B54E3D_2.png"></figure>
 
 
         Pusztán az ábrát szemlélve is feltűnhet néhány információ.
@@ -632,7 +632,7 @@ list:
 
         <section></section>
 
-        <figure><img src="/uploads/01150A0E9F8844BBBC29420B6C60581A_2.png"></figure>
+        <figure><img loading="lazy" src="/uploads/01150A0E9F8844BBBC29420B6C60581A_2.png"></figure>
 
 
         Ezen az ábrán azt jelöltük, hogy I megfertőződött. Tünetmentes, ám a tesztje pozitív lett – tekintsük ezt a napot az onset napnak (0. nap). Követve a protokollt, akiknek legnagyobb eséllyel átadta a fertőzést, azok az E, G, H és J személyek. Ők azok, akik elkülönítendőek – vagy, ha ez teljességgel megoldhatatlan, csak szigorú óvintézkedések mellett dolgozhatnak tovább. (I-nek természetesen karanténba kell vonulnia.)
@@ -643,7 +643,7 @@ list:
 
         <section></section>
 
-        <figure><img src="/uploads/2ED34AA3753B4FF2850C2A87ED8C41DE_2.png"></figure>
+        <figure><img loading="lazy" src="/uploads/2ED34AA3753B4FF2850C2A87ED8C41DE_2.png"></figure>
 
 
         Most már C és F is kontaktszemélynek számít. Vegyük észre, hogy e két ember elkülönítése sokkal fontosabb, mint az H és E esetében szükséges, hiszen C-n és F-en keresztül már olyan embercsoportok is megfertőződhetnek, amelyek a(z intézményen belüli) első esettel nem is álltak kapcsolatban!
@@ -657,7 +657,7 @@ list:
 
         <section></section>
 
-        <figure><img src="/uploads/AE4A58ED08224924B743C8465871C0C2_2.png"></figure>
+        <figure><img loading="lazy" src="/uploads/AE4A58ED08224924B743C8465871C0C2_2.png"></figure>
 
 
         Két lehetőség adódik. Vagy T I-től és G-től függetlenül fertőződött meg, vagy J adta át neki a vírust úgy, hogy ő maga tünetmentes volt, és a 7. napon végzett tesztje fals negatív volt. Ez esetben J még a 0. napon vagy korábban fertőzte meg T-t (vagy J nem tartotta be a járványügyi előírásokat). 

@@ -148,31 +148,31 @@ articles:
 
       <th>
 
-      <img style="max-height:128px;width:auto" alt="test IgG et IgM: négative" src="/uploads/ig-image1.jpg">
+      <img loading="lazy" style="max-height:128px;width:auto" alt="test IgG et IgM: négative" src="/uploads/ig-image1.jpg">
 
       </th>
 
       <th>
 
-      <img style="height:128px;width:auto" alt="test IgM: positive" src="/uploads/ig-image2.jpg">
+      <img loading="lazy" style="height:128px;width:auto" alt="test IgM: positive" src="/uploads/ig-image2.jpg">
 
       </th>
 
       <th>
 
-      <img style="height:128px;width:auto" alt="test IgG et IgM: positive" src="/uploads/ig-image3.jpg">
+      <img loading="lazy" style="height:128px;width:auto" alt="test IgG et IgM: positive" src="/uploads/ig-image3.jpg">
 
       </th>
 
       <th>
 
-      <img style="height:128px;width:auto" alt="test IgG: positive" src="/uploads/ig-image4.jpg">
+      <img loading="lazy" style="height:128px;width:auto" alt="test IgG: positive" src="/uploads/ig-image4.jpg">
 
       </th>
 
       <th>
 
-      <img style="height:128px;width:auto" alt="test IgG/IgM: invalide" src="/uploads/ig-image5.jpg">
+      <img loading="lazy" style="height:128px;width:auto" alt="test IgG/IgM: invalide" src="/uploads/ig-image5.jpg">
 
       </th>
 

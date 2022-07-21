@@ -29,7 +29,7 @@ list:
         <figure>
 
 
-        <img src="/uploads/mt-image1.jpg" alt="Az új esetek számának alakulása" />
+        <img loading="lazy" src="/uploads/mt-image1.jpg" alt="Az új esetek számának alakulása" />
 
 
         <figcaption>
@@ -103,7 +103,7 @@ list:
         <figure>
 
 
-        <img src="/uploads/mt-image2.jpg" alt="A pozitív tesztek százalékos arányának alakulása" />
+        <img loading="lazy" src="/uploads/mt-image2.jpg" alt="A pozitív tesztek százalékos arányának alakulása" />
 
 
         <figcaption>

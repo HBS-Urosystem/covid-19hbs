@@ -63,7 +63,7 @@ articles:
 
       <figure>
 
-      <img src="/uploads/mainpage-pic1.jpg" alt="Diagramme des tests d'antigène et des tests d'anticorps" />
+      <img loading="lazy" src="/uploads/mainpage-pic1.jpg" alt="Diagramme des tests d'antigène et des tests d'anticorps" />
 
       <figcaption>
 

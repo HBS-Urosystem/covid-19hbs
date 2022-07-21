@@ -150,31 +150,31 @@ articles:
 
       <th>
 
-      <img style="max-height:96px;width:auto" alt="IgG/IgM-teszt: negatív" src="/uploads/ig-image1.jpg">
+      <img loading="lazy" style="max-height:96px;width:auto" alt="IgG/IgM-teszt: negatív" src="/uploads/ig-image1.jpg">
 
       </th>
 
       <th>
 
-      <img style="height:96px;width:auto" alt="IgM-teszt: pozitív" src="/uploads/ig-image2.jpg">
+      <img loading="lazy" style="height:96px;width:auto" alt="IgM-teszt: pozitív" src="/uploads/ig-image2.jpg">
 
       </th>
 
       <th>
 
-      <img style="height:96px;width:auto" alt="IgG/IgM-teszt: pozitív" src="/uploads/ig-image3.jpg">
+      <img loading="lazy" style="height:96px;width:auto" alt="IgG/IgM-teszt: pozitív" src="/uploads/ig-image3.jpg">
 
       </th>
 
       <th>
 
-      <img style="height:96px;width:auto" alt="IgG-teszt: pozitív" src="/uploads/ig-image4.jpg">
+      <img loading="lazy" style="height:96px;width:auto" alt="IgG-teszt: pozitív" src="/uploads/ig-image4.jpg">
 
       </th>
 
       <th>
 
-      <img style="height:96px;width:auto" alt="IgG/IgM-teszt: érvénytelen" src="/uploads/ig-image5.jpg">
+      <img loading="lazy" style="height:96px;width:auto" alt="IgG/IgM-teszt: érvénytelen" src="/uploads/ig-image5.jpg">
 
       </th>
 

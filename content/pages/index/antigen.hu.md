@@ -19,7 +19,7 @@ intro:
         <p><b>A Clungene antigén gyorsteszt az új, omikron variánst, és annak alváltozatait is kimutatja.</b> E variánsoknál előfordulhat, hogy a teszt pozitív eredménye már a megfertőződést követő 2. napon megjelenik.</p>
       </figcaption>
       <figure>
-        <img src="/uploads/Clungene_antigen_gyorsteszt_orrnyalkahartya_mintavetelezes.jpg" style="background-image: url('/uploads/Clungene_antigen_gyorsteszt_orrnyalkahartya_mintavetelezes.jpg');padding-bottom: 171%;" alt="" />
+        <img loading="lazy" src="/uploads/Clungene_antigen_gyorsteszt_orrnyalkahartya_mintavetelezes.jpg" style="background-image: url('/uploads/Clungene_antigen_gyorsteszt_orrnyalkahartya_mintavetelezes.jpg');padding-bottom: 171%;" alt="" />
       </figure>
     </aside>
 articles:
@@ -116,19 +116,19 @@ articles:
 
       <th>
 
-      <img style="height:128px;width:auto" alt="Ag-test: negative" src="/uploads/ag-image1.jpg" />
+      <img loading="lazy" style="height:128px;width:auto" alt="Ag-test: negative" src="/uploads/ag-image1.jpg" />
 
       </th>
 
       <th>
 
-      <img style="height:128px;width:auto" alt="Ag-test: positive" src="/uploads/ag-image2.jpg" />
+      <img loading="lazy" style="height:128px;width:auto" alt="Ag-test: positive" src="/uploads/ag-image2.jpg" />
 
       </th>
 
       <th>
 
-      <img style="height:128px;width:auto" alt="Ag-test: invalid" src="/uploads/ag-image3.jpg" />
+      <img loading="lazy" style="height:128px;width:auto" alt="Ag-test: invalid" src="/uploads/ag-image3.jpg" />
 
       </th>
 

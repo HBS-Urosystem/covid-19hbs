@@ -60,7 +60,7 @@ articles:
 
       <figure>
 
-      <img src="/uploads/mainpage-pic1.jpg" alt="Antigen test and Antibody tests diagram" />
+      <img loading="lazy" src="/uploads/mainpage-pic1.jpg" alt="Antigen test and Antibody tests diagram" />
 
       <figcaption>
 

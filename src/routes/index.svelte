@@ -157,7 +157,7 @@
 
 <article>
 	<figure>
-		<img src="/uploads/image0.png" alt="new antigen test">
+		<img loading="lazy" src="/uploads/image0.png" alt="new antigen test">
 	</figure>
 </article>
 

@@ -145,35 +145,35 @@ articles:
 
       <th>
 
-      <img style=\"max-height:128px;width:auto\" alt=\"IgG/IgM-test:
+      <img loading="lazy" style=\"max-height:128px;width:auto\" alt=\"IgG/IgM-test:
       negative\" src=\"/uploads/ig-image1.jpg\">
 
       </th>
 
       <th>
 
-      <img style=\"height:128px;width:auto\" alt=\"IgM-test: positive\"
+      <img loading="lazy" style=\"height:128px;width:auto\" alt=\"IgM-test: positive\"
       src=\"/uploads/ig-image2.jpg\">
 
       </th>
 
       <th>
 
-      <img style=\"height:128px;width:auto\" alt=\"IgG/IgM-test:
+      <img loading="lazy" style=\"height:128px;width:auto\" alt=\"IgG/IgM-test:
       positive\" src=\"/uploads/ig-image3.jpg\">
 
       </th>
 
       <th>
 
-      <img style=\"height:128px;width:auto\" alt=\"IgG-test: positive\"
+      <img loading="lazy" style=\"height:128px;width:auto\" alt=\"IgG-test: positive\"
       src=\"/uploads/ig-image4.jpg\">
 
       </th>
 
       <th>
 
-      <img style=\"height:128px;width:auto\" alt=\"IgG/IgM-test: invalid\"
+      <img loading="lazy" style=\"height:128px;width:auto\" alt=\"IgG/IgM-test: invalid\"
       src=\"/uploads/ig-image5.jpg\">
 
       </th>

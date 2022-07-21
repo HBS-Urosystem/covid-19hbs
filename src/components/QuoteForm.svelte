@@ -117,7 +117,7 @@ function gtag_report_conversion(url) {
 
 <!--<article>
 <figure>
-	<img src="/uploads/image1.png" alt="antigen test vs serology test" />
+	<img loading="lazy" src="/uploads/image1.png" alt="antigen test vs serology test" />
 	{#if $lang == 'hu'}
 	<figcaption>Az antigén és a szerológiai gyorsteszt használata</figcaption>
 	{/if}

@@ -35,7 +35,7 @@ info:
 articles:
   - text: >-
       <figure>
-        <img src="/uploads/image1.png" alt="antigen test vs serology test" />
+        <img loading="lazy" src="/uploads/image1.png" alt="antigen test vs serology test" />
       </figure>
 
       <aside>
