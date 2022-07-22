@@ -16,17 +16,17 @@ text: >-
   400 darab vagy több teszt vásárlása esetén:
 
 
-  * 1 darabos kiszerelés 1 238 Ft + 5% ÁFA
+  * 1 darabos kiszerelés **1 238** Ft + 5% ÁFA
 
-  * 5 darabos kiszerelés: 5 240 Ft + 5% ÁFA (1 048 Ft + 5% ÁFA darabár)
+  * 5 darabos kiszerelés: **5 240 Ft** + 5% ÁFA (1 048 Ft + 5% ÁFA darabár)
 
 
   A 400 darab alatti megrendeléseket hivatalos partnerünk, a <a href="https://covidteszt.medexim.hu" rel="external noopener" target="_blank">medexim.hu</a> szolgálja ki. A Medexim árai: 
 
 
-  * 1 darabos kiszerelés: 1429 Ft + 5% ÁFA
+  * 1 darabos kiszerelés: **1429 Ft** + 5% ÁFA
 
-  * 5 darabos kiszerelés: 6190 Ft + 5% ÁFA (1238 Ft + 5% ÁFA darabár)
+  * 5 darabos kiszerelés: **6190 Ft** + 5% ÁFA (1238 Ft + 5% ÁFA darabár)
 
 
   ## A professzionális gyorstesztek árát jelentősen csökkentettük!
@@ -35,7 +35,7 @@ text: >-
   #### **Clungene COVID-19 Antigén gyorsteszt**
 
 
-  250 darab (10 doboz) vagy több teszt vásárlása esetén: 800Ft + 5% ÁFA / teszt (1 doboz 25 tesztet tartalmaz).
+  250 darab (10 doboz) vagy több teszt vásárlása esetén: **800 Ft** + 5% ÁFA / teszt (1 doboz 25 tesztet tartalmaz).
 
 
   Minden 10 doboz antigén teszthez **2 doboz szerológiai tesztet** adunk ajándékba!
@@ -44,7 +44,7 @@ text: >-
   #### **Clungene COVID-19 IgG/IgM ellenanyag gyorsteszt**
 
 
-  250 darab (10 doboz) vagy több teszt vásárlása esetén: 560 Ft + 5% ÁFA / teszt (1 doboz 25 tesztet tartalmaz)
+  250 darab (10 doboz) vagy több teszt vásárlása esetén: **560 Ft** + 5% ÁFA / teszt (1 doboz 25 tesztet tartalmaz)
 
 
   **A szállítás ingyenes.**
@@ -56,12 +56,16 @@ text: >-
   A 25–225 db (1–9 doboz) közötti megrendeléseket hivatalos partnerünk, a **<a href="https://covidteszt.medexim.hu" rel="external noopener" target="_blank">medexim.hu</a> webshop** szolgálja ki.
 
 
-  * 1 doboz **Clungene COVID-19 Antigén gyorsteszt** (25 db teszt): bruttó **36 900 Ft**
+  * 1 doboz **Clungene COVID-19 Antigén gyorsteszt** (25 db teszt): bruttó **31 900 Ft**
 
   * 1 doboz **Clungene COVID-19 IgG/IgM ellenanyag gyorsteszt** (25 db teszthez **25 pufferoldat**): bruttó **29 900 Ft**
 
 
-  A <a href="https://covidteszt.medexim.hu" rel="external noopener" target="_blank">medexim.hu</a> webáruházban már elérhető az új **egyedi (1 db-os) kiszerelésű Clungene antigén gyorsteszt is bruttó 1690 Ft.**
+  1 darabos és 5 darabos lakossági Clungene antigén önteszt azonnal megvásárolható a <a href="https://covidteszt.medexim.hu" rel="external noopener" target="_blank">medexim.hu</a> webáruházban:
+
+  * 1 db-s Clungene® COVID-19 Otthoni felhasználású Antigén (orrlyuk) gyorsteszt: bruttó **1500 Ft**
+
+  * 5 db-s Clungene® COVID-19 Otthoni felhasználású Antigén (orrlyuk) gyorsteszt: bruttó **6500 Ft**
 
 
   <div>
