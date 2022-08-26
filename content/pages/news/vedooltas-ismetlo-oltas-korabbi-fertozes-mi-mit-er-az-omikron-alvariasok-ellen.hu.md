@@ -1,0 +1,14 @@
+---
+type: news
+title: Védőoltás, ismétlő oltás, korábbi fertőzés – mi mit ér az omikron
+  alvariások ellen?
+slug: vedooltas-ismetlo-oltas-korabbi-fertozes
+date: 2022-08-25T07:59:21.954Z
+---
+Egy [brit és katari kutatókból álló csoport azt vizsgálta](https://www.nejm.org/doi/full/10.1056/NEJMoa2203965), milyen hatékonysággal csökkentik a védőoltások, illetve a korábbi vírusfertőzések annak az esélyét, hogy valakinél a BA.1 és BA.2 omikron alváltozatok tüneteket okozzanak. Két dózis Pfizer vakcina hatása elhanyagolhatónak bizonyult – jóllehet, a vizsgálatba bevontak mindegyike legalább 6 hónappal korábban kapta meg a védőoltását. A korábbi COVID-fertőzés – vakcina nélkül – mintegy 46%-ban volt hatékony a tünetek fellépése ellen. Két dózis oltás és korábbi fertőzöttség, illetve a három dózis fertőzöttség nélkül némiképp hatékonyabb védelmet jelentett (mintegy 52% és 55%). A legnagyobb biztonságban (kb. 77%) azok voltak, akik az ismétlő vakcinát is megkapták, és korábban már átestek a vírusfertőzésen is.
+
+Mindenképpen ki kell azonban emelni, hogy a súlyos tünetek kialakulásának esélyét mind a korábbi fertőzés, mind a vakcina, mind a kettő együtt (az úgynevezett hibrid immunitás) jelentősen csökkentette. A védőoltás felvétele tehát, azok számára, akik azt még nem tették meg, továbbra is nagyon ajánlott!
+
+Egy másik, [még lektorálás alatt álló cikk](https://www.medrxiv.org/content/10.1101/2022.08.10.22278641v2), amely már a BA.5 alváltozattal kapcsolatos tapasztalatokat is tartalmazza, szintén hasonló következtetésekre jutott. Ennek szerzői a megfertőződés kockázatát vizsgálták. A leggyengébb védelmet a vakcina két dózisa, a legerősebbet az ismétlő oltás felvétele és a korábbi megfertőződés együttese váltotta ki. A két dózis és a korábbi fertőzés, illetve a három dózis okozta védelem mértéke az előbbi kettő között volt. Emellett, mennél régebben történt meg a korábbi fertőzés, annál nagyobb volt az esélye az újrafertőződésnek. A súlyos tünetek – amelyek kórházi kezelést igényelnek – kialakulásának kockázata ugyan kissé gyakoribbnak adódott az ismétlő oltást is felvettek között, mint azoknál, akik csak két dózisban részesültek, ám elképzelhető, hogy ez pusztán annak volt köszönhető, hogy a vizsgálatba bevont, három adag vakcinát kapott emberek átlagos életkora jóval magasabb volt. Ugyanakkor, legnagyobb veszélyben e cikk szerzői szerint is azok vannak, akik oltatlanok és korábban még nem fertőződtek meg.
+
+Az omikron variáns különféle változatai tehát valóban hatékonyabban kerülik meg a szervezet védelmét – függetlenül attól, hogy az vakcinának, korábbi fertőzésnek, vagy a kettőnek együtt köszönhető. Ám sokkal kisebb veszélyben vannak azok, akik beolttatják magukat, illetve, akik felveszik a vakcina ismétlő dózisát is.

@@ -4,6 +4,18 @@ title: Hírek, aktualitások
 slug: hirek
 menutitle: Hírek
 list:
+  - date: 2022-08-26T08:04:14.016Z
+    title: Védőoltás, ismétlő oltás, korábbi fertőzés – mi mit ér az omikron
+      alvariások ellen?
+    text: >-
+      A köztudatban az a kép él az új koronavírus 2022-ben terjedő
+      alváltozatairól, hogy ellenük teljesen hatástalanok a védőoltások és azok
+      sem rendelkeznek semmilyen védelemmel velük szemben, akik korábban már
+      voltak COVID-fertőzöttek.
+
+
+      A valóságban a kép jóval árnyaltabb: semmi esetre sem igaz, hogy értelmetlen volna a vakcina, illetve az ismétlő oltás felvétele.
+    link: vedooltas-ismetlo-oltas-korabbi-fertozes
   - date: 2022-07-20T11:56:08.339Z
     text: >-
       Az új koronavírus omikron variánsa 2021. végén jelent meg, és fél év
