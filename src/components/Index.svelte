@@ -76,9 +76,11 @@
 
 {#if post.html}
 <article>
-	{@html post.html}
-</article>
-<CTA />
+	<center>
+    {@html post.html}
+    </center>
+  </article>
+<!--<CTA />-->
 {/if}
 
 {#if post.articles}

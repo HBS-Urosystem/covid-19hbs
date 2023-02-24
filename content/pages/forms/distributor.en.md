@@ -16,5 +16,5 @@ button: Send
 
 Sales Representative
 
-E-mail: [erika.hanzlik@hbs.hu](mailto:erika.hanzlik@hbs.hu)
-Phone: [+36 20 597 7454](tel:+36205977454)
+E-mail: [csilla.keller@hbs.hu](mailto:csilla.keller@hbs.hu)
+Phone: [+36 20 778 4899](tel:+36207784899)

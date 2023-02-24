@@ -261,10 +261,11 @@ articles:
 
       </div>
   - text: "**A COVID-19 gyorstesztek tájékoztató jellegű információval szolgálnak**
-      az esetleges fertőzöttségről. A professzionális használatra szánt
-      teszteket szakorvos, üzemorvos, vagy ilyen szolgáltatást nyújtó
-      szolgáltató (üzemegészségügyi szolgálat) szakemberei végezhetik el.
-      Időtartama kb. 15–30 perc."
+      az esetleges fertőzöttségről.  A professzionális használatra szánt teszt
+      elvégzését szakorvos, üzemorvos, vagy ilyen szolgáltatást nyújtó
+      szolgáltató (üzemegészségügyi szolgálat) szakemberei végezhetik. Otthoni
+      alkalmazásra, öntesztelésre a laikus használatra szánt antigén tesztünk
+      alkalmas. Időtartama kb. 15–30 perc."
   - text: >-
       ### <center>Részletek</center>
 
@@ -276,7 +277,7 @@ articles:
       </aside>
 
 
-      Amennyiben további kérdései vannak, tekintse meg [Gyakori kérdések](/gyik) oldalunkat, illetve forduljon bizalommal [munkatársainkhoz](/vasarlas#termekmenedzser)!
+      Amennyiben további kérdései vannak, tekintse meg [Gyakori kérdések](/gyik) oldalunkat, illetve forduljon bizalommal [munkatársainkhoz](/rolunk#content)!
     subtitle: ""
     title: ""
 ---

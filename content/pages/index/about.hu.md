@@ -3,15 +3,14 @@ type: about
 slug: rolunk
 title: Rólunk
 menutitle: Rólunk
-intro:
-  highlight: ""
+info:
   text: Az új koronavírus okozta megbetegedés, a COVID-19, a mai napig **egy
     kisvárosnyi halálos áldozatot követelt Magyarországon**.A vírus elleni
     védekezés legfontosabb fegyvere a védőoltás, ám ezzel párhuzamosan a vírus
     terjedésének lassításában, a járványgócok kialakulásának megakadályozásában
     **továbbra is kiemelt szerepe van a folyamatos teszteléseknek.**
-info:
-  text: >-
+
+
     **Cégünk, a [HBS Medical Kft.](https://hbs.hu)**, az egyik jelentős
     importőre a COVID-19 szerológiai és antigén-gyorsteszteknek. Szállítónk,
     a [Hangzhou Clongene Biotech Co., Ltd.](http://en.clongene.com/), több mint
@@ -64,3 +63,12 @@ references:
 documents:
   text: ""
 ---
+<div id="termekmenedzser"></div>
+**Kérdés esetén forduljon bizalommal termékmenedzserünkhöz:**
+
+#### Bognárné Keller Csilla
+
+Termékmenedzser
+
+E-mail: <a href="mailto:csilla.keller@hbs.hu" onclick="gtag_report_conversion('mailto:csilla.keller@hbs.hu')">csilla.keller@hbs.hu</a>
+Telefon: <a href="tel:+36207784899" onclick="gtag_report_conversion('tel:+36207784899')">+36 20 778 4899</a>

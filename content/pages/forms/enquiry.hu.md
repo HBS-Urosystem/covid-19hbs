@@ -140,5 +140,5 @@ on1_note: "Min. megrendelési egység: 400 db"
 
 Termékmenedzser
 
-E-mail: <a href="mailto:erika.hanzlik@hbs.hu" onclick="gtag_report_conversion('mailto:erika.hanzlik@hbs.hu')">erika.hanzlik@hbs.hu</a>
-Telefon: <a href="tel:+36205977454" onclick="gtag_report_conversion('tel:+36205977454')">+36 20 597 7454</a>
+E-mail: <a href="mailto:csilla.keller@hbs.hu" onclick="gtag_report_conversion('mailto:csilla.keller@hbs.hu')">csilla.keller@hbs.hu</a>
+Telefon: <a href="tel:+36207784899" onclick="gtag_report_conversion('tel:+36207784899')">+36 20 778 4899</a>

@@ -1,8 +1,8 @@
 ---
 title: quotation
 button: Vásárlás
-link: /vasarlas
+link: https://covidteszt.medexim.hu/
 ---
 <center>
-### Vásároljon közvetlenül az importőrtől!
+### Vásároljon a Medexim webáruházban!
 </center>

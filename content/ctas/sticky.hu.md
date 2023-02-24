@@ -2,5 +2,5 @@
 title: sticky
 button: "&thinsp;Vásárlás&thinsp;"
 svg: null
-link: /vasarlas
+link: https://covidteszt.medexim.hu/
 ---

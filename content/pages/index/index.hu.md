@@ -29,52 +29,12 @@ intro:
         </dl>
 
 
-        **ÁRAK**
-
-
-        <dl>
-
-        <dt>Otthoni használatra, öntesztelésre alkalmas termék:</dt>
-
-        <dd>400 darab vagy nagyobb mennyiség vásárlása esetén az ár
-
-        <ul>
-
-        <li>1 db-os kiszerelés: 1 238 Ft + 5% ÁFA</li>
-
-        <li>5 db-os kiszerelés: 5 240 Ft + 5% ÁFA (1048 Ft + 5% ÁFA darabár)</li>
-
-        </ul>
-
-        </dd>
-
-        </dl>
-
-
-        A 400 darab alatti megrendeléseket hivatalos partnerünk, a <a href="https://covidteszt.medexim.hu" rel="external noopener" target="_blank">medexim.hu</a> szolgálja ki.
-
         <button><a href="/onteszt">Részletek</a></button>
 
 
         <dl>
 
         <dt>Professzionális termék:</dt>
-
-        <dt>ÁRCSÖKKENÉS!</dt>
-
-        <dd>
-
-        <ul>
-
-        <li>250 darab (10 doboz) vagy nagyobb mennyiség vásárlása esetén az ár  csak 800 Ft + 5% ÁFA / darab!<br>Minden 10 doboz antigén teszthez <b>2 doboz szerológiai tesztet</b> adunk ajándékba!</li>
-
-
-        <li>A 25–225 db (1–9 doboz) közötti megrendeléseket hivatalos partnerünk, a <a href="https://covidteszt.medexim.hu" rel="external noopener" target="_blank">medexim.hu</a> szolgálja ki.</li>
-
-        </ul>
-
-        </dd>
-
 
         <dt>Kiknek ajánljuk?</dt>
 
@@ -105,22 +65,6 @@ intro:
         <dd>A COVID-19 közép- és késői szakaszának, és a múltban lezajlott fertőzés azonosítására. Kimutatja a védőoltás hatására termelődő IgG ellenanyagot is.</dd>
 
 
-        <dt>ÁRCSÖKKENÉS!</dt>
-
-        <dd>
-
-        <ul>
-
-        <li>250 darab (10 doboz) vagy nagyobb mennyiség vásárlása esetén az ár csak 560 Ft + 5% ÁFA / darab!</li>
-
-
-        <li>A 25–225 db (1–9 doboz) közötti megrendeléseket hivatalos partnerünk, a <a href="https://covidteszt.medexim.hu" rel="external noopener" target="_blank">medexim.hu</a> szolgálja ki.</li>
-
-        </ul>
-
-        </dd>
-
-
         <dt>Kiknek ajánljuk?</dt>
 
         <dd>Mindenkinek, aki tudni szeretné, van-e ellenanyaga a vírussal szemben, függetlenül attól, hogy az fertőzés, vagy vakcina hatására képződött. Az ellenanyag megléte utal a szervezet védettségére.  Szerológiai gyorsteszttel nagyobb közösségek idő- és költséghatékony rendszeres szűrése is megvalósítható.</dd>
@@ -139,31 +83,25 @@ intro:
       link: /szerologiai-teszt
   highlight: CLUNGENE® COVID-19 GYORSTESZTEK
   text: >-
-    ### Újdonság!
+    ### **Eltűnt a COVID?**
 
 
-    **Régebbi, professzionális használatra szánt termékeink árát jelentősen csökkentettük:**
+    Második évéhez ért az orosz-ukrán háború. Részint ennek, részint a világjárványnak is köszönhető, hogy a gazdasági környezet barátságtalanná vált, ami a cégeket és a lakosságot egyaránt nehéz helyzetbe hozta. Ezalatt az új koronavírus 2021-ben megjelent, később dominánssá vált variánsai és alvariánsai bár gyorsabban terjednek, rendszerint enyhébb tüneteket okoznak.
 
 
-    **Antigén tesztek 800 Ft+ÁFA, szerológiai tesztek 560 Ft+ÁFA darabárért kaphatóak!**
+    Mindebből következik, hogy a COVID-19 háttérbe szorult. Egyre kevesebben aggódnak egy olyan kórokozó miatt, amely általában csupán az influenzához hasonló tüneteket okoz. A legtöbb országban már alig-alig vannak életben járványügyi intézkedések, a vírusnak, illetve változatainak a nyomon követése szinte teljesen megszűnt.
 
 
-    Minden **10 doboz** antigén teszthez **2 doboz** szerológiai tesztet adunk **ajándékba!**
+    Az Egészségügyi Világszervezet (WHO) azonban továbbra is vészhelyzetként kezeli a COVID-19 járványt. A vírus ugyanis most is jelen van az emberek között, és ha nem figyelünk oda rá, nem fogunk tudni időben és hatékonyan reagálni, ha hirtelen egy új, a mostaniaknál veszélyesebb variáns jelenik meg és indul terjedésnek…
 
 
-    Továbbra is megvásárolhatóak az otthoni használatra, öntesztelésre alkalmas antigén gyorstesztek is!
+    Tesztelni még mindig érdemes. Egyrészt, hogy tudjuk, a tüneteket az új koronavírus okozza-e, másrészt, mert a COVID-19 most is komoly egészségügyi kockázatot jelent az idősek, illetve a különböző alapbetegségekkel küzdők számára. Harmadrészt egy nagyobb összezárt közösségben – például munkahelyen, konferencián – akár egyetlen fertőzött is elterjesztheti a vírust, és hiába enyhék a tünetek, ha sokan egyszerre betegszenek meg, munkaerő-kieséssel kell szembenézni. A rendszeres tesztelés mindennek elejét veheti.
 
 
-    ### **Itt az új hullám?**
+    Ezen az oldalon információkat adunk a tesztek különféle típusairól. 
 
 
-    Sajnos igen. Július második hetében közel **3 millió új fertőzöttet** azonosítottak Európában – ez a Föld összes új esetszámának majdnem felét tette ki. Idehaza jelenleg csak heti bontásban közlik a járványügyi adatokat, de azok is azt mutatják, a fertőzöttek száma ismét rohamosan emelkedik. A megbetegedésekért az omikron variáns BA.5 jelölésű alváltozata a felelős. <a href="https://www.reuters.com/world/europe/act-now-europe-or-risk-stricter-covid-measures-later-who-official-2022-07-19/" rel="external noopener" target="_blank">Az Egészségügyi Világszervezet (WHO) regionális igazgatója szerint</a> Európának azonnal cselekednie kell, ha el akarja kerülni, hogy ősszel visszatérjenek a szigorú korlátozások. 
-
-
-    Az oltási program felpörgetése és a maszkviselet mellett hatalmas a jelentősége a **módszeres és rendszeres tesztelésnek is: minél több embert tesztelünk le, annál több fertőzöttet azonosítunk** – s annál nagyobb eséllyel tudjuk megakadályozni a járványgócok kialakulását. Ha meghozzuk ezeket az intézkedéseket, még idejében lelassíthatjuk a COVID-19 terjedését – s ha ezt tesszük, nem lesz szükség újra az élet szinte minden területét megnyomorító korlátozásokra. 
-
-
-    ### Cégek, intézmények számára a hatékony megoldást nyújtanak a Clungene gyorstesztek, amelyek árát jelentősen csökkentettük!
+    ### Cégek, intézmények számára hatékony megoldást nyújtanak a Clungene gyorstesztek, amelyek árát jelentősen csökkentettük!
 
 
     <details>
@@ -192,8 +130,13 @@ news:
       helyezni. Ezt követően **a zsák már közönséges háztartási hulladékként
       kezelhető**.
     title: Tudatos hulladékkezelés
-  - text: ""
-    title: ""
-    subtitle: Phoenix Pharma és Hungaropharma partnereinken keresztül a tesztek
-      elérhetőek az ország összes gyógyszertárában.
 ---
+<div id="termekmenedzser"></div>
+**Kérdés esetén forduljon bizalommal termékmenedzserünkhöz:**
+
+#### Bognárné Keller Csilla
+
+Termékmenedzser
+
+E-mail: <a href="mailto:csilla.keller@hbs.hu" onclick="gtag_report_conversion('mailto:csilla.keller@hbs.hu')">csilla.keller@hbs.hu</a>
+Telefon: <a href="tel:+36207784899" onclick="gtag_report_conversion('tel:+36207784899')">+36 20 778 4899</a>
